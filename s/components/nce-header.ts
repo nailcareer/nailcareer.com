@@ -25,7 +25,7 @@ import {Component3, html, mixinStyles, css} from "../framework/component.js"
 
 	nav a {
 		display: inline-block;
-		margin: 0.2em 0.5em;
+		margin: 0.2em 0.3em;
 	}
 
 	svg {
