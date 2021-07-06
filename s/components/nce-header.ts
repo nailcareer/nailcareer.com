@@ -1,0 +1,69 @@
+
+import NceLogo from "../icons/nce-logo.svg.js"
+import {Component3, html, mixinStyles, css} from "../framework/component.js"
+
+@mixinStyles(css`
+
+	:host {
+		display: block;
+	}
+
+	header {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+		padding: 1em;
+	}
+
+	nav {
+		font-size: 1.5em;
+		margin: 1em;
+		margin-bottom: 0;
+		user-select: none;
+	}
+
+	nav a {
+		display: inline-block;
+		margin: 0.2em 0.5em;
+	}
+
+	svg {
+		display: block;
+		height: 7em;
+		user-select: none;
+		max-width: 100%;
+	}
+
+	a {
+		opacity: 0.7;
+		color: inherit;
+		text-decoration: none;
+		transition: opacity 250ms ease;
+	}
+
+	a:hover, a:focus {
+		opacity: 1;
+		text-decoration: underline;
+	}
+
+`)
+export class NceHeader extends Component3 {
+	render() {
+		return html`
+			<header>
+				<a href="./">
+					${NceLogo}
+				</a>
+				<nav>
+					<a href="./store/">Store</a>
+					<a href="https://www.blog.nailcareer.com/">Blog</a>
+					<a href="./events/">Events</a>
+					<a href="./videos/">Videos</a>
+					<a href="./community/">Community</a>
+				</nav>
+			</header>
+		`
+	}
+}

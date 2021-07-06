@@ -1,0 +1,38 @@
+
+doctype html
+
+block variables
+	- let base = "."
+	- let pageSubtitle
+	- let pageName
+
+head
+	meta(charset="utf-8")
+	meta(name="viewport" content="width=device-width,initial-scale=1")
+	title nailcareer.com#{pageSubtitle && " – " + pageSubtitle}
+	link(rel="stylesheet" href=`${base}/styles.css`)
+	link(rel="icon" type="image/png" href=`${base}/assets/images/favicon.png`)
+
+	shopper-config(
+		base-currency="cad"
+		currencies="cad,usd,gbp,eur,aud"
+		shopify-domain="nail-career-education.myshopify.com"
+		shopify-storefront-access-token="493f6df6e7fb5bfc231bb9f221fecdee"
+	)
+
+	if debug
+		xiome-config(mock)
+		script(type="importmap-shim" src=`${base}/importmap.json`)
+		script(type="module-shim" src=`${base}/main.js`)
+		script(async defer src="http://localhost:4999/es-module-shims/dist/es-module-shims.min.js")
+	else
+		xiome-config(mock)
+		script(async defer src=`${base}/main.bundle.min.js`)
+
+	block head
+
+body(data-page=pageName)
+	nce-header
+	main
+		block main
+	nce-footer

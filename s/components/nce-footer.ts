@@ -1,0 +1,46 @@
+
+import {Component3, html, mixinStyles, css} from "../framework/component.js"
+
+@mixinStyles(css`
+	
+	:host {
+		opacity: 0.6;
+		display: block;
+	}
+
+	footer {
+		margin: 5em auto;
+		text-align: center;
+		padding: 1em;
+	}
+
+	footer > * + * {
+		margin-top: 0.5em;
+	}
+
+	footer ul {
+		list-style: none;
+	}
+
+`)
+export class NceFooter extends Component3 {
+
+	private email = (() => {
+		const username = "angie"
+		const domain = "nailcareer.com"
+		return `${username}@${domain}`
+	})()
+
+	render() {
+		const {email} = this
+		return html`
+			<footer>
+				<p><strong>Suzie’s Nail Career Education Inc</strong></p>
+				<p><a part=link target=_blank href="https://xiome.io/legal">policies and terms of service</a></p>
+				<br/>
+				<p>Questions? Send an email</p>
+				<p><a part=link target=_blank href="mailto:${email}">${email}</a></p>
+			</footer>
+		`
+	}
+}

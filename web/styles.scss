@@ -1,0 +1,51 @@
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	font-family: sans-serif;
+	background: fixed linear-gradient(
+		to bottom,
+		white,
+		#cefff6 20%,
+	);
+	color: #5b9d9a;
+}
+
+a, *::part(link) {
+	opacity: 0.7;
+	color: #007eff;
+	&:hover, &:focus {
+		opacity: 1;
+		color: #007eff;
+	}
+	&:active {
+		color: #37c015;
+	}
+	&:visited {
+		color: #4a00ff;
+	}
+}
+
+body > * {
+	width: 100%;
+	max-width: 100em;
+	margin: auto;
+
+	transition: width 2s ease;
+
+	@media (min-width: 1080px) {
+		width: 90%;
+	}
+}
+
+main {
+	text-align: center;
+}
+
+.paddy {
+	padding: 1em;
+}
