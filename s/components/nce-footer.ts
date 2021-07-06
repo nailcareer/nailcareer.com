@@ -4,7 +4,7 @@ import {Component3, html, mixinStyles, css} from "../framework/component.js"
 @mixinStyles(css`
 	
 	:host {
-		opacity: 0.6;
+		opacity: 0.8;
 		display: block;
 	}
 
