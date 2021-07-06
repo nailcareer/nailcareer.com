@@ -1,0 +1,52 @@
+{
+	"private": true,
+	"name": "nailcareer.com",
+	"version": "0.2.0-dev.0",
+	"description": "nailcareer website",
+	"license": "UNLICENSED",
+	"scripts": {
+		"build": "run-s clean && run-p compile-tsc compile-sass importmap assets compile-pug",
+		"clean": "rimraf x && mkdirp x x/assets/images",
+		"importmap": "importly < package.json > x/importmap.json",
+		"compile-tsc": "tsc",
+		"compile-pug": "pug -o x web -O '{\"debug\": false}'",
+		"compile-pug-debug": "pug -o x web -O '{\"debug\": true}'",
+		"compile-sass": "sass web/:x/",
+		"import-new-images": "jpegger --indir assets/images-to-import --outdir assets/images --quality 80 --size 1200",
+		"assets": "run-p images-small images-medium assets-copy",
+		"assets-copy": "cp assets/images/*.svg x/assets/images/",
+		"images-small": "jpegger --indir assets/images --outdir x/assets/images/small --size 600",
+		"images-medium": "jpegger --indir assets/images --outdir x/assets/images/medium --size 1200",
+		"images-large": "jpegger --indir assets/images --outdir x/assets/images/large --size 2000",
+		"images-full": "jpegger --indir assets/images --outdir x/assets/images/full",
+		"watch-tsc": "npm run compile-tsc -s -- --watch",
+		"watch-pug": "npm run compile-pug-debug -s -- --watch",
+		"watch-sass": "npm run compile-sass -s -- --watch",
+		"start": "serve",
+		"test": "exit 0"
+	},
+	"devDependencies": {
+		"importly": "0.1.0-dev.0",
+		"jpegger": "^0.1.2",
+		"mkdirp": "^1.0.4",
+		"npm-run-all": "^4.1.5",
+		"pug-cli": "^1.0.0-alpha6",
+		"rimraf": "^3.0.2",
+		"sass": "^1.35.1",
+		"serve": "^12.0.0",
+		"typescript": "^4.2.3"
+	},
+	"dependencies": {
+		"carouse": "0.0.1",
+		"commotion": "0.1.0-dev.0",
+		"crnc": "0.0.0-dev.22",
+		"lit-element": "^2.4.0",
+		"lit-html": "^1.3.0",
+		"menutown": "0.0.1",
+		"shopify-buy": "^2.11.0",
+		"shopper": "^0.2.0-dev.9",
+		"sorry-not-sorry": "0.0.3",
+		"xiome": "0.0.0-dev.11"
+	},
+	"author": "Chase Moskal <chasemoskal@gmail.com>"
+}

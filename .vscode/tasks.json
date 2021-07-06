@@ -1,0 +1,60 @@
+{
+	"version": "2.0.0",
+	"command": "npm",
+	"tasks": [
+		{
+			"label": "install (production build)",
+			"type": "shell",
+			"args": [
+				"install",
+				"--silent"
+			],
+			"problemMatcher": [
+				"$tsc",
+				{
+					"owner": "tsc",
+					"fileLocation": [
+						"relative",
+						"${workspaceFolder}"
+					],
+					"pattern": {
+						"regexp": "^(TypeScript error): (\\S+)\\((\\d+),(\\d+)\\): (.+)$",
+						"severity": 1,
+						"file": 2,
+						"line": 3,
+						"column": 4,
+						"message": 5
+					}
+				}
+			]
+		},
+		{
+			"label": "development build",
+			"type": "shell",
+			"args": [
+				"run",
+				"build-debug",
+				"--silent"
+			],
+			"problemMatcher": [
+				"$tsc",
+				{
+					"owner": "tsc",
+					"fileLocation": [
+						"relative",
+						"${workspaceFolder}"
+					],
+					"pattern": {
+						"regexp": "^(TypeScript error): (\\S+)\\((\\d+),(\\d+)\\): (.+)$",
+						"severity": 1,
+						"file": 2,
+						"line": 3,
+						"column": 4,
+						"message": 5
+					}
+				}
+			],
+			"group": "build"
+		}
+	]
+}
