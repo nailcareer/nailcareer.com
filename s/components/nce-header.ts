@@ -19,8 +19,7 @@ import {Component3, html, mixinStyles, css} from "../framework/component.js"
 
 	nav {
 		font-size: 1.5em;
-		margin: 1em;
-		margin-bottom: 0;
+		margin: 0.5em;
 		user-select: none;
 	}
 
@@ -79,6 +78,7 @@ export class NceHeader extends Component3 {
 					<a href="https://www.blog.nailcareer.com/">Blog</a>
 					<a data-tag=new href="./community/">Community</a>
 				</nav>
+				<slot></slot>
 			</header>
 		`
 	}

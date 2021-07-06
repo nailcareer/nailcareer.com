@@ -26,7 +26,7 @@
 		"watch-sass": "npm run compile-sass -s -- --watch",
 		"start": "run-p start-x start-node_modules",
 		"start-x": "serve x -l 5000",
-		"start-node_modules": "serve node_modules -l 4999",
+		"start-node_modules": "serve node_modules --cors -l 4999",
 		"test": "exit 0"
 	},
 	"devDependencies": {

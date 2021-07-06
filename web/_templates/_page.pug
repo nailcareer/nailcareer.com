@@ -27,15 +27,26 @@ head
 		xiome-config(mock)
 		script(type="importmap-shim" src=`${base}/importmap.json`)
 		script(type="module-shim" src=`${base}/main.js`)
+		script(async defer type="module" src=`http://localhost:4999/xiome/x/xiome.bundle.min.js`)
 		script(async defer src="http://localhost:4999/es-module-shims/dist/es-module-shims.min.js")
 	else
 		xiome-config(mock)
+		script(async defer type="module" src=`http://localhost:4999/xiome/x/xiome.bundle.min.js`)
 		script(async defer src=`${base}/main.bundle.min.js`)
 
 	block head
 
 body(data-page=pageName)
 	nce-header
+		menu-system(sticky initially-hidden)
+			menu-display(data-label="shopper")
+				shopper-button(slot="button")
+				shopper-cart
+			menu-display(data-label="account")
+				xiome-my-avatar(slot="button")
+				xiome-login-panel(show-logout)
+					xiome-my-account
+						h3 your account
 	main
 		block main
 	nce-footer

@@ -1,4 +1,6 @@
 
+import "shopper/x/shopper.js"
+
 import {NceHeader} from "./components/nce-header.js"
 import {NceFooter} from "./components/nce-footer.js"
 import {themeComponents, registerComponents} from "./framework/component.js"
