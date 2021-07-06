@@ -4,6 +4,7 @@ import {Component3, html, mixinStyles, css} from "../framework/component.js"
 @mixinStyles(css`
 	
 	:host {
+		font-size: 0.8em;
 		opacity: 0.8;
 		display: block;
 	}

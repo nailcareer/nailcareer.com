@@ -47,7 +47,7 @@ import {Component3, html, mixinStyles, css} from "../framework/component.js"
 	a[data-tag]::before {
 		position: absolute;
 		pointer-events: none;
-		opacity: 0.2;
+		opacity: 0.3;
 		content: attr(data-tag);
 		display: inline-block;
 		font-size: 0.5em;
@@ -77,8 +77,6 @@ export class NceHeader extends Component3 {
 				<nav>
 					<a href="./store/">Store</a>
 					<a href="https://www.blog.nailcareer.com/">Blog</a>
-					<a href="./events/">Events</a>
-					<a href="./videos/">Videos</a>
 					<a data-tag=new href="./community/">Community</a>
 				</nav>
 			</header>
