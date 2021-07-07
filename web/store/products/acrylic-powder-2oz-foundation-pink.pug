@@ -1,0 +1,22 @@
+
+extends ../../_templates/_store-product.pug
+
+block append variables
+	- pageName = "store-product"
+	- pageSubtitle = "Acrylic powder 2oz foundation pink"
+
+block product
+	shopper-product(restocking-soon link="https://nail-career-education.myshopify.com/admin/products/6659824123940")
+
+block visual
+	<carouse-carousel data-aspect="3x2" loop hidden>
+		<figure><img src="/assets/images-medium/products/acrylic-powders/acrylic-powder-brighter-02.jpg"/></figure>
+	</carouse-carousel>
+
+block writeup
+	<p>Excellent for sculpting and designing custom nails. Use with Suzie's Odourless and Fast Set Monomers for a correctly cured nail.</p>
+	<p>Semi-opaque acrylic powder, designed to cover flaws and help create the ombre effect.</p>
+	<ul>
+		<li>Store in a cool dark place</li>
+		<li>Keep away from children</li>
+	</ul>

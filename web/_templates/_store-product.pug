@@ -1,0 +1,16 @@
+
+extends _page.pug
+
+block append main
+	.area
+		.product
+			block product
+				p [shopper-product]
+			small.disclaimers
+				p Note: depending on your location, your order may be subject to international duty fees
+			.writeup
+				block writeup
+					p [writeup]
+		.visual
+			block visual
+				p [visual]

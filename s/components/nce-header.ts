@@ -8,7 +8,7 @@ import {Component3, html, mixinStyles, css, property} from "../framework/compone
 		display: block;
 	}
 
-	header {
+	header > div {
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: center;
@@ -79,15 +79,18 @@ export class NceHeader extends Component3 {
 		const page = (pageName: string) => pageName === this["current-page"]
 		return html`
 			<header>
-				<a href="/">
-					${NceLogo}
-				</a>
-				<nav>
-					<a ?data-marked=${page("store")} href="/store/">Store</a>
-					<a ?data-marked=${page("blog")} href="https://www.blog.nailcareer.com/">Blog</a>
-					<a ?data-marked=${page("community")} data-tag=new href="/community/">Community</a>
-				</nav>
 				<slot></slot>
+				<div>
+					<a href="/">
+						${NceLogo}
+					</a>
+					<nav>
+						<a ?data-marked=${page("home")} href="/">Home</a>
+						<a ?data-marked=${page("store")} href="/store/">Store</a>
+						<a ?data-marked=${page("blog")} href="https://www.blog.nailcareer.com/">Blog</a>
+						<a ?data-marked=${page("community")} data-tag=new href="/community/">Community</a>
+					</nav>
+				</div>
 			</header>
 		`
 	}
