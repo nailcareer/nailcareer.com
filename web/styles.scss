@@ -134,7 +134,9 @@ main {
 		width: 100%;
 		max-width: 50rem;
 		margin: auto;
-		border: 1em solid #fffa;
+		carouse-carousel {
+			border: 1em solid #fffa;
+		}
 	}
 }
 
