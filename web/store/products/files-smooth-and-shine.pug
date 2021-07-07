@@ -1,0 +1,21 @@
+
+extends ../../_templates/_store-product.pug
+
+block append variables
+	- pageName = "store-product"
+	- pageSubtitle = "Suzie’s Smooth & Shine (6 pack)"
+
+block product
+	shopper-product(restocking-soon uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTMxODc2NDM0Mjg=")
+
+block visual
+	<carouse-carousel data-aspect="1x1" loop hidden>
+		<figure><img src="/assets/images-medium/products/files-bulk/files-bulk-03.jpg"/></figure>
+	</carouse-carousel>
+
+block writeup
+	<ul>
+		<li>400/3000 grit</li>
+		<li>one side buffs, and the other side shines</li>
+		<li>can create a shine on natural nails without needing top-coat product</li>
+	</ul>

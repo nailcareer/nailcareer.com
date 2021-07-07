@@ -1,0 +1,25 @@
+
+extends ../../_templates/_store-product.pug
+
+block append variables
+	- pageName = "store-product"
+	- pageSubtitle = "Suzie’s Cuticle Oil"
+
+block product
+	shopper-product(restocking-soon uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzUwMzYyMjQ0NDY1MDA=")
+
+block visual
+	<carouse-carousel arrows dots loop hidden>
+		<figure><img src="/assets/images-medium/products/oil/nce-cuticle-1.jpg"/></figure>
+		<figure><img src="/assets/images-medium/products/oil/nce-cuticle-3.jpg"/></figure>
+		<figure><img src="/assets/images-medium/products/oil/nce-cuticle-05.jpg"/></figure>
+		<figure><img src="/assets/images-medium/products/oil/nce-cuticle-2.jpg"/></figure>
+	</carouse-carousel>
+
+block writeup
+	<p class="made-in-canada"><span>🇨🇦 Made in Canada</span></p>
+	<h2>Helping your hands &amp; nails feel hydrated</h2>
+	<p>Suzie: "In my 30 year career, I've never missed using cuticle oil after every nail service. It replenishes hydration, and I love its fresh fragrance"</p>
+	<p>Suzie's luxury cuticle oil leaves your hands feeling nourished and hydrated. One drop on your cuticle keeps your skin soft and helps prevent dry skin, dry nails and hang nails.</p>
+	<p>Massage all over your hands, a gentle touch of lime with pomegranate. Includes a dropper for sanitary application.</p>
+	<p>(one 30ml bottle)</p>

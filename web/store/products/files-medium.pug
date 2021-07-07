@@ -1,0 +1,21 @@
+
+extends ../../_templates/_store-product.pug
+
+block append variables
+	- pageName = "store-product"
+	- pageSubtitle = "Suzie’s Medium Files (25 pack)"
+
+block product
+	shopper-product(restocking-soon uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTMxODY4ODk3NjQ=")
+
+block visual
+	<carouse-carousel data-aspect="1x1" loop hidden>
+		<figure><img src="/assets/images-medium/products/files-bulk/files-bulk-02.jpg"/></figure>
+	</carouse-carousel>
+
+block writeup
+	<ul>
+		<li>180/180 grit</li>
+		<li>ideal or shaping</li>
+		<li>delicate yet strong grit for acrylic nails</li>
+	</ul>

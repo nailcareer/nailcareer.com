@@ -138,6 +138,17 @@ main {
 			border: 1em solid #fffa;
 		}
 	}
+
+	.made-in-canada {
+		text-align: center;
+		span {
+			display: inline-block;
+			border-radius: 1em;
+			border: 1px solid #0002;
+			padding: 0.2em 0.5em;
+			font-weight: bold;
+		}
+	}
 }
 
 //
