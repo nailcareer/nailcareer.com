@@ -1,6 +1,6 @@
 
 import NceLogo from "../icons/nce-logo.svg.js"
-import {Component3, html, mixinStyles, css} from "../framework/component.js"
+import {Component3, html, mixinStyles, css, property} from "../framework/component.js"
 
 @mixinStyles(css`
 
@@ -65,18 +65,27 @@ import {Component3, html, mixinStyles, css} from "../framework/component.js"
 		text-decoration: underline;
 	}
 
+	a[data-marked] {
+		text-decoration: underline;
+	}
+
 `)
 export class NceHeader extends Component3 {
+
+	@property({type: String})
+	["current-page"]: string
+
 	render() {
+		const page = (pageName: string) => pageName === this["current-page"]
 		return html`
 			<header>
-				<a href="./">
+				<a href="/">
 					${NceLogo}
 				</a>
 				<nav>
-					<a href="./store/">Store</a>
-					<a href="https://www.blog.nailcareer.com/">Blog</a>
-					<a data-tag=new href="./community/">Community</a>
+					<a ?data-marked=${page("store")} href="/store/">Store</a>
+					<a ?data-marked=${page("blog")} href="https://www.blog.nailcareer.com/">Blog</a>
+					<a ?data-marked=${page("community")} data-tag=new href="/community/">Community</a>
 				</nav>
 				<slot></slot>
 			</header>
