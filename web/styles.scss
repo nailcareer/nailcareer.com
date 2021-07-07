@@ -69,6 +69,20 @@ menu-system {
 		cursor: pointer;
 		border-radius: 0.3em;
 	}
+	shopper-cart {
+		.checkout-button {
+			opacity: 0.8;
+			cursor: pointer;
+			background: #00e9e4;
+			color: white;
+			text-shadow: 1px 2px 1px rgb(0 0 0 / 20%);
+			border: none;
+			border-radius: 3px;
+			&:hover {
+				opacity: 1;
+			}
+		}
+	}
 	xiome-my-avatar {
 		display: block;
 		cursor: pointer;
