@@ -1,0 +1,33 @@
+
+extends ../../_templates/_store-product.pug
+
+block append variables
+	- pageName = "store-product"
+	- pageSubtitle = "Suzie's Pride Brushes"
+
+block product
+	shopper-product(restocking-soon uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY2MjAxNjI2MjE0NzY=")
+
+block visual
+	<carouse-carousel data-aspect="3x2" arrows dots loop hidden>
+		<figure><img src="/assets/images-medium/products/pride-set/pride-set-01.jpg"/></figure>
+		<figure><img src="/assets/images-medium/products/pride-set/pride-set-02.jpg"/></figure>
+		<figure><img src="/assets/images-medium/products/pride-set/pride-set-03.jpg"/></figure>
+	</carouse-carousel>
+
+block writeup
+	<h3>Pride Acrylic Brush</h3>
+	<ul class=happytags>
+		<li>Size #6 kolinsky hair</li>
+		<li>Chemical-resistant metal casing</li>
+		<li>Multi-colour finish</li>
+		<li>Cap included</li>
+	</ul>
+	<p>Whether you're just learning or highly experienced, this #6 oval brush is excellent to obtain the right amount of monomer to create acrylic beads. The fine point will maintain its shape for those tiny corners you're trying to fill, which is great for shaping crisp French Lines. Take care of this brush, and it will last years.</p>
+	<h3>Pride Duster</h3>
+	<ul class=happytags>
+		<li>Soft nylon</li>
+		<li>Slender handle</li>
+		<li>Multi-colour finish</li>
+	</ul>
+	<p>This soft nylon duster will gently remove unwanted dust or glitter from hands and your nail table. Use the duster before applying any acrylic, gel, or polish.</p>
