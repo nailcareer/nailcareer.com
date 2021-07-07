@@ -26,11 +26,9 @@ head
 		xiome-config(mock)
 		script(type="importmap-shim" src="/importmap.json")
 		script(type="module-shim" src="/main.js")
-		script(async defer type="module" src="http://localhost:4999/xiome/x/xiome.bundle.min.js")
 		script(async defer src="http://localhost:4999/es-module-shims/dist/es-module-shims.min.js")
 	else
 		xiome-config(mock)
-		script(async defer type="module" src="http://localhost:4999/xiome/x/xiome.bundle.min.js")
 		script(async defer src="/main.bundle.min.js")
 
 	block head

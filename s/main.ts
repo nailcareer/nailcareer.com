@@ -1,12 +1,8 @@
 
-import "shopper"
-import "carouse"
-
+import theme from "./framework/theme.css.js"
 import {NceHeader} from "./components/nce-header.js"
 import {NceFooter} from "./components/nce-footer.js"
 import {themeComponents, registerComponents} from "./framework/component.js"
-
-import theme from "./framework/theme.css.js"
 
 registerComponents(
 	themeComponents(theme, {
@@ -14,5 +10,9 @@ registerComponents(
 		NceFooter,
 	})
 )
+
+import "shopper"
+import "xiome/x/xiome.js"
+import "carouse"
 
 console.log("💅")
