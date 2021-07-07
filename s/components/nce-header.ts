@@ -85,7 +85,6 @@ export class NceHeader extends Component3 {
 						${NceLogo}
 					</a>
 					<nav>
-						<a ?data-marked=${page("home")} href="/">Home</a>
 						<a ?data-marked=${page("store")} href="/store/">Store</a>
 						<a ?data-marked=${page("blog")} href="https://www.blog.nailcareer.com/">Blog</a>
 						<a ?data-marked=${page("community")} data-tag=new href="/community/">Community</a>
