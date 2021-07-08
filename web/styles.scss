@@ -41,7 +41,34 @@ a, *::part(link) {
 	}
 }
 
-.stdnav, nce-header {
+.subnav {
+	text-align: center;
+	font-size: 1.2em;
+	margin: 1em auto;
+	margin-top: 0;
+	padding: 0.5em 0;
+	border-top: 1px solid #0002;
+	border-bottom: 1px solid #0002;
+	a {
+		position: relative;
+		display: inline-block;
+		margin: 0.2em 0;
+		padding: 0.1em 0.5em;
+		color: inherit;
+		font-weight: bold;
+		text-decoration: none;
+		&:hover, &:focus {
+			text-decoration: underline;
+		}
+		&[data-marked] {
+			border: 2px solid;
+			border-radius: 1em;
+			text-decoration: none;
+		}
+	}
+}
+
+.subnav, nce-header {
 	a, &::part(navlink) {
 		position: relative;
 		// outline: 1px solid red;
@@ -204,33 +231,6 @@ main {
 }
 
 [data-page="community"] {
-	.subnav {
-		text-align: center;
-		font-size: 1.2em;
-		margin: 1em auto;
-		margin-top: 0;
-		padding: 0.5em 0;
-		border-top: 1px solid #0002;
-		border-bottom: 1px solid #0002;
-		a {
-			position: relative;
-			display: inline-block;
-			margin: 0.2em 0.3em;
-			padding: 0.1em 0.5em;
-			color: inherit;
-			font-weight: bold;
-			text-decoration: none;
-			&:hover, &:focus {
-				text-decoration: underline;
-			}
-			&[data-marked] {
-				border: 2px solid;
-				border-radius: 1em;
-				text-decoration: none;
-			}
-		}
-	}
-
 	.plate {
 		max-width: 48em;
 		margin: auto;
@@ -265,6 +265,11 @@ main {
 	[data-community-page="questions"] {
 		xiome-questions {
 			max-width: 100%;
+			--xiome-questions-body-background: #fff5;
+			--xiome-questions-body-color: inherit;
+			--color: inherit;
+			--xiome-questions-like-color: #006cff;
+			--xiome-questions-report-color: red;
 		}
 	}
 }

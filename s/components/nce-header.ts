@@ -26,6 +26,7 @@ import {Component3, html, mixinStyles, css, property} from "../framework/compone
 	nav a {
 		display: inline-block;
 		padding: 0.1em 0.5em;
+		margin: 0.2em 0;
 	}
 
 	svg {
@@ -68,10 +69,10 @@ export class NceHeader extends Component3 {
 						${NceLogo}
 					</a>
 					<nav>
-						<a part="navlink" ?data-marked=${page("store")} href="/store/">Store</a>
-						<a part="navlink" ?data-marked=${page("blog")} href="https://www.blog.nailcareer.com/">Blog</a>
-						<a part="navlink tag new" ?data-marked=${page("community")} data-tag=new href="/community/">Community</a>
-						<a part="navlink tag soon" ?data-marked=${page("academy")} data-tag=soon>Academy</a>
+						<a part="navlink" ?data-marked=${page("store")} href="/store/">Store</a
+						><a part="navlink" ?data-marked=${page("blog")} href="https://www.blog.nailcareer.com/">Blog</a
+						><a part="navlink tag new" ?data-marked=${page("community")} data-tag=new href="/community/">Community</a
+						><a part="navlink tag soon" ?data-marked=${page("academy")} data-tag=soon>Academy</a>
 					</nav>
 				</div>
 			</header>
