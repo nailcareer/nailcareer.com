@@ -1,0 +1,16 @@
+
+extends ../_templates/_page.pug
+
+block append variables
+	- pageName = "community"
+	- pageSubtitle = "Community Livestream"
+
+block main
+	div(data-community-page="questions")
+		.plate
+			nav.stdnav.subnav
+				a(href="./") Welcome
+				a(href="./questions" data-tag="new") Questions
+				a(data-tag="soon" data-marked) Livestream
+				a(data-tag="soon") Premium
+			h1 Livestream Coming Soon

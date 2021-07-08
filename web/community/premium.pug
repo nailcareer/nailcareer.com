@@ -1,0 +1,16 @@
+
+extends ../_templates/_page.pug
+
+block append variables
+	- pageName = "community"
+	- pageSubtitle = "Community Premium"
+
+block main
+	div(data-community-page="questions")
+		.plate
+			nav.stdnav.subnav
+				a(href="./") Welcome
+				a(href="./questions" data-tag="new") Questions
+				a(data-tag="soon") Livestream
+				a(data-tag="soon" data-marked) Premium
+			h1 Premium Coming Soon

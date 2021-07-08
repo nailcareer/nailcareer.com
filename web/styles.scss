@@ -41,6 +41,42 @@ a, *::part(link) {
 	}
 }
 
+.stdnav, nce-header {
+	a, &::part(navlink) {
+		position: relative;
+		// outline: 1px solid red;
+	}
+	a[data-tag], &::part(navlink tag) {
+		&::before {
+			position: absolute;
+			pointer-events: none;
+			content: attr(data-tag);
+			display: inline-block;
+			font-size: 0.5em;
+			right: -0.5em;
+			top: -0.6em;
+			padding: 0.1em 0.4em;
+			border-radius: 1em;
+			color: white;
+			background: #ff00d4;
+			background: #d99be4;
+			font-weight: normal;
+			font-family: sans-serif;
+		}
+	}
+	a[data-tag="soon"], &::part(navlink tag soon) {
+		opacity: 0.3;
+		cursor: default;
+		text-decoration: none !important;
+		&::before {
+			opacity: 1;
+			background: transparent;
+			color: inherit;
+			border: 1px solid;
+		}
+	}
+}
+
 body > * {
 	width: 100%;
 	max-width: 100em;
@@ -167,6 +203,72 @@ main {
 	}
 }
 
+[data-page="community"] {
+	.subnav {
+		text-align: center;
+		font-size: 1.2em;
+		margin: 1em auto;
+		margin-top: 0;
+		padding: 0.5em 0;
+		border-top: 1px solid #0002;
+		border-bottom: 1px solid #0002;
+		a {
+			position: relative;
+			display: inline-block;
+			margin: 0.2em 0.3em;
+			padding: 0.1em 0.5em;
+			color: inherit;
+			font-weight: bold;
+			text-decoration: none;
+			&:hover, &:focus {
+				text-decoration: underline;
+			}
+			&[data-marked] {
+				border: 2px solid;
+				border-radius: 1em;
+				text-decoration: none;
+			}
+		}
+	}
+
+	.plate {
+		max-width: 48em;
+		margin: auto;
+		text-align: left;
+		padding: 1em 2em;
+		> * + * {
+			margin-top: 1em;
+		}
+	}
+
+	.text {
+		max-width: 28em;
+		> * + * {
+			margin-top: 0.7em;
+		}
+	}
+
+	.feature {
+		margin-top: 3em;
+	}
+
+	[data-community-page="welcome"] {
+		xiome-login-panel {
+			display: block;
+			max-width: 28em;
+		}
+		xiome-login-panel::part(buttonbar) {
+			text-align: right;
+		}
+	}
+
+	[data-community-page="questions"] {
+		xiome-questions {
+			max-width: 100%;
+		}
+	}
+}
+
 //
 // shopper
 //
@@ -177,8 +279,7 @@ main {
 
 .productarea > h2 {
 	margin: 4rem auto;
-	// margin-top: 0;
-	color: #00348238;
+	opacity: 0.5;
 	text-transform: uppercase;
 	font-weight: bolder;
 }

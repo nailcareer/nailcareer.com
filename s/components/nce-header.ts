@@ -25,7 +25,7 @@ import {Component3, html, mixinStyles, css, property} from "../framework/compone
 
 	nav a {
 		display: inline-block;
-		margin: 0.2em 0.3em;
+		padding: 0.1em 0.5em;
 	}
 
 	svg {
@@ -41,23 +41,6 @@ import {Component3, html, mixinStyles, css, property} from "../framework/compone
 		color: inherit;
 		text-decoration: none;
 		transition: opacity 250ms ease;
-	}
-
-	a[data-tag]::before {
-		position: absolute;
-		pointer-events: none;
-		opacity: 0.3;
-		content: attr(data-tag);
-		display: inline-block;
-		font-size: 0.5em;
-		left: 90%;
-		bottom: 70%;
-		padding: 0.1em 0.4em;
-		border-radius: 1em;
-		text-transform: uppercase;
-		color: white;
-		background: #ff00d4;
-		font-weight: bold;
 	}
 
 	a:hover, a:focus {
@@ -85,9 +68,10 @@ export class NceHeader extends Component3 {
 						${NceLogo}
 					</a>
 					<nav>
-						<a ?data-marked=${page("store")} href="/store/">Store</a>
-						<a ?data-marked=${page("blog")} href="https://www.blog.nailcareer.com/">Blog</a>
-						<a ?data-marked=${page("community")} data-tag=new href="/community/">Community</a>
+						<a part="navlink" ?data-marked=${page("store")} href="/store/">Store</a>
+						<a part="navlink" ?data-marked=${page("blog")} href="https://www.blog.nailcareer.com/">Blog</a>
+						<a part="navlink tag new" ?data-marked=${page("community")} data-tag=new href="/community/">Community</a>
+						<a part="navlink tag soon" ?data-marked=${page("academy")} data-tag=soon>Academy</a>
 					</nav>
 				</div>
 			</header>

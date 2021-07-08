@@ -1,0 +1,20 @@
+
+extends ../_templates/_page.pug
+
+block append variables
+	- pageName = "community"
+	- pageSubtitle = "Community Questions"
+
+block main
+	div(data-community-page="questions")
+		.plate
+			nav.stdnav.subnav
+				a(href="./") Welcome
+				a(href="./questions" data-tag="new" data-marked) Questions
+				a(data-tag="soon") Livestream
+				a(data-tag="soon") Premium
+			h1 Suzie wants to answer your questions!
+			.text
+				p Post and heart questions on the board below, and Suzie will answer her favourites in her upcoming youtube videos.
+			.feature
+				xiome-questions
