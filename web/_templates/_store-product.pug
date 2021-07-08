@@ -3,6 +3,9 @@ extends _page.pug
 
 block append main
 	.area
+		.visual
+			block visual
+				p [visual]
 		.product
 			block product
 				p [shopper-product]
@@ -11,6 +14,3 @@ block append main
 			.writeup
 				block writeup
 					p [writeup]
-		.visual
-			block visual
-				p [visual]
