@@ -37,10 +37,9 @@ export class NceFooter extends Component3 {
 		return html`
 			<footer>
 				<p><strong>Suzie’s Nail Career Education Inc</strong></p>
-				<p><a part=link target=_blank href="https://xiome.io/legal">policies and terms of service</a></p>
-				<br/>
 				<p>Questions? Send an email</p>
 				<p><a part=link target=_blank href="mailto:${email}">${email}</a></p>
+				<p><a part=link target=_blank href="https://xiome.io/legal">policies and terms of service</a></p>
 			</footer>
 		`
 	}
