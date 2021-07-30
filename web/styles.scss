@@ -149,6 +149,8 @@ menu-system {
 	xiome-my-avatar {
 		display: block;
 		cursor: pointer;
+		--xio-avatar-color: #ccc;
+		--xio-avatar-background: white;
 		&::part(xio-avatar) {
 			display: block;
 		}
@@ -254,7 +256,6 @@ main {
 
 	[data-community-page="welcome"] {
 		xiome-login-panel {
-			display: block;
 			max-width: 28em;
 		}
 		xiome-login-panel::part(buttonbar) {
@@ -263,13 +264,35 @@ main {
 	}
 
 	[data-community-page="questions"] {
+		xiome-login-panel {
+			max-width: 28em;
+			margin: auto;
+			margin-bottom: 2em;
+		}
 		xiome-questions {
 			max-width: 100%;
-			--xiome-questions-body-background: #fff5;
-			--xiome-questions-body-color: inherit;
-			--color: inherit;
 			--xiome-questions-like-color: #006cff;
 			--xiome-questions-report-color: red;
+			&::part(question-editor) {
+				border-bottom: 0;
+				padding-bottom: 0;
+				margin-bottom: 1em;
+			}
+			&::part(questions-list) {
+				background: #fff8;
+				padding: 1em 0.5em;
+				border-radius: 1em;
+			}
+			&::part(answer) {
+				padding: 1em 0.5em;
+				background: #fff8;
+				border: 3px solid white;
+				box-shadow: 1px 2px 7px #0002;
+				border-radius: 1em;
+			}
+			&::part(bubble) {
+				border: 1px solid #2c675e40;
+			}
 		}
 	}
 }
