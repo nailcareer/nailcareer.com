@@ -1,2 +1,2 @@
 
-export * from "xiome/x/framework/component2/component2.js"
+export * from "xiome/x/framework/component/component.js"

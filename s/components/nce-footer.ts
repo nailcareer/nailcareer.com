@@ -1,5 +1,5 @@
 
-import {Component3, html, mixinStyles, css} from "../framework/component.js"
+import {Component, html, mixinStyles, css} from "../framework/component.js"
 
 @mixinStyles(css`
 	
@@ -24,7 +24,7 @@ import {Component3, html, mixinStyles, css} from "../framework/component.js"
 	}
 
 `)
-export class NceFooter extends Component3 {
+export class NceFooter extends Component {
 
 	private email = (() => {
 		const username = "angie"

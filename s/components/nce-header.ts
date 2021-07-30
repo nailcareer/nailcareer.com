@@ -1,6 +1,6 @@
 
 import NceLogo from "../icons/nce-logo.svg.js"
-import {Component3, html, mixinStyles, css, property} from "../framework/component.js"
+import {Component, html, mixinStyles, css, property} from "../framework/component.js"
 
 @mixinStyles(css`
 
@@ -54,7 +54,7 @@ import {Component3, html, mixinStyles, css, property} from "../framework/compone
 	}
 
 `)
-export class NceHeader extends Component3 {
+export class NceHeader extends Component {
 
 	@property({type: String})
 	["current-page"]: string
