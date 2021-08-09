@@ -261,6 +261,9 @@ main {
 		xiome-login-panel::part(buttonbar) {
 			text-align: right;
 		}
+		.nextstep {
+			margin-top: 3em;
+		}
 	}
 
 	[data-community-page="questions"] {

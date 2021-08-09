@@ -1,6 +1,6 @@
 
 import NceLogo from "../icons/nce-logo.svg.js"
-import {Component, html, mixinStyles, css, property} from "../framework/component.js"
+import {Component, html, mixinStyles, css, property, TemplateResult} from "../framework/component.js"
 
 @mixinStyles(css`
 
@@ -59,7 +59,7 @@ export class NceHeader extends Component {
 	@property({type: String})
 	["current-page"]: string
 
-	render() {
+	render(): TemplateResult {
 		const page = (pageName: string) => pageName === this["current-page"]
 		return html`
 			<header>

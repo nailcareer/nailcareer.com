@@ -1,5 +1,5 @@
 
-import {Component, html, mixinStyles, css} from "../framework/component.js"
+import {Component, html, mixinStyles, css, TemplateResult} from "../framework/component.js"
 
 @mixinStyles(css`
 	
@@ -32,7 +32,7 @@ export class NceFooter extends Component {
 		return `${username}@${domain}`
 	})()
 
-	render() {
+	render(): TemplateResult {
 		const {email} = this
 		return html`
 			<footer>
