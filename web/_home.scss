@@ -1,0 +1,42 @@
+
+[data-page="home"] {
+	.example {
+		padding-top: 10em;
+		padding-bottom: 10em;
+	}
+	.homearea {
+		padding: 0 1em;
+		> * + * {
+			margin-top: 1em;
+		}
+		> * > h2 {
+			text-align: left;
+			opacity: 0.4;
+			font-size: 0.8rem;
+			font-weight: bold;
+		}
+		> * > .slate {
+			margin-top: 0.5em;
+			padding: 1em;
+			background: #fffa;
+		}
+	}
+	.intro {
+		p {
+			margin: 1em auto;
+		}
+	}
+	.productpromo {
+		shopper-product {
+			img {
+				width: 100%;
+				aspect-ratio: 1 / 1;
+				object-fit: cover;
+				max-width: 480px;
+			}
+			.title {
+				margin: 1em auto;
+			}
+		}
+	}
+}

@@ -1,0 +1,253 @@
+
+[data-page="store-product"] {
+	.area {
+		padding: 1em;
+		max-width: 40rem;
+		margin: auto;
+	}
+	.product {
+		margin-top: 3em;
+		width: 100%;
+		padding-bottom: 2em;
+		text-align: left;
+		shopper-product {
+			font-size: 1.5em;
+			text-align: center;
+		}
+		.disclaimers {
+			opacity: 0.5;
+			display: block;
+			margin-top: 1em;
+			max-width: 20em;
+			margin-left: auto;
+		}
+		.writeup {
+			margin-top: 1em;
+			> * + * {
+				margin-top: 1em;
+			}
+			ul, ol {
+				padding-left: 1.5em;
+				li {
+					margin-top: 0.3em;
+				}
+			}
+		}
+	}
+	.visual {
+		width: 100%;
+		max-width: 50rem;
+		margin: auto;
+		carouse-carousel {
+			user-select: none;
+			border: 1em solid #4ecee054;
+		}
+	}
+
+	.made-in-canada {
+		text-align: center;
+		span {
+			display: inline-block;
+			border-radius: 1em;
+			border: 1px solid #0002;
+			padding: 0.2em 0.5em;
+			font-weight: bold;
+		}
+	}
+}
+
+.productarea {
+	padding-bottom: 8rem;
+}
+
+.productarea > h2 {
+	margin: 4rem auto;
+	opacity: 0.5;
+	text-transform: uppercase;
+	font-weight: bolder;
+}
+
+.productarea > h2:first-of-type {
+	margin-top: 1rem;
+}
+
+.productgrid {
+	display: flex;
+	justify-content: center;
+	flex-flow: wrap row;
+	gap: 2em;
+	padding: 0 1em;
+	> * {
+		flex: 0 0 auto;
+		width: 100%;
+		max-width: 12em;
+	}
+}
+
+.productgrid shopper-product,
+.productgrid .special {
+	padding: 1em;
+	background: #fffa;
+	box-shadow: 2px 3px 12px #0004;
+}
+
+.productgrid .special .productbutton {
+	background: #bb63ff;
+}
+
+.productgrid .special .productbutton:hover {
+	background: #c77fff;
+}
+
+.productgrid .bubble {
+	display: inline-block;
+	font-size: 0.8em;
+	padding: 0.25em;
+	border-radius: 1em;
+	font-style: italic;
+	opacity: 0.5;
+}
+
+.productgrid .productcode {
+	font-size: 0.8em;
+	opacity: 0.5;
+	margin-top: 0.5em;
+}
+
+.productgrid .productcode code {
+	border: solid 1px;
+	border-radius: 1em;
+	padding: 0 0.2em;
+}
+
+.productgrid shopper-product img,
+.productgrid .special .imagebox img {
+	display: block;
+	width: 100%;
+	max-width: 100%;
+	height: 12em;
+	object-fit: cover;
+	user-select: none;
+	-webkit-user-drag: none;
+	user-drag: none;
+}
+
+.productgrid shopper-product,
+.productgrid .special {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	color: inherit;
+}
+
+.productgrid .special {
+	text-decoration: none;
+	background: #fff3ff;
+}
+
+.productgrid shopper-product .box,
+.productgrid .special .actionbox {
+	margin-top: auto;
+}
+
+.productgrid shopper-product > * + * {
+	margin-top: 0.5em;
+}
+
+.productgrid shopper-product .box {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	color: #666;
+}
+
+.productgrid shopper-product .add-to-cart-button,
+.productgrid .productbutton {
+	font-size: 1rem;
+	margin-top: 0.5em;
+	text-align: center;
+	align-self: stretch;
+}
+
+.productgrid shopper-product a,
+.productgrid .special .producttitle {
+	font-size: 1rem;
+	color: #007aff;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.productgrid .special > * + * {
+	margin-top: 0.5em;
+}
+
+.productgrid .special .productbutton {
+	display: block;
+	width: 100%;
+}
+
+.productgrid .special .imagebox .note {
+	display: block;
+	width: 100%;
+	font-size: 0.8em;
+	padding: 0.2em;
+	text-align: center;
+	color: white;
+	background: #d297ff;
+	text-transform: uppercase;
+	font-style: italic;
+}
+
+.productgrid > * {
+	position: relative;
+}
+
+.productgrid [out-of-stock] {
+	opacity: 0.4;
+}
+
+.productgrid [out-of-stock] .actionbox {
+	display: none;
+}
+
+.productgrid > [data-new]::before,
+.productgrid > [data-sale]::before,
+.productgrid > [out-of-stock]::before {
+	position: absolute;
+	top: -0.8em;
+	right: -0.8em;
+	font-family: sans-serif;
+	font-weight: bold;
+	content: "NEW!";
+	display: block;
+	padding: 0.3em;
+	background: #00f3ff;
+	border-radius: 1em;
+	color: white;
+	text-shadow: 1px 2px 2px #0004;
+	box-shadow: 1px 2px 3px #0004;
+	transform: rotate(10deg);
+}
+
+.productgrid > [data-new]::before {
+	content: "NEW!";
+	background: #00f3ff;
+}
+
+.productgrid > [data-sale]::before {
+	content: attr(data-sale);
+	background: #cafae4;
+	color: #199a9a;
+	text-shadow: none;
+	border: 2px solid;
+}
+
+.productgrid > [out-of-stock]::before {
+	content: "out of stock";
+	background: #888;
+	border: 3px solid #fff;
+}
+
+.productgrid > [out-of-stock][restocking-soon]::before {
+	content: "restocking soon";
+}
