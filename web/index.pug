@@ -6,19 +6,20 @@ block append variables
 	- pageSubtitle = ""
 
 block main
-	.homearea
-		.intro
-			.slate
-				h2 Welcome to Suzie's Nail Career Education
-				p Home of the popular YouTube channel with more than 2 million subscribers!
-				div.buttons
-					a(href="https://www.youtube.com/channel/UCTldDNXS4GeChcmwm55mXYQ" title="Go to Nail Career Education on YouTUbe") Go to Suzie's YouTube Channel
-		.productpromo
-			h2 Suzie's featured product
-			.slate
-				shopper-product(show-image restocking-soon uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1NzYzNDg3NTgwNTI=")
-		.questionspromo
-			h2 Ask questions for Suzie on the Questions Board
-			.slate
-				div.buttons
-					a(href="./community/questions") See Questions Board
+	.homeslice.intro
+		.image
+			img(src="/assets/images-medium/suzie.jpg" alt="photo: Suzie's portrait")
+		.slate
+			h2 Welcome to Suzie's Nail Career Education
+			p Home of the popular YouTube channel with more than 2 million subscribers!
+			.buttons
+				a(target=_blank href="https://www.youtube.com/channel/UCTldDNXS4GeChcmwm55mXYQ" title="Go to Nail Career Education on YouTUbe") Go to Suzie's YouTube Channel
+	shopper-product(show-image restocking-soon uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1NzYzNDg3NTgwNTI=").homeslice
+	.homeslice.questions
+		.image
+			img(src="/assets/images-medium/suzie.jpg" alt="")
+		.slate
+			h2 Ask questions for Suzie on the new Questions Board
+			p And help Suzie by rating the best questions with hearts
+			.buttons
+				a(href="./community/questions") See New Questions Board

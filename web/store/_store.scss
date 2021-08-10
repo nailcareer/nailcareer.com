@@ -13,6 +13,7 @@
 		shopper-product {
 			font-size: 1.5em;
 			text-align: center;
+			min-height: 22em;
 		}
 		.disclaimers {
 			opacity: 0.5;
@@ -136,7 +137,7 @@
 .productgrid .special {
 	display: flex;
 	flex-direction: column;
-	justify-content: flex-start;
+	justify-content: stretch;
 	color: inherit;
 }
 
@@ -152,6 +153,12 @@
 
 .productgrid shopper-product > * + * {
 	margin-top: 0.5em;
+}
+
+.productgrid shopper-product .product-content {
+	flex: 1 1 auto;
+	display: flex;
+	flex-direction: column;
 }
 
 .productgrid shopper-product .box {

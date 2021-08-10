@@ -75,7 +75,6 @@ a, *::part(link) {
 .subnav, nce-header {
 	a, &::part(navlink) {
 		position: relative;
-		// outline: 1px solid red;
 	}
 	a[data-tag], &::part(navlink tag) {
 		&::before {
@@ -172,10 +171,6 @@ main {
 	padding: 1em;
 }
 
-shopper-product {
-	min-height: 22em;
-}
-
 shopper-product, shopper-cart {
 	--price-display-discount-area-font-size: 0.8em;
 	--price-display-compared-opacity: 0.5;
@@ -223,8 +218,8 @@ shopper-product .add-to-cart-button:hover {
 }
 
 shopper-product button[disabled] {
-	background: rgba(0,0,0, 0.2);
-	border: 2px solid rgba(0,0,0, 0.1);
+	background: rgba(0,0,0, 0.2) !important;
+	border: 2px solid rgba(0,0,0, 0.1) !important;
 }
 
 shopper-product[out-of-stock] {
