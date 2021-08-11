@@ -10,26 +10,64 @@
 			margin-top: 2em;
 		}
 	}
-	.homeslice {
-		max-width: 32em;
-		display: flex;
-		flex-direction: row;
-		flex-wrap: wrap;
-		justify-content: flex-start;
-		align-items: center;
-		margin-left: auto;
-		margin-right: auto;
-		> * {
-			flex: 1 1 auto;
+	.stdhomeslice {
+		margin: auto;
+		max-width: 64em;
+	}
+	.homie {
+		@extend .stdhomeslice;
+		img {
+			display: block;
+			margin-top: 1em;
+			width: 100%;
+			aspect-ratio: 2.5 / 1;
+			object-fit: cover;
+			border-radius: 1em;
 		}
-		.image, .product-image {
-			flex: 0 0 10em;
-			max-width: 100%;
+	}
+	.homegrid {
+		@extend .stdhomeslice;
+		display: flex;
+		gap: 1em;
+		margin: 1em auto;
+		flex-wrap: wrap;
+		justify-content: center;
+		> * {
+			flex: 1 1 24em;
+			max-width: 32em;
+			display: flex;
+			color: #0006;
+			background: #00f2;
+			border-radius: 1em;
+			.image, .product-image {
+				flex: 0 0 auto;
+				padding: 1em;
+				svg, img {
+					display: block;
+					width: 6em;
+					height: 100%;
+					aspect-ratio: 1 / 1;
+					object-fit: cover;
+				}
+			}
+			.slate, .product-content {
+				flex: 1 1 auto;
+				padding: 1em;
+				max-width: 100%;
+				text-align: left;
+				display: flex;
+				flex-direction: column;
+				justify-content: center;
+				> * + * {
+					margin-top: 0.3em;
+				}
+			}
+		}
+		.youtube { background: #f002; }
+		.questions { background: #00f2; }
+		shopper-product { background: #f0f2; }
+		shopper-product {
 			img {
-				display: block;
-				width: 100%;
-				aspect-ratio: 1 / 1;
-				object-fit: cover;
 				user-select: none;
 				-webkit-user-drag: none;
 				user-drag: none;
@@ -38,52 +76,5 @@
 				box-shadow: 1px 2px 7px #0002;
 			}
 		}
-		.slate, .product-content {
-			flex: 1 1 20em;
-			padding: 1em;
-			max-width: 100%;
-			text-align: left;
-			display: flex;
-			flex-direction: column;
-			justify-content: center;
-			> * + * {
-				margin-top: 1em;
-			}
-		}
 	}
-	// .homearea {
-	// 	padding: 0 1em;
-	// 	> * + * {
-	// 		margin-top: 1em;
-	// 	}
-	// 	> * > h2 {
-	// 		text-align: left;
-	// 		opacity: 0.4;
-	// 		font-size: 0.8rem;
-	// 		font-weight: bold;
-	// 	}
-	// 	> * > .slate {
-	// 		margin-top: 0.5em;
-	// 		padding: 1em;
-	// 		background: #fffa;
-	// 	}
-	// }
-	// .intro {
-	// 	p {
-	// 		margin: 1em auto;
-	// 	}
-	// }
-	// .productpromo {
-	// 	shopper-product {
-	// 		img {
-	// 			width: 100%;
-	// 			aspect-ratio: 1 / 1;
-	// 			object-fit: cover;
-	// 			max-width: 480px;
-	// 		}
-	// 		.title {
-	// 			margin: 1em auto;
-	// 		}
-	// 	}
-	// }
 }
