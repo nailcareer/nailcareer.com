@@ -1,15 +1,5 @@
 
 [data-page="community"] {
-	.plate {
-		max-width: 48em;
-		margin: auto;
-		text-align: left;
-		padding: 1rem 2rem;
-		> * + * {
-			margin-top: 1em;
-		}
-	}
-
 	.text {
 		max-width: 28em;
 		> * + * {

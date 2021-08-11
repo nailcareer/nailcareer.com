@@ -67,6 +67,16 @@ a[target="_blank"] {
 	}
 }
 
+.plate {
+	max-width: 48em;
+	margin: auto;
+	text-align: left;
+	padding: 1rem 2rem;
+	> * + * {
+		margin-top: 1em;
+	}
+}
+
 .subnav {
 	text-align: center;
 	font-size: 1.2em;
