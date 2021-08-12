@@ -9,14 +9,8 @@ block main
 	.homie
 		h1 Nail Career Education
 		img(src="/assets/images-medium/suzie/suzie-with-coffee.jpg" alt="")
-	.intro
-		h2 Nail Career Education is one of the top nail channels on YouTube.
-		p
-			strong Hosted by Suzie and entrusted by 2.4 million subscribers.
-		p Beginning in 2015, Nail Career Education grew its following with Suzie teaching nail tips, one video tutorial at a time.  Today, NCE is one of the top trusted nail care sources worldwide and has spawned its own product line.
-		p From nail pros to hobbyists, the formerly educated to self taught: Nail lovers everywhere have found Suzie and her videos and have created the NCE Community.
 	.homegrid
-		.youtube
+		.gridbox-alpha.youtube
 			.image
 				<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-youtube" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 					<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -24,9 +18,9 @@ block main
 					<path d="M10 9l5 3l-5 3z" />
 				</svg>
 			.slate
-				h2 #[a(target="_blank" href="https://www.youtube.com/channel/UCTldDNXS4GeChcmwm55mXYQ") YouTube Channel]
+				h2 #[a(data-external target="_blank" href="https://www.youtube.com/channel/UCTldDNXS4GeChcmwm55mXYQ") YouTube Channel]
 				p Suzie hosts the popular YouTube Channel #[strong Nail Career Education], which has more than 2 million subscribers!
-		.questions
+		.gridbox-alpha.questions
 			.image
 				<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-messages" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 					<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -36,36 +30,32 @@ block main
 			.slate
 				h2 #[a(href="./community/questions") New Questions Board]
 				p Ask questions for Suzie to answer in her videos!
-		<shopper-product data-new restocking-soon show-image href="/store/products/quick-tips" link="https://nail-career-education.myshopify.com/admin/products/6669675003940"></shopper-product>
-		.instagram
-			.image
+		<shopper-product class="gridbox-alpha" data-new restocking-soon show-image href="/store/products/quick-tips" link="https://nail-career-education.myshopify.com/admin/products/6669675003940"></shopper-product>
+		.gridbox-socials
+			//- h2 Follow Suzie on Social Media
+			a.instagram(target="_blank" href="https://www.instagram.com/nailcareereducation/")
 				<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-instagram" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 					<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
 					<rect x="4" y="4" width="16" height="16" rx="4" />
 					<circle cx="12" cy="12" r="3" />
 					<line x1="16.5" y1="7.5" x2="16.5" y2="7.501" />
 				</svg>
-			.slate
-				h2 #[a(target="_blank" href="https://www.instagram.com/nailcareereducation/") Suzie's Instagram]
-				p @nailcareereducation
-		.tiktok
-			.image
+				span Instagram
+			a.tiktok(target="_blank" href="https://www.tiktok.com/@nailcareer.education")
 				<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-tiktok" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 					<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
 					<path d="M9 12a4 4 0 1 0 4 4v-12a5 5 0 0 0 5 5" />
 				</svg>
-			.slate
-				h2 Suzie's TikTok
-				p @nailcareer.education
-				.buttons
-					a(target="_blank" href="https://www.tiktok.com/@nailcareer.education") See NCE on TikTok
-		.facebook
-			.image
+				span TikTok
+			a.facebook(target="_blank" href="https://www.tiktok.com/@nailcareer.education")
 				<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-facebook" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 					<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
 					<path d="M7 10v4h3v7h4v-7h3l1 -4h-4v-2a1 1 0 0 1 1 -1h3v-4h-3a5 5 0 0 0 -5 5v2h-3" />
 				</svg>
-			.slate
-				h2 Suzie's Facebook
-				.buttons
-					a(target="_blank" href="https://www.facebook.com/NailCareerEducation/") See NCE on Facebook
+				span Facebook
+	.intro
+		h2 Nail Career Education is one of the top nail channels on YouTube.
+		p
+			strong Hosted by Suzie and entrusted by 2.4 million subscribers.
+		p Beginning in 2015, Nail Career Education grew its following with Suzie teaching nail tips, one video tutorial at a time.  Today, NCE is one of the top trusted nail care sources worldwide and has spawned its own product line.
+		p From nail pros to hobbyists, the formerly educated to self taught: Nail lovers everywhere have found Suzie and her videos and have created the NCE Community.

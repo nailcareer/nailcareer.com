@@ -56,15 +56,53 @@
 		+ .homegrid {
 			margin-top: 3em;
 		}
-		> * {
+		.stdgridbox {
 			@extend .stdshadow;
+			color: #0006;
+			background: #fff8;
+			border-radius: 1em;
 			flex: 1 1 24em;
 			max-width: 32em;
+		}
+		> .gridbox-socials {
+			@extend .stdgridbox;
 			display: flex;
 			flex-wrap: wrap;
-			color: #0006;
-			background: #fffb;
-			border-radius: 1em;
+			flex-direction: row;
+			justify-content: center;
+			align-items: center;
+			> h2 {
+				opacity: 0.75;
+				flex: 1 1 100%;
+				font-size: 1em;
+				padding: 0.2em;
+			}
+			> a {
+				display: flex;
+				flex-direction: column;
+				padding: 0.5em;
+				> svg {
+					display: block;
+					width: 4em;
+					height: 4em;
+					margin: 0 auto;
+				}
+				> span {
+					display: block;
+					> span {
+						display: block;
+						&:nth-child(2) {
+							color: unset;
+							text-decoration: unset;
+						}
+					}
+				}
+			}
+		}
+		> .gridbox-alpha {
+			@extend .stdgridbox;
+			display: flex;
+			flex-wrap: wrap;
 			.image, .product-image {
 				flex: 0 0 6em;
 				padding: 1em;
@@ -98,19 +136,22 @@
 		.instagram svg { color: #ff00de96; }
 		.tiktok svg {
 			color: #0009;
-			filter: drop-shadow(6px 6px 0 rgba(255, 100, 100, 0.5));
+			filter: drop-shadow(4px 4px 0 rgba(255, 100, 100, 0.5)) drop-shadow(-3px -3px 0 rgba(100, 100, 255, 0.5));
 		}
-		// .youtube { background: #f004; }
-		// .questions { background: #006fff22; }
-		// .facebook { background: #00f2; }
-		// .instagram { background: #feffd9; }
-		// shopper-product { background: #f0f2; }
 		shopper-product {
+			.product-content::before {
+				opacity: 0.6;
+				display: block;
+				content: "Featured product";
+				font-size: 1em;
+				font-weight: bold;
+				margin-bottom: 1em;
+				text-transform: uppercase;
+			}
 			img {
 				user-select: none;
 				-webkit-user-drag: none;
 				user-drag: none;
-				// border: 0.5em solid white;
 				border-radius: 1em;
 				box-shadow: 1px 2px 7px #0002;
 			}
