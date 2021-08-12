@@ -239,6 +239,7 @@
 .productgrid > [data-new]::before {
 	content: "NEW!";
 	background: #00f3ff;
+	border: 3px solid;
 }
 
 .productgrid > [sale]::before {
