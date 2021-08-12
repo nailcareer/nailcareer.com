@@ -218,7 +218,7 @@
 }
 
 .productgrid > [data-new]::before,
-.productgrid > [data-sale]::before,
+.productgrid > [sale]::before,
 .productgrid > [out-of-stock]::before {
 	position: absolute;
 	top: -0.8em;
@@ -241,8 +241,8 @@
 	background: #00f3ff;
 }
 
-.productgrid > [data-sale]::before {
-	content: attr(data-sale);
+.productgrid > [sale]::before {
+	content: attr(sale) "% off!";
 	background: #cafae4;
 	color: #199a9a;
 	text-shadow: none;
