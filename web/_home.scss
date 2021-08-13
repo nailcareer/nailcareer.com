@@ -29,7 +29,7 @@
 			margin-bottom: 1rem;
 			color: white;
 			text-shadow: 0 0 10px #fff6;
-			background: url("/assets/images-medium/suzie/nail-table.jpg");
+			background: url("/assets/images-medium/suzie/nail-table-cropped.jpg");
 			background-size: cover;
 			background-position: center center;
 			filter: hue-rotate(126deg) saturate(2);
@@ -104,7 +104,7 @@
 		margin: 1em auto;
 		flex-wrap: wrap;
 		justify-content: center;
-		// background: url("/assets/images-medium/suzie/nail-table.jpg");
+		// background: url("/assets/images-medium/suzie/nail-table-cropped.jpg");
 		// background-position: center center;
 		// background-size: cover;
 		border-radius: 0.3em;
@@ -146,41 +146,43 @@
 		> .gridbox-socials {
 			@extend .stdgridbox;
 			display: flex;
-			flex-wrap: wrap;
-			flex-direction: row;
+			flex-direction: column;
 			justify-content: center;
 			align-items: center;
+			padding: 0.5em 0;
 			svg {
 				color: #fbec2b;
 			}
 			> h2 {
-				opacity: 0.75;
-				flex: 1 1 100%;
+				opacity: 0.5;
 				font-size: 1em;
 				padding: 0.2em;
 				text-transform: uppercase;
-				opacity: 0.5;
 			}
-			> a {
+			.social-icons {
 				display: flex;
-				flex-direction: column;
-				padding: 0.5em;
-				> svg {
-					display: block;
-					width: 4em;
-					height: 4em;
-					margin: 0 auto;
-				}
-				&:hover > svg {
-					filter: drop-shadow(0 0 5px rgba(255 255 255 / 0.2));
-				}
-				> span {
-					display: none;
-					> span {
+				flex-direction: row;
+				> a {
+					display: flex;
+					flex-direction: column;
+					padding: 0 0.5em;
+					> svg {
 						display: block;
-						&:nth-child(2) {
-							color: unset;
-							text-decoration: unset;
+						width: 4em;
+						height: 4em;
+						margin: 0 auto;
+					}
+					&:hover > svg {
+						filter: drop-shadow(0 0 5px rgba(255 255 255 / 0.2));
+					}
+					> span {
+						display: none;
+						> span {
+							display: block;
+							&:nth-child(2) {
+								color: unset;
+								text-decoration: unset;
+							}
 						}
 					}
 				}
