@@ -39,9 +39,9 @@ export class NceFooter extends Component {
 		return html`
 			<footer>
 				<p><strong>Suzie’s Nail Career Education Inc</strong></p>
-				<p>${this.emailLink({user: "angie", domain: "nailcareer.com"})} for questions about the store</p>
-				<p>${this.emailLink({user: "chase", domain: "nailcareer.com"})} for questions about the website or community</p>
-				<p>${this.emailLink({user: "suzie", domain: "nailcareer.com"})} for business inquiries</p>
+				<p>For questions about the store or shipping, email ${this.emailLink({user: "angie", domain: "nailcareer.com"})}</p>
+				<p>For questions about the website or community, email ${this.emailLink({user: "chase", domain: "nailcareer.com"})}</p>
+				<p>For business inquiries, email ${this.emailLink({user: "suzie", domain: "nailcareer.com"})}</p>
 				<p><a part=link target=_blank href="https://xiome.io/legal">Community policies and terms of service</a></p>
 			</footer>
 		`

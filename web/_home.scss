@@ -20,18 +20,27 @@
 	.homie {
 		@extend .stdhomeslice;
 		h1 {
+			@extend .stdshadow;
 			opacity: 0.5;
 			font-size: 3em;
+			padding: 0.1em;
 			text-transform: uppercase;
 			letter-spacing: 0.1em;
 			margin-bottom: 1rem;
+			color: white;
+			text-shadow: 0 0 10px #fff6;
+			background: url("/assets/images-medium/suzie/nail-table.jpg");
+			background-size: cover;
+			background-position: center center;
+			filter: hue-rotate(126deg) saturate(2);
+			border-radius: 0.3rem;
 		}
 		.showcase {
 			@extend .stdshadow;
 			display: flex;
 			flex-direction: row;
 			flex-wrap: wrap;
-			border-radius: 1em;
+			border-radius: 0.3em;
 			overflow: hidden;
 			.one {
 				flex: 1 1 10em;
@@ -69,35 +78,70 @@
 		font-size: 1.2em;
 		padding: 2em 1em;
 		text-align: left;
-		border-radius: 1em;
+		border-radius: 0.3em;
 		> * {
-			max-width: 32em;
+			max-width: 32rem;
+			margin: auto;
 			margin-top: 0.5em;
 			padding: 0.5em;
 			color: white;
-			background: #0084a261;
+			background: #c7b34469;
 			text-shadow: 1px 2px 3px #0002;
 			backdrop-filter: blur(10px);
-			border-radius: 0.3em;
+			border-radius: 0.3rem;
+		}
+		h2 {
+			font-size: 1.7em;
 		}
 	}
 	.homegrid {
 		@extend .stdhomeslice;
+		@extend .stdshadow;
+		position: relative;
 		display: flex;
 		gap: 1em;
+		padding: 1em;
 		margin: 1em auto;
 		flex-wrap: wrap;
 		justify-content: center;
+		// background: url("/assets/images-medium/suzie/nail-table.jpg");
+		// background-position: center center;
+		// background-size: cover;
+		border-radius: 0.3em;
+		overflow: hidden;
 		+ .homegrid {
 			margin-top: 3em;
 		}
+		> img.bg {
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			object-fit: cover;
+			object-position: center center;
+			user-select: none;
+			user-drag: none;
+			-webkit-user-drag: none;
+			filter: brightness(1.3);
+		}
 		.stdgridbox {
 			@extend .stdshadow;
-			color: #0006;
-			background: #fff8;
-			border-radius: 1em;
+			color: #fff;
+			// background: #72d5ec69;
+			// background: #72d5ec87;
+			// background: #7ed2e669;
+			background: #46c9e870;
+			text-shadow: 1px 2px 3px #0002;
+			backdrop-filter: blur(10px);
+			border-radius: 0.3em;
 			flex: 1 1 24em;
 			max-width: 32em;
+			a {
+				color: white;
+			}
 		}
 		> .gridbox-socials {
 			@extend .stdgridbox;
@@ -106,11 +150,16 @@
 			flex-direction: row;
 			justify-content: center;
 			align-items: center;
+			svg {
+				color: #fbec2b;
+			}
 			> h2 {
 				opacity: 0.75;
 				flex: 1 1 100%;
 				font-size: 1em;
 				padding: 0.2em;
+				text-transform: uppercase;
+				opacity: 0.5;
 			}
 			> a {
 				display: flex;
@@ -122,8 +171,11 @@
 					height: 4em;
 					margin: 0 auto;
 				}
+				&:hover > svg {
+					filter: drop-shadow(0 0 5px rgba(255 255 255 / 0.2));
+				}
 				> span {
-					display: block;
+					display: none;
 					> span {
 						display: block;
 						&:nth-child(2) {
@@ -138,6 +190,10 @@
 			@extend .stdgridbox;
 			display: flex;
 			flex-wrap: wrap;
+			svg {
+				color: #8bfff5;
+				filter: drop-shadow(1px 2px 3px rgb(0 0 0 / 0.1));
+			}
 			.image, .product-image {
 				flex: 0 0 6em;
 				padding: 1em;
@@ -165,14 +221,14 @@
 				}
 			}
 		}
-		.youtube svg { color: #cc00009c; }
-		.facebook svg { color: #00f8; }
-		.questions svg { color: #00daff; }
-		.instagram svg { color: #ff00de96; }
-		.tiktok svg {
-			color: #0009;
-			filter: drop-shadow(4px 4px 0 rgba(255, 100, 100, 0.5)) drop-shadow(-3px -3px 0 rgba(100, 100, 255, 0.5));
-		}
+		// .youtube svg { color: #cc00009c; }
+		// .facebook svg { color: #00f8; }
+		// .questions svg { color: #00daff; }
+		// .instagram svg { color: #ff00de96; }
+		// .tiktok svg {
+		// 	color: #0009;
+		// 	filter: drop-shadow(4px 4px 0 rgba(255, 100, 100, 0.5)) drop-shadow(-3px -3px 0 rgba(100, 100, 255, 0.5));
+		// }
 		shopper-product {
 			.product-content::before {
 				opacity: 0.4;
@@ -187,8 +243,9 @@
 				user-select: none;
 				-webkit-user-drag: none;
 				user-drag: none;
-				border-radius: 1em;
+				border-radius: 0.7em;
 				box-shadow: 1px 2px 7px #0002;
+				border: 0.4rem solid #8bfff5;
 			}
 			.title {
 				font-size: 1.5em;
