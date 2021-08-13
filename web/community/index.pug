@@ -16,11 +16,14 @@ block main
 			h1 Welcome to the NCE Community
 			.text
 				p Suzie's new community is in early-access, and you can be one of the first members to join.
-				p We're getting started by releasing a #[a(href="./qa") Q&amp;A board] where you can submit your questions, and Suzie will answer her favourites in her videos!
-			h3 Create your account (or login)
-			.text
-				p You can set a nickname and a tagline, both of which appear wherever you post in the NCE Community
+				p We're getting started with the #[a(href="./qa") Q&amp;A board] where you can submit your questions, and Suzie will answer her favourites in her videos!
 			.feature
 				xiome-login-panel(initially-hidden)
+					.text(slot="logged-out")
+						h3 Enter your email to create an account or login
+					.text
+						h3 You are logged in
+						p You can customize your nickname and your tagline, which will appear wherever you post in the NCE Community
 					xiome-my-account
-					p.nextstep Now go check out the #[a(href="./qa") Q&amp;A Board]
+					.text.nextstep
+						p Now go check out the #[a(href="./qa") Q&amp;A Board]

@@ -8,7 +8,7 @@
 	}
 
 	.feature {
-		margin-top: 3em;
+		margin-top: 2em;
 	}
 
 	[data-community-page="welcome"] {
@@ -17,6 +17,10 @@
 		}
 		xiome-login-panel::part(buttonbar) {
 			text-align: right;
+		}
+		xiome-my-account {
+			display: block;
+			margin: 1em 0;
 		}
 		.nextstep {
 			margin-top: 3em;
