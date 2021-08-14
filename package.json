@@ -14,7 +14,7 @@
 		"compile-pug-debug": "pug -o x web -O '{\"debug\": true}'",
 		"compile-sass": "sass web/:x/",
 		"compile-bundle": "rollup --silent --sourcemap -p rollup-plugin-sizes -p @rollup/plugin-node-resolve -f iife -i x/main.js -o x/main.bundle.js && terser x/main.bundle.js --source-map --comments false -o x/main.bundle.min.js",
-		"import-new-images": "jpegger --indir assets/images-to-import --outdir assets/images --quality 90 --size 2000",
+		"import-new-images": "jpegger --indir assets/images-to-import --outdir assets/images --quality 80 --size 2000",
 		"assets": "run-s assets-copy && run-p images-small images-medium",
 		"assets-copy": "cp -R assets/images x/assets/images",
 		"images-small": "jpegger --indir assets/images --outdir x/assets/images-small --size 600",
@@ -33,7 +33,7 @@
 	"devDependencies": {
 		"@rollup/plugin-node-resolve": "^13.0.4",
 		"importly": "0.1.0-dev.0",
-		"jpegger": "^0.1.2",
+		"jpegger": "^0.1.3",
 		"mkdirp": "^1.0.4",
 		"npm-run-all": "^4.1.5",
 		"pug-cli": "^1.0.0-alpha6",
