@@ -1,0 +1,37 @@
+
+extends ../../_templates/_store-product.pug
+
+block append variables
+	- pageSubtitle = "Suzie’s Nail Art Brush Set"
+
+block product
+	shopper-product(restocking-soon link="https://nail-career-education.myshopify.com/admin/products/6696149254180")
+
+block visual
+	<carouse-carousel data-aspect="2x3" arrows dots loop hidden>
+		<figure><img src="/assets/images-medium/products/nail-art-brush-set/nail-art-brush-set-06.jpg"/></figure>
+		<figure><img src="/assets/images-medium/products/nail-art-brush-set/nail-art-brush-set-01.jpg"/></figure>
+		<figure><img src="/assets/images-medium/products/nail-art-brush-set/nail-art-brush-set-02.jpg"/></figure>
+		<figure><img src="/assets/images-medium/products/nail-art-brush-set/nail-art-brush-set-03.jpg"/></figure>
+		<figure><img src="/assets/images-medium/products/nail-art-brush-set/nail-art-brush-set-04.jpg"/></figure>
+		<figure><img src="/assets/images-medium/products/nail-art-brush-set/nail-art-brush-set-05.jpg"/></figure>
+	</carouse-carousel>
+
+block writeup
+	p This set comes with five versatile nail art brushes of various sizes and lengths, which are excellent for hand-painting expressive details on the nail.
+	ul
+		li
+			strong Extra Long Liner 
+			span Use this brush to make your line work much easier. It's so quick and easy to do
+		li
+			strong Long Liner 
+			span Create swirls and flowing lines in one swoop. Also great for creating flowers; using a little pressure to create a petal.
+		li
+			strong Marbleizer 
+			span This brush will help you "marbleize" lines. With different pressures on bristles, create varying width of lines you need for marble.
+		li
+			strong Writing Detailer 
+			span Use for handwriting. When there's something to say, say it with style!
+		li
+			strong Highlight Detailer 
+			span When you need a tiny line, a highlight, or maybe an eyelash or eyebrow.

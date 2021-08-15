@@ -1,0 +1,18 @@
+
+extends ../../_templates/_store-product.pug
+
+block append variables
+	- pageSubtitle = "Suzie’s Peppermint Squeeze"
+
+block product
+	shopper-product(restocking-soon link="https://nail-career-education.myshopify.com/admin/products/6696155938852")
+
+block visual
+	<carouse-carousel data-aspect="2x3" loop hidden>
+		<figure><img src="/assets/images-medium/products/peppermint-squeeze/peppermint-01.jpg"/></figure>
+	</carouse-carousel>
+
+block writeup
+	p A small squeeze softens cuticles making it easier to gently push them back.
+	p Refreshing fragrance of peppermint and lemon.
+	p Infused with Vitamin E and Aloe.

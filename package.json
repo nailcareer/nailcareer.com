@@ -16,7 +16,7 @@
 		"compile-bundle": "rollup --silent --sourcemap -p rollup-plugin-sizes -p @rollup/plugin-node-resolve -f iife -i x/main.js -o x/main.bundle.js && terser x/main.bundle.js --source-map --comments false -o x/main.bundle.min.js",
 		"import-new-images": "jpegger --indir assets/images-to-import --outdir assets/images --quality 80 --size 2000",
 		"assets": "run-s assets-copy && run-p images-small images-medium",
-		"assets-copy": "cp -R assets/images x/assets/images",
+		"assets-copy": "cp -R assets/images x/assets",
 		"images-small": "jpegger --indir assets/images --outdir x/assets/images-small --size 600",
 		"images-medium": "jpegger --indir assets/images --outdir x/assets/images-medium --size 1200",
 		"images-large": "jpegger --indir assets/images --outdir x/assets/images-large --size 2000",
