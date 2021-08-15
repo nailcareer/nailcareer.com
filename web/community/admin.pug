@@ -1,0 +1,23 @@
+
+extends ../_templates/_page.pug
+
+block append variables
+	- pageName = "community"
+	- pageSubtitle = "Administration"
+
+block main
+	div(data-community-page="admin")
+		.plate
+			nav.subnav
+				a(href="./") Welcome
+				a(href="./qa" data-tag="new") Q&amp;A
+				a(data-tag="soon") Livestream
+				a(data-tag="soon") Premium
+			h1 Administration page
+			.feature
+				xiome-login-panel
+					p(slot="logged-out") Login to see administrative panels
+					h2 Manage users
+					xiome-manage-users
+					h2 Customize permissions
+					xiome-permissions

@@ -78,4 +78,11 @@
 			}
 		}
 	}
+
+	[data-community-page="admin"] {
+		.feature xiome-login-panel > * {
+			display: block;
+			margin-top: 1em;
+		}
+	}
 }
