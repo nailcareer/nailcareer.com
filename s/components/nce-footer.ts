@@ -42,7 +42,16 @@ export class NceFooter extends Component {
 				<p>For questions about the store or shipping, email ${this.emailLink({user: "angie", domain: "nailcareer.com"})}</p>
 				<p>For questions about the website or community, email ${this.emailLink({user: "chase", domain: "nailcareer.com"})}</p>
 				<p>For business inquiries, email ${this.emailLink({user: "suzie", domain: "nailcareer.com"})}</p>
-				<p><a part=link target=_blank href="https://xiome.io/legal">Community policies and terms of service</a></p>
+				<p>
+					Store
+					<a part=link target=_blank href="https://github.com/nailcareer/nailcareer.com/blob/master/legal/privacy-policy.md">privacy policy</a>
+					<a part=link target=_blank href="https://github.com/nailcareer/nailcareer.com/blob/master/legal/terms-of-service.md">terms of service</a>
+					<a part=link target=_blank href="https://github.com/nailcareer/nailcareer.com/blob/master/legal/refund-policy.md">refund policy</a>
+				</p>
+				<p>
+					Community
+					<a part=link target=_blank href="https://xiome.io/legal">policies and terms of service</a>
+				</p>
 			</footer>
 		`
 	}
