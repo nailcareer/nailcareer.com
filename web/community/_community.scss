@@ -6,7 +6,27 @@
 			margin-top: 0.7em;
 		}
 	}
-
+	.sidebyside {
+		display: flex;
+		flex-wrap: wrap-reverse;
+		gap: 1em;
+		> * {
+			flex: 1 1 12em;
+		}
+		img {
+			display: block;
+			width: 24em;
+			max-width: 100%;
+			border: 0.5em white solid;
+			box-shadow: 2px 5px 8px #0002;
+		}
+		.text {
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+		}
+	}
 	.feature {
 		margin-top: 2em;
 	}
