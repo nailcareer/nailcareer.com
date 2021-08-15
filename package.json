@@ -46,6 +46,7 @@
 		"typescript": "^4.2.3"
 	},
 	"dependencies": {
+		"broadcastchannel-polyfill": "^1.0.1",
 		"carouse": "0.0.1",
 		"commotion": "0.1.0-dev.0",
 		"crnc": "0.0.0-dev.22",
@@ -58,7 +59,7 @@
 		"shopify-buy": "^2.11.0",
 		"shopper": "0.2.0-dev.11",
 		"sorry-not-sorry": "0.0.3",
-		"xiome": "0.0.1"
+		"xiome": "^0.0.2"
 	},
 	"author": "Chase Moskal <chasemoskal@gmail.com>"
 }

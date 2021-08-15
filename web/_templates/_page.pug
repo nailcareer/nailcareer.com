@@ -29,6 +29,9 @@ head
 		script(async defer src="http://localhost:4999/es-module-shims/dist/es-module-shims.min.js")
 	else
 		xiome-config(app="ea296d14b6d75503a7d419da911c64c1a8d685c3cc6739d2483bccb3a6af973c")
+		<script defer src="https://cdn.jsdelivr.net/npm/@babel/polyfill@7.4.4/dist/polyfill.min.js"></script>
+		<script defer src="https://cdn.jsdelivr.net/npm/whatwg-fetch@3.0.0/dist/fetch.umd.js"></script>
+		<script defer src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2.2.10/webcomponents-bundle.js"></script>
 		script(async defer src="/main.bundle.min.js")
 
 	block head
