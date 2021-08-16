@@ -114,6 +114,7 @@
 		}
 		> img.bg {
 			position: absolute;
+			z-index: -1;
 			width: 100%;
 			height: 100%;
 			top: 0;
@@ -124,6 +125,7 @@
 			object-position: center center;
 			user-select: none;
 			user-drag: none;
+			-moz-user-drag: none;
 			-webkit-user-drag: none;
 			filter: brightness(1.3);
 		}
