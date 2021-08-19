@@ -156,6 +156,17 @@ menu-system {
 		border-radius: 0.3em;
 	}
 	shopper-cart {
+		.cart-checkout::before {
+			content: "Note: prices on the next page will be displayed in Canadian Dollars (CAD), but your card will be charged appropriately in your local currency.";
+			display: block;
+			max-width: 24em;
+			margin-bottom: 1em;
+			margin-left: auto;
+			text-align: left;
+			font-size: 0.7em;
+			opacity: 0.8;
+			font-style: italic;
+		}
 		.checkout-button {
 			opacity: 0.8;
 			cursor: pointer;
