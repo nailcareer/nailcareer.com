@@ -12,7 +12,6 @@ registerComponents(
 )
 
 import "shopper"
-import "xiome/x/xiome.js"
 import "carouse"
 
 console.log("💅")

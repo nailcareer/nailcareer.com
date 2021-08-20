@@ -58,7 +58,7 @@
 		"shopify-buy": "^2.11.0",
 		"shopper": "0.2.0-dev.11",
 		"sorry-not-sorry": "0.0.3",
-		"xiome": "^0.0.6"
+		"xiome": "0.0.6"
 	},
 	"author": "Chase Moskal <chasemoskal@gmail.com>"
 }
