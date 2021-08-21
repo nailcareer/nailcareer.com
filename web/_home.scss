@@ -7,18 +7,22 @@
 	main {
 		padding: 0 2rem;
 		> * + * {
-			margin-top: 2em;
+			margin-top: 1rem;
 		}
 	}
 	.stdshadow {
 		box-shadow: 2px 3px 3px #0002;
 	}
 	.stdhomeslice {
-		margin: auto;
+		margin-left: auto;
+		margin-right: auto;
 		max-width: 64rem;
 	}
 	.homie {
 		@extend .stdhomeslice;
+		> * + * {
+			margin-top: 1rem;
+		}
 		h1 {
 			@extend .stdshadow;
 			opacity: 0.5;
@@ -26,7 +30,6 @@
 			padding: 0.1em;
 			text-transform: uppercase;
 			letter-spacing: 0.1em;
-			margin-bottom: 1rem;
 			color: white;
 			text-shadow: 0 0 10px #fff6;
 			background: url("/assets/images-medium/suzie/nail-table-cropped.jpg");
@@ -94,6 +97,12 @@
 			font-size: 1.7em;
 		}
 	}
+	.banner {
+		padding: 1em;
+		text-align: center;
+		background: #ff9c0029;
+		border-radius: 0.3rem;
+	}
 	.homegrid {
 		@extend .stdhomeslice;
 		@extend .stdshadow;
@@ -101,12 +110,10 @@
 		display: flex;
 		gap: 1em;
 		padding: 1em;
-		margin: 1em auto;
+		margin-left: auto;
+		margin-right: auto;
 		flex-wrap: wrap;
 		justify-content: center;
-		// background: url("/assets/images-medium/suzie/nail-table-cropped.jpg");
-		// background-position: center center;
-		// background-size: cover;
 		border-radius: 0.3em;
 		overflow: hidden;
 		+ .homegrid {
@@ -132,9 +139,6 @@
 		.stdgridbox {
 			@extend .stdshadow;
 			color: #fff;
-			// background: #72d5ec69;
-			// background: #72d5ec87;
-			// background: #7ed2e669;
 			background: #46c9e870;
 			text-shadow: 1px 2px 3px #0002;
 			backdrop-filter: blur(10px);
@@ -225,14 +229,6 @@
 				}
 			}
 		}
-		// .youtube svg { color: #cc00009c; }
-		// .facebook svg { color: #00f8; }
-		// .questions svg { color: #00daff; }
-		// .instagram svg { color: #ff00de96; }
-		// .tiktok svg {
-		// 	color: #0009;
-		// 	filter: drop-shadow(4px 4px 0 rgba(255, 100, 100, 0.5)) drop-shadow(-3px -3px 0 rgba(100, 100, 255, 0.5));
-		// }
 		shopper-product {
 			.product-content::before {
 				opacity: 0.4;
