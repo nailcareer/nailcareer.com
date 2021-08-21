@@ -114,6 +114,8 @@
 		}
 	}
 	.banner {
+		@extend .stdhomeslice;
+		@extend .stdshadow;
 		padding: 1em;
 		text-align: center;
 		background: #ff9c0029;
