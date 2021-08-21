@@ -1,4 +1,20 @@
 
+[data-page="404"] {
+	main {
+		max-width: 40rem;
+		margin: auto;
+		> * + * {
+			margin-top: 1em;
+		}
+		.notfound {
+			opacity: 0.4;
+		}
+		h1 {
+			margin-top: 0.1em;
+		}
+	}
+}
+
 [data-page="home"] {
 	.example {
 		padding-top: 10em;
