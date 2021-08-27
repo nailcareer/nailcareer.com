@@ -116,10 +116,25 @@
 	.banner {
 		@extend .stdhomeslice;
 		@extend .stdshadow;
-		padding: 1em;
-		text-align: center;
-		background: #ff9c0029;
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: center;
+		background: #91d4da91;
 		border-radius: 0.3rem;
+		overflow: hidden;
+		img {
+			display: block;
+			width: 8em;
+		}
+		p {
+			flex: 0 1 auto;
+			display: flex;
+			align-items: center;
+			// justify-content: center;
+			font-size: 1.2em;
+			padding: 0.5em;
+		}
 	}
 	.homegrid {
 		@extend .stdhomeslice;
