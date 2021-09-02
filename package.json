@@ -10,7 +10,6 @@
 		"verifications": "cp web/verifications/facebook/* x",
 		"copy-metafiles": "cp CNAME .nojekyll x/",
 		"importmap": "importly < package.json > x/importmap.json",
-		"importmap-debug": "importly --host=node_modules < package.json > x/importmap.json",
 		"compile-tsc": "tsc",
 		"compile-pug": "pug -o x web -O '{\"debug\": false}'",
 		"compile-pug-debug": "pug -o x web -O '{\"debug\": true}'",
@@ -24,7 +23,7 @@
 		"images-medium": "jpegger --indir assets/images --outdir x/assets/images-medium --size 1200",
 		"images-large": "jpegger --indir assets/images --outdir x/assets/images-large --size 2000",
 		"images-full": "jpegger --indir assets/images --outdir x/assets/images-full",
-		"watch": "run-p importmap-debug symlink-modules && run-p watch-tsc watch-pug watch-sass",
+		"watch": "run-p importmap symlink-modules && run-p watch-tsc watch-pug watch-sass",
 		"watch-tsc": "npm run compile-tsc -s -- --watch",
 		"watch-pug": "npm run compile-pug-debug -s -- --watch",
 		"watch-sass": "npm run compile-sass -s -- --watch",
@@ -33,7 +32,7 @@
 	},
 	"devDependencies": {
 		"@rollup/plugin-node-resolve": "^13.0.4",
-		"importly": "0.1.0-dev.0",
+		"importly": "^0.1.0-dev.2",
 		"jpegger": "^0.1.3",
 		"mkdirp": "^1.0.4",
 		"npm-run-all": "^4.1.5",
@@ -41,7 +40,7 @@
 		"rimraf": "^3.0.2",
 		"rollup": "^2.56.3",
 		"rollup-plugin-sizes": "^1.0.4",
-		"sass": "^1.38.1",
+		"sass": "^1.39.0",
 		"serve": "^12.0.0",
 		"terser": "^5.7.2",
 		"typescript": "^4.4.2"
@@ -57,7 +56,7 @@
 		"menutown": "0.0.1",
 		"redcrypto": "0.0.0-dev.9",
 		"renraku": "0.0.0-dev.40",
-		"shopify-buy": "^2.11.0",
+		"shopify-buy": "^2.12.0",
 		"shopper": "0.2.0-dev.11",
 		"sorry-not-sorry": "0.0.3",
 		"xiome": "^0.0.9"
