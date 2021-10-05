@@ -1,7 +1,7 @@
 
-import {css} from "./component.js"
+import {css, CSSResult} from "./component.js"
 
-export default css`
+export default <CSSResult>css`
 
 * {
 	margin: 0;
