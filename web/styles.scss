@@ -277,8 +277,8 @@ carouse-carousel img {
 	object-fit: cover;
 }
 
-carouse-carousel[data-aspect="2x3"] img {
-	aspect-ratio: 2 / 3;
+carouse-carousel[data-aspect="4x3"] img {
+	aspect-ratio: 4 / 3;
 }
 
 carouse-carousel[data-aspect="3x2"] img {
@@ -287,4 +287,8 @@ carouse-carousel[data-aspect="3x2"] img {
 
 carouse-carousel[data-aspect="1x1"] img {
 	aspect-ratio: 1 / 1;
+}
+
+carouse-carousel[data-aspect="2x3"] img {
+	aspect-ratio: 2 / 3;
 }

@@ -261,3 +261,51 @@
 .productgrid > [out-of-stock][restocking-soon]::before {
 	content: "restocking soon";
 }
+
+////////
+
+[data-page="store"] .product .productshowcase {
+	padding: 0;
+	margin: 2em auto;
+	list-style: none;
+	width: 100%;
+	max-width: 50em;
+
+	> li {
+		margin-top: 1em;
+		width: 100%;
+		background: #fff;
+		box-shadow: 1px 2px 10px #0001;
+	}
+
+	figure {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		img {
+			display: block;
+			width: 12em;
+			margin: auto;
+		}
+		figcaption {
+			flex: 1 1 16em;
+			padding: 0.5em;
+			> * + * {
+				display: block;
+				margin-top: 0.5em;
+			}
+			> strong {
+				font-size: 1.1em;
+			}
+			> em {
+				opacity: 0.5;
+			}
+			> .warn {
+				color: #82000082;
+			}
+			> ul {
+				padding-left: 1em;
+			}
+		}
+	}
+}
