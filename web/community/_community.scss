@@ -88,3 +88,7 @@
 		}
 	}
 }
+
+xiome-video-display::part(iframe) {
+	aspect-ratio: 16 / 9;
+}
