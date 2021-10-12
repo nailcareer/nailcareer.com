@@ -27,11 +27,12 @@
 		"watch-tsc": "npm run compile-tsc -s -- --watch",
 		"watch-pug": "npm run compile-pug-debug -s -- --watch",
 		"watch-sass": "npm run compile-sass -s -- --watch",
-		"start": "serve x -l 5000",
+		"start": "http-server -p 5000 x",
 		"test": "exit 0"
 	},
 	"devDependencies": {
 		"@rollup/plugin-node-resolve": "^13.0.5",
+		"http-server": "^13.0.2",
 		"importly": "0.1.0-dev.4",
 		"jpegger": "^0.1.3",
 		"mkdirp": "^1.0.4",
@@ -53,7 +54,7 @@
 		"menutown": "0.0.1",
 		"shopper": "0.2.0-dev.11",
 		"sorry-not-sorry": "0.0.3",
-		"xiome": "^0.0.9"
+		"xiome": "^0.0.11"
 	},
 	"author": "Chase Moskal <chasemoskal@gmail.com>"
 }
