@@ -5,6 +5,69 @@ block append variables
 	- pageName = "community"
 	- pageSubtitle = "Community Livestream"
 
+block append head
+	script(defer src="https://rumbletalk.com/client/?9T_J4dPS")
+	style.
+		.live {
+			padding: 0 1em;
+			max-width: 1600px;
+			margin: auto;
+			text-align: left;
+		}
+		.live .boxes {
+			width: 100%;
+			display: flex;
+			flex-direction: row;
+			flex-wrap: wrap;
+		}
+		.live .boxes > * {
+			flex: 1 1 16em;
+			padding: 0.5em;
+		}
+		.live .boxes .videobox {
+			flex-grow: 3;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			background: #0281;
+		}
+		.live .boxes .videobox img {
+			width: 100%;
+			aspect-ratio: 16 / 9;
+		}
+		.live .boxes .chatbox {
+			display: flex;
+			flex-direction: column;
+			background: #0282;
+		}
+		.live .boxes .chatbox > * {
+			flex: 1 1 auto;
+		}
+		.live .boxes .chatbox[data-active="false"] {
+			display: none;
+		}
+		.live .boxes .chatbox iframe {
+			height: 100% !important;
+			width: 100% !important;
+			min-height: 16em;
+		}
+
+		.live .controls {
+			padding: 1em;
+			text-align: center;
+		}
+		.live .controls button {
+			font: inherit;
+			padding: 0.2em 0.6em;
+			background: transparent;
+			border: 2px solid;
+			border-radius: 5px;
+			cursor: pointer;
+		}
+		.live .controls button:hover {
+			background: #0282;
+		}
+
 block main
 	div(data-community-page="livestream")
 		.plate
@@ -13,4 +76,20 @@ block main
 				a(href="./qa" data-tag="new") Q&amp;A
 				a(data-tag="soon" data-marked) Livestream
 				a(data-tag="soon") Premium
-			xiome-video-display
+		.live
+			.boxes
+				.videobox
+					//- img(src="/assets/images-medium/courses/suzie-event-01.jpg")
+					xiome-video-display(initially-hidden)
+						p(slot="no-show") livestream is coming soon
+				.chatbox(data-active="true")
+					#rt-35e3fcc069ae73f210c414da183378b9
+			.controls
+				button.togglechat Toggle Chat
+			script.
+				const chatbox = document.querySelector(".live .chatbox")
+				const toggle = document.querySelector(".live .togglechat")
+				toggle.onclick = () => {
+					const isActive = chatbox.getAttribute("data-active") === "true"
+					chatbox.setAttribute("data-active", isActive ? "false" : "true")
+				}
