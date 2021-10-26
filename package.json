@@ -39,9 +39,9 @@
 		"npm-run-all": "^4.1.5",
 		"pug-cli": "1.0.0-alpha6",
 		"rimraf": "^3.0.2",
-		"rollup": "^2.58.0",
+		"rollup": "^2.58.3",
 		"rollup-plugin-sizes": "^1.0.4",
-		"sass": "^1.43.2",
+		"sass": "^1.43.4",
 		"serve": "^12.0.1",
 		"terser": "^5.9.0",
 		"typescript": "^4.4.4"
@@ -54,7 +54,7 @@
 		"menutown": "0.0.1",
 		"shopper": "0.2.0-dev.11",
 		"sorry-not-sorry": "0.0.3",
-		"xiome": "^0.0.15"
+		"xiome": "^0.0.16"
 	},
 	"author": "Chase Moskal <chasemoskal@gmail.com>"
 }
