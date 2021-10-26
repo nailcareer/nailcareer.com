@@ -30,18 +30,13 @@ import {Component, html, mixinStyles, css, TemplateResult} from "../framework/co
 `)
 export class NceFooter extends Component {
 
-	private emailLink({user, domain}: {user: string, domain: string}) {
-		const email = `${user}@${domain}`
-		return html`<a part=link target=_blank href="mailto:${email}">${email}</a>`
-	}
-
 	render(): TemplateResult {
 		return html`
 			<footer>
 				<p><strong>Suzie’s Nail Career Education Inc</strong></p>
-				<p>For questions about the store or shipping, email ${this.emailLink({user: "angie", domain: "nailcareer.com"})}</p>
-				<p>For questions about the website or community, email ${this.emailLink({user: "chase", domain: "nailcareer.com"})}</p>
-				<p>For business inquiries, email ${this.emailLink({user: "suzie", domain: "nailcareer.com"})}</p>
+				<p>For questions about the store or shipping, email <nce-email user="angie" domain="nailcareer.com"></nce-email></p>
+				<p>For questions about the website or community, email <nce-email user="chase" domain="nailcareer.com"></nce-email></p>
+				<p>For business inquiries, email <nce-email user="suzie" domain="nailcareer.com"></nce-email></p>
 				<p>
 					Store
 					<a part=link target=_blank href="https://github.com/nailcareer/nailcareer.com/blob/master/legal/privacy-policy.md">privacy policy</a>
