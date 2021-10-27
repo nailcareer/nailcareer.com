@@ -43,7 +43,7 @@ block append head
 		.live .boxes .chatbox > * {
 			flex: 1 1 auto;
 		}
-		.live .boxes .chatbox[data-active="false"] {
+		.live[data-chat="false"] .boxes .chatbox {
 			display: none;
 		}
 		.live .boxes .chatbox iframe {
@@ -58,6 +58,7 @@ block append head
 		}
 		.live .controls button {
 			font: inherit;
+			color: currentColor;
 			padding: 0.2em 0.6em;
 			background: transparent;
 			border: 2px solid;
@@ -66,6 +67,29 @@ block append head
 		}
 		.live .controls button:hover {
 			background: #0282;
+		}
+		.helpboxes {
+			display: flex;
+			flex-direction: row;
+			flex: 1 1 16em;
+			flex-wrap: wrap;
+			gap: 1em;
+		}
+		.helpboxes > * {
+			padding: 1em;
+			max-width: 24em;
+		}
+		.helpboxes > * > * + * {
+			margin-top: 0.6em;
+		}
+		.live[data-chat="true"] .help-chat .toggle {
+			display: none;
+		}
+		.help-chat ul {
+			padding-left: 1.5em;
+		}
+		.help-chat ul > li + li {
+			margin-top: 0.5em;
 		}
 
 block main
@@ -76,20 +100,34 @@ block main
 				a(href="./qa" data-tag="new") Q&amp;A
 				a(data-tag="soon" data-marked) Livestream
 				a(data-tag="soon") Premium
-		.live
+		.live(data-chat="true")
 			.boxes
 				.videobox
 					//- img(src="/assets/images-medium/courses/suzie-event-01.jpg")
 					xiome-video-display(initially-hidden)
-						p(slot="no-show") livestream is coming soon
-				.chatbox(data-active="true")
+						p(slot="unavailable") livestream is coming soon
+						p(slot="unprivileged") your account does not have permission to view the livestream
+				.chatbox
 					#rt-35e3fcc069ae73f210c414da183378b9
 			.controls
 				button.togglechat Toggle Chat
+			.helpboxes
+				.help-stream
+					h3 Welcome Suzie's Livestream
+					p Stay tuned for scheduling information.
+					p If you are having troubles getting the livestream working, please email #[nce-email(user="chase" domain="nailcareer.com")]
+				.help-chat
+					h3 How to participate in the live chat
+					ul
+						li.toggle Press the "Toggle Chat" button
+						li Press #[em "Click here to join the conversation..."]
+						li Select #[em "Guest"] as your login method
+						li Make up a nickname just for the livechat
+						li Type your message to Suzie and press Enter
 			script.
-				const chatbox = document.querySelector(".live .chatbox")
+				const live = document.querySelector(".live")
 				const toggle = document.querySelector(".live .togglechat")
 				toggle.onclick = () => {
-					const isActive = chatbox.getAttribute("data-active") === "true"
-					chatbox.setAttribute("data-active", isActive ? "false" : "true")
+					const isActive = live.getAttribute("data-chat") === "true"
+					live.setAttribute("data-chat", isActive ? "false" : "true")
 				}
