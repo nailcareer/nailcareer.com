@@ -40,7 +40,10 @@ block append head
 			flex-direction: column;
 			background: #0282;
 		}
-		.live .boxes .chatbox > * {
+		.live .boxes .chatbox > xiome-video-companion {
+			height: 100%;
+		}
+		.live .boxes .chatbox > xiome-video-companion > * {
 			flex: 1 1 auto;
 		}
 		.live[data-chat="false"] .boxes .chatbox {
@@ -107,8 +110,8 @@ block main
 					xiome-video-display(initially-hidden)
 						p(slot="unavailable") livestream is coming soon
 						p(slot="unprivileged") your account does not have permission to view the livestream
-				xiome-video-companion(initially-hidden).chatbox
-					#rt-35e3fcc069ae73f210c414da183378b9
+				.chatbox
+					xiome-video-companion(initially-hidden)#rt-35e3fcc069ae73f210c414da183378b9
 			.controls
 				button.togglechat Toggle Chat
 			.helpboxes
