@@ -1,0 +1,23 @@
+
+extends ../../../_templates/_store-product.pug
+
+block append variables
+	- pageSubtitle = "Golden Foil"
+
+block product
+	shopper-product(restocking-soon link="6828675137572")
+
+block visual
+	<carouse-carousel data-aspect="1x1" loop hidden>
+		<figure><img src="/assets/images-medium/products/foil/foil-gold.jpg"/></figure>
+	</carouse-carousel>
+
+block writeup
+	h3 Decorative foil for nail art inlays or polish secure
+	ul
+		li
+			strong Inlay
+			span &nbsp;— place pieces of foil in between layers of hard gel, acrylic, or hybrids. Place on top of uncured acrylic or before you cure gels, then apply your product of choice on top. Watch it brighten and come to life as you apply top coat.
+		li
+			strong Polish Secure
+			span &nbsp;— place on top of nail polish, gel polish, or fully sculpted nail enhancements. Apply to freshly applied polish or gel polish #[em before] you cure it. Apply top coat to secure your foil and watch it come to life.
