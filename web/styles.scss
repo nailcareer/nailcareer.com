@@ -30,6 +30,34 @@ html {
 	color: #5b9d9a;
 }
 
+.black-friday-sale {
+	background: #333a;
+	max-width: 32em;
+	border-radius: 0.2em;
+	padding: 1em 4em;
+	margin-bottom: 1em;
+	color: white;
+	text-shadow: 1px 2px 3px #0008;
+	text-align: center;
+}
+
+.black-friday-sale > * + * {
+	margin-top: 1em;
+}
+
+.black-friday-sale h2 {
+	font-family: serif;
+	text-transform: uppercase;
+}
+
+.black-friday-sale a {
+	color: cyan;
+}
+
+.black-friday-sale strong {
+	text-decoration: underline;
+}
+
 a, *::part(link) {
 	opacity: 0.7;
 	color: #007eff;
