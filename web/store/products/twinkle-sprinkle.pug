@@ -1,0 +1,21 @@
+
+extends ../../_templates/_store-product.pug
+
+block append variables
+	- pageSubtitle = "Twinkle Sprinkle"
+
+block product
+	shopper-product(restocking-soon link="6875089403940")
+
+block visual
+	<carouse-carousel data-aspect="1x1" loop hidden>
+		<figure><img src="/assets/images-medium/products/twinkle-sprinkle/twinkle-sprinkle-01.jpg"/></figure>
+	</carouse-carousel>
+
+block writeup
+	h2 High Quality 1mm Tiny Micro Crystal AB Rhinestones
+	p Instructions
+	ol
+		li Pour or dip freshly painted nails with ‘Twinkle Sprinkle’
+		li Apply polish on top
+		li Let dry

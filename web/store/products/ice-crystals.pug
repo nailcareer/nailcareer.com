@@ -1,0 +1,18 @@
+
+extends ../../_templates/_store-product.pug
+
+block append variables
+	- pageSubtitle = "Ice Crystals"
+
+block product
+	shopper-product(restocking-soon link="6875103199268")
+
+block visual
+	<carouse-carousel data-aspect="1x1" loop hidden>
+		<figure><img src="/assets/images-medium/products/ice-crystals/icecrystals-01.jpg"/></figure>
+	</carouse-carousel>
+
+block writeup
+	h2 Suzie's Ice Crystals Nail Art
+	p Diamonds, circles, rectangles, teardrops, and super-tiny beads.
+	p These are the same crystals I used in my "Icicles Stilettos" Video.
