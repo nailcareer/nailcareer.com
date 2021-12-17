@@ -32,11 +32,11 @@ jobs:
 
     - name: npm install and build
       shell: bash
-      run: |
-        npm install && npm run build
+      run: npm install && npm run build
 
     - name: deploy to gh-pages 🚀
-      uses: JamesIves/github-pages-deploy-action@4.1.4
+      uses: JamesIves/github-pages-deploy-action@4.1.7
       with:
         branch: gh-pages
         folder: x
+        single-commit: true
