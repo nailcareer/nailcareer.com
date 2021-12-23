@@ -30,29 +30,34 @@ html {
 	color: #5b9d9a;
 }
 
-.salebanner {
+.noticebanner {
 	background: white;
 	max-width: 32em;
 	border-radius: 0.2em;
-	padding: 1em 4em;
-	margin-bottom: 1em;
+	padding: 0.2em 2em;
+	margin: auto;
+	margin-bottom: 0.5em;
 	text-align: center;
 }
 
-.salebanner > * + * {
-	margin-top: 0.3em;
+.noticebanner.alert {
+	background: transparent;
 }
 
-.salebanner h2 {
+.noticebanner > * + * {
+	margin-top: 0.2em;
+}
+
+.noticebanner h2 {
 	font-family: serif;
 	text-transform: uppercase;
 }
 
-.salebanner a {
+.noticebanner a {
 	color: #009fff;
 }
 
-.salebanner strong {
+.noticebanner strong {
 	text-decoration: underline;
 }
 
