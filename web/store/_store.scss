@@ -219,6 +219,7 @@
 }
 
 .productgrid > [data-new]::before,
+.productgrid > [data-notice]::before,
 .productgrid > [sale]::before,
 .productgrid > [out-of-stock]::before {
 	position: absolute;
@@ -241,6 +242,17 @@
 	content: "NEW!";
 	background: #00f3ff;
 	border: 3px solid;
+}
+
+.productgrid > [data-notice]::before {
+	font-size: 0.6em;
+	z-index: 1;
+	left: -0.8em;
+	right: unset;
+	content: "ℹ️ " attr(data-notice);
+	max-width: 10em;
+	background: #5a23a391;
+	transform: rotate(-10deg);
 }
 
 .productgrid > [sale]::before {
@@ -308,6 +320,15 @@
 			}
 		}
 	}
+}
+
+.productnotice {
+	max-width: 24em;
+	background: #ffb00057;
+	color: #8c812f;
+	font-weight: bold;
+	padding: 1em;
+	border-radius: 0.5em;
 }
 
 .youtube-embed {
