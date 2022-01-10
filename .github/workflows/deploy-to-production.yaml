@@ -14,27 +14,27 @@ jobs:
 
     steps:
 
-    ##
-    ## checkout and docker setup
-    ##
-
-    - name: checkout
+    - name: 🛎️ checkout
       uses: actions/checkout@v2
 
-    - name: set up node
-      uses: actions/setup-node@v1
+    - name: 🔧 set up node
+      uses: actions/setup-node@v2
       with:
-        node-version: 15
+        node-version: '17'
 
-    ##
-    ## project build
-    ##
-
-    - name: npm install and build
+    - name: 📦 npm install dependencies
       shell: bash
-      run: npm install && npm run build
+      run: npm install
 
-    - name: deploy to gh-pages 🚀
+    - name: 🔨 build
+      shell: bash
+      run: npm run build
+
+    - name: 🗃️ copy node_modules
+      shell: bash
+      run: npm ci --production && rm -rf x/node_modules x/s && cp -r node_modules/ x/ && cp -r s/ x/
+
+    - name: 🚀 deploy to gh-pages
       uses: JamesIves/github-pages-deploy-action@4.1.7
       with:
         branch: gh-pages

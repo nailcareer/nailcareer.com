@@ -5,10 +5,12 @@
 	"description": "nailcareer website",
 	"license": "UNLICENSED",
 	"scripts": {
-		"build": "run-s clean copy-metafiles verifications && run-p compile-tsc compile-sass importmap assets compile-pug && run-p compile-bundle",
+		"build": "run-s clean copy-metafiles link-node_modules link-s verifications && run-p compile-tsc compile-sass importmap assets compile-pug && run-p compile-bundle",
 		"clean": "rimraf x && mkdirp x x/assets/images",
 		"verifications": "cp web/verifications/facebook/* x",
 		"copy-metafiles": "cp CNAME .nojekyll x/",
+		"link-s": "ln -s $(realpath s) x/s",
+		"link-node_modules": "ln -s $(realpath node_modules) x/node_modules",
 		"importmap": "importly < package-lock.json > x/importmap.json",
 		"compile-tsc": "tsc",
 		"compile-pug": "pug -o x web -O '{\"debug\": false}'",
@@ -18,12 +20,11 @@
 		"import-new-images": "jpegger --indir assets/images-to-import --outdir assets/images --quality 80 --size 2000",
 		"assets": "run-s copy-assets && run-p images-small images-medium",
 		"copy-assets": "cp -R assets/images x/assets",
-		"symlink-modules": "rm -rf x/node_modules && ln -s $(realpath node_modules) x/node_modules",
 		"images-small": "jpegger --indir assets/images --outdir x/assets/images-small --size 600",
 		"images-medium": "jpegger --indir assets/images --outdir x/assets/images-medium --size 1200",
 		"images-large": "jpegger --indir assets/images --outdir x/assets/images-large --size 2000",
 		"images-full": "jpegger --indir assets/images --outdir x/assets/images-full",
-		"watch": "run-p importmap symlink-modules && run-p watch-tsc watch-pug watch-sass",
+		"watch": "run-p importmap && run-p watch-tsc watch-pug watch-sass",
 		"watch-tsc": "npm run compile-tsc -s -- --watch",
 		"watch-pug": "npm run compile-pug-debug -s -- --watch",
 		"watch-sass": "npm run compile-sass -s -- --watch",
@@ -47,6 +48,8 @@
 		"typescript": "^4.5.4"
 	},
 	"dependencies": {
+		"@babel/polyfill": "^7.12.1",
+		"@webcomponents/webcomponentsjs": "^2.6.0",
 		"carouse": "0.0.1",
 		"es-module-shims": "^1.4.1",
 		"lit-element": "^3.1.1",
@@ -54,7 +57,8 @@
 		"menutown": "0.0.1",
 		"shopper": "0.2.0-dev.11",
 		"sorry-not-sorry": "0.0.3",
-		"xiome": "^0.0.18"
+		"whatwg-fetch": "^3.6.2",
+		"xiome": "^0.0.19"
 	},
 	"author": "Chase Moskal <chasemoskal@gmail.com>"
 }
