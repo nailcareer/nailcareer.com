@@ -24,7 +24,7 @@
 		"images-medium": "jpegger --indir assets/images --outdir x/assets/images-medium --size 1200",
 		"images-large": "jpegger --indir assets/images --outdir x/assets/images-large --size 2000",
 		"images-full": "jpegger --indir assets/images --outdir x/assets/images-full",
-		"watch": "run-p importmap && run-p watch-tsc watch-pug watch-sass",
+		"watch": "run-p watch-tsc watch-pug watch-sass",
 		"watch-tsc": "npm run compile-tsc -s -- --watch",
 		"watch-pug": "npm run compile-pug-debug -s -- --watch",
 		"watch-sass": "npm run compile-sass -s -- --watch",

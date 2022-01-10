@@ -6,7 +6,6 @@ block append variables
 	- pageSubtitle = "Community Livestream"
 
 block append head
-	script(defer src="https://rumbletalk.com/client/?9T_J4dPS")
 	style.
 		.live {
 			padding: 0 1em;
@@ -111,7 +110,8 @@ block main
 						p(slot="unavailable") livestream is coming soon
 						p(slot="unprivileged") your account does not have permission to view the livestream
 				.chatbox
-					xiome-video-companion(initially-hidden)#rt-35e3fcc069ae73f210c414da183378b9
+					xiome-video-companion(initially-hidden)
+						xiome-chat
 			.controls
 				button.togglechat Toggle Chat
 			.helpboxes

@@ -81,6 +81,12 @@
 		}
 	}
 
+	[data-community-page="livestream"] {
+		xiome-chat {
+			font-size: 0.7em;
+		}
+	}
+
 	[data-community-page="admin"] {
 		.feature xiome-login-panel > * {
 			display: block;
