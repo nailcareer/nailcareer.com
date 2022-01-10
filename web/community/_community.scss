@@ -81,9 +81,16 @@
 		}
 	}
 
+	[data-community-page="livestream-chat"] {
+		xiome-chat {
+			--xiome-chat-history-height: 40em;
+		}
+	}
+
 	[data-community-page="livestream"] {
 		xiome-chat {
 			font-size: 0.7em;
+			--xiome-chat-history-height: 15em;
 		}
 		.live {
 			padding: 0 1em;
