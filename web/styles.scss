@@ -188,7 +188,7 @@ menu-system {
 	}
 	shopper-cart {
 		.cart-checkout::before {
-			content: "Note: prices on the next page will be displayed in Canadian Dollars (CAD), but your card will be charged appropriately in your local currency.";
+			content: "Note: Prices on final checkout page are shown in US Dollars";
 			display: block;
 			max-width: 24em;
 			margin-bottom: 1em;
