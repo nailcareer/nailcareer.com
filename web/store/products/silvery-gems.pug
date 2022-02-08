@@ -1,0 +1,22 @@
+
+extends ../../_templates/_store-product.pug
+
+block append variables
+	- pageSubtitle = "Silvery Assorted Gems"
+
+block product
+	shopper-product(restocking-soon link="6875102871588")
+
+block visual
+	<carouse-carousel data-aspect="1x1" arrows dots loop hidden>
+		<figure><img src="/assets/images-medium/products/silvery-gems/silvery-gems-01.jpg"/></figure>
+		<figure><img src="/assets/images-medium/products/silvery-gems/silvery-gems-02.jpg"/></figure>
+	</carouse-carousel>
+
+block writeup
+	h2 Suzie's New Silvery Nail Art Gems
+	p This jar is loaded with flatbacks, pearls, large and small- Crystal flat box of several different sizes, half circles, and arrowheads.
+	br
+	p Suzie used this product in her video: <em>"Mrs. Clause Builds Icicles"</em>:
+	.youtube-embed
+		<iframe src="https://www.youtube.com/embed/_D7uDG1TO18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

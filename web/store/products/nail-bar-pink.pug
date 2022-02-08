@@ -1,0 +1,16 @@
+
+extends ../../_templates/_store-product.pug
+
+block append variables
+	- pageSubtitle = "Suzie’s Pink Nail Bar"
+
+block product
+	shopper-product(restocking-soon uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTMxODUxMjAyOTI=")
+
+block visual
+	<carouse-carousel loop hidden>
+		<figure><img src="/assets/images-medium/products/nail-bar/nail-bar-01.jpg"/></figure>
+	</carouse-carousel>
+
+block writeup
+	<p>Display your nail art on this adorable nail tip bar. Very handy to show your work for glamour shots. Includes five golden posts and a pack of assorted tips.</p>

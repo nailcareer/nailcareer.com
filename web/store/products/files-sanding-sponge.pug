@@ -1,0 +1,20 @@
+
+extends ../../_templates/_store-product.pug
+
+block append variables
+	- pageSubtitle = "Suzie’s Sanding Sponge (7 pack)"
+
+block product
+	shopper-product(restocking-soon uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTMxODg1OTM3MDA=")
+
+block visual
+	<carouse-carousel data-aspect="1x1" loop hidden>
+		<figure><img src="/assets/images-medium/products/files-bulk/files-bulk-04.jpg"/></figure>
+	</carouse-carousel>
+
+block writeup
+	<ul>
+		<li>80/80 grit</li>
+		<li>ideal for sanding</li>
+		<li>flexibly surrounds the nail</li>
+	</ul>

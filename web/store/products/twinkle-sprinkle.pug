@@ -1,0 +1,26 @@
+
+extends ../../_templates/_store-product.pug
+
+block append variables
+	- pageSubtitle = "Twinkle Sprinkle"
+
+block product
+	shopper-product(restocking-soon link="6875089403940")
+
+block visual
+	<carouse-carousel data-aspect="1x1" loop hidden>
+		<figure><img src="/assets/images-medium/products/twinkle-sprinkle/twinkle-sprinkle-01.jpg"/></figure>
+	</carouse-carousel>
+
+block writeup
+	h2 High Quality 1mm Tiny Micro Crystal AB Rhinestones
+	p 10.5 grams
+	h3 Instructions
+	ol
+		li Pour or dip freshly painted nails with ‘Twinkle Sprinkle’
+		li Apply polish on top
+		li Let dry
+	br
+	p Suzie used this product in her video: <em>"Mrs. Clause Builds Icicles"</em>:
+	.youtube-embed
+		<iframe src="https://www.youtube.com/embed/_D7uDG1TO18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

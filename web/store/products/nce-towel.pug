@@ -1,0 +1,19 @@
+
+extends ../../_templates/_store-product.pug
+
+block append variables
+	- pageSubtitle = "Suzie’s Towel"
+
+block product
+	shopper-product(restocking-soon link="https://nail-career-education.myshopify.com/admin/products/6696160362532")
+
+block visual
+	<carouse-carousel data-aspect="1x1" arrows dots loop hidden>
+		<figure><img src="/assets/images-medium/products/nce-towel/towel-02-brighter.jpg"/></figure>
+		<figure><img src="/assets/images-medium/products/nce-towel/towel-04-brighter.jpg"/></figure>
+		<figure><img src="/assets/images-medium/products/nce-towel/towel-01-brighter.jpg"/></figure>
+		<figure><img src="/assets/images-medium/products/nce-towel/towel-03.jpg"/></figure>
+	</carouse-carousel>
+
+block writeup
+	p This adorable microfibre towel will decorate your nail table and create a soft surface for hands.

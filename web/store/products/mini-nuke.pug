@@ -1,0 +1,29 @@
+
+extends ../../_templates/_store-product.pug
+
+block append variables
+	- pageSubtitle = "Mini Nuke"
+
+block product
+	shopper-product(restocking-soon link="6875100250148")
+
+block visual
+	<carouse-carousel data-aspect="1x1" arrows dots loop hidden>
+		<figure><img src="/assets/images-medium/products/mini-nuke/mini-nuke-01.jpg"/></figure>
+		<figure><img src="/assets/images-medium/products/mini-nuke/mini-nuke-02.jpg"/></figure>
+		<figure><img src="/assets/images-medium/products/mini-nuke/mini-nuke-03.jpg"/></figure>
+	</carouse-carousel>
+
+block writeup
+	h2 Suzie's Gel Lamp
+	p Mini Nuke packs POWER. This compact lamp is powerful enough to cure hard gels and hybrid gels as well as soft gels.
+	p Details:
+	ol
+		li One year warranty
+		li 4 Finger Lamp
+		li Power- 5W
+		li Size 129x76x59mm
+		li Timer-30 sec
+		li 12 pcs LED Bulbs
+		li Micro USB
+		li 50gr

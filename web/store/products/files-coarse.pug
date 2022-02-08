@@ -1,0 +1,20 @@
+
+extends ../../_templates/_store-product.pug
+
+block append variables
+	- pageSubtitle = "Suzie’s Coarse Files (25 pack)"
+
+block product
+	shopper-product(restocking-soon uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTMxODc2MTA2NjA=")
+
+block visual
+	<carouse-carousel data-aspect="1x1" loop hidden>
+		<figure><img src="/assets/images-medium/products/files-bulk/files-bulk-05.jpg"/></figure>
+	</carouse-carousel>
+
+block writeup
+	<ul>
+		<li>100/100 grit</li>
+		<li>ideal for sculpting</li>
+		<li>low-profile for ease between nail and finger</li>
+	</ul>

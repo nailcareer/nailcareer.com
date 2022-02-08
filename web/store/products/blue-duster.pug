@@ -1,0 +1,16 @@
+
+extends ../../_templates/_store-product.pug
+
+block append variables
+	- pageSubtitle = "Suzie’s Blue Duster"
+
+block product
+	shopper-product(restocking-soon link="6814424137764")
+
+block visual
+	<carouse-carousel loop hidden>
+		<figure><img src="/assets/images-medium/products/blue-duster/blue-duster-03.jpg"/></figure>
+	</carouse-carousel>
+
+block writeup
+	<p>Easily remove fine dust from nails with this soft nylon hair brush. Effective for Acrylic and Gel dust removal.</p>

@@ -1,0 +1,26 @@
+
+extends ../../_templates/_store-product.pug
+
+block append variables
+	- pageSubtitle = "Suzie’s Apron"
+
+block product
+	shopper-product(restocking-soon uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE1MDI3MDAyMDgxNjQ=")
+
+block visual
+	<carouse-carousel arrows dots loop hidden>
+		<figure><img src="/assets/images-medium/products/apron/nce-apron-03.jpg"/></figure>
+		<figure><img src="/assets/images-medium/products/apron/nce-apron-02.jpg"/></figure>
+	</carouse-carousel>
+
+block writeup
+	<h2>Nuke it with Suzie!</h2>
+	<p>I personally designed this apron to protect clothing from spills, splatters and dust. I also designed it to look really cute!</p>
+	<p>I added a front pocket to hold your phone, or your files, or whatever!</p>
+	<p><em>Each order comes with two aprons</em></p>
+	<ul>
+		<li>Crisp eggshell-white waffle cotton hides nail dust</li>
+		<li>Piped lining for a finished look</li>
+		<li>Front pocket for easy tool/accessory access</li>
+		<li>Goes with anything you wear!</li>
+	</ul>

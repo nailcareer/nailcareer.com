@@ -1,0 +1,31 @@
+
+extends ../../_templates/_store-product.pug
+
+block append variables
+	- pageSubtitle = "Suzie’s Ez-File"
+
+block product
+	shopper-product(restocking-soon link="6748213674020")
+
+block visual
+	<carouse-carousel data-aspect="3x2" arrows dots loop hidden>
+		<figure><img src="/assets/images-medium/products/ezfile/ezfile-01.jpg"/></figure>
+		<figure><img src="/assets/images-medium/products/ezfile/ezfile-02.jpg"/></figure>
+		<figure><img src="/assets/images-medium/products/ezfile/ezfile-03.jpg"/></figure>
+		<figure><img src="/assets/images-medium/products/ezfile/ezfile-04.jpg"/></figure>
+		<figure><img src="/assets/images-medium/products/ezfile/ezfile-05.jpg"/></figure>
+	</carouse-carousel>
+
+block writeup
+
+	.productnotice ℹ️ UK Shipping is temporarily not available for this product (because lithium is restricted)
+
+	h2 Powerful, yet gentle.
+	p This e-file’s range allows low speeds for natural nails, and reaches strong speeds for removing/sculpting gel polish, gel tips, hybrid, hard gel, dip powder, and strong acrylic.
+	p Lightweight and portable- you can take this e-file anywhere to file nails quickly. Whether you're at a fashion show, at the nail table, or just want to be comfy on your couch!
+	p ⚠️ E-Files and bits require training and practice before safe usage on humans. This product is intended to be used on humans only by a professional.
+	ul
+		li Fits 3/32 bits.
+		li Power 25W, Voltage 12V/2A
+		li Rated speed: up to 35,000 RPM
+		li Includes: power box, quick-change hand piece, hand piece holder and bits.
