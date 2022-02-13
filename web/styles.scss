@@ -194,9 +194,6 @@ xio-menu {
 		width: var(--avatar-size);
 		height: var(--avatar-size);
 	}
-	shopper-button {
-		font-size: 0.7rem;
-	}
 	shopper-cart {
 		.cart-checkout::before {
 			content: "Note: Prices on final checkout page are shown in US Dollars";
