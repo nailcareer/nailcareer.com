@@ -41,11 +41,11 @@ head
 body(data-page=pageName)
 	nce-header(current-page=pageName initially-hidden)
 		.menuarea
-			xio-menu(sticky initially-hidden)
-				xio-menu-item(data-label="shopper")
+			menu-system(sticky initially-hidden)
+				menu-display(data-label="shopper")
 					shopper-button(slot="button")
 					shopper-cart
-				xio-menu-item(data-label="account")
+				menu-display(data-label="account")
 					xiome-my-avatar(slot="button")
 					xiome-login-panel(show-logout)
 						p(slot="logged-out") Enter your email to login or create an account
