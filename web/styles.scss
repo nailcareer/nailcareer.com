@@ -174,17 +174,25 @@ body > * {
 	position: relative;
 }
 
-menu-system {
+xio-menu {
 	text-align: initial;
+	border-radius: 0.5em;
 	--menu-lanesize: 0.5em;
 	--menu-margin: 0.5em 0 0 0;
 	--menu-background: #00a6ff47;
 	@media (min-width: 640px) {
 		--menu-margin: 1em 0 0 0;
 	}
-	shopper-button {
+	&[active] xio-menu-item:not([open]) {
+		opacity: 0.6;
+	}
+	:is(shopper-button, xiome-my-avatar) {
 		cursor: pointer;
 		border-radius: 0.3em;
+		--shopper-button-padding: 0.3em;
+		--avatar-size: 2rem;
+		width: var(--avatar-size);
+		height: var(--avatar-size);
 	}
 	shopper-cart {
 		.cart-checkout::before {
