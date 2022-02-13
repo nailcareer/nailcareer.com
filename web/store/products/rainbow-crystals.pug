@@ -1,0 +1,21 @@
+
+extends ../../_templates/_store-product.pug
+
+block append variables
+	- pageSubtitle = "Rainbow Crystals"
+
+block product
+	shopper-product(restocking-soon link="6944657506340")
+
+block visual
+	<carouse-carousel data-aspect="3x2" arrows dots loop hidden>
+		<figure><img src="/assets/images-medium/products/rainbow-crystals/rainbow-01.jpg"/></figure>
+		<figure><img src="/assets/images-medium/products/rainbow-crystals/rainbow-layers.jpg"/></figure>
+	</carouse-carousel>
+
+block writeup
+	h2 Suzie's Rainbow Crystals Nail Art
+	p Diamonds, circles, rectangles, teardrops, and super-tiny beads.
+	<ul>
+		<li>Keep out of reach of children</li>
+	</ul>
