@@ -11,7 +11,7 @@
 		"copy-metafiles": "cp CNAME .nojekyll x/",
 		"link-s": "ln -s $(realpath s) x/s",
 		"link-node_modules": "ln -s $(realpath node_modules) x/node_modules",
-		"link-assets": "ln -s $(realpath assets/graphics) x/assets/graphics",
+		"link-assets": "rm -rf x/assets/graphics && ln -s $(realpath assets/graphics) x/assets/graphics",
 		"importmap": "importly < package-lock.json > x/importmap.json",
 		"compile-tsc": "tsc",
 		"compile-pug": "pug -o x web -O '{\"debug\": false}'",
