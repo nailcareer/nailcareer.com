@@ -183,19 +183,36 @@ xio-menu {
 	@media (min-width: 640px) {
 		--menu-margin: 1em 0 0 0;
 	}
+	&::part(list) {
+		border-radius: 0.5em;
+		gap: 0.2em;
+	}
+	xio-menu-item {
+		width: 2em;
+		height: 2em;
+		&::part(button) {
+			padding: 0.3em;
+			cursor: pointer;
+			background: white;
+			border-radius: 0.5em;
+		}
+	}
 	&[active] xio-menu-item:not([open]) {
 		opacity: 0.6;
 	}
-	:is(shopper-button, xiome-my-avatar) {
-		cursor: pointer;
-		border-radius: 0.3em;
-		--shopper-button-padding: 0.3em;
-		--avatar-size: 2rem;
-		width: var(--avatar-size);
-		height: var(--avatar-size);
+	xio-avatar {
+		--avatar-border-radius: 0.5em;
+	}
+	xio-menu-item[data-label="account"]::part(button) {
+		background: transparent;
 	}
 	shopper-button {
+		width: 100%;
+		height: 100%;
 		font-size: 0.7rem;
+		background: transparent;
+		padding: 0;
+		--shopper-button-padding: 0;
 	}
 	shopper-cart {
 		.cart-checkout::before {

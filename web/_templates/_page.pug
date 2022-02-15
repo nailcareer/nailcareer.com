@@ -34,7 +34,7 @@ head
 		script(defer src="/node_modules/whatwg-fetch/dist/fetch.umd.js")
 		script(defer src="/node_modules/@webcomponents/webcomponentsjs/webcomponents-bundle.js")
 		script(defer src="/main.bundle.min.js")
-		script(defer src="https://xiome.io/xiome.bundle.min.js")
+		script(defer src="/node_modules/xiome/x/xiome.bundle.min.js")
 
 	block head
 
@@ -43,11 +43,11 @@ body(data-page=pageName)
 		.menuarea
 			xio-menu(sticky initially-hidden)
 				xio-menu-item(data-label="shopper")
-					shopper-button(slot="button")
-					shopper-cart
+					shopper-button
+					shopper-cart(slot="panel")
 				xio-menu-item(data-label="account")
-					xiome-my-avatar(slot="button")
-					xiome-login-panel(show-logout)
+					xiome-my-avatar
+					xiome-login-panel(slot="panel" show-logout)
 						p(slot="logged-out") Enter your email to login or create an account
 						xiome-my-account
 							h3 your account
