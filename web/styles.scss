@@ -23,11 +23,22 @@ html {
 	font-family: Raleway, sans-serif;
 	background: fixed linear-gradient(
 		to bottom,
-		#addde2,
-		#cefff6 15%,
 		#f3fffe,
+		#cefff6,
 	);
 	color: #5b9d9a;
+}
+
+[data-nightlight] {
+	background:
+		fixed linear-gradient(
+			to bottom,
+			#2b526073,
+			#0f1634,
+		),
+		url("/assets/graphics/night-bg-01.webp");
+	background-size: cover, cover;
+	color: white;
 }
 
 .noticebanner {
