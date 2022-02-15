@@ -359,3 +359,17 @@
 		aspect-ratio: 16 / 9;
 	}
 }
+
+details.memes {
+	padding: 1em;
+	border: 1px solid #00788b57;
+	> * + * {
+		margin-top: 0.5em;
+	}
+	img {
+		max-width: 100%;
+	}
+	[data-nightlight] & {
+		border-color: #fff4;
+	}
+}
