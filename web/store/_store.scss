@@ -91,6 +91,9 @@
 	padding: 1em;
 	background: #fffa;
 	box-shadow: 2px 3px 12px #0004;
+	[data-nightlight] & {
+		background: #7ccfff3d;
+	}
 }
 
 .productgrid .special .productbutton {
@@ -167,6 +170,10 @@
 	flex-direction: column;
 	align-items: center;
 	color: #666;
+	[data-nightlight] & {
+		color: #fffc;
+		text-shadow: 1px 2px 2px #0005;
+	}
 }
 
 .productgrid shopper-product .add-to-cart-button,
@@ -183,6 +190,10 @@
 	color: #007aff;
 	font-weight: bold;
 	text-decoration: none;
+	[data-nightlight] & {
+		color: cyan;
+		text-shadow: 0 2px 2px #0005;
+	}
 }
 
 .productgrid .special > * + * {
@@ -320,6 +331,12 @@
 			}
 		}
 	}
+
+	[data-nightlight] & {
+		> li {
+			background: #1f497ea3;
+		}
+	}
 }
 
 .productnotice {
@@ -329,11 +346,30 @@
 	font-weight: bold;
 	padding: 1em;
 	border-radius: 0.5em;
+	[data-nightlight] & {
+		color: #fff5ac;
+		background: #ffb00021;
+		text-shadow: 1px 2px 2px #0004;
+	}
 }
 
 .youtube-embed {
 	iframe {
 		width: 100%;
 		aspect-ratio: 16 / 9;
+	}
+}
+
+details.memes {
+	padding: 1em;
+	border: 1px solid #00788b57;
+	> * + * {
+		margin-top: 0.5em;
+	}
+	img {
+		max-width: 100%;
+	}
+	[data-nightlight] & {
+		border-color: #fff4;
 	}
 }
