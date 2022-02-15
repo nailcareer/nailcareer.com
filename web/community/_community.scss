@@ -58,6 +58,10 @@
 			max-width: 100%;
 			--xiome-questions-like-color: #006cff;
 			--xiome-questions-report-color: red;
+			[data-nightlight] & {
+				--xiome-questions-like-color: #67fff8;
+				--xiome-questions-report-color: #f90;
+			}
 			&::part(question-editor) {
 				border-bottom: 0;
 				padding-bottom: 0;
@@ -67,6 +71,9 @@
 				background: #fff8;
 				padding: 1em 0.5em;
 				border-radius: 1em;
+				[data-nightlight] & {
+					background: #27506059;
+				}
 			}
 			&::part(answer) {
 				padding: 1em 0.5em;
@@ -74,9 +81,15 @@
 				border: 3px solid white;
 				box-shadow: 1px 2px 7px #0002;
 				border-radius: 1em;
+				[data-nightlight] & {
+					background: #27506059;
+				}
 			}
 			&::part(bubble) {
 				border: 1px solid #2c675e40;
+				[data-nightlight] & {
+					border-color: #fff4;
+				}
 			}
 		}
 	}
