@@ -30,14 +30,15 @@ html {
 }
 
 [data-nightlight] {
+	background: #0f1634;
 	background:
-		fixed linear-gradient(
+		linear-gradient(
 			to bottom,
-			#2b526073,
-			#0f1634,
+			#5cb3c138,
+			#0f1634cc 800px,
 		),
-		url("/assets/graphics/night-bg-01.webp");
-	background-size: cover, cover;
+		fixed url("/assets/graphics/night-bg-01.webp");
+	background-size: cover, 100%;
 	color: white;
 }
 
@@ -85,6 +86,12 @@ a, *::part(link) {
 	&:visited {
 		color: #4a00ff;
 	}
+	[data-nightlight] & {
+		color: #aef;
+		&:hover, &:focus {
+			color: #8cf;
+		}
+	}
 }
 
 a[target="_blank"][data-external]::before {
@@ -117,6 +124,9 @@ a[target="_blank"][data-external]::before {
 	padding: 0.5em 0;
 	border-top: 1px solid #0002;
 	border-bottom: 1px solid #0002;
+	[data-nightlight] & {
+		border-color: #fff2;
+	}
 	a {
 		position: relative;
 		display: inline-block;
@@ -189,11 +199,8 @@ xio-menu {
 	text-align: initial;
 	border-radius: 0.5em;
 	--menu-lanesize: 0.5em;
-	--menu-margin: 0.5em 0 0 0;
+	--menu-margin: 0.3em 0 0 0;
 	--menu-background: #00a6ff47;
-	@media (min-width: 640px) {
-		--menu-margin: 1em 0 0 0;
-	}
 	&::part(list) {
 		border-radius: 0.5em;
 		gap: 0.2em;
@@ -206,10 +213,21 @@ xio-menu {
 			cursor: pointer;
 			background: white;
 			border-radius: 0.5em;
+			[data-nightlight] & {
+				background: #3e9eabc7;
+			}
+		}
+		&::part(panel) {
+			[data-nightlight] & {
+				background: #17698fe6;
+				margin-top: 0.3em;
+				border-radius: 0.5em;
+				box-shadow: 0 5px 10px #0008;
+			}
 		}
 	}
 	&[active] xio-menu-item:not([open]) {
-		opacity: 0.6;
+		opacity: 0.3;
 	}
 	xio-avatar {
 		--avatar-border-radius: 0.5em;

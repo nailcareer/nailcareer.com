@@ -91,6 +91,9 @@
 	padding: 1em;
 	background: #fffa;
 	box-shadow: 2px 3px 12px #0004;
+	[data-nightlight] & {
+		background: #7cffdc3d;
+	}
 }
 
 .productgrid .special .productbutton {
@@ -167,6 +170,10 @@
 	flex-direction: column;
 	align-items: center;
 	color: #666;
+	[data-nightlight] & {
+		color: #fffc;
+		text-shadow: 1px 2px 2px #0005;
+	}
 }
 
 .productgrid shopper-product .add-to-cart-button,
@@ -183,6 +190,10 @@
 	color: #007aff;
 	font-weight: bold;
 	text-decoration: none;
+	[data-nightlight] & {
+		color: cyan;
+		text-shadow: 0 2px 2px #0005;
+	}
 }
 
 .productgrid .special > * + * {
