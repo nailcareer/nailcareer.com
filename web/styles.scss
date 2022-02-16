@@ -198,14 +198,12 @@ body > * {
 xio-menu {
 	text-align: initial;
 	border-radius: 0.5em;
-	--menu-lanesize: 0;
+	--menu-lanesize: 0.5em;
 	--menu-margin: 0.3em 0 0 0;
 	&::part(list) {
 		border-radius: 0.5em;
 		gap: 0.2em;
 		background: #00a6ff47;
-		--webkit-backdrop-filter: blur(3px);
-		backdrop-filter: blur(3px);
 	}
 	xio-menu-item {
 		width: 2.5em;
