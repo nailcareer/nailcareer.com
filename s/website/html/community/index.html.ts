@@ -7,15 +7,15 @@ export default ({base, mode, ...context}: NceWebsiteContext) => pageHtml({
 ...context,
 base,
 mode,
-pageName: "store",
-pageSubtitle: "Store",
+pageName: "community",
+pageSubtitle: "Community",
 mainHtml: html`
 
 	<div data-community-page=welcome>
 		<div class=plate>
 			<nav class=subnav>
 				<a href="./" data-marked>Welcome</a>
-				<a href="./qa" data-tag="new">Q&amp;A</a>
+				<a href="./qa">Q&amp;A</a>
 				<a data-tag="soon">Livestream</a>
 				<a data-tag="soon">Premium</a>
 			</nav>
@@ -23,7 +23,7 @@ mainHtml: html`
 			<div class=sidebyside>
 				<div class=text>
 					<p>Suzie's new community is in early-access, and you can be one of the first members to join.</p>
-					<p>We're getting started with the #[a(href="./qa") Q&amp;A board] where you can submit your questions, and Suzie will answer her favourites in her videos!</p>
+					<p>We're getting started with the <a href="./qa">Q&amp;A board</a> where you can submit your questions, and Suzie will answer her favourites in her videos!</p>
 				</div>
 				<div class=image>
 					<img src="/assets/images-medium/courses/suzie-event-01.jpg" alt=""/>

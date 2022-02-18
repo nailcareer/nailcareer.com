@@ -5,6 +5,7 @@ import {html} from "xiome/x/toolbox/hamster-html/html.js"
 
 export default (context: NceWebsiteContext) => pageHtml({
 ...context,
+base: "/",
 pageName: "404",
 pageSubtitle: "Page Not Found",
 mainHtml: html`
