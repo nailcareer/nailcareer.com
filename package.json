@@ -11,7 +11,7 @@
 		"verifications": "cp s/website/verifications/facebook/* x",
 		"copy-metafiles": "cp CNAME .nojekyll x/",
 		"link-s": "ln -s $(realpath s) x/s",
-		"link-xiome": "rm -rf node_modules/xiome && ln -s $(realpath ../xiome) x/xiome",
+		"link-xiome": "rm -rf node_modules/xiome && ln -s $(realpath ../xiome) node_modules/xiome",
 		"link-node_modules": "ln -s $(realpath node_modules) x/node_modules",
 		"link-assets": "rm -rf x/assets/graphics && ln -s $(realpath assets/graphics) x/assets/graphics",
 		"importmap": "importly < package-lock.json > x/importmap.json",
