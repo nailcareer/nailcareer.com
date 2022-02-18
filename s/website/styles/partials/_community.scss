@@ -101,6 +101,12 @@
 	}
 
 	[data-community-page="livestream"] {
+		.plate { max-width: unset; }
+		.subnav,
+		.helpboxes {
+			max-width: 48em;
+			margin: auto;
+		}
 		xiome-chat {
 			font-size: 0.7em;
 			--xiome-chat-history-height: 15em;
@@ -112,6 +118,7 @@
 			text-align: left;
 		}
 		.live .boxes {
+			margin-top: 0.5em;
 			width: 100%;
 			display: flex;
 			flex-direction: row;
@@ -123,10 +130,10 @@
 		}
 		.live .boxes .videobox {
 			flex-grow: 3;
+			flex-basis: 32em;
 			display: flex;
 			flex-direction: column;
 			justify-content: center;
-			background: #0281;
 		}
 		.live .boxes .videobox img {
 			width: 100%;
@@ -135,10 +142,17 @@
 		.live .boxes .chatbox {
 			display: flex;
 			flex-direction: column;
-			background: #0282;
+			background: #0281;
+			border-radius: 0.5em;
 		}
 		.live .boxes .chatbox > xiome-video-companion {
 			height: 100%;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			xiome-chat {
+				height: 100%;
+			}
 		}
 		.live .boxes .chatbox > xiome-video-companion > * {
 			flex: 1 1 auto;
