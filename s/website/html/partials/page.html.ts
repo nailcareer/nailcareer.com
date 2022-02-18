@@ -3,7 +3,7 @@ import {NceWebsiteContext} from "../../types.js"
 import {read} from "../../buildtools/reading-and-writing.js"
 import {html, HtmlTemplate, unsanitized} from "xiome/x/toolbox/hamster-html/html.js"
 
-export default ({v, base, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsiteContext & {
+export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsiteContext & {
 	pageName: string
 	pageSubtitle?: string
 	headHtml?: HtmlTemplate
@@ -19,7 +19,7 @@ export default ({v, base, mode, pageName, pageSubtitle, headHtml, mainHtml}: Nce
 		${pageSubtitle ? "NCE " + pageSubtitle : "Nail Career Education"}
 	</title>
 
-	<link rel=stylesheet href="${v(`${base}/styles.css`)}"/>
+	<link rel=stylesheet href="${v(`/styles.css`)}"/>
 	<link rel=icon type="image/jpeg" href="/assets/images/suzie.jpg"/>
 	<link rel=preconnect href="https://fonts.googleapis.com"/>
 	<link rel=preconnect href="https://fonts.gstatic.com" crossorigin/>
@@ -47,8 +47,8 @@ export default ({v, base, mode, pageName, pageSubtitle, headHtml, mainHtml}: Nce
 			<script defer src="/node_modules/@babel/polyfill/dist/polyfill.min.js"></script>
 			<script defer src="/node_modules/whatwg-fetch/dist/fetch.umd.js"></script>
 			<script defer src="/node_modules/@webcomponents/webcomponentsjs/webcomponents-bundle.js"></script>
-			<script defer src="/main.bundle.min.js"></script>
-			<script defer src="/node_modules/xiome/x/xiome.bundle.min.js"></script>
+			<script defer src="${v("/main.bundle.min.js")}"></script>
+			<script defer src="${v("/node_modules/xiome/x/xiome.bundle.min.js")}"></script>
 		`}
 
 	<script>
