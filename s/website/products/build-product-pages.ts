@@ -26,7 +26,7 @@ export async function buildProductPages({mode, productDataPath}: {
 			})
 			const html = await productPageHtml({
 				...context,
-				imagesDirectory: "/assets/images-medium",
+				imagesDirectory: "/assets/images-large",
 				mode,
 				product,
 			}).render()

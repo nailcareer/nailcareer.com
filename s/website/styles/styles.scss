@@ -37,8 +37,9 @@ html {
 			#5cb3c138,
 			#0f1634cc 800px,
 		),
-		fixed url("/assets/graphics/night-bg-01.webp");
-	background-size: cover, 100%;
+		fixed url("/assets/graphics/night-bg-01.webp"),
+		#0f1634;
+	background-size: cover, cover, cover;
 	color: white;
 }
 
