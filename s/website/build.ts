@@ -1,7 +1,6 @@
 
 import {NceWebsiteContext} from "./types.js"
 import {buildWebsite} from "xiome/x/toolbox/hamster-html/website/build-website.js"
-import {hashVersioner} from "xiome/x/toolbox/hamster-html/versioning/hash-versioner.js"
 
 const mode = <NceWebsiteContext["mode"]>process.argv[2]
 if (!mode) {
@@ -16,6 +15,5 @@ await buildWebsite<NceWebsiteContext>({
 	logWrittenFile: path => console.log(path),
 	context: {
 		mode,
-		v: hashVersioner({root: "x"}),
 	},
 })

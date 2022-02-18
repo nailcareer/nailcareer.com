@@ -4,6 +4,7 @@
 	"version": "0.2.60",
 	"description": "nailcareer website",
 	"license": "UNLICENSED",
+	"type": "module",
 	"scripts": {
 		"build": "run-s clean copy-metafiles link-node_modules link-s verifications && run-p compile-tsc compile-sass importmap assets compile-pug && run-p compile-bundle",
 		"clean": "rimraf x && mkdirp x x/assets/images",
@@ -14,6 +15,7 @@
 		"link-assets": "rm -rf x/assets/graphics && ln -s $(realpath assets/graphics) x/assets/graphics",
 		"importmap": "importly < package-lock.json > x/importmap.json",
 		"compile-tsc": "tsc",
+		"compile-website": "node x/website/build.js debug",
 		"compile-pug": "pug -o x web -O '{\"debug\": false}'",
 		"compile-pug-debug": "pug -o x web -O '{\"debug\": true}'",
 		"compile-sass": "sass web/:x/",
