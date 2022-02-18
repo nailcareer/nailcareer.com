@@ -201,6 +201,11 @@ xio-menu {
 	border-radius: 0.5em;
 	--menu-lanesize: 0.5em;
 	--menu-margin: 0.3em 0 0 0;
+
+	// workaround for ios13
+	--menu-panel-background: white;
+	[data-nightlight] & { --menu-panel-background: #2b85af; }
+
 	&::part(list) {
 		border-radius: 0.5em;
 		gap: 0.2em;
@@ -229,7 +234,7 @@ xio-menu {
 		&::part(panel) {
 			margin-top: 0.3em;
 			[data-nightlight] & {
-				background: #2b85afe6;
+				background: #2b85af;
 				border-radius: 0.5em;
 				box-shadow: 0 5px 10px #0008;
 			}

@@ -64,7 +64,7 @@
 		"shopper": "0.2.0-dev.11",
 		"sorry-not-sorry": "0.0.3",
 		"whatwg-fetch": "^3.6.2",
-		"xiome": "^0.0.28"
+		"xiome": "^0.0.29"
 	},
 	"author": "Chase Moskal <chasemoskal@gmail.com>"
 }
