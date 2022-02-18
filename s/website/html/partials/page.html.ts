@@ -1,6 +1,6 @@
 
-import {read} from "../../buildtools/reading.js"
 import {NceWebsiteContext} from "../../types.js"
+import {read} from "../../buildtools/reading-and-writing.js"
 import {html, HtmlTemplate, unsanitized} from "xiome/x/toolbox/hamster-html/html.js"
 
 export default ({v, base, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsiteContext & {
@@ -9,6 +9,7 @@ export default ({v, base, mode, pageName, pageSubtitle, headHtml, mainHtml}: Nce
 	headHtml?: HtmlTemplate
 	mainHtml: HtmlTemplate
 }) => html`
+<!doctype html>
 <html>
 <head>
 
