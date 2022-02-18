@@ -1,7 +1,7 @@
 
 import yaml from "js-yaml"
 import {NceProduct} from "../types.js"
-import {read} from "./reading-and-writing.js"
+import {read} from "../buildtools/reading-and-writing.js"
 
 export async function loadProductData(path: string) {
 	const productData = yaml.load(await read(path))
