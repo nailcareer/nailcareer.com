@@ -251,6 +251,10 @@ xio-menu {
 		background: transparent;
 	}
 	shopper-cart {
+		--shopper-cart-table-border: 1px solid rgba(0, 64, 128, 0.2);
+		[data-nightlight] & {
+			--shopper-cart-table-border: 1px solid rgba(255, 255, 255, 0.2);
+		}
 		.cart-checkout::before {
 			content: "Note: Prices on final checkout page are shown in US Dollars";
 			display: block;

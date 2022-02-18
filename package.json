@@ -61,7 +61,7 @@
 		"lit-element": "^3.2.0",
 		"lit-html": "^2.2.0",
 		"npm": "^8.5.1",
-		"shopper": "0.2.0-dev.11",
+		"shopper": "^0.2.0-dev.12",
 		"sorry-not-sorry": "0.0.3",
 		"whatwg-fetch": "^3.6.2",
 		"xiome": "^0.0.29"
