@@ -325,6 +325,9 @@
 			}
 			> .warn {
 				color: #82000082;
+				[data-nightlight] & {
+					color: #ffd500;
+				}
 			}
 			> ul {
 				padding-left: 1em;
