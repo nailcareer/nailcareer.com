@@ -28,6 +28,7 @@ mainHtml: html`
 	<div class=productarea>
 		<h2 id=accessories>Accessories</h2>
 		<div class=productgrid>
+			<shopper-product data-new restocking-soon show-image href="/store/products/blue-cotton-napkins" link="6965501755428"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/jewel-dappen-dish" uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1NzYzNTQ2ODkwNjA="></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/pumpkin-nail-display" uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTMxODIxNzExNzI="></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/nail-bar-blue" uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTMxODQ3MjcwNzY="></shopper-product>
