@@ -29,7 +29,7 @@
 		"images-full": "jpegger --indir assets/images --outdir x/assets/images-full",
 		"watch": "run-s link-assets && run-p watch-tsc watch-website watch-sass",
 		"watch-tsc": "npm run compile-tsc -s -- --watch",
-		"watch-website": "chokidar \"x/website/**/*\" -c \"npm run compile-website-debug -s\"",
+		"watch-website": "chokidar \"x/website/**/*\" \"s/website/*.yaml\" -c \"npm run compile-website-debug -s\"",
 		"watch-sass": "npm run compile-sass -s -- --watch",
 		"start": "http-server -p 5000 x",
 		"test": "exit 0"
