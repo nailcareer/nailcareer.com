@@ -1151,7 +1151,7 @@ manicure-kit:
   title: "Suzie’s Manicure Kit"
   product:
     shopifyUid: Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTQ0MDE5OTI3NDA=
-    restockingSoon: true
+    restockingSoon: false
   carousel:
     aspectRatio: 3x2
     images:

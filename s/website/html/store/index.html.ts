@@ -121,13 +121,13 @@ mainHtml: html`
 		<h2 id=manicure>Manicure</h2>
 		<div class=productgrid>
 			<shopper-product restocking-soon show-image href="/store/products/oil/gingerbread-cookies" link="6848650739748"></shopper-product>
-			<shopper-product restocking-soon show-image href="/store/products/manicure-kit" uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTQ0MDE5OTI3NDA="></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/cuticle-oil" uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzUwMzYyMjQ0NDY1MDA="></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/lets-get-sugar" link="https://nail-career-education.myshopify.com/admin/products/6696151711780"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/lets-get-hydrated" link="https://nail-career-education.myshopify.com/admin/products/6696154431524"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/peppermint-squeeze" link="https://nail-career-education.myshopify.com/admin/products/6696155938852"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/wooden-nail-brush" link="https://nail-career-education.myshopify.com/admin/products/6696161673252"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/nce-towel" link="https://nail-career-education.myshopify.com/admin/products/6696160362532"></shopper-product>
+			<shopper-product show-image href="/store/products/manicure-kit" uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTQ0MDE5OTI3NDA="></shopper-product>
 		</div>
 
 		<h2 id=nail-art>Nail Art</h2>
