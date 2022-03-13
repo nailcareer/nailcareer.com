@@ -92,7 +92,7 @@ mainHtml: html`
 		<div class=productgrid>
 			<shopper-product restocking-soon show-image href="/store/products/french-cut-bit" link="6923935088676"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/bit-kit" link="6767534768164"></shopper-product>
-			<shopper-product data-notice="UK SHIPPING UNAVAILABLE" restocking-soon show-image href="/store/products/ezfile" link="6748213674020"></shopper-product>
+			<shopper-product data-notice="NORTH AMERICA ONLY" restocking-soon show-image href="/store/products/ezfile" link="6748213674020"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/files-5" uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzQzOTM2MDA2NDcyMDQ="></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/files-fine" uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTMxODU4MDg0MjA="></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/files-medium" uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTMxODY4ODk3NjQ="></shopper-product>
