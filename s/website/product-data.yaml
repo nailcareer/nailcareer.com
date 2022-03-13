@@ -82,7 +82,7 @@ bridge:
     shopify: 6971280982052
     restockingSoon: true
   carousel:
-    aspectRatio: 1x1
+    aspectRatio: 2x3
     images:
     - products/bridge/bridge-01.jpg
   writeup: |
