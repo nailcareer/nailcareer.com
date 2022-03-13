@@ -107,6 +107,7 @@ mainHtml: html`
 		<div class=productgrid>
 			<shopper-product restocking-soon show-image href="/store/products/ez-gel" link="6875102281764"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/mini-nuke" link="6875100250148"></shopper-product>
+			<shopper-product restocking-soon show-image href="/store/products/reveal-top-coat" link="6875101528100"></shopper-product>
 		</div>
 
 		<h2 id=gel-tips>Gel Tips</h2>
@@ -157,7 +158,6 @@ mainHtml: html`
 
 		<h2 id=polish>Polish</h2>
 		<div class=productgrid>
-			<shopper-product restocking-soon show-image href="/store/products/reveal-top-coat" link="6875101528100"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/polish/reflection/collection" link="6728291483684"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/polish/reflection/1" link="6725867765796"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/polish/reflection/2" link="6725869535268"></shopper-product>
