@@ -1,4 +1,149 @@
 
+gold-trimmer-bit:
+  title: "Gold Trimmer Bit"
+  product:
+    shopify: 6971277672484
+    restockingSoon: true
+  carousel:
+    aspectRatio: 2x3
+    images:
+    - products/gold-trimmer-bit/gold-trimmer-bit-02.jpg
+    - products/gold-trimmer-bit/gold-trimmer-bit-01.jpg
+  writeup: |
+    <p>Strong Tungston Carbide will last years.</p>
+    <p>Fits 3/32 Efiles. For us on Product. Not meant for Natural Nail.</p>
+    <h4>How to use:</h4>
+    <ul>
+      <li>I love this bit for getting into the tiny spots. It’s excellent for trimming off fine over spill of product.</li>
+      <li>For example if you have hardened Acrylic or hard gel or gel polish flooding into the cuticle, this tiny bit can get in there to remover this over spill with out ruining your gel polish.</li>
+      <li>Also excellent for fine tuning extra product from  underneath the free edge. Also excellent for gently buffing product around cuticle for a smooth effect near cuticle.</li>
+    </ul>
+
+acrylic-powder-refill-foundation-pink:
+  title: "Foundation Pink - Acrylic Powder Refill Pouch"
+  product:
+    shopify: 6971278393380
+    restockingSoon: true
+  carousel:
+    aspectRatio: 2x3
+    images:
+    - products/acrylic-refill-pouches/foundation-pink.jpg
+  writeup: |
+    <p>I am so proud of my Acrylic Powders Formulation. So beautiful and easy to work with. You’ll Love the High quality and smooth application. Simply Rip or open the top and pour into you favourite dish or jar. These pouches have a reusable zip.</p>
+
+    <p>This Opaque Pink is one of must have powders. I created this beautiful shade to compliment all skin tones.</p>
+    <p>It’s has full coverage for any imperfections on the nail. The opacity is ideal for creating the extended nail bed.</p>
+    <p><strong>Pro Tip:</strong> Mix with Pink Tint to create a perfect custom blend for clients different needs.</p>
+
+acrylic-powder-refill-pink-tint:
+  title: "Pink Tint - Acrylic Powder Refill Pouch"
+  product:
+    shopify: 6971278458916
+    restockingSoon: true
+  carousel:
+    aspectRatio: 2x3
+    images:
+    - products/acrylic-refill-pouches/pink-tint.jpg
+  writeup: |
+    <p>I am so proud of my Acrylic Powders Formulation. So beautiful and easy to work with. You’ll Love the High quality and smooth application. Simply Rip or open the top and pour into you favourite dish or jar. These pouches have a reusable zip.</p>
+
+    <p>I got to have a Transparent Pink in my collection. This gentle pink tint creates a healthy glow on the natural nail plate. And wait till you see the beautiful shade it creates when it’s extended, when the light shines through it. A delicate translucent pink.</p>
+
+acrylic-powder-refill-soft-white:
+  title: "Pink Tint - Acrylic Powder Refill Pouch"
+  product:
+    shopify: 6971279310884
+    restockingSoon: true
+  carousel:
+    aspectRatio: 2x3
+    images:
+    - products/acrylic-refill-pouches/soft-white.jpg
+  writeup: |
+    <p>I am so proud of my Acrylic Powders Formulation. So beautiful and easy to work with. You’ll Love the High quality and smooth application. Simply Rip or open the top and pour into you favourite dish or jar. These pouches have a reusable zip.</p>
+
+    <p>I have been working with white powders my entire career, since they first came on the market. So when it came time to design my on brand I knew exactly which shade of white I wanted.  Soft White is a delicate white that looks natural and blends perfectly with Suzie’s Pink Tint to create amazing Ombre’s and French Nails.</p>
+
+acrylic-powder-refill-clear-cap:
+  title: "Clear Cap - Acrylic Powder Refill Pouch"
+  product:
+    shopify: 6971280162852
+    restockingSoon: true
+  carousel:
+    aspectRatio: 2x3
+    images:
+    - products/acrylic-refill-pouches/clear-cap.jpg
+  writeup: |
+    <p>I am so proud of my Acrylic Powders Formulation. So beautiful and easy to work with. You’ll Love the High quality and smooth application. Simply Rip or open the top and pour into you favourite dish or jar. These pouches have a reusable zip.</p>
+
+    <p>A staple in your powder collection. For a strong clear layer over you design. A clear cap will protect your design and show it off. Blend with other pigments wto create unique designs and colours. Excellent for show casing glitters and inlays</p>
+
+bridge:
+  title: "Bridge"
+  product:
+    shopify: 6971280982052
+    restockingSoon: true
+  carousel:
+    aspectRatio: 1x1
+    images:
+    - products/bridge/bridge-01.jpg
+  writeup: |
+    <p>Bridge is designed to be the Adhesion between your natural nail and EZ Gel.</p>
+    <p>Bridge is an excellent product to use Between Layers of product to help aid adhesion.</p>
+    <p>Use Bridge after you finish sculpting and juts before you apply gel polish for a stronger adhesion.</p>
+    <h4>How to use:</h4>
+    <ul>
+      <li>Apply a very thin Layer, in circles. Massage into nail plate. Just one coat.</li>
+      <li>Then cure for 60 secs. Proceed with application.</li>
+    </ul>
+
+ez-gel-pink-mix:
+  title: "Suzie's Pink Mix - EZ Gel Color"
+  product:
+    shopify: 6971281670180
+    restockingSoon: true
+  carousel:
+    aspectRatio: 1x1
+    images:
+    - products/ezgel-colors/ez-pink-mix.jpg
+  writeup: |
+    <p>EZ Gel is Cruelty Free and HEMA free. Available in Three colours. EZ Gel is creamy and smooth and very easy to control and shape in your favourite nail. Formulated to work with Alcohol.</p>
+    <p>You may wonder why I choose to have my Hybrid Gel in Jars/Pots instead of a tube.</p>
+    <p>I prefer the jars because I feel it’s easier to get out of the container. Also there is NO WASTE. I can reach Every last bead. I found squeezing the tube difficult. You can also put back any unused gel: example if you just got too much.</p>
+
+    <p>Suzie’s Pink Mix is specially formulated to be a little opaque and little transparent. Excellent for creating Ombre easily in just two steps. This particular MIX Suzie designed is to cover any natural flaws on the nail. Excellent to fade over the ombre white for that delicate ombre. Use it on the nail plate just before you apply a French smile line, and you’ll see how beautifully the Pink Colour compliments the white or black or any colour you add.</p>
+
+ez-gel-midnight:
+  title: "Midnight - EZ Gel Color"
+  product:
+    shopify: 6971282358308
+    restockingSoon: true
+  carousel:
+    aspectRatio: 1x1
+    images:
+    - products/ezgel-colors/ez-midnight.jpg
+  writeup: |
+    <p>EZ Gel is Cruelty Free and HEMA free. Available in Three colours. EZ Gel is creamy and smooth and very easy to control and shape in your favourite nail. Formulated to work with Alcohol.</p>
+    <p>You may wonder why I choose to have my Hybrid Gel in Jars/Pots instead of a tube.</p>
+    <p>I prefer the jars because I feel it’s easier to get out of the container. Also there is NO WASTE. I can reach Every last bead. I found squeezing the tube difficult. You can also put back any unused gel: example if you just got too much.</p>
+
+    <p>Midnight This Black is solid even when applied very thin. I worked hard on this one. Black can be tricky. The right pigment is the key to making Black nails. This application will ensure a complete cure. Wait till you see the Black against the Pink. This black has such excellent pigment when it’s applied paper thin it remains solid.</p>
+
+ez-gel-soft-white:
+  title: "Soft White - EZ Gel Color"
+  product:
+    shopify: 6971282948132
+    restockingSoon: true
+  carousel:
+    aspectRatio: 1x1
+    images:
+    - products/ezgel-colors/ez-pink-and-white.jpg
+  writeup: |
+    <p>EZ Gel is Cruelty Free and HEMA free. Available in Three colours. EZ Gel is creamy and smooth and very easy to control and shape in your favourite nail. Formulated to work with Alcohol.</p>
+    <p>You may wonder why I choose to have my Hybrid Gel in Jars/Pots instead of a tube.</p>
+    <p>I prefer the jars because I feel it’s easier to get out of the container. Also there is NO WASTE. I can reach Every last bead. I found squeezing the tube difficult. You can also put back any unused gel: example if you just got too much.</p>
+
+    <p>Soft White I am in love with this formulation of white. White yet soft. Almost natural. I designed this white to compliment Suzie’s Pink Mix for a delicate look when creating French and Ombre’s. After 35 years of creating Pink and White Nails it was so much fun creating the ultimate White for my own Brand.</p>
+
 3d-diamond-shapes/all-six-colors:
   title: "All Six Colors - 3D Diamond Shapes"
   product:

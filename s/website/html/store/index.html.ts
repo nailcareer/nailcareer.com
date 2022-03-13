@@ -38,6 +38,10 @@ mainHtml: html`
 
 		<h2 id=acrylic>Acrylic</h2>
 		<div class=productgrid>
+			<shopper-product data-new restocking-soon show-image href="/store/products/acrylic-powder-refill-foundation-pink" link="6971278393380"></shopper-product>
+			<shopper-product data-new restocking-soon show-image href="/store/products/acrylic-powder-refill-pink-tint" link="6971278458916"></shopper-product>
+			<shopper-product data-new restocking-soon show-image href="/store/products/acrylic-powder-refill-soft-white" link="6971279310884"></shopper-product>
+			<shopper-product data-new restocking-soon show-image href="/store/products/acrylic-powder-refill-clear-cap" link="6971280162852"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/mini-acrylic" link="6748201943076"></shopper-product>
 			<shopper-product data-new restocking-soon show-image href="/store/products/acrylic-1oz/worlds-best-bo" link="6944669892644"></shopper-product>
 			<shopper-product data-new restocking-soon show-image href="/store/products/acrylic-1oz/fold-in-the-che" link="6944671072292"></shopper-product>
@@ -90,6 +94,7 @@ mainHtml: html`
 
 		<h2 id=files-and-forms>Files &amp; Forms</h2>
 		<div class=productgrid>
+			<shopper-product data-new restocking-soon show-image href="/store/products/gold-trimmer-bit" link="6971277672484"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/french-cut-bit" link="6923935088676"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/bit-kit" link="6767534768164"></shopper-product>
 			<shopper-product data-notice="NORTH AMERICA ONLY" restocking-soon show-image href="/store/products/ezfile" link="6748213674020"></shopper-product>
@@ -106,7 +111,11 @@ mainHtml: html`
 		<h2 id=gel>Gel</h2>
 		<div class=productgrid>
 			<shopper-product restocking-soon show-image href="/store/products/ez-gel" link="6875102281764"></shopper-product>
+			<shopper-product data-new restocking-soon show-image href="/store/products/ez-gel-pink-mix" link="6971281670180"></shopper-product>
+			<shopper-product data-new restocking-soon show-image href="/store/products/ez-gel-midnight" link="6971282358308"></shopper-product>
+			<shopper-product data-new restocking-soon show-image href="/store/products/ez-gel-soft-white" link="6971282948132"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/mini-nuke" link="6875100250148"></shopper-product>
+			<shopper-product data-new restocking-soon show-image href="/store/products/bridge" link="6971280982052"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/reveal-top-coat" link="6875101528100"></shopper-product>
 		</div>
 
