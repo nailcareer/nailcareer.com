@@ -96,13 +96,14 @@ bridge:
     </ul>
 
 ez-gel-pink-mix:
-  title: "Suzie's Pink Mix - EZ Gel Color"
+  title: "Suzie's Pink Mix - EZ Gel Colour"
   product:
     shopify: 6971281670180
     restockingSoon: true
   carousel:
     aspectRatio: 1x1
     images:
+    - products/ezgel/ezgel-03.jpg
     - products/ezgel-colors/ez-pink-mix.jpg
   writeup: |
     <p>EZ Gel is Cruelty Free and HEMA free. Available in Three colours. EZ Gel is creamy and smooth and very easy to control and shape in your favourite nail. Formulated to work with Alcohol.</p>
@@ -112,13 +113,14 @@ ez-gel-pink-mix:
     <p><strong>Suzie’s Pink Mix</strong> is specially formulated to be a little opaque and little transparent. Excellent for creating Ombre easily in just two steps. This particular MIX Suzie designed is to cover any natural flaws on the nail. Excellent to fade over the ombre white for that delicate ombre. Use it on the nail plate just before you apply a French smile line, and you’ll see how beautifully the Pink Colour compliments the white or black or any colour you add.</p>
 
 ez-gel-midnight:
-  title: "Midnight - EZ Gel Color"
+  title: "Midnight - EZ Gel Colour"
   product:
     shopify: 6971282358308
     restockingSoon: true
   carousel:
     aspectRatio: 1x1
     images:
+    - products/ezgel/ezgel-02.jpg
     - products/ezgel-colors/ez-midnight.jpg
   writeup: |
     <p>EZ Gel is Cruelty Free and HEMA free. Available in Three colours. EZ Gel is creamy and smooth and very easy to control and shape in your favourite nail. Formulated to work with Alcohol.</p>
@@ -128,13 +130,14 @@ ez-gel-midnight:
     <p><strong>Midnight:</strong> This Black is solid even when applied very thin. I worked hard on this one. Black can be tricky. The right pigment is the key to making Black nails. This application will ensure a complete cure. Wait till you see the Black against the Pink. This black has such excellent pigment when it’s applied paper thin it remains solid.</p>
 
 ez-gel-soft-white:
-  title: "Soft White - EZ Gel Color"
+  title: "French & Ombre White - EZ Gel Colour"
   product:
     shopify: 6971282948132
     restockingSoon: true
   carousel:
     aspectRatio: 1x1
     images:
+    - products/ezgel/ezgel-08.jpg
     - products/ezgel-colors/ez-pink-and-white.jpg
   writeup: |
     <p>EZ Gel is Cruelty Free and HEMA free. Available in Three colours. EZ Gel is creamy and smooth and very easy to control and shape in your favourite nail. Formulated to work with Alcohol.</p>
