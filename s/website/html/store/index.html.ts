@@ -33,7 +33,6 @@ mainHtml: html`
 			<shopper-product restocking-soon show-image href="/store/products/pumpkin-nail-display" uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTMxODIxNzExNzI="></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/nail-bar-blue" uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTMxODQ3MjcwNzY="></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/nail-bar-pink" uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTMxODUxMjAyOTI="></shopper-product>
-			<shopper-product show-image href="/store/products/apron" uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE1MDI3MDAyMDgxNjQ="></shopper-product>
 		</div>
 
 		<h2 id=acrylic>Acrylic</h2>
