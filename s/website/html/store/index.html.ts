@@ -121,7 +121,7 @@ mainHtml: html`
 		<h2 id=gel-tips>Gel Tips</h2>
 		<div class=productgrid>
 			<shopper-product restocking-soon show-image href="/store/products/quick-tips/square-medium" link="6767568224292"></shopper-product>
-			<shopper-product restocking-soon show-image href="/store/products/quick-tips" link="6669675003940"></shopper-product>
+			<shopper-product restocking-soon show-image href="/store/products/quick-tips/" link="6669675003940"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/quick-tips/coffin-medium" link="6725898567716"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/quick-tips/stiletto-long" link="6725899059236"></shopper-product>
 		</div>

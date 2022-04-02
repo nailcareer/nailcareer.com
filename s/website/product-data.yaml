@@ -1877,7 +1877,7 @@ pumpkin-nail-display:
   writeup: |
     <p>Display your nail art on this whimsical display! Five golden tip posts are ready for your work. Includes a package of assorted tips.</p>
 
-quick-tips:
+quick-tips/index:
   title: "Suzie’s Quick Tips - Almond Medium"
   product:
     shopify: 6669675003940
