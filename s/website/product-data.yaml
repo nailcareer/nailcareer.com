@@ -1,4 +1,96 @@
 
+scissors:
+  title: "Scissors"
+  product:
+    shopify: 6990882045988
+    restockingSoon: true
+  carousel:
+    aspectRatio: 2x3
+    images:
+    - products/scissors/scissors-01.jpg
+  writeup: |
+    <p>European Classic Design made of Stainless Steel Blades. Sharp points allows for trimming and cutting tiny things like <a href="/store/products/dried-flowers">Dried Flowers</a>, stripping tape, decals etc.</p>
+
+tweezers:
+  title: "Tweezers"
+  product:
+    shopify: 6990874902564
+    restockingSoon: true
+  carousel:
+    aspectRatio: 1x1
+    images:
+    - products/tweezers/tweezers-01.jpg
+    - products/tweezers/tweezers-02.jpg
+    - products/tweezers/tweezers-03.jpg
+  writeup: |
+    <p>These tiny tipped tweezers are very good at grabbing the tiniest nail art embellishments. Will save much frustration having one of these- and the gold coloured finish looks beautiful in your collection.</p>
+
+dried-flowers:
+  title: "Dried Flower Collection"
+  product:
+    shopify: 6990867595300
+    restockingSoon: true
+  carousel:
+    aspectRatio: 1x1
+    images:
+    - products/dried-flowers/dried-flowers-01.jpg
+    - products/dried-flowers/dried-flowers-02.jpg
+    - products/dried-flowers/dried-flowers-03.jpg
+    - products/dried-flowers/dried-flowers-04.jpg
+    - products/dried-flowers/dried-flowers-05.jpg
+    - products/dried-flowers/dried-flowers-06.jpg
+    - products/dried-flowers/dried-flowers-07.jpg
+  writeup: |
+    <p><em>(Size 1 oz)</em></p>
+    <p>Don’t be fooled by the little glass jar - there’s a lot of flowers in here! 95% real flowers. From big petals to tiny petals, and white and pastel colours to vivid royal blue and bright pink. Ranging in all sizes. Many pieces of leaves included to fill in some foliage. I added a few hundred little paper flowers too.</p>
+    <p>Use as an In-Lay with Acrylic, Hard Gel, and Hybrid Gel. Can also be used with Suzie's Quick Tips.</p>
+    <p><em>Tip</em> — place a bigger flower as a focal point and cut up tiny flowers to fill and place around. Don’t forget the leaves.</p>
+
+glass-dispenser:
+  title: "Glass Dispenser"
+  product:
+    shopify: 6990856716324
+    restockingSoon: true
+  carousel:
+    aspectRatio: 1x1
+    images:
+    - products/glass-dispenser/dispenser-01.jpg
+    - products/glass-dispenser/dispenser-02.jpg
+  writeup: |
+    <p><em>(Size 180 ml)</em></p>
+    <p>The push pump easily brings the liquid to the surface. As the liquid pools in the well in the top use cotton or a brush to use the liquid. Liquid stays fresh and new avoiding contamination for the liquid in the glass. The internal pump mechanism is designed for dispensing Alcohol and Acrylic Monomer. This mechanism is not designed or recommended for Acetone or nail polish remover.</p>
+    <h4>Fill with Alcohol</h4>
+    <p>Perfect for Dispensing liquid as soon as you need it. Soak with Blue Cotton Napkins to clean Gel nails.</p>
+    <h4>Fill with Monomer</h4>
+    <p>Easily & quickly dispense monomer with every bead you create. Monomer wells up in the top to keep it fresh and clean.</p>
+    <p>Perfect for regulating your monomer absorption in your brush.</p>
+    <h4>Note</h4>
+    <p>Do not leave Acrylic Monomer in Sunlight or UV rays. Some Monomer can be negatively affected and alter its performance.</p>
+
+glass-nails:
+  title: "Glass Nails"
+  product:
+    shopify: 6990850490404
+    restockingSoon: true
+  carousel:
+    aspectRatio: 1x1
+    images:
+    - products/glass-nails/glass-nails-01.jpg
+    - products/glass-nails/glass-nails-02.jpg
+    - products/glass-nails/glass-nails-03.jpg
+  writeup: |
+    <h3>Suzie's Glass Nails — Builder Gel with Thick Viscosity</h3>
+    <p>This gel is excellent for learning how to sculpt with Gel. The thick consistency moves very slow giving you time to create.</p>
+    <h4>How to Use:</h4>
+    <ol>
+      <li>Prep the nail, remove dust.</li>
+      <li>Apply <a href="/store/products/bridge">BRIDGE</a> (this product is excellent to bond between your gel product with your existing product or bonding to your natural nail). Don’t forget to cure.</li>
+      <li>Apply a thin layer of <em>Suzie's Glass Nail</em> all over nail, this will help the next layer settle on to of this layer. Then cure.</li>
+      <li>Then, grab a big blob of gel, and gently coat near the cuticle, and let it slowly slide down nail. Add more if needed.</li>
+      <li>Don’t forget to hold upside down to let gravity give you a natural apex.</li>
+      <li>Once you’re happy with the shape, cure for 60 seconds. Wipe off the dispersion layer, and now you’re ready to sculpt your desired shape.</li>
+    </ol>
+
 gold-trimmer-bit:
   title: "Gold Trimmer Bit"
   product:
