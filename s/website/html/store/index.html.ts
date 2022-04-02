@@ -28,6 +28,9 @@ mainHtml: html`
 	<div class=productarea>
 		<h2 id=accessories>Accessories</h2>
 		<div class=productgrid>
+			<shopper-product data-new restocking-soon show-image href="/store/products/glass-dispenser" link="6990856716324"></shopper-product>
+			<shopper-product data-new restocking-soon show-image href="/store/products/tweezers" link="6990874902564"></shopper-product>
+			<shopper-product data-new restocking-soon show-image href="/store/products/scissors" link="6990882045988"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/blue-cotton-napkins" link="6965501755428"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/jewel-dappen-dish" uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1NzYzNTQ2ODkwNjA="></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/pumpkin-nail-display" uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTMxODIxNzExNzI="></shopper-product>
@@ -109,6 +112,7 @@ mainHtml: html`
 
 		<h2 id=gel>Gel</h2>
 		<div class=productgrid>
+			<shopper-product data-new restocking-soon show-image href="/store/products/glass-nails" link="6990850490404"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/ez-gel" link="6875102281764"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/ez-gel-pink-mix" link="6971281670180"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/ez-gel-midnight" link="6971282358308"></shopper-product>
@@ -140,6 +144,7 @@ mainHtml: html`
 
 		<h2 id=nail-art>Nail Art</h2>
 		<div class=productgrid>
+			<shopper-product data-new restocking-soon show-image href="/store/products/dried-flowers" link="6990867595300"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/jem-jab" link="6875095040036"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/caviar/bright-gold" link="6944660652068"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/caviar/pewter" link="6944659734564"></shopper-product>
