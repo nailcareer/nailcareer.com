@@ -28,7 +28,7 @@ mainHtml: html`
 	<div class=productarea>
 		<h2 id=accessories>Accessories</h2>
 		<div class=productgrid>
-			<shopper-product data-new restocking-soon show-image href="/store/products/blue-cotton-napkins" link="6965501755428"></shopper-product>
+			<shopper-product restocking-soon show-image href="/store/products/blue-cotton-napkins" link="6965501755428"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/jewel-dappen-dish" uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1NzYzNTQ2ODkwNjA="></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/pumpkin-nail-display" uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTMxODIxNzExNzI="></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/nail-bar-blue" uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTMxODQ3MjcwNzY="></shopper-product>
@@ -37,16 +37,16 @@ mainHtml: html`
 
 		<h2 id=acrylic>Acrylic</h2>
 		<div class=productgrid>
-			<shopper-product data-new restocking-soon show-image href="/store/products/acrylic-powder-refill-foundation-pink" link="6971278393380"></shopper-product>
-			<shopper-product data-new restocking-soon show-image href="/store/products/acrylic-powder-refill-pink-tint" link="6971278458916"></shopper-product>
-			<shopper-product data-new restocking-soon show-image href="/store/products/acrylic-powder-refill-soft-white" link="6971279310884"></shopper-product>
-			<shopper-product data-new restocking-soon show-image href="/store/products/acrylic-powder-refill-clear-cap" link="6971280162852"></shopper-product>
+			<shopper-product restocking-soon show-image href="/store/products/acrylic-powder-refill-foundation-pink" link="6971278393380"></shopper-product>
+			<shopper-product restocking-soon show-image href="/store/products/acrylic-powder-refill-pink-tint" link="6971278458916"></shopper-product>
+			<shopper-product restocking-soon show-image href="/store/products/acrylic-powder-refill-soft-white" link="6971279310884"></shopper-product>
+			<shopper-product restocking-soon show-image href="/store/products/acrylic-powder-refill-clear-cap" link="6971280162852"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/mini-acrylic" link="6748201943076"></shopper-product>
-			<shopper-product data-new restocking-soon show-image href="/store/products/acrylic-1oz/worlds-best-bo" link="6944669892644"></shopper-product>
-			<shopper-product data-new restocking-soon show-image href="/store/products/acrylic-1oz/fold-in-the-che" link="6944671072292"></shopper-product>
-			<shopper-product data-new restocking-soon show-image href="/store/products/acrylic-1oz/boom-roas" link="6944671531044"></shopper-product>
-			<shopper-product data-new restocking-soon show-image href="/store/products/acrylic-1oz/ewwwww-dav" link="6944672481316"></shopper-product>
-			<shopper-product data-new restocking-soon show-image href="/store/products/acrylic-1oz/best-wishes-warmest-rega" link="6944672776228"></shopper-product>
+			<shopper-product restocking-soon show-image href="/store/products/acrylic-1oz/worlds-best-bo" link="6944669892644"></shopper-product>
+			<shopper-product restocking-soon show-image href="/store/products/acrylic-1oz/fold-in-the-che" link="6944671072292"></shopper-product>
+			<shopper-product restocking-soon show-image href="/store/products/acrylic-1oz/boom-roas" link="6944671531044"></shopper-product>
+			<shopper-product restocking-soon show-image href="/store/products/acrylic-1oz/ewwwww-dav" link="6944672481316"></shopper-product>
+			<shopper-product restocking-soon show-image href="/store/products/acrylic-1oz/best-wishes-warmest-rega" link="6944672776228"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/acrylic-powder-collection-of-four" link="https://nail-career-education.myshopify.com/admin/products/6659820388388"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/acrylic-powder-2oz-soft-white" link="https://nail-career-education.myshopify.com/admin/products/6659823435812"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/acrylic-powder-2oz-foundation-pink" link="https://nail-career-education.myshopify.com/admin/products/6659824123940"></shopper-product>
@@ -93,7 +93,7 @@ mainHtml: html`
 
 		<h2 id=files-and-forms>Files &amp; Forms</h2>
 		<div class=productgrid>
-			<shopper-product data-new restocking-soon show-image href="/store/products/gold-trimmer-bit" link="6971277672484"></shopper-product>
+			<shopper-product restocking-soon show-image href="/store/products/gold-trimmer-bit" link="6971277672484"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/french-cut-bit" link="6923935088676"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/bit-kit" link="6767534768164"></shopper-product>
 			<shopper-product data-notice="NORTH AMERICA ONLY" restocking-soon show-image href="/store/products/ezfile" link="6748213674020"></shopper-product>
@@ -110,11 +110,11 @@ mainHtml: html`
 		<h2 id=gel>Gel</h2>
 		<div class=productgrid>
 			<shopper-product restocking-soon show-image href="/store/products/ez-gel" link="6875102281764"></shopper-product>
-			<shopper-product data-new restocking-soon show-image href="/store/products/ez-gel-pink-mix" link="6971281670180"></shopper-product>
-			<shopper-product data-new restocking-soon show-image href="/store/products/ez-gel-midnight" link="6971282358308"></shopper-product>
-			<shopper-product data-new restocking-soon show-image href="/store/products/ez-gel-soft-white" link="6971282948132"></shopper-product>
+			<shopper-product restocking-soon show-image href="/store/products/ez-gel-pink-mix" link="6971281670180"></shopper-product>
+			<shopper-product restocking-soon show-image href="/store/products/ez-gel-midnight" link="6971282358308"></shopper-product>
+			<shopper-product restocking-soon show-image href="/store/products/ez-gel-soft-white" link="6971282948132"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/mini-nuke" link="6875100250148"></shopper-product>
-			<shopper-product data-new restocking-soon show-image href="/store/products/bridge" link="6971280982052"></shopper-product>
+			<shopper-product restocking-soon show-image href="/store/products/bridge" link="6971280982052"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/reveal-top-coat" link="6875101528100"></shopper-product>
 		</div>
 
@@ -141,14 +141,14 @@ mainHtml: html`
 		<h2 id=nail-art>Nail Art</h2>
 		<div class=productgrid>
 			<shopper-product restocking-soon show-image href="/store/products/jem-jab" link="6875095040036"></shopper-product>
-			<shopper-product data-new restocking-soon show-image href="/store/products/caviar/bright-gold" link="6944660652068"></shopper-product>
-			<shopper-product data-new restocking-soon show-image href="/store/products/caviar/pewter" link="6944659734564"></shopper-product>
-			<shopper-product data-new restocking-soon show-image href="/store/products/caviar/pearl" link="6944660488228"></shopper-product>
+			<shopper-product restocking-soon show-image href="/store/products/caviar/bright-gold" link="6944660652068"></shopper-product>
+			<shopper-product restocking-soon show-image href="/store/products/caviar/pewter" link="6944659734564"></shopper-product>
+			<shopper-product restocking-soon show-image href="/store/products/caviar/pearl" link="6944660488228"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/twinkle-sprinkle" link="6875089403940"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/gem-catcher" link="6875099463716"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/silvery-gems" link="6875102871588"></shopper-product>
-			<shopper-product data-new restocking-soon show-image href="/store/products/golden-gems" link="6944658784292"></shopper-product>
-			<shopper-product data-new restocking-soon show-image href="/store/products/rainbow-crystals" link="6944657506340"></shopper-product>
+			<shopper-product restocking-soon show-image href="/store/products/golden-gems" link="6944658784292"></shopper-product>
+			<shopper-product restocking-soon show-image href="/store/products/rainbow-crystals" link="6944657506340"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/ice-crystals" link="6875103199268"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/3d-diamond-shapes/all-six-colors" link="6859170218020"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/3d-diamond-shapes/blue-green" link="6856054308900"></shopper-product>
