@@ -18,5 +18,5 @@ export interface NceProduct {
 		images: string[]
 	}
 	writeup: string
-	details: string
+	details?: string
 }
