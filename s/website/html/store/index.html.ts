@@ -91,7 +91,6 @@ mainHtml: html`
 			<shopper-product restocking-soon show-image href="/store/products/blue-duster" link="6814424137764"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/nail-art-brush-set" link="https://nail-career-education.myshopify.com/admin/products/6696149254180"></shopper-product>
 			<shopper-product restocking-soon show-image href="/store/products/rose-gold-brush-kit" uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1NzYzNDg3NTgwNTI="></shopper-product>
-			<shopper-product restocking-soon show-image href="/store/products/pride-brushes" uid="Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY2MjAxNjI2MjE0NzY="></shopper-product>
 		</div>
 
 		<h2 id=files-and-forms>Files &amp; Forms</h2>
