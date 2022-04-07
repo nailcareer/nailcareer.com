@@ -1,4 +1,19 @@
 
+gel-brush:
+  title: "Gel Brush"
+  product:
+    shopify: 6996610940964
+    restockingSoon: true
+  carousel:
+    aspectRatio: 1x1
+    images:
+    - products/gel-brush/gel-brush-01.jpg
+    - products/gel-brush/gel-brush-02.jpg
+  writeup: |
+    <p>Soft Nylon bristle for applying sculpting gel nails. A tight cap to keep light away from bristles so you can condition with Gel. Easy to clean casing and handle. Nice lightweight handle.</p>
+    <h3>How to care for your new Gel Brush</h3>
+    <p>Clean bristles with Alcohol or gel. Do not use acetone, as it will damage bristles. Please use the cap when not in use, to avoid hardening, especially if conditioning with gel.</p>
+
 scissors:
   title: "Scissors"
   product:
