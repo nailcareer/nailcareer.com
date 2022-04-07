@@ -115,6 +115,7 @@ mainHtml: html`
 
 		<h2 id=brushes>Brushes</h2>
 		<div class=productgrid>
+			${product("gel-brush", {link: "6996610940964"}, {restockingSoon, isNew})}
 			${product("blue-duster", {link: "6814424137764"}, {restockingSoon})}
 			${product("nail-art-brush-set", {link: "6696149254180"}, {restockingSoon})}
 			${product("rose-gold-brush-kit", {uid: "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1NzYzNDg3NTgwNTI="}, {restockingSoon})}
