@@ -48,6 +48,7 @@ dried-flowers:
   carousel:
     aspectRatio: 1x1
     images:
+    - products/dried-flowers/dried-flowers-08.jpg
     - products/dried-flowers/dried-flowers-01.jpg
     - products/dried-flowers/dried-flowers-02.jpg
     - products/dried-flowers/dried-flowers-03.jpg
