@@ -1,17 +1,34 @@
 
 import {WebsiteContext} from "xiome/x/toolbox/hamster-html/website/build-website-types.js"
 
-export interface NceWebsiteContext extends WebsiteContext {
+export interface NceWebsiteInputs {
 	mode: "debug" | "production"
+	catalog: ProductCatalog
 }
 
-export interface NceProduct {
-	name: string
+export type NceWebsiteContext = NceWebsiteInputs & WebsiteContext
+
+export interface ProductCatalog {
+	[name: string]: ProductCategory | Uncategorized
+}
+
+export interface ProductCategory {
+	label: string
+	products: {[name: string]: Product | SpecialPartnership}
+}
+
+export interface Uncategorized {
+	products: {[name: string]: Product | SpecialPartnership}
+}
+
+export interface Product {
 	title: string
 	product: {
 		shopify?: string
 		shopifyUid?: string
-		restockingSoon: boolean
+		restockingSoon?: boolean
+		isNew?: boolean
+		notice?: string
 	}
 	carousel: {
 		aspectRatio?: string
@@ -19,4 +36,17 @@ export interface NceProduct {
 	}
 	writeup: string
 	details?: string
+}
+
+export interface SpecialPartnership {
+	"special-partnership": {
+		note: string
+		title: string
+		link: string
+		bubble: string
+		image: string
+		discount: string
+		percentOff: number
+		button: string
+	}
 }

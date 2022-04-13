@@ -1,12 +1,22 @@
 
-import {NceWebsiteContext} from "./types.js"
+import {NceWebsiteContext, NceWebsiteInputs} from "./types.js"
 import {buildProductPages} from "./products/build-product-pages.js"
+import {loadProductCatalog} from "./products/load-product-catalog.js"
 import {buildWebsite} from "xiome/x/toolbox/hamster-html/website/build-website.js"
 
 const mode = <NceWebsiteContext["mode"]>process.argv[2]
 if (!mode) {
 	console.error(`website build requires argument "mode"`)
 	process.exit(-1)
+}
+
+const catalog = await loadProductCatalog("s/website/product-catalog.yaml")
+
+// console.log(JSON.stringify(catalog, undefined, "  "))
+
+const inputs: NceWebsiteInputs = {
+	mode,
+	catalog,
 }
 
 await Promise.all([
@@ -16,15 +26,10 @@ await Promise.all([
 		outputDirectory: "x",
 		excludes: ["partials/**/*"],
 		logWrittenFile: path => console.log("write", path),
-		context: {
-			mode,
-		},
+		context: inputs,
 	}),
 
-	buildProductPages({
-		mode,
-		productDataPath: "s/website/product-data.yaml",
-	}),
+	buildProductPages(inputs),
 ])
 
 console.log("website done")

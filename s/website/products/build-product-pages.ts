@@ -3,24 +3,27 @@ import {dirname} from "path"
 import {mkdir} from "fs/promises"
 import {minify} from "html-minifier-terser"
 
-import {NceWebsiteContext} from "../types.js"
-import {loadProductData} from "./load-product-data.js"
+import {NceWebsiteInputs, Product} from "../types.js"
 import {write} from "../buildtools/reading-and-writing.js"
 import {getWebsiteContext} from "xiome/x/toolbox/hamster-html/website/utils/get-website-context.js"
 
 import productPageHtml from "../html/partials/product-page.html.js"
 
-export async function buildProductPages({mode, productDataPath}: {
-		mode: NceWebsiteContext["mode"]
-		productDataPath: string
-	}) {
+export async function buildProductPages({mode, catalog}: NceWebsiteInputs) {
 
-	const products = await loadProductData(productDataPath)
+	const productList = <[string, Product][]>
+		Object.entries(catalog)
+			.flatMap(([,categoryData]) => Object.entries(categoryData.products))
+			.filter(([,product]) => !product["special-partnership"])
+
+	for (const [name, product] of productList) {
+		if (!product.carousel) console.error("NO PRODUCT", name, product)
+	}
 
 	const pages = await Promise.all(
-		products.map(async product => {
+		productList.map(async([pageName, product]) => {
 			const context = getWebsiteContext({
-				sourcePath: `x/store/products/${product.name}`,
+				sourcePath: `x/store/products/${pageName}`,
 				inputDirectory: "x",
 				outputDirectory: "x",
 			})
@@ -28,6 +31,7 @@ export async function buildProductPages({mode, productDataPath}: {
 				...context,
 				imagesDirectory: "/assets/images-large",
 				mode,
+				catalog,
 				product,
 			}).render()
 			const htmlMini = await minify(html, {
@@ -38,7 +42,7 @@ export async function buildProductPages({mode, productDataPath}: {
 				removeScriptTypeAttributes: true,
 				removeStyleLinkTypeAttributes: true,
 			})
-			return {name: product.name, html: htmlMini}
+			return {name: pageName, html: htmlMini}
 		})
 	)
 

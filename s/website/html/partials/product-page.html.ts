@@ -1,7 +1,6 @@
 
-
 import pageHtml from "../partials/page.html.js"
-import {NceProduct, NceWebsiteContext} from "../../types.js"
+import {Product, NceWebsiteContext} from "../../types.js"
 import {html, attrMaybe, attrBool, maybe, unsanitized} from "xiome/x/toolbox/hamster-html/html.js"
 
 export default ({
@@ -9,7 +8,7 @@ export default ({
 	imagesDirectory,
 	...context
 }: NceWebsiteContext & {
-	product: NceProduct
+	product: Product
 	imagesDirectory: string
 }) => pageHtml({
 ...context,
@@ -34,6 +33,8 @@ mainHtml: html`
 		<shopper-product
 			${attrMaybe("link", product.shopify)}
 			${attrMaybe("uid", product.shopifyUid)}
+			${attrBool("restocking-soon", product.restockingSoon)}
+			${attrBool("data-new", product.isNew)}
 		></shopper-product>
 		<small class=disclaimers>
 			<p>Note: depending on your location, your order may be subject to international duty fees</p>
