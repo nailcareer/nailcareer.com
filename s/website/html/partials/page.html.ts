@@ -14,7 +14,7 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 <head>
 
 	<meta charset="utf-8"/>
-	<meta name=viewport content="width=device-width,initial-scale=1"/>
+	<meta name=viewport content="width=900,initial-scale=1"/>
 	<title>
 		${pageSubtitle ? "NCE " + pageSubtitle : "Nail Career Education"}
 	</title>
