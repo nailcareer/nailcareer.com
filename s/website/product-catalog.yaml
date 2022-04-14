@@ -422,7 +422,7 @@ acrylic:
         bubble: "Fast-setting formula"
         image: "products/fast-acrylic/fast-acrylic-2.jpg"
         discount:
-          code: "SUZIE10"
+          code: "SUZIE"
           percentOff: 10
         button: "Buy on Joya Mia"
     joyamia-clean-acrylic:
@@ -433,7 +433,7 @@ acrylic:
         bubble: "Low-odor formula"
         image: "products/clean-acrylic/cleanacrylic3.jpg"
         discount:
-          code: "SUZIE10"
+          code: "SUZIE"
           percentOff: 10
         button: "Buy on Joya Mia"
 
