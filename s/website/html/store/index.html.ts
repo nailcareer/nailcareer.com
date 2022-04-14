@@ -1,7 +1,40 @@
 
 import pageHtml from "../partials/page.html.js"
-import {NceWebsiteContext, Product, ProductCatalog, ProductCategory, SpecialPartnership} from "../../types.js"
 import {attrBool, attrMaybe, html} from "xiome/x/toolbox/hamster-html/html.js"
+import {NceWebsiteContext, Product, ProductCatalog, ProductCategory, SpecialPartnership} from "../../types.js"
+
+export default ({base, mode, ...context}: NceWebsiteContext) => pageHtml({
+...context,
+base,
+mode,
+pageName: "store",
+pageSubtitle: "Store",
+mainHtml: html`
+
+	<div class=plate>
+		${renderCatalogNavigation(context.catalog)}
+	</div>
+
+	<div class=productarea>
+		${renderCatalog(context.catalog)}
+	</div>
+
+`})
+
+function renderCatalogNavigation(catalog: ProductCatalog) {
+	return html`
+		<nav class=subnav>
+			${Object.entries(catalog)
+				.filter(([name]) => name !== "_uncategorized")
+				.map(([name, category]: [string, ProductCategory]) => html`
+					<a href="#${name}">
+						${category.label}
+					</a>
+				`)}
+		</nav>
+	`
+}
+
 
 function renderCatalog(catalog: ProductCatalog) {
 	return Object.entries(catalog)
@@ -25,7 +58,6 @@ function renderCategory(name: string, category: ProductCategory) {
 function renderProduct(
 		name: string,
 		{
-			title,
 			product: {
 				shopify,
 				shopifyUid,
@@ -33,12 +65,6 @@ function renderProduct(
 				restockingSoon,
 				notice,
 			},
-			carousel: {
-				images,
-				aspectRatio,
-			},
-			writeup,
-			details,
 		}: Product,
 	) {
 	return html`
@@ -62,67 +88,32 @@ function renderSpecialPartnership(
 			title,
 			note,
 			link,
+			linkTarget,
 			bubble,
 			button,
 			discount,
 			image,
-			percentOff,
 		}}: SpecialPartnership,
 	) {
 	return html`
-		<p>special: ${name} ${title}</p>
+		<a class=special target="${linkTarget}" href="${link}">
+			<div class=imagebox>
+				<p class=note>${note}</p>
+				<img src="/assets/images-small/${image}" alt=""/>
+			</div>
+			<div class=detailbox>
+				<p class=producttitle>${title}</p>
+				<p class=bubble>${bubble}</p>
+			</div>
+			<div class=actionbox>
+				${discount ?html`
+					<p class=productcode>
+						Use discount code <code>${discount.code}</code>
+						for ${Math.round(discount.percentOff)}% off!
+					</p>
+				` :undefined}
+				<p class=productbutton>${button}</p>
+			</div>
+		</a>
 	`
 }
-
-function product(
-		page: string,
-		product: {link: string} | {uid: string},
-		{notice, isNew = false, restockingSoon = false}: {
-			isNew?: boolean
-			restockingSoon?: boolean
-			notice?: string
-		} = {},
-	) {
-	return html`
-		<shopper-product
-			show-image
-			image-size="260"
-			${restockingSoon ?"restocking-soon" :""}
-			${isNew ?"data-new" :""}
-			${notice ?html`data-notice="${notice}"` :""}
-			href="/store/products/${page}"
-			${(<any>product).link
-				? html`link="${(<any>product).link}"`
-				: html`uid="${(<any>product).uid}"`}
-		></shopper-product>
-	`
-}
-
-const isNew = true
-const restockingSoon = true
-
-export default ({base, mode, ...context}: NceWebsiteContext) => pageHtml({
-...context,
-base,
-mode,
-pageName: "store",
-pageSubtitle: "Store",
-mainHtml: html`
-
-	<div class=plate>
-		<nav class=subnav>
-			${Object.entries(context.catalog)
-				.filter(([name, category]) => name !== "_uncategorized")
-				.map(([name, category]: [string, ProductCategory]) => html`
-					<a href="#${name}">
-						${category.label}
-					</a>
-				`)}
-		</nav>
-	</div>
-
-	<div class=productarea>
-		${renderCatalog(context.catalog)}
-	</div>
-
-`})

@@ -43,10 +43,13 @@ export interface SpecialPartnership {
 		note: string
 		title: string
 		link: string
+		linkTarget: string
 		bubble: string
 		image: string
-		discount: string
-		percentOff: number
+		discount?: {
+			code: string
+			percentOff: number
+		}
 		button: string
 	}
 }
