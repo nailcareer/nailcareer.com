@@ -47,7 +47,10 @@ export async function buildProductPages({mode, catalog}: NceWebsiteInputs) {
 	)
 
 	await Promise.all(pages.map(async page => {
-		const path = `x/store/products/${page.name}.html`
+		const pageName = page.name.endsWith("/")
+			? page.name + "index"
+			: page.name
+		const path = `x/store/products/${pageName}.html`
 		await mkdir(dirname(path), {recursive: true})
 		await write(path, page.html)
 		console.log("write product", path)

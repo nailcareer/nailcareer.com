@@ -10,13 +10,9 @@ if (!mode) {
 	process.exit(-1)
 }
 
-const catalog = await loadProductCatalog("s/website/product-catalog.yaml")
-
-// console.log(JSON.stringify(catalog, undefined, "  "))
-
 const inputs: NceWebsiteInputs = {
 	mode,
-	catalog,
+	catalog: await loadProductCatalog("s/website/product-catalog.yaml"),
 }
 
 await Promise.all([
