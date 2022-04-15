@@ -376,3 +376,22 @@ details.memes {
 		border-color: #fff4;
 	}
 }
+
+@media (max-width: 700px) {
+	.productgrid {
+		font-size: 0.7em;
+		gap: 0.2em;
+		> * {
+			max-width: 8em;
+		}
+		shopper-product, .special {
+			padding: 0.5em;
+			img {
+				height: 6em;
+			}
+			a, .producttitle {
+				font-size: 1em;
+			}
+		}
+	}
+}
