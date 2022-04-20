@@ -3,8 +3,22 @@ import pageHtml from "../partials/page.html.js"
 import {Product, NceWebsiteContext} from "../../types.js"
 import {html, attrMaybe, attrBool, maybe, unsanitized} from "xiome/x/toolbox/hamster-html/html.js"
 
+import MarkdownIt from "markdown-it"
+
+const markdown = (() => {
+	const markdown = MarkdownIt({
+		html: true,
+		xhtmlOut: false,
+		breaks: false,
+		linkify: true,
+		typographer: true,
+		quotes: '“”‘’',
+	})
+	return (md: string) => markdown.render(md)
+})()
+
 export default ({
-	product: {title, product, carousel, writeup, details},
+	product: {title, product, carousel, writeup, writeupMarkdown, details},
 	imagesDirectory,
 	...context
 }: NceWebsiteContext & {
@@ -39,9 +53,18 @@ mainHtml: html`
 		<small class=disclaimers>
 			<p>Note: depending on your location, your order may be subject to international duty fees</p>
 		</small>
-		<div class=writeup>
-			${unsanitized(writeup)}
-		</div>
+		${writeup
+			? html`
+				<div class=writeup>
+					${unsanitized(writeup)}
+				</div>`
+			: undefined}
+		${writeupMarkdown
+			? html`
+				<div class=writeup>
+					${unsanitized(markdown(writeupMarkdown))}
+				</div>`
+			: undefined}
 		${maybe(details, () => html`
 			<div class=details>
 				${unsanitized(details)}

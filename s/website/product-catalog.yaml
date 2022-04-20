@@ -13,16 +13,24 @@ accessories:
         images:
         - products/glass-dispenser/dispenser-01.jpg
         - products/glass-dispenser/dispenser-02.jpg
-      writeup: |
-        <p><em>(Size 180 ml)</em></p>
-        <p>The push pump easily brings the liquid to the surface. As the liquid pools in the well in the top use cotton or a brush to use the liquid. Liquid stays fresh and new avoiding contamination for the liquid in the glass. The internal pump mechanism is designed for dispensing Alcohol and Acrylic Monomer. This mechanism is not designed or recommended for Acetone or nail polish remover.</p>
-        <h4>Fill with Alcohol</h4>
-        <p>Perfect for Dispensing liquid as soon as you need it. Soak with Blue Cotton Napkins to clean Gel nails.</p>
-        <h4>Fill with Monomer</h4>
-        <p>Easily & quickly dispense monomer with every bead you create. Monomer wells up in the top to keep it fresh and clean.</p>
-        <p>Perfect for regulating your monomer absorption in your brush.</p>
-        <h4>Note</h4>
-        <p>Do not leave Acrylic Monomer in Sunlight or UV rays. Some Monomer can be negatively affected and alter its performance.</p>
+      writeupMarkdown: |
+        *(Size 180 ml)*
+
+        The push pump easily brings the liquid to the surface. As the liquid pools in the well in the top use cotton or a brush to use the liquid. Liquid stays fresh and new avoiding contamination for the liquid in the glass. The internal pump mechanism is designed for dispensing Alcohol and Acrylic Monomer. This mechanism is not designed or recommended for Acetone or nail polish remover.
+
+        #### Fill with Alcohol
+
+        Perfect for Dispensing liquid as soon as you need it. Soak with Blue Cotton Napkins to clean Gel nails.
+
+        #### Fill with Monomer
+
+        Easily & quickly dispense monomer with every bead you create. Monomer wells up in the top to keep it fresh and clean.
+
+        Perfect for regulating your monomer absorption in your brush.
+
+        #### Note
+
+        Do not leave Acrylic Monomer in Sunlight or UV rays. Some Monomer can be negatively affected and alter its performance.
     tweezers:
       title: "Tweezers"
       product:

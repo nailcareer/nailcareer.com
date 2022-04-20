@@ -34,7 +34,8 @@ export interface Product {
 		aspectRatio?: string
 		images: string[]
 	}
-	writeup: string
+	writeup?: string
+	writeupMarkdown?: string
 	details?: string
 }
 
