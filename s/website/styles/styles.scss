@@ -261,6 +261,10 @@ xio-menu {
 		[data-nightlight] & {
 			--shopper-cart-table-border: 1px solid rgba(255, 255, 255, 0.2);
 		}
+		&::part(terms-checkbox) {
+			transform: scale(2);
+			width: 2em;
+		}
 		&::part(checkout-button) {
 			opacity: 0.8;
 			cursor: pointer;
@@ -273,6 +277,9 @@ xio-menu {
 				opacity: 1;
 			}
 		}
+	}
+	shopper-cart[checkout-is-disabled]::part(checkout-button) {
+		opacity: 0.3;
 	}
 	xiome-my-avatar {
 		display: block;
