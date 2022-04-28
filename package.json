@@ -6,10 +6,9 @@
 	"license": "UNLICENSED",
 	"type": "module",
 	"scripts": {
-		"build": "run-s clean copy-metafiles link-node_modules link-s verifications && run-p compile-tsc compile-sass importmap assets && run-p compile-bundle && run-p compile-website-production",
+		"build": "run-s clean link-node_modules link-s verifications && run-p compile-tsc compile-sass importmap assets && run-p compile-bundle && run-p compile-website-production",
 		"clean": "rimraf x && mkdirp x x/assets/images",
 		"verifications": "cp s/website/verifications/facebook/* x && cp s/website/verifications/pinterest/* x",
-		"copy-metafiles": "cp CNAME .nojekyll x/",
 		"link-s": "ln -s $(realpath s) x/s",
 		"link-xiome": "rm -rf node_modules/xiome && ln -s $(realpath ../xiome) node_modules/xiome",
 		"link-node_modules": "ln -s $(realpath node_modules) x/node_modules",

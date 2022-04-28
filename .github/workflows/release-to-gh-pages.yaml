@@ -1,41 +1,39 @@
 
-name: deploy to production
+name: release to gh-pages
 on:
   push:
-    tags:
-      - 'v*'
-
-env:
-  REGISTRY: ghcr.io
+    branches:
+    - release
 
 jobs:
-  production-deployment:
+  release:
     runs-on: ubuntu-latest
-
     steps:
 
     - name: 🛎️ checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: 🔧 set up node
-      uses: actions/setup-node@v2
+      uses: actions/setup-node@v3
       with:
         node-version: '17'
 
     - name: 📦 npm install dependencies
-      shell: bash
       run: npm install
 
     - name: 🔨 build
-      shell: bash
       run: npm run build
 
     - name: 🗃️ copy node_modules
-      shell: bash
       run: npm ci --production && rm -rf x/node_modules x/s && cp -r node_modules/ x/ && cp -r s/ x/
 
+    - name: ✍️ write cname and nojekyll
+      run: |
+        touch .nojekyll
+        echo "nailcareer.com" > CNAME
+
     - name: 🚀 deploy to gh-pages
-      uses: JamesIves/github-pages-deploy-action@4.1.7
+      uses: JamesIves/github-pages-deploy-action@v4.3.0
       with:
         branch: gh-pages
         folder: x
