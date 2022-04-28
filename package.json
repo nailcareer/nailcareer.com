@@ -60,7 +60,7 @@
 		"lit-element": "^3.2.0",
 		"lit-html": "^2.2.2",
 		"markdown-it": "^13.0.0",
-		"shopper": "^0.2.1",
+		"shopper": "^0.2.2",
 		"sorry-not-sorry": "0.0.3",
 		"whatwg-fetch": "^3.6.2",
 		"xiome": "^0.0.30"
