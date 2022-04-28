@@ -67,7 +67,13 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 				</xio-menu-item>
 				<xio-menu-item data-label=shopper>
 					<shopper-button></shopper-button>
-					<shopper-cart slot="panel"></shopper-cart>
+					<shopper-cart slot=panel require-terms-checked>
+						<div slot=before-checkout>
+							<p class=note>Prices on final checkout page are shown in US Dollars.</p>
+							<p class=note>Shipping is currently only available within North America.</p>
+							<p class=terms><strong>Terms:</strong> Nail products must not be used on humans, except by a licensed aesthetician.</p>
+						</div>
+					</shopper-cart>
 				</xio-menu-item>
 				<xio-menu-item data-label="account">
 					<xiome-my-avatar></xiome-my-avatar>

@@ -251,22 +251,21 @@ xio-menu {
 		background: transparent;
 	}
 	shopper-cart {
+		[slot="before-checkout"] {
+			margin: 1em 0;
+			> * + * {
+				margin-top: 1em;
+			}
+		}
 		--shopper-cart-table-border: 1px solid rgba(0, 64, 128, 0.2);
 		[data-nightlight] & {
 			--shopper-cart-table-border: 1px solid rgba(255, 255, 255, 0.2);
 		}
-		.cart-checkout::before {
-			content: "Note: Prices on final checkout page are shown in US Dollars";
-			display: block;
-			max-width: 24em;
-			margin-bottom: 1em;
-			margin-left: auto;
-			text-align: left;
-			font-size: 0.7em;
-			opacity: 0.8;
-			font-style: italic;
+		&::part(terms-checkbox) {
+			transform: scale(2);
+			width: 2em;
 		}
-		.checkout-button {
+		&::part(checkout-button) {
 			opacity: 0.8;
 			cursor: pointer;
 			background: #00e9e4;
@@ -278,6 +277,9 @@ xio-menu {
 				opacity: 1;
 			}
 		}
+	}
+	shopper-cart[checkout-is-disabled]::part(checkout-button) {
+		opacity: 0.3;
 	}
 	xiome-my-avatar {
 		display: block;
