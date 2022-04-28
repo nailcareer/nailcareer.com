@@ -19,11 +19,11 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 How do I withdraw my consent? 
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at emily@nailcareer.com.com or mailing us at: 
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at angie@nailcareer.com or mailing us at: 
 
 Suzie's Nail Career Education Inc 
 
-106-2800 Bryn Maur Rd Victoria British Columbia CA V9B3L4
+`4050 Altamont Ave. Victoria, BC, V8Z 5H2`
 
 ## SECTION 3 - DISCLOSURE
 
@@ -103,10 +103,10 @@ If our store is acquired or merged with another company, your information may be
 
 QUESTIONS AND CONTACT INFORMATION
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at emily@nailcareer.com.com or by mail at 
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at angie@nailcareer.com or by mail at 
 
 Suzie's Nail Career Education Inc 
 
 [Re: Privacy Compliance Officer] 
 
-106-2800 Bryn Maur Rd Victoria British Columbia CA V9B3L4 
+`4050 Altamont Ave. Victoria, BC, V8Z 5H2`
