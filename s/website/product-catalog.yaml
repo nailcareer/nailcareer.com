@@ -928,12 +928,16 @@ gel:
         images:
         - products/ezgel/ezgel-03.jpg
         - products/ezgel-colors/ez-pink-mix.jpg
-      writeup: |
-        <p>EZ Gel is Cruelty Free and HEMA free. Available in Three colours. EZ Gel is creamy and smooth and very easy to control and shape in your favourite nail. Formulated to work with Alcohol.</p>
-        <p>You may wonder why I choose to have my Hybrid Gel in Jars/Pots instead of a tube.</p>
-        <p>I prefer the jars because I feel it’s easier to get out of the container. Also there is NO WASTE. I can reach <em>every</em> last bead. I found squeezing the tube difficult. You can also put back any unused gel if you just got too much.</p>
+      writeupMarkdown: |
+        Suzie’s EZ Gel is creamy, smooth, easy to control and shape into your favourite nail and is formulated to work with alcohol.
 
-        <p><strong>Suzie’s Pink Mix</strong> is specially formulated to be a little opaque and little transparent. Excellent for creating Ombre easily in just two steps. This particular MIX Suzie designed is to cover any natural flaws on the nail. Excellent to fade over the ombre white for that delicate ombre. Use it on the nail plate just before you apply a French smile line, and you’ll see how beautifully the Pink Colour compliments the white or black or any colour you add.</p>
+        Suzie’s EZ Gels come in jars/pots instead of in tubes to make gathering your gel easier and to minimize waste. You can easily scoop any unused/extra gel and place it back in the jar for next time.
+
+        Suzie’s Pink Mix is specially formulated to be a little opaque and a little transparent, making it excellent for creating Ombre easily in just two steps. It’s designed to be opaque enough to cover any natural flaws on the nail, and just translucent enough to fade over the Ombre White for that perfect ombre effect.
+
+        Use this Pink Mix on the nail plate just before you apply a French smile line and you’ll see how beautifully it compliments white, black or any colour you pair it with.
+
+        🇺🇸 Suzie's EZ-Gel Colours and Bridge Gel Adhesion are HEMA-Free, Cruelty-Free, and Made in America
     ez-gel-midnight:
       title: "Midnight - EZ Gel Colour"
       product:
@@ -944,12 +948,14 @@ gel:
         images:
         - products/ezgel/ezgel-02.jpg
         - products/ezgel-colors/ez-midnight.jpg
-      writeup: |
-        <p>EZ Gel is Cruelty Free and HEMA free. Available in Three colours. EZ Gel is creamy and smooth and very easy to control and shape in your favourite nail. Formulated to work with Alcohol.</p>
-        <p>You may wonder why I choose to have my Hybrid Gel in Jars/Pots instead of a tube.</p>
-        <p>I prefer the jars because I feel it’s easier to get out of the container. Also there is NO WASTE. I can reach <em>every</em> last bead. I found squeezing the tube difficult. You can also put back any unused gel if you just got too much.</p>
+      writeupMarkdown: |
+        Suzie’s EZ Gel is creamy, smooth, easy to control and shape into your favourite nail and is formulated to work with alcohol.
 
-        <p><strong>Midnight:</strong> This Black is solid even when applied very thin. I worked hard on this one. Black can be tricky. The right pigment is the key to making Black nails. This application will ensure a complete cure. Wait till you see the Black against the Pink. This black has such excellent pigment when it’s applied paper thin it remains solid.</p>
+        Suzie’s EZ Gels come in jars/pots instead of in tubes to make gathering your gel easier and to minimize waste. You can easily scoop any unused/extra gel and place it back in the jar for next time.
+
+        This Midnight black EZ Gel is solid, even when applied very thin. Black can be tricky– this black EZ Gel is designed with the right pigment so as to ensure a complete cure. Wait until you see this Midnight black against pink!
+
+        🇺🇸 Suzie's EZ-Gel Colours and Bridge Gel Adhesion are HEMA-Free, Cruelty-Free, and Made in America
     ez-gel-soft-white:
       title: "French & Ombre White - EZ Gel Colour"
       product:
@@ -960,12 +966,14 @@ gel:
         images:
         - products/ezgel/ezgel-08.jpg
         - products/ezgel-colors/ez-pink-and-white.jpg
-      writeup: |
-        <p>EZ Gel is Cruelty Free and HEMA free. Available in Three colours. EZ Gel is creamy and smooth and very easy to control and shape in your favourite nail. Formulated to work with Alcohol.</p>
-        <p>You may wonder why I choose to have my Hybrid Gel in Jars/Pots instead of a tube.</p>
-        <p>I prefer the jars because I feel it’s easier to get out of the container. Also there is NO WASTE. I can reach <em>every</em> last bead. I found squeezing the tube difficult. You can also put back any unused gel if you just got too much.</p>
+      writeupMarkdown: |
+        Suzie’s EZ Gel is creamy, smooth, easy to control and shape into your favourite nail and is formulated to work with alcohol.
 
-        <p><strong>Soft White:</strong> I am in love with this formulation of white. White yet soft. Almost natural. I designed this white to compliment Suzie’s Pink Mix for a delicate look when creating French and Ombre’s. After 35 years of creating Pink and White Nails it was so much fun creating the ultimate White for my own Brand.</p>
+        Suzie’s EZ Gels come in jars/pots instead of in tubes to make gathering your gel easier and to minimize waste. You can easily scoop any unused/extra gel and place it back in the jar for next time.
+
+        This French & Ombre White EZ Gel is a natural looking soft white. Designed to compliment Suzie’s Pink Mix EZ Gel when creating French and Ombre nails. This soft white EZ Gel will add a delicate touch to any nail design.
+
+        🇺🇸 Suzie's EZ-Gel Colours and Bridge Gel Adhesion are HEMA-Free, Cruelty-Free, and Made in America
     mini-nuke:
       title: "Mini Nuke"
       product:
