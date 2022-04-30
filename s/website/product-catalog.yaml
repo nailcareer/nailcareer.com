@@ -1006,15 +1006,14 @@ gel:
         aspectRatio: 2x3
         images:
         - products/bridge/bridge-01.jpg
-      writeup: |
-        <p>Bridge is designed to be the Adhesion between your natural nail and EZ Gel.</p>
-        <p>Bridge is an excellent product to use Between Layers of product to help aid adhesion.</p>
-        <p>Use Bridge after you finish sculpting and juts before you apply gel polish for a stronger adhesion.</p>
-        <h4>How to use:</h4>
-        <ul>
-          <li>Apply a very thin Layer, in circles. Massage into nail plate. Just one coat.</li>
-          <li>Then cure for 60 secs. Proceed with application.</li>
-        </ul>
+      writeupMarkdown: |
+        Are your nails lifting? Is your polish chipping easily? You need Bridge in your life!
+
+        Bridge is designed to help aid adhesion between your natural nail and product (specifically: gel and gel polish). Use Bridge after you finish sculpting and just before you apply gel polish or gel for a stronger adhesion.
+
+        How to use:
+        - Apply one coat very thin, in circles. Massage into the nail plate.
+        - Cure for 60 secs. Apply gel or gel polish.
     reveal-top-coat:
       title: "'Reveal' Top Coat"
       product:
