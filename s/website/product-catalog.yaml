@@ -1614,12 +1614,11 @@ nail-art:
         aspectRatio: 1x1
         images:
         - products/foil/foil-gold.jpg
-      writeup: |
-        <h3>Decorative foil for nail art inlays or polish secure</h3>
-        <ul>
-          <li><strong>Inlay</strong><span>&nbsp;— place pieces of foil in between layers of hard gel, acrylic, or hybrids. Place on top of uncured acrylic or before you cure gels, then apply your product of choice on top. Watch it brighten and come to life as you apply top coat.</span></li>
-          <li><strong>Polish Secure</strong><span>&nbsp;— place on top of nail polish, gel polish, or fully sculpted nail enhancements. Apply to freshly applied polish or gel polish <em>before</em> you cure it. Apply top coat to secure your foil and watch it come to life.</span></li>
-        </ul>
+      writeupMarkdown: |
+        Use this eye catching foil on your nails as inlays or on top of polish. Unleash its full vibrancy with a top coat!
+
+        - **For Inlay:** Place pieces of foil in between layers of hard gel, acrylic, or hybrids. Place on top of uncured acrylic or before you cure gels. Apply your product of choice on top. Watch it brighten and come to life as you apply a top coat!
+        - **For Polish Secure:** Place on top of nail polish, gel polish, or fully sculpted nail enhancements. Apply to freshly applied polish or gel polish before you cure it. Apply a top coat to secure your foil and unleash its full vibrance!
     foils/silver:
       title: "Silvery Foil"
       product:
@@ -1629,12 +1628,11 @@ nail-art:
         aspectRatio: 1x1
         images:
         - products/foil/foil-silver.jpg
-      writeup: |
-        <h3>Decorative foil for nail art inlays or polish secure</h3>
-        <ul>
-          <li><strong>Inlay</strong><span>&nbsp;— place pieces of foil in between layers of hard gel, acrylic, or hybrids. Place on top of uncured acrylic or before you cure gels, then apply your product of choice on top. Watch it brighten and come to life as you apply top coat.</span></li>
-          <li><strong>Polish Secure</strong><span>&nbsp;— place on top of nail polish, gel polish, or fully sculpted nail enhancements. Apply to freshly applied polish or gel polish <em>before</em> you cure it. Apply top coat to secure your foil and watch it come to life.</span></li>
-        </ul>
+      writeupMarkdown: |
+        Use this eye catching foil on your nails as inlays or on top of polish. Unleash its full vibrancy with a top coat!
+
+        - **For Inlay:** Place pieces of foil in between layers of hard gel, acrylic, or hybrids. Place on top of uncured acrylic or before you cure gels. Apply your product of choice on top. Watch it brighten and come to life as you apply a top coat!
+        - **For Polish Secure:** Place on top of nail polish, gel polish, or fully sculpted nail enhancements. Apply to freshly applied polish or gel polish before you cure it. Apply a top coat to secure your foil and unleash its full vibrance!
     foils/gold-and-copper:
       title: "Golden & Copper Coloured Foil"
       product:
@@ -1644,12 +1642,11 @@ nail-art:
         aspectRatio: 1x1
         images:
         - products/foil/foil-gold-and-copper.jpg
-      writeup: |
-        <h3>Decorative foil for nail art inlays or polish secure</h3>
-        <ul>
-          <li><strong>Inlay</strong><span>&nbsp;— place pieces of foil in between layers of hard gel, acrylic, or hybrids. Place on top of uncured acrylic or before you cure gels, then apply your product of choice on top. Watch it brighten and come to life as you apply top coat.</span></li>
-          <li><strong>Polish Secure</strong><span>&nbsp;— place on top of nail polish, gel polish, or fully sculpted nail enhancements. Apply to freshly applied polish or gel polish <em>before</em> you cure it. Apply top coat to secure your foil and watch it come to life.</span></li>
-        </ul>
+      writeupMarkdown: |
+        Use this eye catching foil on your nails as inlays or on top of polish. Unleash its full vibrancy with a top coat!
+
+        - **For Inlay:** Place pieces of foil in between layers of hard gel, acrylic, or hybrids. Place on top of uncured acrylic or before you cure gels. Apply your product of choice on top. Watch it brighten and come to life as you apply a top coat!
+        - **For Polish Secure:** Place on top of nail polish, gel polish, or fully sculpted nail enhancements. Apply to freshly applied polish or gel polish before you cure it. Apply a top coat to secure your foil and unleash its full vibrance!
     foils/gold-and-green:
       title: "Golden & Green Coloured Foil"
       product:
@@ -1659,12 +1656,11 @@ nail-art:
         aspectRatio: 1x1
         images:
         - products/foil/foil-gold-and-green.jpg
-      writeup: |
-        <h3>Decorative foil for nail art inlays or polish secure</h3>
-        <ul>
-          <li><strong>Inlay</strong><span>&nbsp;— place pieces of foil in between layers of hard gel, acrylic, or hybrids. Place on top of uncured acrylic or before you cure gels, then apply your product of choice on top. Watch it brighten and come to life as you apply top coat.</span></li>
-          <li><strong>Polish Secure</strong><span>&nbsp;— place on top of nail polish, gel polish, or fully sculpted nail enhancements. Apply to freshly applied polish or gel polish <em>before</em> you cure it. Apply top coat to secure your foil and watch it come to life.</span></li>
-        </ul>
+      writeupMarkdown: |
+        Use this eye catching foil on your nails as inlays or on top of polish. Unleash its full vibrancy with a top coat!
+
+        - **For Inlay:** Place pieces of foil in between layers of hard gel, acrylic, or hybrids. Place on top of uncured acrylic or before you cure gels. Apply your product of choice on top. Watch it brighten and come to life as you apply a top coat!
+        - **For Polish Secure:** Place on top of nail polish, gel polish, or fully sculpted nail enhancements. Apply to freshly applied polish or gel polish before you cure it. Apply a top coat to secure your foil and unleash its full vibrance!
 
 polish:
   label: "Polish"
