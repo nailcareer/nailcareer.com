@@ -1112,16 +1112,18 @@ manicure:
         aspectRatio: 1x1
         images:
         - products/oil/gingerbread-cookies-01.jpg
-      writeup: |
-        <p class="made-in-canada"><span>🇨🇦 Made in Canada</span></p>
-        <h2>Helping your hands &amp; nails feel hydrated</h2>
-        <p>Gingerbread Cookies, just in time for Christmas.</p>
-        <p>Moisturizing Vitamin E oil that softens cuticles, caring for dry or brittle nails.</p>
-        <p><em>(Nut free)</em></p>
-        <p>Suzie: "In my 30 year career, I've never missed using cuticle oil after every nail service. It replenishes hydration, and I love its fresh fragrance"</p>
-        <p>Suzie's luxury cuticle oil leaves your hands feeling nourished and hydrated. One drop on your cuticle keeps your skin soft and helps prevent dry skin, dry nails and hang nails.</p>
-        <p>Massage all over your hands. Includes a dropper for sanitary application.</p>
-        <p><em>(One 30ml bottle)</em></p>
+      writeupMarkdown: |
+        Hydrate your hands and nails– with the cozy scent of freshly baked Gingerbread cookies!
+
+        ***Suzie:*** *"In my 35 year career, I've never skipped using cuticle oil after every nail service. It replenishes hydration, and I love it’s fresh fragrance"*
+
+        Suzie's luxury cuticle oil leaves your hands feeling nourished and hydrated. One drop on the cuticle keeps skin soft and helps prevent dry skin, dry nails and hangnails.
+
+        Made with Vitamin E oil to soften cuticles and moisturize dry, brittle nails.
+
+        Includes a dropper for sanitary application.
+
+        *(Nut Free, One 30ml bottle)*
     cuticle-oil:
       title: "Suzie’s Cuticle Oil"
       product:
