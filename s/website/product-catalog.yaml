@@ -484,15 +484,13 @@ brushes:
         - products/nail-art-brush-set/nail-art-brush-set-03-brighter.jpg
         - products/nail-art-brush-set/nail-art-brush-set-04-brighter.jpg
         - products/nail-art-brush-set/nail-art-brush-set-05-brighter.jpg
-      writeup: |
-        <p>This set comes with five versatile nail art brushes of various sizes and lengths, which are excellent for hand-painting expressive details on the nail.</p>
-        <ul>
-          <li><strong>Extra Long Liner </strong><span>Use this brush to make your line work much easier. It's so quick and easy to do</span></li>
-          <li><strong>Long Liner </strong><span>Create swirls and flowing lines in one swoop. Also great for creating flowers; using a little pressure to create a petal.</span></li>
-          <li><strong>Marbleizer </strong><span>This brush will help you "marbleize" lines. With different pressures on bristles, create varying width of lines you need for marble.</span></li>
-          <li><strong>Writing Detailer </strong><span>Use for handwriting. When there's something to say, say it with style!</span></li>
-          <li><strong>Highlight Detailer </strong><span>When you need a tiny line, a highlight, or maybe an eyelash or eyebrow.</span></li>
-        </ul>
+      writeupMarkdown: |
+        This set comes with five versatile nail art brushes of various sizes and lengths, which are excellent for hand-painting expressive details on the nail.
+        - Extra Long Liner Use this brush to make your line work quicker and easier.
+        - Long Liner Create swirls and flowing lines in one swoop. Also great for creating flowers; using a little pressure to create a petal.
+        - Marbleizer This brush will help you "marbleize" lines. With different pressures on bristles, create varying width of lines you need for a marble effect.
+        - Writing Detailer Use this brush for handwriting. When there's something to say, say it with style!
+        - Highlight Detailer When you need a tiny line, highlight, or maybe an eyelash or eyebrow.
     rose-gold-brush-kit:
       title: "Suzie’s Acrylic Brush & Files Kit: White & Rose Gold Edition"
       product:
