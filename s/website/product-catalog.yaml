@@ -188,17 +188,17 @@ acrylic:
         - products/mini-acrylic/mini-acrylic-02.jpg
         - products/mini-acrylic/mini-acrylic-03.jpg
         - products/mini-acrylic/mini-acrylic-04.jpg
-      writeup: |
-        <h3>I wish I had this product when I was learning acrylic!</h3>
-        <p>This kit is the perfect size to try Suzie’s Odourless System.</p>
-        <p>It’s very unique, opposite to traditional monomers.</p>
-        <ul>
-          <li>Low odour</li>
-          <li>Cures very slowly (so you have time to sculpt)</li>
-          <li>Efficient product, you can use 3x less</li>
-          <li>Foundation pink powder for a flawless finish</li>
-          <li>Soft white for Ombre and French nails</li>
-        </ul>
+      writeupMarkdown: |
+        ***Suzie:*** *“I wish I had this product when I was learning acrylic!”*
+
+        This kit is the perfect size to try Suzie’s Odourless System.
+
+        It’s different than traditional monomers. It’s...
+        - Low odour
+        - Cures very slowly (so you have time to sculpt)
+        - Efficient product, you can use 3x less
+        - Foundation pink powder for a flawless finish
+        - Soft white for Ombre and French nails
     acrylic-1oz/worlds-best-bo:
       title: "Acrylic Powder 1oz: World's Best Bo..."
       product:
