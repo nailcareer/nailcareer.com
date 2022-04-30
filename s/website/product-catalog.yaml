@@ -1329,21 +1329,18 @@ nail-art:
         images:
         - products/caviar-beads/caviar-beads-01.jpg
         - products/caviar-beads/caviar-beads-02.jpg
-      writeup: |
-        <h2><em>Super TINY</em> Beads are hard to find!</h2>
-        <p>I have created this tiny collection, ready for when you need to add sparkle on your tiny canvas.</p>
-        <p>It's a selection of the TINEST beads in the industry. 0.4mm are the Tiniest of all! These super tiny beads are difficult to make, which makes them more expensive and unique. Also included are 0.5mm and 0.6mm.</p>
-        <p>These beads add such a level of detail and sophistication. In a cluster, or placed delicately on their own, these help your design stand out. It’s all in the details!</p>
-        <h4>How to use</h4>
-        <p>When you pour a little amount into your dish (I recommend the <a href="/store/products/gem-catcher">Gem Catcher</a> — it’s designed to easily pour back into jar) you will see the different sizes as the bigger ones sit higher.</p>
-        <p>Using a tiny brush, gather a little bit of gel, then place your brush inside the beads to gather several at one time. Then lay them onto your nail by pushing them into place.</p>
-        <p>Or if you want to just grab one bead, pick it up with the wax side of the <a href="/store/products/jem-jab">Jem Jab</a> and place onto wet acrylic or gel and then use needle point on <a href="/store/products/jem-jab">Jem Jab</a> to adjust into place.</p>
-        <p>Gem catcher tray not included</p>
-        <ul>
-          <li><a href="/store/products/jem-jab">Jem Jab</a> is not included</li>
-          <li><a href="/store/products/gem-catcher">Gem Catcher</a> is not included</li>
-          <li>Keep out of reach of children</li>
-        </ul>
+      writeupMarkdown: |
+        **A little sparkle goes a long way…**
+
+        These Caviar Beads are 0.6mm and 0.4mm small, making them a collection of the tiniest beads in the nail industry. Such small beads are unique and expensive as they are difficult to make. 
+        Adding these tiny beads to your designs brings such a level of detail and sophistication. It really is all in the details.
+
+        **How to use**
+        1. Pour a small amount into a dish to see the different sized beads. (I recommend the [Gem Catcher](/store/products/gem-catcher) — designed to easily be poured back into jar).
+        1. Using a tiny brush, gather a bit of gel and place onto the beads to gather several. Lay them onto your nail by pushing them into place.
+        1. Alternatively, to grab one bead, use the wax side of a [Jem Jab](/store/products/jem-jab) and place onto wet acrylic or gel. Then use the pointy end and adjust into place.
+
+        Note: [Jem Jab](/store/products/jem-jab) is not included. [Gem Catcher](/store/products/gem-catcher) is not included. Keep out of reach of children.
     caviar/pewter:
       title: "Pewter Caviar Beads"
       product:
@@ -1354,21 +1351,18 @@ nail-art:
         images:
         - products/caviar-beads/caviar-beads-03.jpg
         - products/caviar-beads/caviar-beads-04.jpg
-      writeup: |
-        <h2><em>Super TINY</em> Beads are hard to find!</h2>
-        <p>I have created this tiny collection, ready for when you need to add sparkle on your tiny canvas.</p>
-        <p>It's a selection of the TINEST beads in the industry. 0.4mm are the Tiniest of all! These super tiny beads are difficult to make, which makes them more expensive and unique. Also included are 0.5mm and 0.6mm.</p>
-        <p>These beads add such a level of detail and sophistication. In a cluster, or placed delicately on their own, these help your design stand out. It’s all in the details!</p>
-        <h4>How to use</h4>
-        <p>When you pour a little amount into your dish (I recommend the <a href="/store/products/gem-catcher">Gem Catcher</a> — it’s designed to easily pour back into jar) you will see the different sizes as the bigger ones sit higher.</p>
-        <p>Using a tiny brush, gather a little bit of gel, then place your brush inside the beads to gather several at one time. Then lay them onto your nail by pushing them into place.</p>
-        <p>Or if you want to just grab one bead, pick it up with the wax side of the <a href="/store/products/jem-jab">Jem Jab</a> and place onto wet acrylic or gel and then use needle point on <a href="/store/products/jem-jab">Jem Jab</a> to adjust into place.</p>
-        <p>Gem catcher tray not included</p>
-        <ul>
-          <li><a href="/store/products/jem-jab">Jem Jab</a> is not included</li>
-          <li><a href="/store/products/gem-catcher">Gem Catcher</a> is not included</li>
-          <li>Keep out of reach of children</li>
-        </ul>
+      writeupMarkdown: |
+        **A little sparkle goes a long way…**
+
+        These Caviar Beads are 0.6mm and 0.4mm small, making them a collection of the tiniest beads in the nail industry. Such small beads are unique and expensive as they are difficult to make. 
+        Adding these tiny beads to your designs brings such a level of detail and sophistication. It really is all in the details.
+
+        **How to use**
+        1. Pour a small amount into a dish to see the different sized beads. (I recommend the [Gem Catcher](/store/products/gem-catcher) — designed to easily be poured back into jar).
+        1. Using a tiny brush, gather a bit of gel and place onto the beads to gather several. Lay them onto your nail by pushing them into place.
+        1. Alternatively, to grab one bead, use the wax side of a [Jem Jab](/store/products/jem-jab) and place onto wet acrylic or gel. Then use the pointy end and adjust into place.
+
+        Note: [Jem Jab](/store/products/jem-jab) is not included. [Gem Catcher](/store/products/gem-catcher) is not included. Keep out of reach of children.
     caviar/pearl:
       title: "Pearl Caviar Beads"
       product:
@@ -1379,21 +1373,18 @@ nail-art:
         images:
         - products/caviar-beads/caviar-beads-05.jpg
         - products/caviar-beads/caviar-beads-06.jpg
-      writeup: |
-        <h2><em>Super TINY</em> Beads are hard to find!</h2>
-        <p>I have created this tiny collection, ready for when you need to add sparkle on your tiny canvas.</p>
-        <p>It's a selection of the TINEST beads in the industry. 0.4mm are the Tiniest of all! These super tiny beads are difficult to make, which makes them more expensive and unique. Also included are 0.5mm and 0.6mm.</p>
-        <p>These beads add such a level of detail and sophistication. In a cluster, or placed delicately on their own, these help your design stand out. It’s all in the details!</p>
-        <h4>How to use</h4>
-        <p>When you pour a little amount into your dish (I recommend the <a href="/store/products/gem-catcher">Gem Catcher</a> — it’s designed to easily pour back into jar) you will see the different sizes as the bigger ones sit higher.</p>
-        <p>Using a tiny brush, gather a little bit of gel, then place your brush inside the beads to gather several at one time. Then lay them onto your nail by pushing them into place.</p>
-        <p>Or if you want to just grab one bead, pick it up with the wax side of the <a href="/store/products/jem-jab">Jem Jab</a> and place onto wet acrylic or gel and then use needle point on <a href="/store/products/jem-jab">Jem Jab</a> to adjust into place.</p>
-        <p>Gem catcher tray not included</p>
-        <ul>
-          <li><a href="/store/products/jem-jab">Jem Jab</a> is not included</li>
-          <li><a href="/store/products/gem-catcher">Gem Catcher</a> is not included</li>
-          <li>Keep out of reach of children</li>
-        </ul>
+      writeupMarkdown: |
+        **A little sparkle goes a long way…**
+
+        These Caviar Beads are 0.6mm and 0.4mm small, making them a collection of the tiniest beads in the nail industry. Such small beads are unique and expensive as they are difficult to make. 
+        Adding these tiny beads to your designs brings such a level of detail and sophistication. It really is all in the details.
+
+        **How to use**
+        1. Pour a small amount into a dish to see the different sized beads. (I recommend the [Gem Catcher](/store/products/gem-catcher) — designed to easily be poured back into jar).
+        1. Using a tiny brush, gather a bit of gel and place onto the beads to gather several. Lay them onto your nail by pushing them into place.
+        1. Alternatively, to grab one bead, use the wax side of a [Jem Jab](/store/products/jem-jab) and place onto wet acrylic or gel. Then use the pointy end and adjust into place.
+
+        Note: [Jem Jab](/store/products/jem-jab) is not included. [Gem Catcher](/store/products/gem-catcher) is not included. Keep out of reach of children.
     twinkle-sprinkle:
       title: "Twinkle Sprinkle"
       product:
