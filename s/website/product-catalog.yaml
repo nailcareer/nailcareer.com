@@ -115,7 +115,7 @@ acrylic:
   label: "Acrylic"
   products:
     acrylic-powder-refill-foundation-pink:
-      title: "Foundation Pink - Acrylic Powder Refill Pouch"
+      title: "Foundation Pink - Acrylic Powder 2oz Refill Pouch"
       product:
         shopify: 6971278393380
         restockingSoon: true
@@ -123,14 +123,16 @@ acrylic:
         aspectRatio: 2x3
         images:
         - products/acrylic-refill-pouches/foundation-pink.jpg
-      writeup: |
-        <p>I am so proud of my Acrylic Powders Formulation. So beautiful and easy to work with. You’ll Love the High quality and smooth application. Simply open the top and pour into you favourite dish or jar. These pouches have a reusable zip.</p>
+      writeupMarkdown: |
+        Restock your Acrylic with this 2oz Refill Pouch! Simply open the top and pour into your favourite dish or jar. Pouches have resealable zips.
 
-        <p>This Opaque Pink is one of my must-have powders. I created this beautiful shade to compliment all skin tones.</p>
-        <p>It’s has full coverage for any imperfections on the nail. The opacity is ideal for creating the extended nail bed.</p>
-        <p><strong>Pro Tip:</strong> Mix with Pink Tint to create a perfect custom blend for clients different needs.</p>
+        Suzie’s Acrylic Powder formulas are stunning, high quality and easy to work with.
+
+        This Foundation Pink Acrylic Powder is a must have! A natural pink that compliments all skin tones. And a full coverage ideal for extending the nail bed and concealing any imperfections of the nail.
+
+        *Pro Tip:* Mix with Pink Tint to create a custom blend for your clients.
     acrylic-powder-refill-pink-tint:
-      title: "Pink Tint - Acrylic Powder Refill Pouch"
+      title: "Pink Tint - Acrylic Powder 2oz Refill Pouch"
       product:
         shopify: 6971278458916
         restockingSoon: true
@@ -138,12 +140,14 @@ acrylic:
         aspectRatio: 2x3
         images:
         - products/acrylic-refill-pouches/pink-tint.jpg
-      writeup: |
-        <p>I am so proud of my Acrylic Powders Formulation. So beautiful and easy to work with. You’ll Love the High quality and smooth application. Simply open the top and pour into you favourite dish or jar. These pouches have a reusable zip.</p>
+      writeupMarkdown: |
+        Restock your Acrylic with this 2oz Refill Pouch! Simply open the top and pour into your favourite dish or jar. Pouches have resealable zips.
 
-        <p>I got to have a Transparent Pink in my collection. This gentle pink tint creates a healthy glow on the natural nail plate. And wait till you see the beautiful shade it creates when it’s extended, when the light shines through it. A delicate translucent pink.</p>
+        Suzie’s Acrylic Powder formulas are stunning, high quality and easy to work with.
+
+        This Pink Tint Acrylic Powder is a delicate transparent pink. It has a gentle pink tint for that healthy looking glow on the nail plate.
     acrylic-powder-refill-soft-white:
-      title: "Soft White - Acrylic Powder Refill Pouch"
+      title: "Soft White - Acrylic Powder 2oz Refill Pouch"
       product:
         shopify: 6971279310884
         restockingSoon: true
@@ -151,12 +155,14 @@ acrylic:
         aspectRatio: 2x3
         images:
         - products/acrylic-refill-pouches/soft-white.jpg
-      writeup: |
-        <p>I am so proud of my Acrylic Powders Formulation. So beautiful and easy to work with. You’ll Love the High quality and smooth application. Simply open the top and pour into you favourite dish or jar. These pouches have a reusable zip.</p>
+      writeupMarkdown: |
+        Restock your Acrylic with this 2oz Refill Pouch! Simply open the top and pour into your favourite dish or jar. Pouches have resealable zips.
 
-        <p>I have been working with white powders my entire career, since they first came on the market. So when it came time to design my own brand, I knew exactly which shade of white I wanted. Soft White is a delicate white that looks natural and blends perfectly with Suzie’s Pink Tint to create amazing Ombre’s and French Nails.</p>
+        Suzie’s Acrylic Powder formulas are stunning, high quality and easy to work with.
+
+        This Soft White Acrylic Powder is gentle and natural looking on the nail. Designed to blend with Suzie’s Pink Tint to create the perfect Ombre and French nails.
     acrylic-powder-refill-clear-cap:
-      title: "Clear Cap - Acrylic Powder Refill Pouch"
+      title: "Clear Cap - Acrylic Powder 2oz Refill Pouch"
       product:
         shopify: 6971280162852
         restockingSoon: true
@@ -164,10 +170,12 @@ acrylic:
         aspectRatio: 2x3
         images:
         - products/acrylic-refill-pouches/clear-cap.jpg
-      writeup: |
-        <p>I am so proud of my Acrylic Powders Formulation. So beautiful and easy to work with. You’ll Love the High quality and smooth application. Simply open the top and pour into you favourite dish or jar. These pouches have a reusable zip.</p>
+      writeupMarkdown: |
+        Restock your Acrylic with this 2oz Refill Pouch! Simply open the top and pour into your favourite dish or jar. Pouches have resealable zips.
 
-        <p>A staple in your powder collection. For a strong clear layer over you design. A clear cap will protect your design and show it off. Blend with other pigments to create unique designs and colours. Excellent for show casing glitters and inlays.</p>
+        Suzie’s Acrylic Powder formulas are stunning, high quality and easy to work with. 
+
+        This Clear Cap Acrylic Powder is a staple in your powder collection. Creates a strong, protective layer to encapsulate and show off your design. Blend Clear Cap with other pigments to create unique colours. Excellent for showcasing glitters and inlays.
     mini-acrylic:
       title: "Suzie’s Mini Acrylic Kit"
       product:
