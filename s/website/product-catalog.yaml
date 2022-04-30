@@ -1040,15 +1040,14 @@ gel-tips:
         aspectRatio: 3x2
         images:
         - products/quick-tips/quick-tips-square-medium.jpg
-      writeup: |
-        <h3>Clear Full Coverage Gelly Tips - Soak Off</h3>
-        <h4>These are a game changer, they're FAST!</h4>
-        <p>No Sculpting, No Shaping, No Lamp.</p>
-        <p>Suzie's Quick Tips, plus a little bead of Suzie's Clean Acrylic, and BOOM — you have a nail!</p>
-        <ul>
-          <li>Shape: Square</li>
-          <li>Length: Medium</li>
-        </ul>
+      writeupMarkdown: |
+        Clear Full Coverage Gelly Tips - Soak Off!
+
+        No Sculpting, No Shaping, No Lamp.
+
+        These are a game changer! Just add a little bead of Acrylic and BOOM — you have a nail!
+        - Shape: Square
+        - Length: Medium
     quick-tips/:
       title: "Suzie’s Quick Tips - Almond Medium"
       product:
@@ -1058,15 +1057,14 @@ gel-tips:
         aspectRatio: 3x2
         images:
         - products/quick-tips/quick-tips-01.jpg
-      writeup: |
-        <h3>Clear Full Coverage Gelly Tips - Soak Off</h3>
-        <h4>These are a game changer, they're FAST!</h4>
-        <p>No Sculpting, No Shaping, No Lamp.</p>
-        <p>Suzie's Quick Tips, plus a little bead of Suzie's Clean Acrylic, and BOOM — you have a nail!</p>
-        <ul>
-          <li>Shape: Almond</li>
-          <li>Length: Medium</li>
-        </ul>
+      writeupMarkdown: |
+        Clear Full Coverage Gelly Tips - Soak Off! 
+
+        No Sculpting, No Shaping, No Lamp.
+
+        These are a game changer! Just add a little bead of Acrylic and BOOM — you have a nail!
+        - Shape: Almond
+        - Length: Medium
     quick-tips/coffin-medium:
       title: "Suzie’s Quick Tips - Coffin Medium"
       product:
@@ -1076,15 +1074,14 @@ gel-tips:
         aspectRatio: 3x2
         images:
         - products/quick-tips/quick-tips-coffin-medium.jpg
-      writeup: |
-        <h3>Clear Full Coverage Gelly Tips - Soak Off</h3>
-        <h4>These are a game changer, they're FAST!</h4>
-        <p>No Sculpting, No Shaping, No Lamp.</p>
-        <p>Suzie's Quick Tips, plus a little bead of Suzie's Clean Acrylic, and BOOM — you have a nail!</p>
-        <ul>
-          <li>Shape: Coffin</li>
-          <li>Length: Medium</li>
-        </ul>
+      writeupMarkdown: |
+        Clear Full Coverage Gelly Tips - Soak Off! 
+
+        No Sculpting, No Shaping, No Lamp.
+
+        These are a game changer! Just add a little bead of Acrylic and BOOM — you have a nail!
+        - Shape: Coffin
+        - Length: Medium
     quick-tips/stiletto-long:
       title: "Suzie’s Quick Tips - Stiletto Long"
       product:
@@ -1094,15 +1091,14 @@ gel-tips:
         aspectRatio: 3x2
         images:
         - products/quick-tips/quick-tips-stiletto-long.jpg
-      writeup: |
-        <h3>Clear Full Coverage Gelly Tips - Soak Off</h3>
-        <h4>These are a game changer, they're FAST!</h4>
-        <p>No Sculpting, No Shaping, No Lamp.</p>
-        <p>Suzie's Quick Tips, plus a little bead of Suzie's Clean Acrylic, and BOOM — you have a nail!</p>
-        <ul>
-          <li>Shape: Stiletto</li>
-          <li>Length: Long</li>
-        </ul>
+      writeupMarkdown: |
+        Clear Full Coverage Gelly Tips - Soak Off! 
+
+        No Sculpting, No Shaping, No Lamp.
+
+        These are a game changer! Just add a little bead of Acrylic and BOOM — you have a nail!
+        - Shape: Stiletto
+        - Length: Long
 
 manicure:
   label: "Manicure"
