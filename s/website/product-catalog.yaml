@@ -31,8 +31,8 @@ accessories:
         - products/tweezers/tweezers-01.jpg
         - products/tweezers/tweezers-02.jpg
         - products/tweezers/tweezers-03.jpg
-      writeup: |
-        <p>These tiny tipped tweezers are very good at grabbing the tiniest nail art embellishments. Will save much frustration having one of these- and the gold coloured finish looks beautiful in your collection.</p>
+      writeupMarkdown: |
+        These tiny tipped tweezers grab even the smallest nail art pieces, making tedious tasks a lot easier! Save the frustration, and do it with style in a gold coloured finish.
     scissors:
       title: "Scissors"
       product:
