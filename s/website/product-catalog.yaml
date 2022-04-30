@@ -1136,13 +1136,18 @@ manicure:
         - products/oil/nce-cuticle-3.jpg
         - products/oil/nce-cuticle-05.jpg
         - products/oil/nce-cuticle-2.jpg
-      writeup: |
-        <p class="made-in-canada"><span>🇨🇦 Made in Canada</span></p>
-        <h2>Helping your hands &amp; nails feel hydrated</h2>
-        <p>Suzie: "In my 30 year career, I've never missed using cuticle oil after every nail service. It replenishes hydration, and I love its fresh fragrance"</p>
-        <p>Suzie's luxury cuticle oil leaves your hands feeling nourished and hydrated. One drop on your cuticle keeps your skin soft and helps prevent dry skin, dry nails and hang nails.</p>
-        <p>Massage all over your hands, a gentle touch of lime with pomegranate. Includes a dropper for sanitary application.</p>
-        <p>(one 30ml bottle)</p>
+      writeupMarkdown: |
+        Hydrate your hands and nails– with the fresh scent of Pomegranate and Lime
+
+        ***Suzie:*** *"In my 35 year career, I've never skipped using cuticle oil after every nail service. It replenishes hydration, and I love it’s fresh fragrance"*
+
+        Suzie's luxury cuticle oil leaves your hands feeling nourished and hydrated. One drop on the cuticle keeps skin soft and helps prevent dry skin, dry nails and hangnails.
+
+        Made with Vitamin E oil to soften cuticles and moisturize dry, brittle nails.
+
+        Includes a dropper for sanitary application.
+
+        *(Nut Free, One 30ml bottle)*
     lets-get-sugar:
       title: "Suzie’s \"Let's Get Sugar\""
       product:
