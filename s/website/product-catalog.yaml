@@ -1500,25 +1500,18 @@ nail-art:
         aspectRatio: 2x3
         images:
         - products/diamond-shapes/3d-diamond-shape-set.jpg
-      writeup: |
-        <h3>Decorative diamond shapes for nail art inlays or on top of polish</h3>
-        <p>These tiny 3D Diamond shape pieces fit so nicely together, uniformly or scattered.</p>
-        <p>Each piece has four edges that catch the light at different angles — reflecting like diamond facets 💠</p>
-        <h4>This set includes all six colors: </h4>
-        <ul>
-          <li>Blue Green</li>
-          <li>Blue Hues</li>
-          <li>Blue Ice</li>
-          <li>Emerald Green</li>
-          <li>Pink Gold</li>
-          <li>Red Gold</li>
-        </ul>
-        <h4>Instructions:</h4>
-        <ul>
-          <li>Polish Secured — lay on top of wet nail polish, and wait for top coat to dry and seal in.</li>
-          <li>Gel Polish Secured — lay on top of uncured gel polish, then cure.</li>
-          <li>Top Coat Optional.</li>
-        </ul>
+      writeupMarkdown: |
+        Decorative 3D Diamond shaped nail art pieces that catch light and add colour, sparkle and shine. Use as inlays or on top of polish.
+
+        This set includes all six stunning colours:
+        - Blue Green
+        - Blue Hues
+        - Blue Ice
+        - Emerald Green
+        - Pink Gold
+        - Red Gold
+
+        **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
     3d-diamond-shapes/blue-green:
       title: "Blue Green - 3D Diamond Shapes"
       product:
@@ -1528,15 +1521,10 @@ nail-art:
         aspectRatio: 2x3
         images:
         - products/diamond-shapes/blue-green.jpg
-      writeup: |
-        <h3>Decorative diamond shapes for nail art inlays or on top of polish</h3>
-        <p>These tiny 3D Diamond shape pieces fit so nicely together, uniformly or scattered.</p>
-        <p>Each piece has four edges that catch the light at different angles — reflecting like diamond facets 💠</p>
-        <ul>
-          <li>Polish Secured — lay on top of wet nail polish, and wait for top coat to dry and seal in.</li>
-          <li>Gel Polish Secured — lay on top of uncured gel polish, then cure.</li>
-          <li>Top Coat Optional.</li>
-        </ul>
+      writeupMarkdown: |
+        Decorative 3D Diamond shaped nail art pieces that catch light and add colour, sparkle and shine. Use as inlays or on top of polish.
+
+        **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
     3d-diamond-shapes/blue-hues:
       title: "Blue Hues - 3D Diamond Shapes"
       product:
@@ -1546,15 +1534,10 @@ nail-art:
         aspectRatio: 2x3
         images:
         - products/diamond-shapes/blue-hues.jpg
-      writeup: |
-        <h3>Decorative diamond shapes for nail art inlays or on top of polish</h3>
-        <p>These tiny 3D Diamond shape pieces fit so nicely together, uniformly or scattered.</p>
-        <p>Each piece has four edges that catch the light at different angles — reflecting like diamond facets 💠</p>
-        <ul>
-          <li>Polish Secured — lay on top of wet nail polish, and wait for top coat to dry and seal in.</li>
-          <li>Gel Polish Secured — lay on top of uncured gel polish, then cure.</li>
-          <li>Top Coat Optional.</li>
-        </ul>
+      writeupMarkdown: |
+        Decorative 3D Diamond shaped nail art pieces that catch light and add colour, sparkle and shine. Use as inlays or on top of polish.
+
+        **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
     3d-diamond-shapes/blue-ice:
       title: "Blue Ice - 3D Diamond Shapes"
       product:
@@ -1564,15 +1547,10 @@ nail-art:
         aspectRatio: 2x3
         images:
         - products/diamond-shapes/blue-ice.jpg
-      writeup: |
-        <h3>Decorative diamond shapes for nail art inlays or on top of polish</h3>
-        <p>These tiny 3D Diamond shape pieces fit so nicely together, uniformly or scattered.</p>
-        <p>Each piece has four edges that catch the light at different angles — reflecting like diamond facets 💠</p>
-        <ul>
-          <li>Polish Secured — lay on top of wet nail polish, and wait for top coat to dry and seal in.</li>
-          <li>Gel Polish Secured — lay on top of uncured gel polish, then cure.</li>
-          <li>Top Coat Optional.</li>
-        </ul>
+      writeupMarkdown: |
+        Decorative 3D Diamond shaped nail art pieces that catch light and add colour, sparkle and shine. Use as inlays or on top of polish.
+
+        **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
     3d-diamond-shapes/emerald-green:
       title: "Emerald Green - 3D Diamond Shapes"
       product:
@@ -1582,15 +1560,10 @@ nail-art:
         aspectRatio: 2x3
         images:
         - products/diamond-shapes/emerald-green.jpg
-      writeup: |
-        <h3>Decorative diamond shapes for nail art inlays or on top of polish</h3>
-        <p>These tiny 3D Diamond shape pieces fit so nicely together, uniformly or scattered.</p>
-        <p>Each piece has four edges that catch the light at different angles — reflecting like diamond facets 💠</p>
-        <ul>
-          <li>Polish Secured — lay on top of wet nail polish, and wait for top coat to dry and seal in.</li>
-          <li>Gel Polish Secured — lay on top of uncured gel polish, then cure.</li>
-          <li>Top Coat Optional.</li>
-        </ul>
+      writeupMarkdown: |
+        Decorative 3D Diamond shaped nail art pieces that catch light and add colour, sparkle and shine. Use as inlays or on top of polish.
+
+        **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
     3d-diamond-shapes/pink-gold:
       title: "Pink Gold - 3D Diamond Shapes"
       product:
@@ -1600,15 +1573,10 @@ nail-art:
         aspectRatio: 2x3
         images:
         - products/diamond-shapes/pink-gold.jpg
-      writeup: |
-        <h3>Decorative diamond shapes for nail art inlays or on top of polish</h3>
-        <p>These tiny 3D Diamond shape pieces fit so nicely together, uniformly or scattered.</p>
-        <p>Each piece has four edges that catch the light at different angles — reflecting like diamond facets 💠</p>
-        <ul>
-          <li>Polish Secured — lay on top of wet nail polish, and wait for top coat to dry and seal in.</li>
-          <li>Gel Polish Secured — lay on top of uncured gel polish, then cure.</li>
-          <li>Top Coat Optional.</li>
-        </ul>
+      writeupMarkdown: |
+        Decorative 3D Diamond shaped nail art pieces that catch light and add colour, sparkle and shine. Use as inlays or on top of polish.
+
+        **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
     3d-diamond-shapes/red-gold:
       title: "Red Gold - 3D Diamond Shapes"
       product:
@@ -1618,15 +1586,10 @@ nail-art:
         aspectRatio: 2x3
         images:
         - products/diamond-shapes/red-gold.jpg
-      writeup: |
-        <h3>Decorative diamond shapes for nail art inlays or on top of polish</h3>
-        <p>These tiny 3D Diamond shape pieces fit so nicely together, uniformly or scattered.</p>
-        <p>Each piece has four edges that catch the light at different angles — reflecting like diamond facets 💠</p>
-        <ul>
-          <li>Polish Secured — lay on top of wet nail polish, and wait for top coat to dry and seal in.</li>
-          <li>Gel Polish Secured — lay on top of uncured gel polish, then cure.</li>
-          <li>Top Coat Optional.</li>
-        </ul>
+      writeupMarkdown: |
+        Decorative 3D Diamond shaped nail art pieces that catch light and add colour, sparkle and shine. Use as inlays or on top of polish.
+
+        **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
     gem-jars/frosted-white-glitter:
       title: "Frosted White Glitter - Gem Jar"
       product:
