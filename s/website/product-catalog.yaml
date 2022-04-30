@@ -578,12 +578,14 @@ files-and-forms:
         aspectRatio: 1x1
         images:
         - products/french-cut-bit/french-cut-bit-01.jpg
-      writeup: |
-        <h2>Perfect your French Smile Lines!</h2>
-        <p>French Nails can be challenging. This specially cut bit, with it’s V shaped sides, will help you make the cleanest French Smile Line quickly and cleanly – with one stroke across the nail. This bit will speed you up and help you make French nail fills much faster.</p>
-        <p>This bit will change your French Nail Game!</p>
-        <p>⚠️ E-Files and bits require training and practice before safe usage on humans. This product is intended to be used on humans only by a professional.</p>
-        <p>Fits 3/32 E-Files (like <a href="/store/products/ezfile">Suzie's EZ-File</a>)</p>
+      writeupMarkdown: |
+        ***Perfect your French Smile Lines***
+
+        This bit will change your French Nail Game! French nails can be challenging. But they don’t have to be! This specialty cut bit has V shaped edges which allow you to make a clean French Smile Line quickly and easily– and in one stroke across the nail. This bit will speed you up and help you make your French nail fills much faster.
+
+        ⚠️ E-Files and bits require training and practice before safe usage on humans. This product is intended to be used on humans only by a professional.
+
+        Fits 3/32 E-Files (like [Suzie's EZ-File](/store/products/ezfile))
     bit-kit:
       title: "Suzie’s Bit Kit"
       product:
