@@ -14,37 +14,11 @@ accessories:
         - products/glass-dispenser/dispenser-01.jpg
         - products/glass-dispenser/dispenser-02.jpg
       writeupMarkdown: |
+        This glass push pump dispenser allows for alcohol or monomer to stay fresh and uncontaminated. The liquid dispenses into the top well with each push, making it easy to access. Soak cotton pads with alcohol to clean nails or dip your brush in the right amount of monomer to regulate your liquid to powder ratio.
+
         *(Size 180 ml)*
 
-        The push pump easily brings the liquid to the surface. As the liquid pools in the well in the top use cotton or a brush to use the liquid. Liquid stays fresh and new avoiding contamination for the liquid in the glass. The internal pump mechanism is designed for dispensing Alcohol and Acrylic Monomer. This mechanism is not designed or recommended for Acetone or nail polish remover.
-
-        #### Fill with Alcohol
-
-        Perfect for Dispensing liquid as soon as you need it. Soak with Blue Cotton Napkins to clean Gel nails.
-
-        #### Fill with Monomer
-
-        Easily & quickly dispense monomer with every bead you create. Monomer wells up in the top to keep it fresh and clean.
-
-        Perfect for regulating your monomer absorption in your brush.
-
-        #### Note
-
-        Do not leave Acrylic Monomer in Sunlight or UV rays. Some Monomer can be negatively affected and alter its performance.
-    tweezers:
-      title: "Tweezers"
-      product:
-        shopify: 6990874902564
-        restockingSoon: true
-        isNew: true
-      carousel:
-        aspectRatio: 1x1
-        images:
-        - products/tweezers/tweezers-01.jpg
-        - products/tweezers/tweezers-02.jpg
-        - products/tweezers/tweezers-03.jpg
-      writeup: |
-        <p>These tiny tipped tweezers are very good at grabbing the tiniest nail art embellishments. Will save much frustration having one of these- and the gold coloured finish looks beautiful in your collection.</p>
+        ***Note:*** This mechanism is not designed or recommended for Acetone or nail polish remover. Do not leave Acrylic Monomer in Sunlight or UV rays; this can damage the monomer.
     scissors:
       title: "Scissors"
       product:
@@ -117,12 +91,31 @@ accessories:
         - products/nail-bar/nail-bar-01.jpg
       writeup: |
         <p>Display your nail art on this adorable nail tip bar. Very handy to show your work for glamour shots. Includes five golden posts and a pack of assorted tips.</p>
+    apron:
+      title: "Suzie’s Apron"
+      product:
+        shopifyUid: Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE1MDI3MDAyMDgxNjQ=
+        restockingSoon: false
+      carousel:
+        images:
+        - products/apron/nce-apron-03.jpg
+        - products/apron/nce-apron-02.jpg
+      writeupMarkdown: |
+        *“Nuke it with Suzie!”*
 
+        Designed by Suzie, this apron will protect your clothing from spills, splatters and dust. It will also keep anything you need handy in its generously sized front pocket— your phone, files, whatever!
+
+        Each order comes with two aprons
+
+        - Crisp eggshell-white waffle cotton hides nail dust
+        - Piped lining for a finished look
+        - Front pocket for easy tool/accessory access
+        - Goes with anything you wear!
 acrylic:
   label: "Acrylic"
   products:
     acrylic-powder-refill-foundation-pink:
-      title: "Foundation Pink - Acrylic Powder Refill Pouch"
+      title: "Foundation Pink - Acrylic Powder 2oz Refill Pouch"
       product:
         shopify: 6971278393380
         restockingSoon: true
@@ -130,14 +123,16 @@ acrylic:
         aspectRatio: 2x3
         images:
         - products/acrylic-refill-pouches/foundation-pink.jpg
-      writeup: |
-        <p>I am so proud of my Acrylic Powders Formulation. So beautiful and easy to work with. You’ll Love the High quality and smooth application. Simply open the top and pour into you favourite dish or jar. These pouches have a reusable zip.</p>
+      writeupMarkdown: |
+        Restock your Acrylic with this 2oz Refill Pouch! Simply open the top and pour into your favourite dish or jar. Pouches have resealable zips.
 
-        <p>This Opaque Pink is one of my must-have powders. I created this beautiful shade to compliment all skin tones.</p>
-        <p>It’s has full coverage for any imperfections on the nail. The opacity is ideal for creating the extended nail bed.</p>
-        <p><strong>Pro Tip:</strong> Mix with Pink Tint to create a perfect custom blend for clients different needs.</p>
+        Suzie’s Acrylic Powder formulas are stunning, high quality and easy to work with.
+
+        This Foundation Pink Acrylic Powder is a must have! A natural pink that compliments all skin tones. And a full coverage ideal for extending the nail bed and concealing any imperfections of the nail.
+
+        *Pro Tip:* Mix with Pink Tint to create a custom blend for your clients.
     acrylic-powder-refill-pink-tint:
-      title: "Pink Tint - Acrylic Powder Refill Pouch"
+      title: "Pink Tint - Acrylic Powder 2oz Refill Pouch"
       product:
         shopify: 6971278458916
         restockingSoon: true
@@ -145,12 +140,14 @@ acrylic:
         aspectRatio: 2x3
         images:
         - products/acrylic-refill-pouches/pink-tint.jpg
-      writeup: |
-        <p>I am so proud of my Acrylic Powders Formulation. So beautiful and easy to work with. You’ll Love the High quality and smooth application. Simply open the top and pour into you favourite dish or jar. These pouches have a reusable zip.</p>
+      writeupMarkdown: |
+        Restock your Acrylic with this 2oz Refill Pouch! Simply open the top and pour into your favourite dish or jar. Pouches have resealable zips.
 
-        <p>I got to have a Transparent Pink in my collection. This gentle pink tint creates a healthy glow on the natural nail plate. And wait till you see the beautiful shade it creates when it’s extended, when the light shines through it. A delicate translucent pink.</p>
+        Suzie’s Acrylic Powder formulas are stunning, high quality and easy to work with.
+
+        This Pink Tint Acrylic Powder is a delicate transparent pink. It has a gentle pink tint for that healthy looking glow on the nail plate.
     acrylic-powder-refill-soft-white:
-      title: "Soft White - Acrylic Powder Refill Pouch"
+      title: "Soft White - Acrylic Powder 2oz Refill Pouch"
       product:
         shopify: 6971279310884
         restockingSoon: true
@@ -158,12 +155,14 @@ acrylic:
         aspectRatio: 2x3
         images:
         - products/acrylic-refill-pouches/soft-white.jpg
-      writeup: |
-        <p>I am so proud of my Acrylic Powders Formulation. So beautiful and easy to work with. You’ll Love the High quality and smooth application. Simply open the top and pour into you favourite dish or jar. These pouches have a reusable zip.</p>
+      writeupMarkdown: |
+        Restock your Acrylic with this 2oz Refill Pouch! Simply open the top and pour into your favourite dish or jar. Pouches have resealable zips.
 
-        <p>I have been working with white powders my entire career, since they first came on the market. So when it came time to design my own brand, I knew exactly which shade of white I wanted. Soft White is a delicate white that looks natural and blends perfectly with Suzie’s Pink Tint to create amazing Ombre’s and French Nails.</p>
+        Suzie’s Acrylic Powder formulas are stunning, high quality and easy to work with.
+
+        This Soft White Acrylic Powder is gentle and natural looking on the nail. Designed to blend with Suzie’s Pink Tint to create the perfect Ombre and French nails.
     acrylic-powder-refill-clear-cap:
-      title: "Clear Cap - Acrylic Powder Refill Pouch"
+      title: "Clear Cap - Acrylic Powder 2oz Refill Pouch"
       product:
         shopify: 6971280162852
         restockingSoon: true
@@ -171,10 +170,12 @@ acrylic:
         aspectRatio: 2x3
         images:
         - products/acrylic-refill-pouches/clear-cap.jpg
-      writeup: |
-        <p>I am so proud of my Acrylic Powders Formulation. So beautiful and easy to work with. You’ll Love the High quality and smooth application. Simply open the top and pour into you favourite dish or jar. These pouches have a reusable zip.</p>
+      writeupMarkdown: |
+        Restock your Acrylic with this 2oz Refill Pouch! Simply open the top and pour into your favourite dish or jar. Pouches have resealable zips.
 
-        <p>A staple in your powder collection. For a strong clear layer over you design. A clear cap will protect your design and show it off. Blend with other pigments to create unique designs and colours. Excellent for show casing glitters and inlays.</p>
+        Suzie’s Acrylic Powder formulas are stunning, high quality and easy to work with. 
+
+        This Clear Cap Acrylic Powder is a staple in your powder collection. Creates a strong, protective layer to encapsulate and show off your design. Blend Clear Cap with other pigments to create unique colours. Excellent for showcasing glitters and inlays.
     mini-acrylic:
       title: "Suzie’s Mini Acrylic Kit"
       product:
@@ -187,17 +188,17 @@ acrylic:
         - products/mini-acrylic/mini-acrylic-02.jpg
         - products/mini-acrylic/mini-acrylic-03.jpg
         - products/mini-acrylic/mini-acrylic-04.jpg
-      writeup: |
-        <h3>I wish I had this product when I was learning acrylic!</h3>
-        <p>This kit is the perfect size to try Suzie’s Odourless System.</p>
-        <p>It’s very unique, opposite to traditional monomers.</p>
-        <ul>
-          <li>Low odour</li>
-          <li>Cures very slowly (so you have time to sculpt)</li>
-          <li>Efficient product, you can use 3x less</li>
-          <li>Foundation pink powder for a flawless finish</li>
-          <li>Soft white for Ombre and French nails</li>
-        </ul>
+      writeupMarkdown: |
+        ***Suzie:*** *“I wish I had this product when I was learning acrylic!”*
+
+        This kit is the perfect size to try Suzie’s Odourless System.
+
+        It’s different than traditional monomers. It’s...
+        - Low odour
+        - Cures very slowly (so you have time to sculpt)
+        - Efficient product, you can use 3x less
+        - Foundation pink powder for a flawless finish
+        - Soft white for Ombre and French nails
     acrylic-1oz/worlds-best-bo:
       title: "Acrylic Powder 1oz: World's Best Bo..."
       product:
@@ -336,12 +337,10 @@ acrylic:
         - products/acrylic-powders/acrylic-powder-brighter-03.jpg
         - products/acrylic-powders/acrylic-powder-brighter-04.jpg
         - products/acrylic-powders/acrylic-powder-brighter-05.jpg
-      writeup: |
-        <p>Excellent for sculpting and designing custom nails. Mix together to create many shades and different hues from the original four colours. For best results, use with Suzie’s Odourless and Fast Set Monomers.</p>
-        <ul>
-          <li>Store in a cool dark place</li>
-          <li>Keep away from children</li>
-        </ul>
+      writeupMarkdown: |
+        For sculpting and designing custom nails. Mix together to create different hues and shades from the original four colours. For best results, use with Suzie’s Odourless and Fast Set Monomers.
+
+        ***Note:*** Store in a cool dark place. Keep away from children.
     acrylic-powder-2oz-soft-white:
       title: "Acrylic Powder 2oz Soft White"
       product:
@@ -351,13 +350,12 @@ acrylic:
         aspectRatio: 3x2
         images:
         - products/acrylic-powders/acrylic-powder-brighter-04.jpg
-      writeup: |
-        <p>Excellent for sculpting and designing custom nails. Use with Suzie’s Odourless and Fast Set Monomers for a correctly cured nail.</p>
-        <p>Opaque white acrylic, designed with the ombre and french nails in mind.</p>
-        <ul>
-          <li>Store in a cool dark place</li>
-          <li>Keep away from children</li>
-        </ul>
+      writeupMarkdown: |
+        This opaque white acrylic is designed specially with ombre and french nails in mind.
+
+        For sculpting and designing custom nails. Use with Suzie’s Odourless and Fast Set Monomers for a correctly cured nail.
+
+        ***Note:*** Store in a cool dark place. Keep away from children.
     acrylic-powder-2oz-foundation-pink:
       title: "Suzie’s Acrylic Powder 2oz Foundation Pink"
       product:
@@ -367,13 +365,12 @@ acrylic:
         aspectRatio: 3x2
         images:
         - products/acrylic-powders/acrylic-powder-brighter-02.jpg
-      writeup: |
-        <p>Excellent for sculpting and designing custom nails. Use with Suzie’s Odourless and Fast Set Monomers for a correctly cured nail.</p>
-        <p>Semi-opaque acrylic powder, designed to cover flaws and help create the ombre effect.</p>
-        <ul>
-          <li>Store in a cool dark place</li>
-          <li>Keep away from children</li>
-        </ul>
+      writeupMarkdown: |
+        This semi-opaque acrylic powder is designed to cover flaws and help create an ombre effect.
+
+        For sculpting and designing custom nails. Use with Suzie’s Odourless and Fast Set Monomers for a correctly cured nail.
+
+        ***Note:*** Store in a cool dark place. Keep away from children.
     acrylic-powder-2oz-pink-tint:
       title: "Suzie’s Acrylic Powder 2oz Pink Tint"
       product:
@@ -383,13 +380,12 @@ acrylic:
         aspectRatio: 3x2
         images:
         - products/acrylic-powders/acrylic-powder-brighter-03.jpg
-      writeup: |
-        <p>Excellent for sculpting and designing custom nails. Use with Suzie’s Odourless and Fast Set Monomers for a correctly cured nail.</p>
-        <p>Transparent acrylic, designed to create the healthy natural pink hue of a natural nail.</p>
-        <ul>
-          <li>Store in a cool dark place</li>
-          <li>Keep away from children</li>
-        </ul>
+      writeupMarkdown: |
+        This transparent acrylic is designed to create the healthy natural pink hue of a natural nail.
+
+        For sculpting and designing custom nails. Use with Suzie’s Odourless and Fast Set Monomers for a correctly cured nail.
+
+        ***Note:*** Store in a cool dark place. Keep away from children.
     acrylic-powder-2oz-clear-cap:
       title: "Suzie’s Acrylic Powder 2oz Clear Cap"
       product:
@@ -399,13 +395,12 @@ acrylic:
         aspectRatio: 3x2
         images:
         - products/acrylic-powders/acrylic-powder-brighter-05.jpg
-      writeup: |
-        <p>Excellent for sculpting and designing custom nails. Use with Suzie’s Odourless and Fast Set Monomers for a correctly cured nail.</p>
-        <p>Strong clear acrylic designed to encapsulate and protect your inlay designs, or help mix colours.</p>
-        <ul>
-          <li>Store in a cool dark place</li>
-          <li>Keep away from children</li>
-        </ul>
+      writeupMarkdown: |
+        This acrylic is strong and clear, designed to encapsulate and protect your inlay designs. It will also help mix colours.
+
+        For sculpting and designing custom nails. Use with Suzie’s Odourless and Fast Set Monomers for a correctly cured nail.
+
+        ***Note:*** Store in a cool dark place. Keep away from children.
     prep-and-bond:
       title: "Suzie's Prep & Bond"
       product:
@@ -415,12 +410,14 @@ acrylic:
         aspectRatio: 1x1
         images:
         - products/prep-and-bond/prepbond-1.jpg
-      writeup: |
-        <h2>Prepare to prevent lift!</h2>
-        <p>To be applied before acrylic application.</p>
-        <p>Oils in the nail plate must be eliminated Before application. <em>Let’s Dehydrate</em> will remove oils and cleanse your nail. It helps removes oils and extra moisture to prevent lifting. This is an important step to a no-lift nail.</p>
-        <p><em>Let’s Bond</em> acts as an adhesive between your natural nail and the acrylic product you’re going to apply. This product should be applied after <em>Let’s Dehydrate</em>. After you have correctly prepared the nail and removed the dust, gently apply <em>Let’s Bond</em> to the exposed natural nail being careful not to over saturate the natural nail plate. Try not to forget to apply your <em>Let’s Bond</em>, otherwise lifting may occur.</p>
-        <p>How to use them together: After you removed cuticle and filed to prepare for application, apply <em>Let’s Dehydrate</em> over entire nail, and always before <em>Let’s Bond</em>.</p>
+      writeupMarkdown: |
+        ***Prepare to prevent lift!***
+
+        To be applied before acrylic application.
+
+        Oils in the nail plate must be eliminated prior to application. Let’s Dehydrate will remove oils and cleanse the nail. It helps remove oils and extra moisture which prevents lifting. This is an important step to a no-lift nail.
+
+        Let’s Bond acts as an adhesive between your natural nail and the acrylic product you’re going to apply. This product should be applied after Let’s Dehydrate. After you have correctly prepared the nail and removed the dust, gently apply Let’s Bond to the exposed natural nail being careful not to over saturate the natural nail plate. Try not to forget to apply your Let’s Bond, otherwise lifting may occur.
     joyamia-fast-acrylic:
       special-partnership:
         note: "Special Partnership"
@@ -487,15 +484,13 @@ brushes:
         - products/nail-art-brush-set/nail-art-brush-set-03-brighter.jpg
         - products/nail-art-brush-set/nail-art-brush-set-04-brighter.jpg
         - products/nail-art-brush-set/nail-art-brush-set-05-brighter.jpg
-      writeup: |
-        <p>This set comes with five versatile nail art brushes of various sizes and lengths, which are excellent for hand-painting expressive details on the nail.</p>
-        <ul>
-          <li><strong>Extra Long Liner </strong><span>Use this brush to make your line work much easier. It's so quick and easy to do</span></li>
-          <li><strong>Long Liner </strong><span>Create swirls and flowing lines in one swoop. Also great for creating flowers; using a little pressure to create a petal.</span></li>
-          <li><strong>Marbleizer </strong><span>This brush will help you "marbleize" lines. With different pressures on bristles, create varying width of lines you need for marble.</span></li>
-          <li><strong>Writing Detailer </strong><span>Use for handwriting. When there's something to say, say it with style!</span></li>
-          <li><strong>Highlight Detailer </strong><span>When you need a tiny line, a highlight, or maybe an eyelash or eyebrow.</span></li>
-        </ul>
+      writeupMarkdown: |
+        This set comes with five versatile nail art brushes of various sizes and lengths, which are excellent for hand-painting expressive details on the nail.
+        - Extra Long Liner Use this brush to make your line work quicker and easier.
+        - Long Liner Create swirls and flowing lines in one swoop. Also great for creating flowers; using a little pressure to create a petal.
+        - Marbleizer This brush will help you "marbleize" lines. With different pressures on bristles, create varying width of lines you need for a marble effect.
+        - Writing Detailer Use this brush for handwriting. When there's something to say, say it with style!
+        - Highlight Detailer When you need a tiny line, highlight, or maybe an eyelash or eyebrow.
     rose-gold-brush-kit:
       title: "Suzie’s Acrylic Brush & Files Kit: White & Rose Gold Edition"
       product:
@@ -504,10 +499,10 @@ brushes:
       carousel:
         aspectRatio: 2x3
         images:
-        - products/rose-gold-brush/rose-gold-brush-03.jpg
         - products/rose-gold-brush/rose-gold-brush-02.jpg
-        - products/acrylic-brush/nce-acrylic-brush-02.jpg
         - products/acrylic-brush/nce-acrylic-brush-01.jpg
+        - products/rose-gold-brush/rose-gold-brush-03.jpg
+        - products/acrylic-brush/nce-acrylic-brush-02.jpg
         - products/acrylic-brush/nce-acrylic-brush-11.jpg
         - products/acrylic-brush/nce-acrylic-brush-12.jpg
       writeup: |
@@ -583,12 +578,14 @@ files-and-forms:
         aspectRatio: 1x1
         images:
         - products/french-cut-bit/french-cut-bit-01.jpg
-      writeup: |
-        <h2>Perfect your French Smile Lines!</h2>
-        <p>French Nails can be challenging. This specially cut bit, with it’s V shaped sides, will help you make the cleanest French Smile Line quickly and cleanly – with one stroke across the nail. This bit will speed you up and help you make French nail fills much faster.</p>
-        <p>This bit will change your French Nail Game!</p>
-        <p>⚠️ E-Files and bits require training and practice before safe usage on humans. This product is intended to be used on humans only by a professional.</p>
-        <p>Fits 3/32 E-Files (like <a href="/store/products/ezfile">Suzie's EZ-File</a>)</p>
+      writeupMarkdown: |
+        ***Perfect your French Smile Lines***
+
+        This bit will change your French Nail Game! French nails can be challenging. But they don’t have to be! This specialty cut bit has V shaped edges which allow you to make a clean French Smile Line quickly and easily– and in one stroke across the nail. This bit will speed you up and help you make your French nail fills much faster.
+
+        ⚠️ E-Files and bits require training and practice before safe usage on humans. This product is intended to be used on humans only by a professional.
+
+        Fits 3/32 E-Files (like [Suzie's EZ-File](/store/products/ezfile))
     bit-kit:
       title: "Suzie’s Bit Kit"
       product:
@@ -606,43 +603,59 @@ files-and-forms:
         - products/bits/bits-06.jpg
         - products/bits/bits-07.jpg
         - products/bits/bits-08.jpg
-      writeup: |
-        <h3>Three must-have bits!</h3>
-        <p>With these three e-file bits, you can achieve the majority of nail designs from beginning to finish.</p>
-        <p>They fit <a target="_blank" href="/store/products/ezfile">Suzie's EZ-File</a>, and most other e-files.</p>
-        <p>⚠️ E-Files and bits require training and practice before safe usage on humans. This product is intended to be used on humans only by a professional.</p>
+      writeupMarkdown: |
+        Three essential bits!
+
+        With these three e-file bits, you can achieve the majority of nail designs from beginning to end.
+
+        They fit [Suzie's EZ-File](/store/products/ezfile), and most other e-files.
+
+        ⚠️ E-Files and bits require training and practice before safe usage on humans. This product is intended to be used on humans only by a professional.
       details: |
         <ol class="productshowcase">
           <li>
             <figure>
               <div><img src="/assets/images-medium/products/bits/bits-03.jpg" alt=""></div>
-              <figcaption><strong>Golden Mandrel Bit</strong><span>Includes 15 sanding bands</span>
+              <figcaption>
+                <strong>Golden Mandrel Bit</strong>
+                <span>Includes 15 sanding bands</span>
                 <ul>
                   <li>5 Fine Purple</li>
                   <li>5 Medium Purple</li>
                   <li>5 Course Green</li>
-                </ul><span>This post has two grip points to secure your sanding bands</span>
+                </ul>
+                <span>This post has two grip points to secure your sanding bands</span>
               </figcaption>
             </figure>
           </li>
           <li>
             <figure>
               <div><img src="/assets/images-medium/products/bits/bits-02.jpg" alt=""></div>
-              <figcaption><strong>Bulk &amp; Sculpt Bit</strong><em>(Safety Bit)</em>
+              <figcaption>
+                <strong>Bulk &amp; Sculpt Bit</strong>
+                <em>(Safety Bit)</em>
                 <ul>
                   <li>Made of strong Rainbow Tungsten Carbide material.</li>
                   <li>Creating less dust and less heat.</li>
                   <li>Has rounded safety top to protect cuticles.</li>
-                  <li>Excellent for removing Gel polish, removal of all enhancements and sculpting gel, acrylic, and hybrid gel.</li>
+                  <li>Excellent for removal of all enhancements, Gel polish, sculpting Gel, Acrylic, and Hybrid Gel.</li>
                   <li>Can last for years, depending on usage.</li>
-                </ul><span class="warn">Not for use on natural nails!</span>
+                </ul>
+                <span class="warn">Not for use on natural nails</span>
               </figcaption>
             </figure>
           </li>
           <li>
             <figure>
               <div><img src="/assets/images-medium/products/bits/bits-01.jpg" alt=""></div>
-              <figcaption><strong>Clean Up Bit</strong><em>The same Rainbow Tungsten Carbide material as the Bulk &amp; Sculpt.</em><span>This bit is idea for cleaning over flow product from the underside of the nail – can also be used on the cuticle, but very light pressure.</span><span class="warn">Not for use on natural nails!</span></figcaption>
+              <figcaption>
+                <strong>Clean Up Bit</strong>
+                <ul>
+                  <li>The same Rainbow Tungsten Carbide material as the Bulk &amp; Sculpt.</li>
+                  <li>This bit is ideal for cleaning overflow product from the underside of the nail. It can also be used on the cuticle, but with very light pressure.</li>
+                </ul>
+                <span class="warn">Not for use on natural nails</span>
+              </figcaption>
             </figure>
           </li>
         </ol>
@@ -815,18 +828,16 @@ files-and-forms:
         - products/button-forms/button-forms-02.jpg
         - products/button-forms/button-forms-05.jpg
         - products/button-forms/button-forms-04.jpg
-      writeup: |
-        <h3>Intoducing Suzie's New Forms!</h3>
-        <p>As a nail tech, I can’t tell you how excited I was to design a nail form, with all the elements of my experience in one unique design!</p>
-        <p>I took lots of time designing them, because I wanted to give you the very best.</p>
-        <p>I'm so happy with how adorable they turned out — cute as a button! — that's why I call them ‘The Button’</p>
-        <ul>
-          <li>Designed to work with Acrylic, Gel, and Hybrid Gel</li>
-          <li>Guidelines for Almond,&nbsp;Square,&nbsp;Stiletto, and Coffin nail designs</li>
-          <li>Longer than standard forms to accommodate extra long nails</li>
-          <li>Strong paper that's great for custom shaping</li>
-          <li>Unique circular design</li>
-        </ul>
+      writeupMarkdown: |
+        ***Suzie’s Signature forms!***
+
+        ***Suzie:*** *“As a nail tech, I can’t tell you how excited I was to design a nail form, thinking of all the elements I could ever want in one design! I took my time designing them, because I wanted to give you the very best. I'm so happy with how they turned out- cute as a button-  that's why I call them ‘The Button!’”*
+
+        - Designed to work with Acrylic, Gel, and Hybrid Gel
+        - Guidelines for Almond, Square, Stiletto, and Coffin nail designs
+        - Longer than standard forms to accommodate extra long nails
+        - Strong paper that's great for custom shaping
+        - Unique circular design
     button-forms-500:
       title: "Suzie’s ‘The Button’ Forms (500 pack)"
       product:
@@ -840,18 +851,16 @@ files-and-forms:
         - products/button-forms/button-forms-02.jpg
         - products/button-forms/button-forms-05.jpg
         - products/button-forms/button-forms-04.jpg
-      writeup: |
-        <h3>Intoducing Suzie's New Forms!</h3>
-        <p>As a nail tech, I can’t tell you how excited I was to design a nail form, with all the elements of my experience in one unique design!</p>
-        <p>I took lots of time designing them, because I wanted to give you the very best.</p>
-        <p>I'm so happy with how adorable they turned out — cute as a button! — that's why I call them ‘The Button’</p>
-        <ul>
-          <li>Designed to work with Acrylic, Gel, and Hybrid Gel</li>
-          <li>Guidelines for Almond,&nbsp;Square,&nbsp;Stiletto, and Coffin nail designs</li>
-          <li>Longer than standard forms to accommodate extra long nails</li>
-          <li>Strong paper that's great for custom shaping</li>
-          <li>Unique circular design</li>
-        </ul>
+      writeupMarkdown: |
+        ***Suzie’s Signature forms!***
+
+        ***Suzie:*** *“As a nail tech, I can’t tell you how excited I was to design a nail form, thinking of all the elements I could ever want in one design! I took my time designing them, because I wanted to give you the very best. I'm so happy with how they turned out- cute as a button-  that's why I call them ‘The Button!’”*
+
+        - Designed to work with Acrylic, Gel, and Hybrid Gel
+        - Guidelines for Almond, Square, Stiletto, and Coffin nail designs
+        - Longer than standard forms to accommodate extra long nails
+        - Strong paper that's great for custom shaping
+        - Unique circular design
 
 gel:
   label: "Gel"
@@ -868,18 +877,16 @@ gel:
         - products/glass-nails/glass-nails-01.jpg
         - products/glass-nails/glass-nails-02.jpg
         - products/glass-nails/glass-nails-03.jpg
-      writeup: |
-        <h3>Suzie's Glass Nails — Builder Gel with Thick Viscosity</h3>
-        <p>This gel is excellent for learning how to sculpt with Gel. The thick consistency moves very slow giving you time to create.</p>
-        <h4>How to Use:</h4>
-        <ol>
-          <li>Prep the nail, remove dust.</li>
-          <li>Apply <a href="/store/products/bridge">BRIDGE</a> (this product is excellent to bond between your gel product with your existing product or bonding to your natural nail). Don’t forget to cure.</li>
-          <li>Apply a thin layer of <em>Suzie's Glass Nail</em> all over nail, this will help the next layer settle on to of this layer. Then cure.</li>
-          <li>Then, grab a big blob of gel, and gently coat near the cuticle, and let it slowly slide down nail. Add more if needed.</li>
-          <li>Don’t forget to hold upside down to let gravity give you a natural apex.</li>
-          <li>Once you’re happy with the shape, cure for 60 seconds. Wipe off the dispersion layer, and now you’re ready to sculpt your desired shape.</li>
-        </ol>
+      writeupMarkdown: |
+        This gel is excellent for those learning how to sculpt gel. It has a thick viscosity gel so that it is slow moving, allowing ample time to create.
+
+        How to Use:
+        1. Prep the nail and remove any dust.
+        1. Apply [BRIDGE](/store/products/bridge) (this product is excellent to bond your gel product with your existing product or for bonding to your natural nail). Don’t forget to cure.
+        1. Apply a thin layer of Suzie's Glass Nail all over the nail. This will help the next layer settle on top of this layer. Cure.
+        1. Grab a big blob of gel and gently coat near the cuticle. Let it slowly slide down the nail. Add more if needed.
+        1. Don’t forget to hold upside down to let gravity give you a natural apex.
+        1. Once you’re happy with the shape, cure for 60 seconds. Wipe off the dispersion layer. Now you’re ready to sculpt your desired shape.
     ez-gel:
       title: "EZ Gel Kit"
       product:
@@ -921,12 +928,16 @@ gel:
         images:
         - products/ezgel/ezgel-03.jpg
         - products/ezgel-colors/ez-pink-mix.jpg
-      writeup: |
-        <p>EZ Gel is Cruelty Free and HEMA free. Available in Three colours. EZ Gel is creamy and smooth and very easy to control and shape in your favourite nail. Formulated to work with Alcohol.</p>
-        <p>You may wonder why I choose to have my Hybrid Gel in Jars/Pots instead of a tube.</p>
-        <p>I prefer the jars because I feel it’s easier to get out of the container. Also there is NO WASTE. I can reach <em>every</em> last bead. I found squeezing the tube difficult. You can also put back any unused gel if you just got too much.</p>
+      writeupMarkdown: |
+        Suzie’s EZ Gel is creamy, smooth, easy to control and shape into your favourite nail and is formulated to work with alcohol.
 
-        <p><strong>Suzie’s Pink Mix</strong> is specially formulated to be a little opaque and little transparent. Excellent for creating Ombre easily in just two steps. This particular MIX Suzie designed is to cover any natural flaws on the nail. Excellent to fade over the ombre white for that delicate ombre. Use it on the nail plate just before you apply a French smile line, and you’ll see how beautifully the Pink Colour compliments the white or black or any colour you add.</p>
+        Suzie’s EZ Gels come in jars/pots instead of in tubes to make gathering your gel easier and to minimize waste. You can easily scoop any unused/extra gel and place it back in the jar for next time.
+
+        Suzie’s Pink Mix is specially formulated to be a little opaque and a little transparent, making it excellent for creating Ombre easily in just two steps. It’s designed to be opaque enough to cover any natural flaws on the nail, and just translucent enough to fade over the Ombre White for that perfect ombre effect.
+
+        Use this Pink Mix on the nail plate just before you apply a French smile line and you’ll see how beautifully it compliments white, black or any colour you pair it with.
+
+        🇺🇸 Suzie's EZ-Gel Colours and Bridge Gel Adhesion are HEMA-Free, Cruelty-Free, and Made in America
     ez-gel-midnight:
       title: "Midnight - EZ Gel Colour"
       product:
@@ -937,12 +948,14 @@ gel:
         images:
         - products/ezgel/ezgel-02.jpg
         - products/ezgel-colors/ez-midnight.jpg
-      writeup: |
-        <p>EZ Gel is Cruelty Free and HEMA free. Available in Three colours. EZ Gel is creamy and smooth and very easy to control and shape in your favourite nail. Formulated to work with Alcohol.</p>
-        <p>You may wonder why I choose to have my Hybrid Gel in Jars/Pots instead of a tube.</p>
-        <p>I prefer the jars because I feel it’s easier to get out of the container. Also there is NO WASTE. I can reach <em>every</em> last bead. I found squeezing the tube difficult. You can also put back any unused gel if you just got too much.</p>
+      writeupMarkdown: |
+        Suzie’s EZ Gel is creamy, smooth, easy to control and shape into your favourite nail and is formulated to work with alcohol.
 
-        <p><strong>Midnight:</strong> This Black is solid even when applied very thin. I worked hard on this one. Black can be tricky. The right pigment is the key to making Black nails. This application will ensure a complete cure. Wait till you see the Black against the Pink. This black has such excellent pigment when it’s applied paper thin it remains solid.</p>
+        Suzie’s EZ Gels come in jars/pots instead of in tubes to make gathering your gel easier and to minimize waste. You can easily scoop any unused/extra gel and place it back in the jar for next time.
+
+        This Midnight black EZ Gel is solid, even when applied very thin. Black can be tricky– this black EZ Gel is designed with the right pigment so as to ensure a complete cure. Wait until you see this Midnight black against pink!
+
+        🇺🇸 Suzie's EZ-Gel Colours and Bridge Gel Adhesion are HEMA-Free, Cruelty-Free, and Made in America
     ez-gel-soft-white:
       title: "French & Ombre White - EZ Gel Colour"
       product:
@@ -953,12 +966,14 @@ gel:
         images:
         - products/ezgel/ezgel-08.jpg
         - products/ezgel-colors/ez-pink-and-white.jpg
-      writeup: |
-        <p>EZ Gel is Cruelty Free and HEMA free. Available in Three colours. EZ Gel is creamy and smooth and very easy to control and shape in your favourite nail. Formulated to work with Alcohol.</p>
-        <p>You may wonder why I choose to have my Hybrid Gel in Jars/Pots instead of a tube.</p>
-        <p>I prefer the jars because I feel it’s easier to get out of the container. Also there is NO WASTE. I can reach <em>every</em> last bead. I found squeezing the tube difficult. You can also put back any unused gel if you just got too much.</p>
+      writeupMarkdown: |
+        Suzie’s EZ Gel is creamy, smooth, easy to control and shape into your favourite nail and is formulated to work with alcohol.
 
-        <p><strong>Soft White:</strong> I am in love with this formulation of white. White yet soft. Almost natural. I designed this white to compliment Suzie’s Pink Mix for a delicate look when creating French and Ombre’s. After 35 years of creating Pink and White Nails it was so much fun creating the ultimate White for my own Brand.</p>
+        Suzie’s EZ Gels come in jars/pots instead of in tubes to make gathering your gel easier and to minimize waste. You can easily scoop any unused/extra gel and place it back in the jar for next time.
+
+        This French & Ombre White EZ Gel is a natural looking soft white. Designed to compliment Suzie’s Pink Mix EZ Gel when creating French and Ombre nails. This soft white EZ Gel will add a delicate touch to any nail design.
+
+        🇺🇸 Suzie's EZ-Gel Colours and Bridge Gel Adhesion are HEMA-Free, Cruelty-Free, and Made in America
     mini-nuke:
       title: "Mini Nuke"
       product:
@@ -970,20 +985,18 @@ gel:
         - products/mini-nuke/mini-nuke-01.jpg
         - products/mini-nuke/mini-nuke-02.jpg
         - products/mini-nuke/mini-nuke-03.jpg
-      writeup: |
-        <h2>Suzie's Gel Lamp</h2>
-        <p>Mini Nuke packs POWER. This compact lamp is powerful enough to cure hard gels and hybrid gels as well as soft gels.</p>
-        <p>Details:</p>
-        <ol>
-          <li>One year warranty</li>
-          <li>4 Finger Lamp</li>
-          <li>Power- 5W</li>
-          <li>Size 129x76x59mm</li>
-          <li>Timer-30 sec</li>
-          <li>12 pcs LED Bulbs</li>
-          <li>Micro USB</li>
-          <li>50gr</li>
-        </ol>
+      writeupMarkdown: |
+        Suzie’s Mini Nuke Gel Lamp packs POWER. It’s compact, but powerful enough to cure hard gels, hybrid gels and soft gels.
+
+        Details:
+        - One year warranty
+        - 4 Finger Lamp
+        - Power- 5W
+        - Size 129x76x59mm
+        - Timer-30 sec
+        - 12 pcs LED Bulbs
+        - Micro USB
+        - 50gr
     bridge:
       title: "Bridge"
       product:
@@ -993,15 +1006,14 @@ gel:
         aspectRatio: 2x3
         images:
         - products/bridge/bridge-01.jpg
-      writeup: |
-        <p>Bridge is designed to be the Adhesion between your natural nail and EZ Gel.</p>
-        <p>Bridge is an excellent product to use Between Layers of product to help aid adhesion.</p>
-        <p>Use Bridge after you finish sculpting and juts before you apply gel polish for a stronger adhesion.</p>
-        <h4>How to use:</h4>
-        <ul>
-          <li>Apply a very thin Layer, in circles. Massage into nail plate. Just one coat.</li>
-          <li>Then cure for 60 secs. Proceed with application.</li>
-        </ul>
+      writeupMarkdown: |
+        Are your nails lifting? Is your polish chipping easily? You need Bridge in your life!
+
+        Bridge is designed to help aid adhesion between your natural nail and product (specifically: gel and gel polish). Use Bridge after you finish sculpting and just before you apply gel polish or gel for a stronger adhesion.
+
+        How to use:
+        - Apply one coat very thin, in circles. Massage into the nail plate.
+        - Cure for 60 secs. Apply gel or gel polish.
     reveal-top-coat:
       title: "'Reveal' Top Coat"
       product:
@@ -1011,10 +1023,10 @@ gel:
         aspectRatio: 1x1
         images:
         - products/reveal-top-coat/reveal-top-coat-01.jpg
-      writeup: |
-        <h2>Suzie's New Gel Top Coat</h2>
-        <p>Apply Reveal Gel Top Coat over your enhancements, gel polish and nail art to protect your design. For a strong lasting finish and High Shine. Strong enough to seal in your gems and beads.</p>
-        <p>Cure for 60 seconds under a UV lamp.</p>
+      writeupMarkdown: |
+        This Gel Top Coat will give your nails HIGH SHINE and a lasting finish strong enough to seal in gems and beads.
+
+        Apply Reveal Gel Top Coat over your enhancements, gel polish and nail art to protect your design. Cure for 60 seconds under a UV lamp.
 
 gel-tips:
   label: "Gel Tips"
@@ -1028,15 +1040,14 @@ gel-tips:
         aspectRatio: 3x2
         images:
         - products/quick-tips/quick-tips-square-medium.jpg
-      writeup: |
-        <h3>Clear Full Coverage Gelly Tips - Soak Off</h3>
-        <h4>These are a game changer, they're FAST!</h4>
-        <p>No Sculpting, No Shaping, No Lamp.</p>
-        <p>Suzie's Quick Tips, plus a little bead of Suzie's Clean Acrylic, and BOOM — you have a nail!</p>
-        <ul>
-          <li>Shape: Square</li>
-          <li>Length: Medium</li>
-        </ul>
+      writeupMarkdown: |
+        Clear Full Coverage Gelly Tips - Soak Off!
+
+        No Sculpting, No Shaping, No Lamp.
+
+        These are a game changer! Just add a little bead of Acrylic and BOOM — you have a nail!
+        - Shape: Square
+        - Length: Medium
     quick-tips/:
       title: "Suzie’s Quick Tips - Almond Medium"
       product:
@@ -1046,15 +1057,14 @@ gel-tips:
         aspectRatio: 3x2
         images:
         - products/quick-tips/quick-tips-01.jpg
-      writeup: |
-        <h3>Clear Full Coverage Gelly Tips - Soak Off</h3>
-        <h4>These are a game changer, they're FAST!</h4>
-        <p>No Sculpting, No Shaping, No Lamp.</p>
-        <p>Suzie's Quick Tips, plus a little bead of Suzie's Clean Acrylic, and BOOM — you have a nail!</p>
-        <ul>
-          <li>Shape: Almond</li>
-          <li>Length: Medium</li>
-        </ul>
+      writeupMarkdown: |
+        Clear Full Coverage Gelly Tips - Soak Off! 
+
+        No Sculpting, No Shaping, No Lamp.
+
+        These are a game changer! Just add a little bead of Acrylic and BOOM — you have a nail!
+        - Shape: Almond
+        - Length: Medium
     quick-tips/coffin-medium:
       title: "Suzie’s Quick Tips - Coffin Medium"
       product:
@@ -1064,15 +1074,14 @@ gel-tips:
         aspectRatio: 3x2
         images:
         - products/quick-tips/quick-tips-coffin-medium.jpg
-      writeup: |
-        <h3>Clear Full Coverage Gelly Tips - Soak Off</h3>
-        <h4>These are a game changer, they're FAST!</h4>
-        <p>No Sculpting, No Shaping, No Lamp.</p>
-        <p>Suzie's Quick Tips, plus a little bead of Suzie's Clean Acrylic, and BOOM — you have a nail!</p>
-        <ul>
-          <li>Shape: Coffin</li>
-          <li>Length: Medium</li>
-        </ul>
+      writeupMarkdown: |
+        Clear Full Coverage Gelly Tips - Soak Off! 
+
+        No Sculpting, No Shaping, No Lamp.
+
+        These are a game changer! Just add a little bead of Acrylic and BOOM — you have a nail!
+        - Shape: Coffin
+        - Length: Medium
     quick-tips/stiletto-long:
       title: "Suzie’s Quick Tips - Stiletto Long"
       product:
@@ -1082,15 +1091,14 @@ gel-tips:
         aspectRatio: 3x2
         images:
         - products/quick-tips/quick-tips-stiletto-long.jpg
-      writeup: |
-        <h3>Clear Full Coverage Gelly Tips - Soak Off</h3>
-        <h4>These are a game changer, they're FAST!</h4>
-        <p>No Sculpting, No Shaping, No Lamp.</p>
-        <p>Suzie's Quick Tips, plus a little bead of Suzie's Clean Acrylic, and BOOM — you have a nail!</p>
-        <ul>
-          <li>Shape: Stiletto</li>
-          <li>Length: Long</li>
-        </ul>
+      writeupMarkdown: |
+        Clear Full Coverage Gelly Tips - Soak Off! 
+
+        No Sculpting, No Shaping, No Lamp.
+
+        These are a game changer! Just add a little bead of Acrylic and BOOM — you have a nail!
+        - Shape: Stiletto
+        - Length: Long
 
 manicure:
   label: "Manicure"
@@ -1104,16 +1112,18 @@ manicure:
         aspectRatio: 1x1
         images:
         - products/oil/gingerbread-cookies-01.jpg
-      writeup: |
-        <p class="made-in-canada"><span>🇨🇦 Made in Canada</span></p>
-        <h2>Helping your hands &amp; nails feel hydrated</h2>
-        <p>Gingerbread Cookies, just in time for Christmas.</p>
-        <p>Moisturizing Vitamin E oil that softens cuticles, caring for dry or brittle nails.</p>
-        <p><em>(Nut free)</em></p>
-        <p>Suzie: "In my 30 year career, I've never missed using cuticle oil after every nail service. It replenishes hydration, and I love its fresh fragrance"</p>
-        <p>Suzie's luxury cuticle oil leaves your hands feeling nourished and hydrated. One drop on your cuticle keeps your skin soft and helps prevent dry skin, dry nails and hang nails.</p>
-        <p>Massage all over your hands. Includes a dropper for sanitary application.</p>
-        <p><em>(One 30ml bottle)</em></p>
+      writeupMarkdown: |
+        Hydrate your hands and nails– with the cozy scent of freshly baked Gingerbread cookies!
+
+        ***Suzie:*** *"In my 35 year career, I've never skipped using cuticle oil after every nail service. It replenishes hydration, and I love it’s fresh fragrance"*
+
+        Suzie's luxury cuticle oil leaves your hands feeling nourished and hydrated. One drop on the cuticle keeps skin soft and helps prevent dry skin, dry nails and hangnails.
+
+        Made with Vitamin E oil to soften cuticles and moisturize dry, brittle nails.
+
+        Includes a dropper for sanitary application.
+
+        *(Nut Free, One 30ml bottle)*
     cuticle-oil:
       title: "Suzie’s Cuticle Oil"
       product:
@@ -1126,13 +1136,18 @@ manicure:
         - products/oil/nce-cuticle-3.jpg
         - products/oil/nce-cuticle-05.jpg
         - products/oil/nce-cuticle-2.jpg
-      writeup: |
-        <p class="made-in-canada"><span>🇨🇦 Made in Canada</span></p>
-        <h2>Helping your hands &amp; nails feel hydrated</h2>
-        <p>Suzie: "In my 30 year career, I've never missed using cuticle oil after every nail service. It replenishes hydration, and I love its fresh fragrance"</p>
-        <p>Suzie's luxury cuticle oil leaves your hands feeling nourished and hydrated. One drop on your cuticle keeps your skin soft and helps prevent dry skin, dry nails and hang nails.</p>
-        <p>Massage all over your hands, a gentle touch of lime with pomegranate. Includes a dropper for sanitary application.</p>
-        <p>(one 30ml bottle)</p>
+      writeupMarkdown: |
+        Hydrate your hands and nails– with the fresh scent of Pomegranate and Lime
+
+        ***Suzie:*** *"In my 35 year career, I've never skipped using cuticle oil after every nail service. It replenishes hydration, and I love it’s fresh fragrance"*
+
+        Suzie's luxury cuticle oil leaves your hands feeling nourished and hydrated. One drop on the cuticle keeps skin soft and helps prevent dry skin, dry nails and hangnails.
+
+        Made with Vitamin E oil to soften cuticles and moisturize dry, brittle nails.
+
+        Includes a dropper for sanitary application.
+
+        *(Nut Free, One 30ml bottle)*
     lets-get-sugar:
       title: "Suzie’s \"Let's Get Sugar\""
       product:
@@ -1196,8 +1211,8 @@ manicure:
         - products/nce-towel/towel-04-brighter.jpg
         - products/nce-towel/towel-01-brighter.jpg
         - products/nce-towel/towel-03.jpg
-      writeup: |
-        <p>This adorable microfibre towel will decorate your nail table and create a soft surface for hands.</p>
+      writeupMarkdown: |
+        Use this soft, absorbent, microfibre towel to rest and dry hands during your nail services.
     manicure-kit:
       title: "Suzie’s Manicure Kit"
       product:
@@ -1269,6 +1284,20 @@ nail-art:
         <p>Don’t be fooled by the little glass jar - there’s a lot of flowers in here! 150 real flowers. From big petals to tiny petals, and white and pastel colours to vivid royal blue and bright pink. Ranging in all sizes. Many pieces of leaves included to fill in some foliage. Also includes over 100 paper flowers.</p>
         <p>Use as an In-Lay with Acrylic, Hard Gel, and Hybrid Gel. Can also be used with Suzie's Quick Tips.</p>
         <p><em>Tip</em> — place a bigger flower as a focal point and cut up tiny flowers to fill and place around. Don’t forget the leaves.</p>
+    tweezers:
+      title: "Tweezers"
+      product:
+        shopify: 6990874902564
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/tweezers/tweezers-01.jpg
+        - products/tweezers/tweezers-02.jpg
+        - products/tweezers/tweezers-03.jpg
+      writeupMarkdown: |
+        These tiny tipped tweezers grab even the smallest nail art pieces, making tedious tasks a lot easier! Save the frustration, and do it with style in a gold coloured finish.
     jem-jab:
       title: "Jem Jab"
       product:
@@ -1280,14 +1309,16 @@ nail-art:
         - products/jem-jab/jemjab-01.jpg
         - products/jem-jab/jemjab-02.jpg
         - products/jem-jab/jemjab-03.jpg
-      writeup: |
-        <h2>Suzie's New Nail Art Tool</h2>
-        <p>Jem Jab has two functional ends</p>
-        <ol>
-          <li>The wax tip end helps you pick up your gems, and release them easily onto the nail.</li>
-          <li>The other end is a hard point that you can use to adjust your gems on the nails.</li>
-        </ol>
-        <p>Jem Jab is unique in that this pointy end is very tiny, so you can adjust the tiniest of gems and beads. Easy to clean if any gel or polish transfers – just wipe with alcohol.</p>
+      writeupMarkdown: |
+        **Suzie's Nail Art Tool**
+
+        This ‘Jem Jab’ has two functional ends…
+        - The wax tip end picks up and releases gems easily onto the nail.
+        - The pointy end allows you to delicately adjust your gems.
+
+        This Jem Jab is unique in that its pointy end is particularly tiny, which allows you to adjust the tiniest of gems and beads.
+
+        Easy wipe clean with alcohol if any gel or polish transfers.
     caviar/bright-gold:
       title: "Bright Gold Caviar Beads"
       product:
@@ -1298,21 +1329,18 @@ nail-art:
         images:
         - products/caviar-beads/caviar-beads-01.jpg
         - products/caviar-beads/caviar-beads-02.jpg
-      writeup: |
-        <h2><em>Super TINY</em> Beads are hard to find!</h2>
-        <p>I have created this tiny collection, ready for when you need to add sparkle on your tiny canvas.</p>
-        <p>It's a selection of the TINEST beads in the industry. 0.4mm are the Tiniest of all! These super tiny beads are difficult to make, which makes them more expensive and unique. Also included are 0.5mm and 0.6mm.</p>
-        <p>These beads add such a level of detail and sophistication. In a cluster, or placed delicately on their own, these help your design stand out. It’s all in the details!</p>
-        <h4>How to use</h4>
-        <p>When you pour a little amount into your dish (I recommend the <a href="/store/products/gem-catcher">Gem Catcher</a> — it’s designed to easily pour back into jar) you will see the different sizes as the bigger ones sit higher.</p>
-        <p>Using a tiny brush, gather a little bit of gel, then place your brush inside the beads to gather several at one time. Then lay them onto your nail by pushing them into place.</p>
-        <p>Or if you want to just grab one bead, pick it up with the wax side of the <a href="/store/products/jem-jab">Jem Jab</a> and place onto wet acrylic or gel and then use needle point on <a href="/store/products/jem-jab">Jem Jab</a> to adjust into place.</p>
-        <p>Gem catcher tray not included</p>
-        <ul>
-          <li><a href="/store/products/jem-jab">Jem Jab</a> is not included</li>
-          <li><a href="/store/products/gem-catcher">Gem Catcher</a> is not included</li>
-          <li>Keep out of reach of children</li>
-        </ul>
+      writeupMarkdown: |
+        **A little sparkle goes a long way…**
+
+        These Caviar Beads are 0.6mm and 0.4mm small, making them a collection of the tiniest beads in the nail industry. Such small beads are unique and expensive as they are difficult to make. 
+        Adding these tiny beads to your designs brings such a level of detail and sophistication. It really is all in the details.
+
+        **How to use**
+        1. Pour a small amount into a dish to see the different sized beads. (I recommend the [Gem Catcher](/store/products/gem-catcher) — designed to easily be poured back into jar).
+        1. Using a tiny brush, gather a bit of gel and place onto the beads to gather several. Lay them onto your nail by pushing them into place.
+        1. Alternatively, to grab one bead, use the wax side of a [Jem Jab](/store/products/jem-jab) and place onto wet acrylic or gel. Then use the pointy end and adjust into place.
+
+        Note: [Jem Jab](/store/products/jem-jab) is not included. [Gem Catcher](/store/products/gem-catcher) is not included. Keep out of reach of children.
     caviar/pewter:
       title: "Pewter Caviar Beads"
       product:
@@ -1323,21 +1351,18 @@ nail-art:
         images:
         - products/caviar-beads/caviar-beads-03.jpg
         - products/caviar-beads/caviar-beads-04.jpg
-      writeup: |
-        <h2><em>Super TINY</em> Beads are hard to find!</h2>
-        <p>I have created this tiny collection, ready for when you need to add sparkle on your tiny canvas.</p>
-        <p>It's a selection of the TINEST beads in the industry. 0.4mm are the Tiniest of all! These super tiny beads are difficult to make, which makes them more expensive and unique. Also included are 0.5mm and 0.6mm.</p>
-        <p>These beads add such a level of detail and sophistication. In a cluster, or placed delicately on their own, these help your design stand out. It’s all in the details!</p>
-        <h4>How to use</h4>
-        <p>When you pour a little amount into your dish (I recommend the <a href="/store/products/gem-catcher">Gem Catcher</a> — it’s designed to easily pour back into jar) you will see the different sizes as the bigger ones sit higher.</p>
-        <p>Using a tiny brush, gather a little bit of gel, then place your brush inside the beads to gather several at one time. Then lay them onto your nail by pushing them into place.</p>
-        <p>Or if you want to just grab one bead, pick it up with the wax side of the <a href="/store/products/jem-jab">Jem Jab</a> and place onto wet acrylic or gel and then use needle point on <a href="/store/products/jem-jab">Jem Jab</a> to adjust into place.</p>
-        <p>Gem catcher tray not included</p>
-        <ul>
-          <li><a href="/store/products/jem-jab">Jem Jab</a> is not included</li>
-          <li><a href="/store/products/gem-catcher">Gem Catcher</a> is not included</li>
-          <li>Keep out of reach of children</li>
-        </ul>
+      writeupMarkdown: |
+        **A little sparkle goes a long way…**
+
+        These Caviar Beads are 0.6mm and 0.4mm small, making them a collection of the tiniest beads in the nail industry. Such small beads are unique and expensive as they are difficult to make. 
+        Adding these tiny beads to your designs brings such a level of detail and sophistication. It really is all in the details.
+
+        **How to use**
+        1. Pour a small amount into a dish to see the different sized beads. (I recommend the [Gem Catcher](/store/products/gem-catcher) — designed to easily be poured back into jar).
+        1. Using a tiny brush, gather a bit of gel and place onto the beads to gather several. Lay them onto your nail by pushing them into place.
+        1. Alternatively, to grab one bead, use the wax side of a [Jem Jab](/store/products/jem-jab) and place onto wet acrylic or gel. Then use the pointy end and adjust into place.
+
+        Note: [Jem Jab](/store/products/jem-jab) is not included. [Gem Catcher](/store/products/gem-catcher) is not included. Keep out of reach of children.
     caviar/pearl:
       title: "Pearl Caviar Beads"
       product:
@@ -1348,21 +1373,18 @@ nail-art:
         images:
         - products/caviar-beads/caviar-beads-05.jpg
         - products/caviar-beads/caviar-beads-06.jpg
-      writeup: |
-        <h2><em>Super TINY</em> Beads are hard to find!</h2>
-        <p>I have created this tiny collection, ready for when you need to add sparkle on your tiny canvas.</p>
-        <p>It's a selection of the TINEST beads in the industry. 0.4mm are the Tiniest of all! These super tiny beads are difficult to make, which makes them more expensive and unique. Also included are 0.5mm and 0.6mm.</p>
-        <p>These beads add such a level of detail and sophistication. In a cluster, or placed delicately on their own, these help your design stand out. It’s all in the details!</p>
-        <h4>How to use</h4>
-        <p>When you pour a little amount into your dish (I recommend the <a href="/store/products/gem-catcher">Gem Catcher</a> — it’s designed to easily pour back into jar) you will see the different sizes as the bigger ones sit higher.</p>
-        <p>Using a tiny brush, gather a little bit of gel, then place your brush inside the beads to gather several at one time. Then lay them onto your nail by pushing them into place.</p>
-        <p>Or if you want to just grab one bead, pick it up with the wax side of the <a href="/store/products/jem-jab">Jem Jab</a> and place onto wet acrylic or gel and then use needle point on <a href="/store/products/jem-jab">Jem Jab</a> to adjust into place.</p>
-        <p>Gem catcher tray not included</p>
-        <ul>
-          <li><a href="/store/products/jem-jab">Jem Jab</a> is not included</li>
-          <li><a href="/store/products/gem-catcher">Gem Catcher</a> is not included</li>
-          <li>Keep out of reach of children</li>
-        </ul>
+      writeupMarkdown: |
+        **A little sparkle goes a long way…**
+
+        These Caviar Beads are 0.6mm and 0.4mm small, making them a collection of the tiniest beads in the nail industry. Such small beads are unique and expensive as they are difficult to make. 
+        Adding these tiny beads to your designs brings such a level of detail and sophistication. It really is all in the details.
+
+        **How to use**
+        1. Pour a small amount into a dish to see the different sized beads. (I recommend the [Gem Catcher](/store/products/gem-catcher) — designed to easily be poured back into jar).
+        1. Using a tiny brush, gather a bit of gel and place onto the beads to gather several. Lay them onto your nail by pushing them into place.
+        1. Alternatively, to grab one bead, use the wax side of a [Jem Jab](/store/products/jem-jab) and place onto wet acrylic or gel. Then use the pointy end and adjust into place.
+
+        Note: [Jem Jab](/store/products/jem-jab) is not included. [Gem Catcher](/store/products/gem-catcher) is not included. Keep out of reach of children.
     twinkle-sprinkle:
       title: "Twinkle Sprinkle"
       product:
@@ -1393,10 +1415,12 @@ nail-art:
         images:
         - products/gem-catcher/gemcatcher-01.jpg
         - products/gem-catcher/gemcatcher-02.jpg
-      writeup: |
-        <h2>Suzie's Gem Catcher</h2>
-        <p>The Triangle shape is key. As you pour your gems or glitter onto your nails, place the Gem Catcher underneath to catch any that falls. Use the triangle corner to easily pour back into your jar.</p>
-        <p>It also doubles as a hard surface to pick up your gems and then easy using corners to pour back in.</p>
+      writeupMarkdown: |
+        **Suzie's Gem Catcher Dish**
+
+        The triangle shape of this gem dish is key! This allows you to easily pour your glitter or gems back into their jars by using one of the three corners.
+
+        Use this dish to collect any nail art that may fall during application, and then effortlessly pour back in to save your nail art and eliminate waste.
     silvery-gems:
       title: "Silvery Assorted Gems"
       product:
@@ -1476,25 +1500,18 @@ nail-art:
         aspectRatio: 2x3
         images:
         - products/diamond-shapes/3d-diamond-shape-set.jpg
-      writeup: |
-        <h3>Decorative diamond shapes for nail art inlays or on top of polish</h3>
-        <p>These tiny 3D Diamond shape pieces fit so nicely together, uniformly or scattered.</p>
-        <p>Each piece has four edges that catch the light at different angles — reflecting like diamond facets 💠</p>
-        <h4>This set includes all six colors: </h4>
-        <ul>
-          <li>Blue Green</li>
-          <li>Blue Hues</li>
-          <li>Blue Ice</li>
-          <li>Emerald Green</li>
-          <li>Pink Gold</li>
-          <li>Red Gold</li>
-        </ul>
-        <h4>Instructions:</h4>
-        <ul>
-          <li>Polish Secured — lay on top of wet nail polish, and wait for top coat to dry and seal in.</li>
-          <li>Gel Polish Secured — lay on top of uncured gel polish, then cure.</li>
-          <li>Top Coat Optional.</li>
-        </ul>
+      writeupMarkdown: |
+        Decorative 3D Diamond shaped nail art pieces that catch light and add colour, sparkle and shine. Use as inlays or on top of polish.
+
+        This set includes all six stunning colours:
+        - Blue Green
+        - Blue Hues
+        - Blue Ice
+        - Emerald Green
+        - Pink Gold
+        - Red Gold
+
+        **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
     3d-diamond-shapes/blue-green:
       title: "Blue Green - 3D Diamond Shapes"
       product:
@@ -1504,15 +1521,10 @@ nail-art:
         aspectRatio: 2x3
         images:
         - products/diamond-shapes/blue-green.jpg
-      writeup: |
-        <h3>Decorative diamond shapes for nail art inlays or on top of polish</h3>
-        <p>These tiny 3D Diamond shape pieces fit so nicely together, uniformly or scattered.</p>
-        <p>Each piece has four edges that catch the light at different angles — reflecting like diamond facets 💠</p>
-        <ul>
-          <li>Polish Secured — lay on top of wet nail polish, and wait for top coat to dry and seal in.</li>
-          <li>Gel Polish Secured — lay on top of uncured gel polish, then cure.</li>
-          <li>Top Coat Optional.</li>
-        </ul>
+      writeupMarkdown: |
+        Decorative 3D Diamond shaped nail art pieces that catch light and add colour, sparkle and shine. Use as inlays or on top of polish.
+
+        **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
     3d-diamond-shapes/blue-hues:
       title: "Blue Hues - 3D Diamond Shapes"
       product:
@@ -1522,15 +1534,10 @@ nail-art:
         aspectRatio: 2x3
         images:
         - products/diamond-shapes/blue-hues.jpg
-      writeup: |
-        <h3>Decorative diamond shapes for nail art inlays or on top of polish</h3>
-        <p>These tiny 3D Diamond shape pieces fit so nicely together, uniformly or scattered.</p>
-        <p>Each piece has four edges that catch the light at different angles — reflecting like diamond facets 💠</p>
-        <ul>
-          <li>Polish Secured — lay on top of wet nail polish, and wait for top coat to dry and seal in.</li>
-          <li>Gel Polish Secured — lay on top of uncured gel polish, then cure.</li>
-          <li>Top Coat Optional.</li>
-        </ul>
+      writeupMarkdown: |
+        Decorative 3D Diamond shaped nail art pieces that catch light and add colour, sparkle and shine. Use as inlays or on top of polish.
+
+        **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
     3d-diamond-shapes/blue-ice:
       title: "Blue Ice - 3D Diamond Shapes"
       product:
@@ -1540,15 +1547,10 @@ nail-art:
         aspectRatio: 2x3
         images:
         - products/diamond-shapes/blue-ice.jpg
-      writeup: |
-        <h3>Decorative diamond shapes for nail art inlays or on top of polish</h3>
-        <p>These tiny 3D Diamond shape pieces fit so nicely together, uniformly or scattered.</p>
-        <p>Each piece has four edges that catch the light at different angles — reflecting like diamond facets 💠</p>
-        <ul>
-          <li>Polish Secured — lay on top of wet nail polish, and wait for top coat to dry and seal in.</li>
-          <li>Gel Polish Secured — lay on top of uncured gel polish, then cure.</li>
-          <li>Top Coat Optional.</li>
-        </ul>
+      writeupMarkdown: |
+        Decorative 3D Diamond shaped nail art pieces that catch light and add colour, sparkle and shine. Use as inlays or on top of polish.
+
+        **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
     3d-diamond-shapes/emerald-green:
       title: "Emerald Green - 3D Diamond Shapes"
       product:
@@ -1558,15 +1560,10 @@ nail-art:
         aspectRatio: 2x3
         images:
         - products/diamond-shapes/emerald-green.jpg
-      writeup: |
-        <h3>Decorative diamond shapes for nail art inlays or on top of polish</h3>
-        <p>These tiny 3D Diamond shape pieces fit so nicely together, uniformly or scattered.</p>
-        <p>Each piece has four edges that catch the light at different angles — reflecting like diamond facets 💠</p>
-        <ul>
-          <li>Polish Secured — lay on top of wet nail polish, and wait for top coat to dry and seal in.</li>
-          <li>Gel Polish Secured — lay on top of uncured gel polish, then cure.</li>
-          <li>Top Coat Optional.</li>
-        </ul>
+      writeupMarkdown: |
+        Decorative 3D Diamond shaped nail art pieces that catch light and add colour, sparkle and shine. Use as inlays or on top of polish.
+
+        **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
     3d-diamond-shapes/pink-gold:
       title: "Pink Gold - 3D Diamond Shapes"
       product:
@@ -1576,15 +1573,10 @@ nail-art:
         aspectRatio: 2x3
         images:
         - products/diamond-shapes/pink-gold.jpg
-      writeup: |
-        <h3>Decorative diamond shapes for nail art inlays or on top of polish</h3>
-        <p>These tiny 3D Diamond shape pieces fit so nicely together, uniformly or scattered.</p>
-        <p>Each piece has four edges that catch the light at different angles — reflecting like diamond facets 💠</p>
-        <ul>
-          <li>Polish Secured — lay on top of wet nail polish, and wait for top coat to dry and seal in.</li>
-          <li>Gel Polish Secured — lay on top of uncured gel polish, then cure.</li>
-          <li>Top Coat Optional.</li>
-        </ul>
+      writeupMarkdown: |
+        Decorative 3D Diamond shaped nail art pieces that catch light and add colour, sparkle and shine. Use as inlays or on top of polish.
+
+        **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
     3d-diamond-shapes/red-gold:
       title: "Red Gold - 3D Diamond Shapes"
       product:
@@ -1594,15 +1586,10 @@ nail-art:
         aspectRatio: 2x3
         images:
         - products/diamond-shapes/red-gold.jpg
-      writeup: |
-        <h3>Decorative diamond shapes for nail art inlays or on top of polish</h3>
-        <p>These tiny 3D Diamond shape pieces fit so nicely together, uniformly or scattered.</p>
-        <p>Each piece has four edges that catch the light at different angles — reflecting like diamond facets 💠</p>
-        <ul>
-          <li>Polish Secured — lay on top of wet nail polish, and wait for top coat to dry and seal in.</li>
-          <li>Gel Polish Secured — lay on top of uncured gel polish, then cure.</li>
-          <li>Top Coat Optional.</li>
-        </ul>
+      writeupMarkdown: |
+        Decorative 3D Diamond shaped nail art pieces that catch light and add colour, sparkle and shine. Use as inlays or on top of polish.
+
+        **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
     gem-jars/frosted-white-glitter:
       title: "Frosted White Glitter - Gem Jar"
       product:
@@ -1612,11 +1599,12 @@ nail-art:
         aspectRatio: 1x1
         images:
         - products/gem-jars/gem-frosted-white-glitter.jpg
-      writeup: |
-        <h3>From Suzie's Gem Jar Collection – Frosted White Glitter</h3>
-        <p>Pour glitter onto freshly painted nail, right from the jar! You even dip the nail straight into jar, if you prefer.</p>
-        <p>You can <em>very gently</em> pat or press the glitter onto top coat.</p>
-        <p>Then you just let it dry 😊</p>
+      writeupMarkdown: |
+        A magically sparkly white glitter to add that something EXTRA to your nail designs.
+
+        Pour this glitter right from the jar onto freshly painted nails– or dip each nail straight into the jar!
+
+        *Pro Tip:* Very gently pat glitter onto the nail to ensure it’s secured before allowing it to dry.
     foils/gold:
       title: "Golden Foil"
       product:
@@ -1626,12 +1614,11 @@ nail-art:
         aspectRatio: 1x1
         images:
         - products/foil/foil-gold.jpg
-      writeup: |
-        <h3>Decorative foil for nail art inlays or polish secure</h3>
-        <ul>
-          <li><strong>Inlay</strong><span>&nbsp;— place pieces of foil in between layers of hard gel, acrylic, or hybrids. Place on top of uncured acrylic or before you cure gels, then apply your product of choice on top. Watch it brighten and come to life as you apply top coat.</span></li>
-          <li><strong>Polish Secure</strong><span>&nbsp;— place on top of nail polish, gel polish, or fully sculpted nail enhancements. Apply to freshly applied polish or gel polish <em>before</em> you cure it. Apply top coat to secure your foil and watch it come to life.</span></li>
-        </ul>
+      writeupMarkdown: |
+        Use this eye catching foil on your nails as inlays or on top of polish. Unleash its full vibrancy with a top coat!
+
+        - **For Inlay:** Place pieces of foil in between layers of hard gel, acrylic, or hybrids. Place on top of uncured acrylic or before you cure gels. Apply your product of choice on top. Watch it brighten and come to life as you apply a top coat!
+        - **For Polish Secure:** Place on top of nail polish, gel polish, or fully sculpted nail enhancements. Apply to freshly applied polish or gel polish before you cure it. Apply a top coat to secure your foil and unleash its full vibrance!
     foils/silver:
       title: "Silvery Foil"
       product:
@@ -1641,12 +1628,11 @@ nail-art:
         aspectRatio: 1x1
         images:
         - products/foil/foil-silver.jpg
-      writeup: |
-        <h3>Decorative foil for nail art inlays or polish secure</h3>
-        <ul>
-          <li><strong>Inlay</strong><span>&nbsp;— place pieces of foil in between layers of hard gel, acrylic, or hybrids. Place on top of uncured acrylic or before you cure gels, then apply your product of choice on top. Watch it brighten and come to life as you apply top coat.</span></li>
-          <li><strong>Polish Secure</strong><span>&nbsp;— place on top of nail polish, gel polish, or fully sculpted nail enhancements. Apply to freshly applied polish or gel polish <em>before</em> you cure it. Apply top coat to secure your foil and watch it come to life.</span></li>
-        </ul>
+      writeupMarkdown: |
+        Use this eye catching foil on your nails as inlays or on top of polish. Unleash its full vibrancy with a top coat!
+
+        - **For Inlay:** Place pieces of foil in between layers of hard gel, acrylic, or hybrids. Place on top of uncured acrylic or before you cure gels. Apply your product of choice on top. Watch it brighten and come to life as you apply a top coat!
+        - **For Polish Secure:** Place on top of nail polish, gel polish, or fully sculpted nail enhancements. Apply to freshly applied polish or gel polish before you cure it. Apply a top coat to secure your foil and unleash its full vibrance!
     foils/gold-and-copper:
       title: "Golden & Copper Coloured Foil"
       product:
@@ -1656,12 +1642,11 @@ nail-art:
         aspectRatio: 1x1
         images:
         - products/foil/foil-gold-and-copper.jpg
-      writeup: |
-        <h3>Decorative foil for nail art inlays or polish secure</h3>
-        <ul>
-          <li><strong>Inlay</strong><span>&nbsp;— place pieces of foil in between layers of hard gel, acrylic, or hybrids. Place on top of uncured acrylic or before you cure gels, then apply your product of choice on top. Watch it brighten and come to life as you apply top coat.</span></li>
-          <li><strong>Polish Secure</strong><span>&nbsp;— place on top of nail polish, gel polish, or fully sculpted nail enhancements. Apply to freshly applied polish or gel polish <em>before</em> you cure it. Apply top coat to secure your foil and watch it come to life.</span></li>
-        </ul>
+      writeupMarkdown: |
+        Use this eye catching foil on your nails as inlays or on top of polish. Unleash its full vibrancy with a top coat!
+
+        - **For Inlay:** Place pieces of foil in between layers of hard gel, acrylic, or hybrids. Place on top of uncured acrylic or before you cure gels. Apply your product of choice on top. Watch it brighten and come to life as you apply a top coat!
+        - **For Polish Secure:** Place on top of nail polish, gel polish, or fully sculpted nail enhancements. Apply to freshly applied polish or gel polish before you cure it. Apply a top coat to secure your foil and unleash its full vibrance!
     foils/gold-and-green:
       title: "Golden & Green Coloured Foil"
       product:
@@ -1671,12 +1656,11 @@ nail-art:
         aspectRatio: 1x1
         images:
         - products/foil/foil-gold-and-green.jpg
-      writeup: |
-        <h3>Decorative foil for nail art inlays or polish secure</h3>
-        <ul>
-          <li><strong>Inlay</strong><span>&nbsp;— place pieces of foil in between layers of hard gel, acrylic, or hybrids. Place on top of uncured acrylic or before you cure gels, then apply your product of choice on top. Watch it brighten and come to life as you apply top coat.</span></li>
-          <li><strong>Polish Secure</strong><span>&nbsp;— place on top of nail polish, gel polish, or fully sculpted nail enhancements. Apply to freshly applied polish or gel polish <em>before</em> you cure it. Apply top coat to secure your foil and watch it come to life.</span></li>
-        </ul>
+      writeupMarkdown: |
+        Use this eye catching foil on your nails as inlays or on top of polish. Unleash its full vibrancy with a top coat!
+
+        - **For Inlay:** Place pieces of foil in between layers of hard gel, acrylic, or hybrids. Place on top of uncured acrylic or before you cure gels. Apply your product of choice on top. Watch it brighten and come to life as you apply a top coat!
+        - **For Polish Secure:** Place on top of nail polish, gel polish, or fully sculpted nail enhancements. Apply to freshly applied polish or gel polish before you cure it. Apply a top coat to secure your foil and unleash its full vibrance!
 
 polish:
   label: "Polish"
@@ -1690,15 +1674,14 @@ polish:
         aspectRatio: 3x2
         images:
         - products/polish/reflection/polish-reflection-collection-01.jpg
-      writeup: |
-        <p><em>(This collection includes all Reflection Collection polishes #1 through #12)</em></p>
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *(This collection includes all Reflection Collection polishes #1 through #12)*
+
+        Twelve polish colours by KCE specially selected by Suzie. Each of these polish colours are shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply these polishes onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** These polishes are highly pigmented, so they may stain, which is a good reason to apply onto top coat.
     polish/reflection/1:
       title: "Reflection Collection #1 Suzie's Shade"
       product:
@@ -1708,15 +1691,14 @@ polish:
         aspectRatio: 1x1
         images:
         - products/polish/reflection/polish-01.jpg
-      writeup: |
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>Be sure to browse the <a href="/store/#polish">all the unique colors</a> on the store page.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
     polish/reflection/2:
       title: "Reflection Collection #2 Cameraman Blue"
       product:
@@ -1726,15 +1708,14 @@ polish:
         aspectRatio: 1x1
         images:
         - products/polish/reflection/polish-02.jpg
-      writeup: |
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>Be sure to browse the <a href="/store/#polish">all the unique colors</a> on the store page.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
     polish/reflection/3:
       title: "Reflection Collection #3 Silver Screen"
       product:
@@ -1744,15 +1725,14 @@ polish:
         aspectRatio: 1x1
         images:
         - products/polish/reflection/polish-03.jpg
-      writeup: |
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>Be sure to browse the <a href="/store/#polish">all the unique colors</a> on the store page.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
     polish/reflection/4:
       title: "Reflection Collection #4 Gold Kisses"
       product:
@@ -1762,15 +1742,14 @@ polish:
         aspectRatio: 1x1
         images:
         - products/polish/reflection/polish-04.jpg
-      writeup: |
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>Be sure to browse the <a href="/store/#polish">all the unique colors</a> on the store page.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
     polish/reflection/5:
       title: "Reflection Collection #5 Gold on my Tea Cup"
       product:
@@ -1780,15 +1759,14 @@ polish:
         aspectRatio: 1x1
         images:
         - products/polish/reflection/polish-05.jpg
-      writeup: |
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>Be sure to browse the <a href="/store/#polish">all the unique colors</a> on the store page.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
     polish/reflection/6:
       title: "Reflection Collection #6 Bumblebee Bum"
       product:
@@ -1798,15 +1776,14 @@ polish:
         aspectRatio: 1x1
         images:
         - products/polish/reflection/polish-06.jpg
-      writeup: |
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>Be sure to browse the <a href="/store/#polish">all the unique colors</a> on the store page.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
     polish/reflection/7:
       title: "Reflection Collection #7 Boujee Blush"
       product:
@@ -1816,15 +1793,14 @@ polish:
         aspectRatio: 1x1
         images:
         - products/polish/reflection/polish-07.jpg
-      writeup: |
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>Be sure to browse the <a href="/store/#polish">all the unique colors</a> on the store page.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
     polish/reflection/8:
       title: "Reflection Collection #8 Trying to be Subtle"
       product:
@@ -1834,15 +1810,14 @@ polish:
         aspectRatio: 1x1
         images:
         - products/polish/reflection/polish-08.jpg
-      writeup: |
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>Be sure to browse the <a href="/store/#polish">all the unique colors</a> on the store page.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
     polish/reflection/9:
       title: "Reflection Collection #9 In Your Face Fuchsia"
       product:
@@ -1852,15 +1827,14 @@ polish:
         aspectRatio: 1x1
         images:
         - products/polish/reflection/polish-09.jpg
-      writeup: |
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>Be sure to browse the <a href="/store/#polish">all the unique colors</a> on the store page.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
     polish/reflection/10:
       title: "Reflection Collection #10 Grant's Pants"
       product:
@@ -1870,15 +1844,14 @@ polish:
         aspectRatio: 1x1
         images:
         - products/polish/reflection/polish-10.jpg
-      writeup: |
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>Be sure to browse the <a href="/store/#polish">all the unique colors</a> on the store page.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
     polish/reflection/11:
       title: "Reflection Collection #11 Fairy Fire Red"
       product:
@@ -1888,15 +1861,14 @@ polish:
         aspectRatio: 1x1
         images:
         - products/polish/reflection/polish-11.jpg
-      writeup: |
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>Be sure to browse the <a href="/store/#polish">all the unique colors</a> on the store page.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
     polish/reflection/12:
       title: "Reflection Collection #12 Goth's Secret"
       product:
@@ -1906,38 +1878,17 @@ polish:
         aspectRatio: 1x1
         images:
         - products/polish/reflection/polish-12.jpg
-      writeup: |
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>Be sure to browse the <a href="/store/#polish">all the unique colors</a> on the store page.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
 
 _uncategorized:
   products:
-    apron:
-      title: "Suzie’s Apron"
-      product:
-        shopifyUid: Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE1MDI3MDAyMDgxNjQ=
-        restockingSoon: false
-      carousel:
-        images:
-        - products/apron/nce-apron-03.jpg
-        - products/apron/nce-apron-02.jpg
-      writeup: |
-        <h2>Nuke it with Suzie!</h2>
-        <p>I personally designed this apron to protect clothing from spills, splatters and dust. I also designed it to look really cute!</p>
-        <p>I added a front pocket to hold your phone, or your files, or whatever!</p>
-        <p><em>Each order comes with two aprons</em></p>
-        <ul>
-          <li>Crisp eggshell-white waffle cotton hides nail dust</li>
-          <li>Piped lining for a finished look</li>
-          <li>Front pocket for easy tool/accessory access</li>
-          <li>Goes with anything you wear!</li>
-        </ul>
     chrome/halloween/1:
       title: "Chrome Powder: Frank's Complexion"
       product:
