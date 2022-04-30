@@ -877,18 +877,16 @@ gel:
         - products/glass-nails/glass-nails-01.jpg
         - products/glass-nails/glass-nails-02.jpg
         - products/glass-nails/glass-nails-03.jpg
-      writeup: |
-        <h3>Suzie's Glass Nails — Builder Gel with Thick Viscosity</h3>
-        <p>This gel is excellent for learning how to sculpt with Gel. The thick consistency moves very slow giving you time to create.</p>
-        <h4>How to Use:</h4>
-        <ol>
-          <li>Prep the nail, remove dust.</li>
-          <li>Apply <a href="/store/products/bridge">BRIDGE</a> (this product is excellent to bond between your gel product with your existing product or bonding to your natural nail). Don’t forget to cure.</li>
-          <li>Apply a thin layer of <em>Suzie's Glass Nail</em> all over nail, this will help the next layer settle on to of this layer. Then cure.</li>
-          <li>Then, grab a big blob of gel, and gently coat near the cuticle, and let it slowly slide down nail. Add more if needed.</li>
-          <li>Don’t forget to hold upside down to let gravity give you a natural apex.</li>
-          <li>Once you’re happy with the shape, cure for 60 seconds. Wipe off the dispersion layer, and now you’re ready to sculpt your desired shape.</li>
-        </ol>
+      writeupMarkdown: |
+        This gel is excellent for those learning how to sculpt gel. It has a thick viscosity gel so that it is slow moving, allowing ample time to create.
+
+        How to Use:
+        1. Prep the nail and remove any dust.
+        1. Apply [BRIDGE](/store/products/bridge) (this product is excellent to bond your gel product with your existing product or for bonding to your natural nail). Don’t forget to cure.
+        1. Apply a thin layer of Suzie's Glass Nail all over the nail. This will help the next layer settle on top of this layer. Cure.
+        1. Grab a big blob of gel and gently coat near the cuticle. Let it slowly slide down the nail. Add more if needed.
+        1. Don’t forget to hold upside down to let gravity give you a natural apex.
+        1. Once you’re happy with the shape, cure for 60 seconds. Wipe off the dispersion layer. Now you’re ready to sculpt your desired shape.
     ez-gel:
       title: "EZ Gel Kit"
       product:
