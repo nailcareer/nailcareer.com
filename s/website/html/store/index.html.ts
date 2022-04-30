@@ -71,7 +71,7 @@ function renderProduct(
 		<shopper-product
 			show-image
 			image-size="260"
-			${attrBool("resotcking-soon", restockingSoon)}
+			${attrBool("restocking-soon", restockingSoon)}
 			${attrBool("data-new", isNew)}
 			${attrMaybe("data-notice", notice)}
 			href="/store/products/${name}"
