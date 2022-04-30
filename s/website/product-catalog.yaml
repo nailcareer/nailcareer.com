@@ -1915,17 +1915,17 @@ _uncategorized:
         images:
         - products/apron/nce-apron-03.jpg
         - products/apron/nce-apron-02.jpg
-      writeup: |
-        <h2>Nuke it with Suzie!</h2>
-        <p>I personally designed this apron to protect clothing from spills, splatters and dust. I also designed it to look really cute!</p>
-        <p>I added a front pocket to hold your phone, or your files, or whatever!</p>
-        <p><em>Each order comes with two aprons</em></p>
-        <ul>
-          <li>Crisp eggshell-white waffle cotton hides nail dust</li>
-          <li>Piped lining for a finished look</li>
-          <li>Front pocket for easy tool/accessory access</li>
-          <li>Goes with anything you wear!</li>
-        </ul>
+      writeupMarkdown: |
+        *“Nuke it with Suzie!”*
+
+        Designed by Suzie, this apron will protect your clothing from spills, splatters and dust. It will also keep anything you need handy in its generously sized front pocket— your phone, files, whatever!
+
+        Each order comes with two aprons
+
+        - Crisp eggshell-white waffle cotton hides nail dust
+        - Piped lining for a finished look
+        - Front pocket for easy tool/accessory access
+        - Goes with anything you wear!
     chrome/halloween/1:
       title: "Chrome Powder: Frank's Complexion"
       product:
