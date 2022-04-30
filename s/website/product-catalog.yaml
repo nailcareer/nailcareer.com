@@ -1309,14 +1309,16 @@ nail-art:
         - products/jem-jab/jemjab-01.jpg
         - products/jem-jab/jemjab-02.jpg
         - products/jem-jab/jemjab-03.jpg
-      writeup: |
-        <h2>Suzie's New Nail Art Tool</h2>
-        <p>Jem Jab has two functional ends</p>
-        <ol>
-          <li>The wax tip end helps you pick up your gems, and release them easily onto the nail.</li>
-          <li>The other end is a hard point that you can use to adjust your gems on the nails.</li>
-        </ol>
-        <p>Jem Jab is unique in that this pointy end is very tiny, so you can adjust the tiniest of gems and beads. Easy to clean if any gel or polish transfers – just wipe with alcohol.</p>
+      writeupMarkdown: |
+        **Suzie's Nail Art Tool**
+
+        This ‘Jem Jab’ has two functional ends…
+        - The wax tip end picks up and releases gems easily onto the nail.
+        - The pointy end allows you to delicately adjust your gems.
+
+        This Jem Jab is unique in that its pointy end is particularly tiny, which allows you to adjust the tiniest of gems and beads.
+
+        Easy wipe clean with alcohol if any gel or polish transfers.
     caviar/bright-gold:
       title: "Bright Gold Caviar Beads"
       product:
