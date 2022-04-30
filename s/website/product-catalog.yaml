@@ -603,43 +603,59 @@ files-and-forms:
         - products/bits/bits-06.jpg
         - products/bits/bits-07.jpg
         - products/bits/bits-08.jpg
-      writeup: |
-        <h3>Three must-have bits!</h3>
-        <p>With these three e-file bits, you can achieve the majority of nail designs from beginning to finish.</p>
-        <p>They fit <a target="_blank" href="/store/products/ezfile">Suzie's EZ-File</a>, and most other e-files.</p>
-        <p>⚠️ E-Files and bits require training and practice before safe usage on humans. This product is intended to be used on humans only by a professional.</p>
+      writeupMarkdown: |
+        Three essential bits!
+
+        With these three e-file bits, you can achieve the majority of nail designs from beginning to end.
+
+        They fit [Suzie's EZ-File](/store/products/ezfile), and most other e-files.
+
+        ⚠️ E-Files and bits require training and practice before safe usage on humans. This product is intended to be used on humans only by a professional.
       details: |
         <ol class="productshowcase">
           <li>
             <figure>
               <div><img src="/assets/images-medium/products/bits/bits-03.jpg" alt=""></div>
-              <figcaption><strong>Golden Mandrel Bit</strong><span>Includes 15 sanding bands</span>
+              <figcaption>
+                <strong>Golden Mandrel Bit</strong>
+                <span>Includes 15 sanding bands</span>
                 <ul>
                   <li>5 Fine Purple</li>
                   <li>5 Medium Purple</li>
                   <li>5 Course Green</li>
-                </ul><span>This post has two grip points to secure your sanding bands</span>
+                </ul>
+                <span>This post has two grip points to secure your sanding bands</span>
               </figcaption>
             </figure>
           </li>
           <li>
             <figure>
               <div><img src="/assets/images-medium/products/bits/bits-02.jpg" alt=""></div>
-              <figcaption><strong>Bulk &amp; Sculpt Bit</strong><em>(Safety Bit)</em>
+              <figcaption>
+                <strong>Bulk &amp; Sculpt Bit</strong>
+                <em>(Safety Bit)</em>
                 <ul>
                   <li>Made of strong Rainbow Tungsten Carbide material.</li>
                   <li>Creating less dust and less heat.</li>
                   <li>Has rounded safety top to protect cuticles.</li>
-                  <li>Excellent for removing Gel polish, removal of all enhancements and sculpting gel, acrylic, and hybrid gel.</li>
+                  <li>Excellent for removal of all enhancements, Gel polish, sculpting Gel, Acrylic, and Hybrid Gel.</li>
                   <li>Can last for years, depending on usage.</li>
-                </ul><span class="warn">Not for use on natural nails!</span>
+                </ul>
+                <span class="warn">Not for use on natural nails</span>
               </figcaption>
             </figure>
           </li>
           <li>
             <figure>
               <div><img src="/assets/images-medium/products/bits/bits-01.jpg" alt=""></div>
-              <figcaption><strong>Clean Up Bit</strong><em>The same Rainbow Tungsten Carbide material as the Bulk &amp; Sculpt.</em><span>This bit is idea for cleaning over flow product from the underside of the nail – can also be used on the cuticle, but very light pressure.</span><span class="warn">Not for use on natural nails!</span></figcaption>
+              <figcaption>
+                <strong>Clean Up Bit</strong>
+                <ul>
+                  <li>The same Rainbow Tungsten Carbide material as the Bulk &amp; Sculpt.</li>
+                  <li>This bit is ideal for cleaning overflow product from the underside of the nail. It can also be used on the cuticle, but with very light pressure.</li>
+                </ul>
+                <span class="warn">Not for use on natural nails</span>
+              </figcaption>
             </figure>
           </li>
         </ol>
