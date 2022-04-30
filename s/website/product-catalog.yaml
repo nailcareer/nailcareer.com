@@ -1211,8 +1211,8 @@ manicure:
         - products/nce-towel/towel-04-brighter.jpg
         - products/nce-towel/towel-01-brighter.jpg
         - products/nce-towel/towel-03.jpg
-      writeup: |
-        <p>This adorable microfibre towel will decorate your nail table and create a soft surface for hands.</p>
+      writeupMarkdown: |
+        Use this soft, absorbent, microfibre towel to rest and dry hands during your nail services.
     manicure-kit:
       title: "Suzie’s Manicure Kit"
       product:
