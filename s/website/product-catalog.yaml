@@ -1599,11 +1599,12 @@ nail-art:
         aspectRatio: 1x1
         images:
         - products/gem-jars/gem-frosted-white-glitter.jpg
-      writeup: |
-        <h3>From Suzie's Gem Jar Collection – Frosted White Glitter</h3>
-        <p>Pour glitter onto freshly painted nail, right from the jar! You even dip the nail straight into jar, if you prefer.</p>
-        <p>You can <em>very gently</em> pat or press the glitter onto top coat.</p>
-        <p>Then you just let it dry 😊</p>
+      writeupMarkdown: |
+        A magically sparkly white glitter to add that something EXTRA to your nail designs.
+
+        Pour this glitter right from the jar onto freshly painted nails– or dip each nail straight into the jar!
+
+        *Pro Tip:* Very gently pat glitter onto the nail to ensure it’s secured before allowing it to dry.
     foils/gold:
       title: "Golden Foil"
       product:
