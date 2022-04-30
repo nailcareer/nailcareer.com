@@ -1023,10 +1023,10 @@ gel:
         aspectRatio: 1x1
         images:
         - products/reveal-top-coat/reveal-top-coat-01.jpg
-      writeup: |
-        <h2>Suzie's New Gel Top Coat</h2>
-        <p>Apply Reveal Gel Top Coat over your enhancements, gel polish and nail art to protect your design. For a strong lasting finish and High Shine. Strong enough to seal in your gems and beads.</p>
-        <p>Cure for 60 seconds under a UV lamp.</p>
+      writeupMarkdown: |
+        This Gel Top Coat will give your nails HIGH SHINE and a lasting finish strong enough to seal in gems and beads.
+
+        Apply Reveal Gel Top Coat over your enhancements, gel polish and nail art to protect your design. Cure for 60 seconds under a UV lamp.
 
 gel-tips:
   label: "Gel Tips"
