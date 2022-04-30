@@ -499,10 +499,10 @@ brushes:
       carousel:
         aspectRatio: 2x3
         images:
-        - products/rose-gold-brush/rose-gold-brush-03.jpg
         - products/rose-gold-brush/rose-gold-brush-02.jpg
-        - products/acrylic-brush/nce-acrylic-brush-02.jpg
         - products/acrylic-brush/nce-acrylic-brush-01.jpg
+        - products/rose-gold-brush/rose-gold-brush-03.jpg
+        - products/acrylic-brush/nce-acrylic-brush-02.jpg
         - products/acrylic-brush/nce-acrylic-brush-11.jpg
         - products/acrylic-brush/nce-acrylic-brush-12.jpg
       writeup: |
