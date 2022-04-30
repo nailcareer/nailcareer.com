@@ -19,20 +19,6 @@ accessories:
         *(Size 180 ml)*
 
         ***Note:*** This mechanism is not designed or recommended for Acetone or nail polish remover. Do not leave Acrylic Monomer in Sunlight or UV rays; this can damage the monomer.
-    tweezers:
-      title: "Tweezers"
-      product:
-        shopify: 6990874902564
-        restockingSoon: true
-        isNew: true
-      carousel:
-        aspectRatio: 1x1
-        images:
-        - products/tweezers/tweezers-01.jpg
-        - products/tweezers/tweezers-02.jpg
-        - products/tweezers/tweezers-03.jpg
-      writeupMarkdown: |
-        These tiny tipped tweezers grab even the smallest nail art pieces, making tedious tasks a lot easier! Save the frustration, and do it with style in a gold coloured finish.
     scissors:
       title: "Scissors"
       product:
@@ -1257,6 +1243,20 @@ nail-art:
         <p>Don’t be fooled by the little glass jar - there’s a lot of flowers in here! 150 real flowers. From big petals to tiny petals, and white and pastel colours to vivid royal blue and bright pink. Ranging in all sizes. Many pieces of leaves included to fill in some foliage. Also includes over 100 paper flowers.</p>
         <p>Use as an In-Lay with Acrylic, Hard Gel, and Hybrid Gel. Can also be used with Suzie's Quick Tips.</p>
         <p><em>Tip</em> — place a bigger flower as a focal point and cut up tiny flowers to fill and place around. Don’t forget the leaves.</p>
+    tweezers:
+      title: "Tweezers"
+      product:
+        shopify: 6990874902564
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/tweezers/tweezers-01.jpg
+        - products/tweezers/tweezers-02.jpg
+        - products/tweezers/tweezers-03.jpg
+      writeupMarkdown: |
+        These tiny tipped tweezers grab even the smallest nail art pieces, making tedious tasks a lot easier! Save the frustration, and do it with style in a gold coloured finish.
     jem-jab:
       title: "Jem Jab"
       product:
