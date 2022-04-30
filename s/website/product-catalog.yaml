@@ -337,12 +337,10 @@ acrylic:
         - products/acrylic-powders/acrylic-powder-brighter-03.jpg
         - products/acrylic-powders/acrylic-powder-brighter-04.jpg
         - products/acrylic-powders/acrylic-powder-brighter-05.jpg
-      writeup: |
-        <p>Excellent for sculpting and designing custom nails. Mix together to create many shades and different hues from the original four colours. For best results, use with Suzie’s Odourless and Fast Set Monomers.</p>
-        <ul>
-          <li>Store in a cool dark place</li>
-          <li>Keep away from children</li>
-        </ul>
+      writeupMarkdown: |
+        For sculpting and designing custom nails. Mix together to create different hues and shades from the original four colours. For best results, use with Suzie’s Odourless and Fast Set Monomers.
+
+        ***Note:*** Store in a cool dark place. Keep away from children.
     acrylic-powder-2oz-soft-white:
       title: "Acrylic Powder 2oz Soft White"
       product:
@@ -352,13 +350,12 @@ acrylic:
         aspectRatio: 3x2
         images:
         - products/acrylic-powders/acrylic-powder-brighter-04.jpg
-      writeup: |
-        <p>Excellent for sculpting and designing custom nails. Use with Suzie’s Odourless and Fast Set Monomers for a correctly cured nail.</p>
-        <p>Opaque white acrylic, designed with the ombre and french nails in mind.</p>
-        <ul>
-          <li>Store in a cool dark place</li>
-          <li>Keep away from children</li>
-        </ul>
+      writeupMarkdown: |
+        This opaque white acrylic is designed specially with ombre and french nails in mind.
+
+        For sculpting and designing custom nails. Use with Suzie’s Odourless and Fast Set Monomers for a correctly cured nail.
+
+        ***Note:*** Store in a cool dark place. Keep away from children.
     acrylic-powder-2oz-foundation-pink:
       title: "Suzie’s Acrylic Powder 2oz Foundation Pink"
       product:
@@ -368,13 +365,12 @@ acrylic:
         aspectRatio: 3x2
         images:
         - products/acrylic-powders/acrylic-powder-brighter-02.jpg
-      writeup: |
-        <p>Excellent for sculpting and designing custom nails. Use with Suzie’s Odourless and Fast Set Monomers for a correctly cured nail.</p>
-        <p>Semi-opaque acrylic powder, designed to cover flaws and help create the ombre effect.</p>
-        <ul>
-          <li>Store in a cool dark place</li>
-          <li>Keep away from children</li>
-        </ul>
+      writeupMarkdown: |
+        This semi-opaque acrylic powder is designed to cover flaws and help create an ombre effect.
+
+        For sculpting and designing custom nails. Use with Suzie’s Odourless and Fast Set Monomers for a correctly cured nail.
+
+        ***Note:*** Store in a cool dark place. Keep away from children.
     acrylic-powder-2oz-pink-tint:
       title: "Suzie’s Acrylic Powder 2oz Pink Tint"
       product:
@@ -384,13 +380,12 @@ acrylic:
         aspectRatio: 3x2
         images:
         - products/acrylic-powders/acrylic-powder-brighter-03.jpg
-      writeup: |
-        <p>Excellent for sculpting and designing custom nails. Use with Suzie’s Odourless and Fast Set Monomers for a correctly cured nail.</p>
-        <p>Transparent acrylic, designed to create the healthy natural pink hue of a natural nail.</p>
-        <ul>
-          <li>Store in a cool dark place</li>
-          <li>Keep away from children</li>
-        </ul>
+      writeupMarkdown: |
+        This transparent acrylic is designed to create the healthy natural pink hue of a natural nail.
+
+        For sculpting and designing custom nails. Use with Suzie’s Odourless and Fast Set Monomers for a correctly cured nail.
+
+        ***Note:*** Store in a cool dark place. Keep away from children.
     acrylic-powder-2oz-clear-cap:
       title: "Suzie’s Acrylic Powder 2oz Clear Cap"
       product:
@@ -400,13 +395,12 @@ acrylic:
         aspectRatio: 3x2
         images:
         - products/acrylic-powders/acrylic-powder-brighter-05.jpg
-      writeup: |
-        <p>Excellent for sculpting and designing custom nails. Use with Suzie’s Odourless and Fast Set Monomers for a correctly cured nail.</p>
-        <p>Strong clear acrylic designed to encapsulate and protect your inlay designs, or help mix colours.</p>
-        <ul>
-          <li>Store in a cool dark place</li>
-          <li>Keep away from children</li>
-        </ul>
+      writeupMarkdown: |
+        This acrylic is strong and clear, designed to encapsulate and protect your inlay designs. It will also help mix colours.
+
+        For sculpting and designing custom nails. Use with Suzie’s Odourless and Fast Set Monomers for a correctly cured nail.
+
+        ***Note:*** Store in a cool dark place. Keep away from children.
     prep-and-bond:
       title: "Suzie's Prep & Bond"
       product:
