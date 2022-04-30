@@ -1415,10 +1415,12 @@ nail-art:
         images:
         - products/gem-catcher/gemcatcher-01.jpg
         - products/gem-catcher/gemcatcher-02.jpg
-      writeup: |
-        <h2>Suzie's Gem Catcher</h2>
-        <p>The Triangle shape is key. As you pour your gems or glitter onto your nails, place the Gem Catcher underneath to catch any that falls. Use the triangle corner to easily pour back into your jar.</p>
-        <p>It also doubles as a hard surface to pick up your gems and then easy using corners to pour back in.</p>
+      writeupMarkdown: |
+        **Suzie's Gem Catcher Dish**
+
+        The triangle shape of this gem dish is key! This allows you to easily pour your glitter or gems back into their jars by using one of the three corners.
+
+        Use this dish to collect any nail art that may fall during application, and then effortlessly pour back in to save your nail art and eliminate waste.
     silvery-gems:
       title: "Silvery Assorted Gems"
       product:
