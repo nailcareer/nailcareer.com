@@ -410,12 +410,14 @@ acrylic:
         aspectRatio: 1x1
         images:
         - products/prep-and-bond/prepbond-1.jpg
-      writeup: |
-        <h2>Prepare to prevent lift!</h2>
-        <p>To be applied before acrylic application.</p>
-        <p>Oils in the nail plate must be eliminated Before application. <em>Let’s Dehydrate</em> will remove oils and cleanse your nail. It helps removes oils and extra moisture to prevent lifting. This is an important step to a no-lift nail.</p>
-        <p><em>Let’s Bond</em> acts as an adhesive between your natural nail and the acrylic product you’re going to apply. This product should be applied after <em>Let’s Dehydrate</em>. After you have correctly prepared the nail and removed the dust, gently apply <em>Let’s Bond</em> to the exposed natural nail being careful not to over saturate the natural nail plate. Try not to forget to apply your <em>Let’s Bond</em>, otherwise lifting may occur.</p>
-        <p>How to use them together: After you removed cuticle and filed to prepare for application, apply <em>Let’s Dehydrate</em> over entire nail, and always before <em>Let’s Bond</em>.</p>
+      writeupMarkdown: |
+        ***Prepare to prevent lift!***
+
+        To be applied before acrylic application.
+
+        Oils in the nail plate must be eliminated prior to application. Let’s Dehydrate will remove oils and cleanse the nail. It helps remove oils and extra moisture which prevents lifting. This is an important step to a no-lift nail.
+
+        Let’s Bond acts as an adhesive between your natural nail and the acrylic product you’re going to apply. This product should be applied after Let’s Dehydrate. After you have correctly prepared the nail and removed the dust, gently apply Let’s Bond to the exposed natural nail being careful not to over saturate the natural nail plate. Try not to forget to apply your Let’s Bond, otherwise lifting may occur.
     joyamia-fast-acrylic:
       special-partnership:
         note: "Special Partnership"
