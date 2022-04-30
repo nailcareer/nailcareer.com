@@ -1674,15 +1674,14 @@ polish:
         aspectRatio: 3x2
         images:
         - products/polish/reflection/polish-reflection-collection-01.jpg
-      writeup: |
-        <p><em>(This collection includes all Reflection Collection polishes #1 through #12)</em></p>
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *(This collection includes all Reflection Collection polishes #1 through #12)*
+
+        Twelve polish colours by KCE specially selected by Suzie. Each of these polish colours are shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply these polishes onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** These polishes are highly pigmented, so they may stain, which is a good reason to apply onto top coat.
     polish/reflection/1:
       title: "Reflection Collection #1 Suzie's Shade"
       product:
@@ -1692,15 +1691,14 @@ polish:
         aspectRatio: 1x1
         images:
         - products/polish/reflection/polish-01.jpg
-      writeup: |
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>Be sure to browse the <a href="/store/#polish">all the unique colors</a> on the store page.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
     polish/reflection/2:
       title: "Reflection Collection #2 Cameraman Blue"
       product:
@@ -1710,15 +1708,14 @@ polish:
         aspectRatio: 1x1
         images:
         - products/polish/reflection/polish-02.jpg
-      writeup: |
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>Be sure to browse the <a href="/store/#polish">all the unique colors</a> on the store page.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
     polish/reflection/3:
       title: "Reflection Collection #3 Silver Screen"
       product:
@@ -1728,15 +1725,14 @@ polish:
         aspectRatio: 1x1
         images:
         - products/polish/reflection/polish-03.jpg
-      writeup: |
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>Be sure to browse the <a href="/store/#polish">all the unique colors</a> on the store page.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
     polish/reflection/4:
       title: "Reflection Collection #4 Gold Kisses"
       product:
@@ -1746,15 +1742,14 @@ polish:
         aspectRatio: 1x1
         images:
         - products/polish/reflection/polish-04.jpg
-      writeup: |
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>Be sure to browse the <a href="/store/#polish">all the unique colors</a> on the store page.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
     polish/reflection/5:
       title: "Reflection Collection #5 Gold on my Tea Cup"
       product:
@@ -1764,15 +1759,14 @@ polish:
         aspectRatio: 1x1
         images:
         - products/polish/reflection/polish-05.jpg
-      writeup: |
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>Be sure to browse the <a href="/store/#polish">all the unique colors</a> on the store page.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
     polish/reflection/6:
       title: "Reflection Collection #6 Bumblebee Bum"
       product:
@@ -1782,15 +1776,14 @@ polish:
         aspectRatio: 1x1
         images:
         - products/polish/reflection/polish-06.jpg
-      writeup: |
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>Be sure to browse the <a href="/store/#polish">all the unique colors</a> on the store page.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
     polish/reflection/7:
       title: "Reflection Collection #7 Boujee Blush"
       product:
@@ -1800,15 +1793,14 @@ polish:
         aspectRatio: 1x1
         images:
         - products/polish/reflection/polish-07.jpg
-      writeup: |
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>Be sure to browse the <a href="/store/#polish">all the unique colors</a> on the store page.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
     polish/reflection/8:
       title: "Reflection Collection #8 Trying to be Subtle"
       product:
@@ -1818,15 +1810,14 @@ polish:
         aspectRatio: 1x1
         images:
         - products/polish/reflection/polish-08.jpg
-      writeup: |
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>Be sure to browse the <a href="/store/#polish">all the unique colors</a> on the store page.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
     polish/reflection/9:
       title: "Reflection Collection #9 In Your Face Fuchsia"
       product:
@@ -1836,15 +1827,14 @@ polish:
         aspectRatio: 1x1
         images:
         - products/polish/reflection/polish-09.jpg
-      writeup: |
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>Be sure to browse the <a href="/store/#polish">all the unique colors</a> on the store page.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
     polish/reflection/10:
       title: "Reflection Collection #10 Grant's Pants"
       product:
@@ -1854,15 +1844,14 @@ polish:
         aspectRatio: 1x1
         images:
         - products/polish/reflection/polish-10.jpg
-      writeup: |
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>Be sure to browse the <a href="/store/#polish">all the unique colors</a> on the store page.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
     polish/reflection/11:
       title: "Reflection Collection #11 Fairy Fire Red"
       product:
@@ -1872,15 +1861,14 @@ polish:
         aspectRatio: 1x1
         images:
         - products/polish/reflection/polish-11.jpg
-      writeup: |
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>Be sure to browse the <a href="/store/#polish">all the unique colors</a> on the store page.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
     polish/reflection/12:
       title: "Reflection Collection #12 Goth's Secret"
       product:
@@ -1890,15 +1878,14 @@ polish:
         aspectRatio: 1x1
         images:
         - products/polish/reflection/polish-12.jpg
-      writeup: |
-        <h3>Introducing Suzie's "Reflection Collection" nail polishes</h3>
-        <ul>
-          <li>Suzie selected twelve shiny colours by KCE just for you.</li>
-          <li>Be sure to browse the <a href="/store/#polish">all the unique colors</a> on the store page.</li>
-          <li>For maximum shine, Suzie recommends applying these polishes onto a layer of Top Coat (either gel top coat or polish top coat)</li>
-          <li>Note these colours are high-pigment, and may stain! This is another reason Suzie recommends applying these polishes onto a top coat.</li>
-          <li>These polishes dry very fast.</li>
-        </ul>
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
 
 _uncategorized:
   products:
