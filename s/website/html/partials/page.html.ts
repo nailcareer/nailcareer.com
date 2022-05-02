@@ -71,7 +71,7 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 						<div slot=before-checkout>
 							<p class=note>Prices on final checkout page are shown in US Dollars.</p>
 							<p class=note>Shipping is currently only available within North America.</p>
-							<p class=terms><strong>Terms:</strong> Nail products must not be used on humans, except by a licensed aesthetician.</p>
+							<p class=terms><strong>Terms:</strong> Professional use only.</p>
 						</div>
 					</shopper-cart>
 				</xio-menu-item>
