@@ -445,6 +445,22 @@ acrylic:
 brushes:
   label: "Brushes"
   products:
+    gold-press-brush:
+      title: "Gold Press Brush"
+      product:
+        shopify: 7036859777060
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/gold-press-brush/gold-press-brush-01.jpg
+      writeupMarkdown: |
+        Gold press brush is made of soft bristles condensed and tightly pressed together, allowing a smooth even surface to massage evenly across the surface of your nail.
+
+        **How to use:**
+
+        Gently massage gold press brush on nail with even gentle pressure to shine 24 k gold.
     gel-brush:
       title: "Gel Brush"
       product:
@@ -1262,6 +1278,34 @@ manicure:
 nail-art:
   label: "Nail Art"
   products:
+    real-24-karat-gold:
+      title: "Real 24 Karat Gold Sheets"
+      product:
+        shopify: 7036871278628
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/real-24-karat-gold/gold-03.jpg
+        - products/real-24-karat-gold/gold-01.jpg
+        - products/real-24-karat-gold/gold-02.jpg
+      writeupMarkdown: |
+        2 sheets of gold, each 3.25" by 3.25" inches.
+
+        Yes, it’s really 24 K REAL Gold.
+
+        You can apply it in tiny sections, or cover the entire nail. Looks beautiful to accent any design. Add a little 24 K, and take your design from *"nice"* to *"stunning"!*
+
+        **HOW TO USE:**
+
+        - ⚠️ Use clean tweezers (don't touch with fingers!)
+        - ⚠️ The gold sheets are very lightweight and delicate — be careful not to fold or crumple them.
+        - Using tweezers place gold on nail.
+        - Move very slowly when working with this gold.
+        - Trim off access with cuticle stick or tweezers.
+        - (Optional) Using [Gold Press Brush](/store/products/gold-press-brush), press gently and massage gold to a shine.
+        - Once you have achieved the look you want, set your design with ['Reveal' Top Coat](/store/products/reveal-top-coat)
     dried-flowers:
       title: "Dried Flower Collection"
       product:
