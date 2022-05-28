@@ -233,6 +233,7 @@
 .productgrid > [data-notice]::before,
 .productgrid > [sale]::before,
 .productgrid > [out-of-stock]::before {
+	z-index: 1;
 	position: absolute;
 	top: -0.8em;
 	right: -0.8em;
