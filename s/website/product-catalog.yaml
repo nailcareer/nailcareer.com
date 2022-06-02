@@ -1273,6 +1273,24 @@ manicure:
 nail-art:
   label: "Nail Art"
   products:
+    disco-squares:
+      title: "Disco Ball Squares"
+      product:
+        shopify: 7048095858724
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 3x2
+        images:
+        - products/disco-squares/disco-01.jpg
+        - products/disco-squares/disco-02.jpg
+        - products/disco-squares/disco-03.jpg
+        - products/disco-squares/disco-04.jpg
+      writeupMarkdown: |
+        Small Silver Squares that a super reflective. When you move them you can see the multicolours.
+
+        How to Use:
+        - Can be used with Gel, Acrylic, Tips, can even be adhered with top coats.
     real-24-karat-gold:
       title: "Real 24 Karat Gold Sheets"
       product:
