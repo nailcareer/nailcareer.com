@@ -704,7 +704,6 @@ files-and-forms:
       product:
         shopify: 6748213674020
         restockingSoon: true
-        notice: NORTH AMERICA ONLY
       carousel:
         aspectRatio: 3x2
         images:
@@ -714,7 +713,6 @@ files-and-forms:
         - products/ezfile/ezfile-04.jpg
         - products/ezfile/ezfile-05.jpg
       writeup: |
-        <div class="productnotice">ℹ️ Shipping for this product is restricted to North America (because lithium is restricted)</div>
         <h2>Powerful, yet gentle.</h2>
         <p>This e-file’s range allows low speeds for natural nails, and reaches strong speeds for removing/sculpting gel polish, gel tips, hybrid, hard gel, dip powder, and strong acrylic.</p>
         <p>Lightweight and portable- you can take this e-file anywhere to file nails quickly. Whether you're at a fashion show, at the nail table, or just want to be comfy on your couch!</p>
