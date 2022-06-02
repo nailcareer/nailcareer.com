@@ -1026,6 +1026,41 @@ gel:
 gel-tips:
   label: "Gel Tips"
   products:
+    quick-tips/coffin-long:
+      title: "Suzie’s Quick Tips - Coffin Long"
+      product:
+        shopify: 7047960330276
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 3x2
+        images:
+        - products/quick-tips/quick-tips-coffin-long.jpg
+      writeupMarkdown: |
+        Clear Full Coverage Gelly Tips - Soak Off!
+
+        No Sculpting, No Shaping, No Lamp.
+
+        These are a game changer! Just add a little bead of Acrylic and BOOM — you have a nail!
+        - Shape: Coffin
+        - Length: Long
+    quick-tips/coffin-medium:
+      title: "Suzie’s Quick Tips - Coffin Medium"
+      product:
+        shopify: 6725898567716
+        restockingSoon: true
+      carousel:
+        aspectRatio: 3x2
+        images:
+        - products/quick-tips/quick-tips-coffin-medium.jpg
+      writeupMarkdown: |
+        Clear Full Coverage Gelly Tips - Soak Off! 
+
+        No Sculpting, No Shaping, No Lamp.
+
+        These are a game changer! Just add a little bead of Acrylic and BOOM — you have a nail!
+        - Shape: Coffin
+        - Length: Medium
     quick-tips/square-medium:
       title: "Suzie’s Quick Tips - Square Medium"
       product:
@@ -1059,23 +1094,6 @@ gel-tips:
 
         These are a game changer! Just add a little bead of Acrylic and BOOM — you have a nail!
         - Shape: Almond
-        - Length: Medium
-    quick-tips/coffin-medium:
-      title: "Suzie’s Quick Tips - Coffin Medium"
-      product:
-        shopify: 6725898567716
-        restockingSoon: true
-      carousel:
-        aspectRatio: 3x2
-        images:
-        - products/quick-tips/quick-tips-coffin-medium.jpg
-      writeupMarkdown: |
-        Clear Full Coverage Gelly Tips - Soak Off! 
-
-        No Sculpting, No Shaping, No Lamp.
-
-        These are a game changer! Just add a little bead of Acrylic and BOOM — you have a nail!
-        - Shape: Coffin
         - Length: Medium
     quick-tips/stiletto-long:
       title: "Suzie’s Quick Tips - Stiletto Long"
