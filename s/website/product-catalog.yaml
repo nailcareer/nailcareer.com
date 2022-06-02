@@ -114,6 +114,36 @@ accessories:
 acrylic:
   label: "Acrylic"
   products:
+    acrylic-powder-refill-clean-acrylic:
+      title: "Clean Acrylic Monomer - Powder 2oz Refill Pouch"
+      product:
+        shopify: 7048102772772
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/acrylic-refill-pouches/clear-acrylic.jpg
+      writeupMarkdown: |
+        Create Acrylic Nails much easier with Clean Monomer. Once you create the right bead consistency it almost sculpts itself. I wish I had this product when I first started my career. This advantage will take months to years off your learning curve.
+
+        Suzies Clean Acrylic is virtually odourless. Work with Clean Acrylic in your home and your family won’t even know.
+        Use three times less than traditional monomers. Excellent self levelling properties. Makes creating nails way easier.
+
+        How to use:
+        - This product is an excellent way to begin creating acrylic nails.
+    acrylic-powder-refill-fast-set:
+      title: "Fast Set Monomer - Acrylic Powder 2oz Refill Pouch"
+      product:
+        shopify: 7048107786276
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/acrylic-refill-pouches/fast-set.jpg
+      writeupMarkdown: |
+        High quality monomer. UV stabilizers. Blends beautifully with Suzies Acrylic Powder‘s. Easy work ability and self levelling properties.
     acrylic-powder-refill-foundation-pink:
       title: "Foundation Pink - Acrylic Powder 2oz Refill Pouch"
       product:
