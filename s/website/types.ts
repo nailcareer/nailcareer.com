@@ -23,6 +23,7 @@ export interface Uncategorized {
 
 export interface Product {
 	title: string
+	redirects?: string[]
 	product: {
 		shopify?: string
 		shopifyUid?: string

@@ -42,17 +42,36 @@ export async function buildProductPages({mode, catalog}: NceWebsiteInputs) {
 				removeScriptTypeAttributes: true,
 				removeStyleLinkTypeAttributes: true,
 			})
-			return {name: pageName, html: htmlMini}
+			return {
+				name: pageName,
+				html: htmlMini,
+				redirects: product.redirects ?? [],
+			}
 		})
 	)
 
-	await Promise.all(pages.map(async page => {
-		const pageName = page.name.endsWith("/")
-			? page.name + "index"
-			: page.name
+	async function writePage(pageName: string, text: string) {
+		pageName = pageName.endsWith("/")
+			? pageName + "index"
+			: pageName
 		const path = `x/store/products/${pageName}.html`
 		await mkdir(dirname(path), {recursive: true})
-		await write(path, page.html)
-		console.log("write product", path)
+		await write(path, text)
+		return path
+	}
+
+	await Promise.all(pages.map(async page => {
+
+		const pagePath = await writePage(page.name, page.html)
+		console.log("write page", pagePath)
+
+		for (const redirect of page.redirects) {
+			const destinationUrl = `/store/products/${page.name}`
+			const redirectPath = await writePage(
+				redirect,
+				`<meta http-equiv="refresh" content="0;URL='${destinationUrl}'" />`
+			)
+			console.log("write redirect", redirectPath)
+		}
 	}))
 }
