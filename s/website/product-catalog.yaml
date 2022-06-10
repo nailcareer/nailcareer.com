@@ -232,10 +232,10 @@ acrylic:
         shopify: 6748201943076
         restockingSoon: true
       carousel:
-        aspectRatio: 1x1
+        aspectRatio: 2x3
         images:
-        - products/mini-acrylic/mini-acrylic-01.jpg
-        - products/mini-acrylic/mini-acrylic-02.jpg
+        - products/mini-acrylic/mini-acrylic-05.jpg
+        - products/acrylic-refill-pouches/clean-acrylic.jpg
         - products/mini-acrylic/mini-acrylic-03.jpg
         - products/mini-acrylic/mini-acrylic-04.jpg
       writeupMarkdown: |
