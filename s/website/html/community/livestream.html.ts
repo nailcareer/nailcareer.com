@@ -38,7 +38,7 @@ mainHtml: html`
 					<div class="help-stream">
 						<h3>Welcome to Suzie's Livestream</h3>
 						<p>Stay tuned for scheduling information.</p>
-						<p>If you are having troubles getting the livestream working, please email <nce-email user="chase" domain="nailcareer.com"></nce-email>
+						<p>If you are having troubles getting the livestream working, please email <nce-email user="hello" domain="nailcareer.com"></nce-email>
 						</p>
 					</div>
 					<div class="help-chat">

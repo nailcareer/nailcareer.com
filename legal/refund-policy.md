@@ -39,7 +39,7 @@ If you are approved, then your refund will be processed, and a credit will autom
 If you haven’t received a refund yet, first check your bank account again. 
 Then contact your credit card company, it may take some time before your refund is officially posted. 
 Next contact your bank. There is often some processing time before a refund is posted. 
-If you’ve done all of this and you still have not received your refund yet, please contact us at angie@nailcareer.com
+If you’ve done all of this and you still have not received your refund yet, please contact us at hello@nailcareer.com
 
 ### Sale items (if applicable)
 
@@ -47,7 +47,7 @@ Only regular priced items may be refunded, unfortunately sale items cannot be re
 
 ### Exchanges (if applicable)
 
-We only replace items if they are defective or damaged. If you need to exchange it for the same item, send us an email at angie@nailcareer.com and send your item to: `4050 Altamont Ave. Victoria, BC, V8Z 5H2`
+We only replace items if they are defective or damaged. If you need to exchange it for the same item, send us an email at hello@nailcareer.com and send your item to: `4050 Altamont Ave. Victoria, BC, V8Z 5H2`
 
 ### Gifts
 
