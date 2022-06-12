@@ -1,7 +1,7 @@
 {
 	"private": true,
 	"name": "nailcareer.com",
-	"version": "0.2.88",
+	"version": "0.2.89",
 	"description": "nailcareer website",
 	"license": "UNLICENSED",
 	"type": "module",
