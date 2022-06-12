@@ -63,7 +63,7 @@
 		"shopper": "^0.2.2",
 		"sorry-not-sorry": "0.0.3",
 		"whatwg-fetch": "^3.6.2",
-		"xiome": "^0.0.30"
+		"xiome": "^0.0.32"
 	},
 	"author": "Chase Moskal <chasemoskal@gmail.com>"
 }
