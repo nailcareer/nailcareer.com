@@ -1223,6 +1223,7 @@ manicure:
         <p>Apply twice a week, to leave your skin feeling soft and revitalized.</p>
         <p>Use before <a href="./lets-get-hydrated">"Let's Get Hydrated"</a> for best results.</p>
     lets-get-hydrated:
+      hideFromIndex: true
       title: "Suzie’s \"Let's Get Hydrated\""
       product:
         shopify: https://nail-career-education.myshopify.com/admin/products/6696154431524
@@ -1236,6 +1237,7 @@ manicure:
         <p>A rich cream made with Shea Butter. Very little goes a long way.</p>
         <p>Massage onto hands, feet, arms and legs as needed.</p>
     peppermint-squeeze:
+      hideFromIndex: true
       title: "Suzie’s Peppermint Squeeze"
       product:
         shopify: https://nail-career-education.myshopify.com/admin/products/6696155938852
@@ -1275,6 +1277,7 @@ manicure:
       writeupMarkdown: |
         Use this soft, absorbent, microfibre towel to rest and dry hands during your nail services.
     manicure-kit:
+      hideFromIndex: true
       title: "Suzie’s Manicure Kit"
       product:
         shopifyUid: Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTQ0MDE5OTI3NDA=
@@ -1599,6 +1602,7 @@ nail-art:
         <p>Suzie used this product in her video: <em>"Mrs. Clause Builds Icicles"</em>:</p>
         <div class="youtube-embed"><iframe src="https://www.youtube.com/embed/_D7uDG1TO18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
     3d-diamond-shapes/all-six-colors:
+      hideFromIndex: true
       title: "All Six Colors - 3D Diamond Shapes"
       product:
         shopify: 6859170218020
@@ -1646,6 +1650,7 @@ nail-art:
 
         **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
     3d-diamond-shapes/blue-ice:
+      hideFromIndex: true
       title: "Blue Ice - 3D Diamond Shapes"
       product:
         shopify: 6855999914020

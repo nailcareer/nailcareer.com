@@ -22,6 +22,7 @@ export interface Uncategorized {
 }
 
 export interface Product {
+	hideFromIndex?: boolean
 	title: string
 	redirects?: string[]
 	product: {

@@ -58,6 +58,7 @@ function renderCategory(name: string, category: ProductCategory) {
 function renderProduct(
 		name: string,
 		{
+			hideFromIndex,
 			product: {
 				shopify,
 				shopifyUid,
@@ -67,7 +68,7 @@ function renderProduct(
 			},
 		}: Product,
 	) {
-	return html`
+	return hideFromIndex ? "" : html`
 		<shopper-product
 			show-image
 			image-size="260"
