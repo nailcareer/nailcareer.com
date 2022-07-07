@@ -594,6 +594,45 @@ brushes:
 files-and-forms:
   label: "Files & Forms"
   products:
+    sanding-bands/coarse:
+      title: "Coarse Sanding Bands"
+      product:
+        shopify: 7079296794660
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/sanding-bands/sanding-bands-01.jpg
+      writeupMarkdown: |
+        **Coarse #80 Grit** for sculpting Acrylic, Gel and Hybrid Gel. All contained in this adorable glass jar, perfect for refills. Approx 45 sanding bands in a 2oz jar.
+
+        ⚠️ Coarse sanding bands are NOT recommended for direct use on natural nails!
+
+        **How to use:**
+        - Place onto Mandrel.
+        - Recommend one per client for best sanitation practices.
+        - Excellent for removing or shaping products.
+    sanding-bands/fine:
+      title: "Fine Sanding Bands"
+      product:
+        shopify: 7079301480484
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/sanding-bands/sanding-bands-02.jpg
+      writeupMarkdown: |
+        **Fine #180 Grit**
+
+        Recommended for natural nail prep.
+        One per client recommended for good sanitation practices. Approx 45 per 2oz jar.
+        In a adorable reusable glass jar with cork lid.
+
+        **How to use:**
+        - Slide onto a mandrel.
+        - On a low speed on your Efile, this sanding bands is excellent for preping natural nail and also removing the cuticle that adheres to natural nail.
     gold-trimmer-bit:
       title: "Gold Trimmer Bit"
       product:
@@ -1324,6 +1363,24 @@ manicure:
 nail-art:
   label: "Nail Art"
   products:
+    big-scoop-lil-scoop:
+      title: "Big Scoop Lil Scoop"
+      product:
+        shopify: 7079277363236
+        restocking: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/big-scoop-lil-scoop/big-scoop-lil-scoop-01.jpg
+        - products/big-scoop-lil-scoop/big-scoop-lil-scoop-02.jpg
+        - products/big-scoop-lil-scoop/big-scoop-lil-scoop-03.jpg
+      writeupMarkdown: |
+        Made from Stainless Steel with Rainbow Finish. Large scoop on one end, Little scoop on the other end.
+
+        ***How to Use***
+        - Large scoop one one end for dip, or creating custom colours, for adding glitters etc. Great to use large end for blending powders, Glitters together. Also great for pushing back cuticles.
+        - Lil scoop when you just want to blend a pinch of pigment. Also great for puncturing gel foil sealers.
     mica/six-pack:
       title: "Mica Six Pack"
       product:
@@ -1333,9 +1390,9 @@ nail-art:
       carousel:
         aspectRatio: 1x1
         images:
+        - products/mica/mica-nails-03.jpg
         - products/mica/mica-nails-06.jpg
         - products/mica/mica-nails-02.jpg
-        - products/mica/mica-nails-03.jpg
         - products/mica/mica-nails-04.jpg
         - products/mica/mica-02.jpg
         - products/mica/mica-03.jpg
