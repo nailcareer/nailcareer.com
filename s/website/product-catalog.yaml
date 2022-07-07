@@ -91,26 +91,26 @@ accessories:
         - products/nail-bar/nail-bar-01.jpg
       writeup: |
         <p>Display your nail art on this adorable nail tip bar. Very handy to show your work for glamour shots. Includes five golden posts and a pack of assorted tips.</p>
-    apron:
-      title: "Suzie’s Apron"
-      product:
-        shopifyUid: Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE1MDI3MDAyMDgxNjQ=
-        restockingSoon: false
-      carousel:
-        images:
-        - products/apron/nce-apron-03.jpg
-        - products/apron/nce-apron-02.jpg
-      writeupMarkdown: |
-        *“Nuke it with Suzie!”*
+    # apron:
+    #   title: "Suzie’s Apron"
+    #   product:
+    #     shopifyUid: Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE1MDI3MDAyMDgxNjQ=
+    #     restockingSoon: false
+    #   carousel:
+    #     images:
+    #     - products/apron/nce-apron-03.jpg
+    #     - products/apron/nce-apron-02.jpg
+    #   writeupMarkdown: |
+    #     *“Nuke it with Suzie!”*
 
-        Designed by Suzie, this apron will protect your clothing from spills, splatters and dust. It will also keep anything you need handy in its generously sized front pocket— your phone, files, whatever!
+    #     Designed by Suzie, this apron will protect your clothing from spills, splatters and dust. It will also keep anything you need handy in its generously sized front pocket— your phone, files, whatever!
 
-        Each order comes with two aprons
+    #     Each order comes with two aprons
 
-        - Crisp eggshell-white waffle cotton hides nail dust
-        - Piped lining for a finished look
-        - Front pocket for easy tool/accessory access
-        - Goes with anything you wear!
+    #     - Crisp eggshell-white waffle cotton hides nail dust
+    #     - Piped lining for a finished look
+    #     - Front pocket for easy tool/accessory access
+    #     - Goes with anything you wear!
 acrylic:
   label: "Acrylic"
   products:
