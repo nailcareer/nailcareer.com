@@ -1324,12 +1324,149 @@ manicure:
 nail-art:
   label: "Nail Art"
   products:
+    mica/six-pack:
+      title: "Mica Six Pack"
+      product:
+        shopify: 7079253147684
+        restocking: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/mica/mica-nails-06.jpg
+        - products/mica/mica-nails-02.jpg
+        - products/mica/mica-nails-03.jpg
+        - products/mica/mica-nails-04.jpg
+        - products/mica/mica-02.jpg
+        - products/mica/mica-03.jpg
+        - products/mica/mica-04.jpg
+        - products/mica/mica-05.jpg
+        - products/mica/mica-06.jpg
+        - products/mica/mica-07.jpg
+        - products/mica/mica-nails-01.jpg
+      writeupMarkdown: |
+        Collection of all six mica powders: Purple, Pink, Green, Blue, White, and Gold.
+
+        Fine Mica Powder. Very strong colour pigments with a shimmer to reflect light.
+
+        ***How to use:***
+        - Just add pinch, mix or blend into your favourite medium.
+        - Add a tiny amount to your monomer, acrylic powders, hard gel or hybrid gels.
+        - Blend two shades together to create a new shade. The more you add you may have to extend your curing times.
+    mica/purple:
+      title: "Purple Mica Mixer"
+      product:
+        shopify: 7079197245476
+        restocking: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/mica/mica-06.jpg
+        - products/mica/mica-01.jpg
+      writeupMarkdown: |
+        Fine Mica Powder. Very strong colour pigments with a shimmer to reflect light.
+
+        ***How to use:***
+        - Just add pinch, mix or blend into your favourite medium.
+        - Add a tiny amount to your monomer, acrylic powders, hard gel or hybrid gels.
+        - Blend two shades together to create a new shade. The more you add you may have to extend your curing times.
+    mica/pink:
+      title: "Pink Mica Mixer"
+      product:
+        shopify: 7079218675748
+        restocking: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/mica/mica-04.jpg
+        - products/mica/mica-01.jpg
+      writeupMarkdown: |
+        Fine Mica Powder. Very strong colour pigments with a shimmer to reflect light.
+
+        ***How to use:***
+        - Just add pinch, mix or blend into your favourite medium.
+        - Add a tiny amount to your monomer, acrylic powders, hard gel or hybrid gels.
+        - Blend two shades together to create a new shade. The more you add you may have to extend your curing times.
+    mica/green:
+      title: "Green Mica Mixer"
+      product:
+        shopify: 7079228375076
+        restocking: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/mica/mica-05.jpg
+        - products/mica/mica-01.jpg
+      writeupMarkdown: |
+        Fine Mica Powder. Very strong colour pigments with a shimmer to reflect light.
+
+        ***How to use:***
+        - Just add pinch, mix or blend into your favourite medium.
+        - Add a tiny amount to your monomer, acrylic powders, hard gel or hybrid gels.
+        - Blend two shades together to create a new shade. The more you add you may have to extend your curing times.
+    mica/blue:
+      title: "Blue Mica Mixer"
+      product:
+        shopify: 7079230636068
+        restocking: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/mica/mica-07.jpg
+        - products/mica/mica-01.jpg
+      writeupMarkdown: |
+        Fine Mica Powder. Very strong colour pigments with a shimmer to reflect light.
+
+        ***How to use:***
+        - Just add pinch, mix or blend into your favourite medium.
+        - Add a tiny amount to your monomer, acrylic powders, hard gel or hybrid gels.
+        - Blend two shades together to create a new shade. The more you add you may have to extend your curing times.
+    mica/white:
+      title: "White Mica Mixer"
+      product:
+        shopify: 7079238762532
+        restocking: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/mica/mica-02.jpg
+        - products/mica/mica-01.jpg
+      writeupMarkdown: |
+        Fine Mica Powder. Very strong colour pigments with a shimmer to reflect light.
+
+        ***How to use:***
+        - Just add pinch, mix or blend into your favourite medium.
+        - Add a tiny amount to your monomer, acrylic powders, hard gel or hybrid gels.
+        - Blend two shades together to create a new shade. The more you add you may have to extend your curing times.
+    mica/gold:
+      title: "Gold Mica Mixer"
+      product:
+        shopify: 7079240564772
+        restocking: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/mica/mica-03.jpg
+        - products/mica/mica-01.jpg
+      writeupMarkdown: |
+        Fine Mica Powder. Very strong colour pigments with a shimmer to reflect light.
+
+        ***How to use:***
+        - Just add pinch, mix or blend into your favourite medium.
+        - Add a tiny amount to your monomer, acrylic powders, hard gel or hybrid gels.
+        - Blend two shades together to create a new shade. The more you add you may have to extend your curing times.
     disco-squares:
       title: "Disco Ball Squares"
       product:
         shopify: 7048095858724
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 3x2
         images:
@@ -1347,7 +1484,7 @@ nail-art:
       product:
         shopify: 7036871278628
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1375,7 +1512,7 @@ nail-art:
       product:
         shopify: 6990867595300
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1399,7 +1536,7 @@ nail-art:
       product:
         shopify: 6990874902564
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
