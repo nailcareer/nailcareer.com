@@ -472,12 +472,49 @@ acrylic:
 brushes:
   label: "Brushes"
   products:
+    hybrid-gel-brush:
+      title: "Hybrid Gel Brush"
+      product:
+        shopify: 7087645458468
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/hybrid-gel-brush/hybrid-gel-01.jpg
+        - products/hybrid-gel-brush/hybrid-gel-02.jpg
+        - products/hybrid-gel-brush/hybrid-gel-03.jpg
+      writeupMarkdown: |
+        This Dual ended tool has a spatula on one end. The other end is brush with synthetic bristles, perfectly shaped for sculpting Hybrid Gel.
+
+        **How to Use:**
+        - The Spatula is Perfect for scooping out the exact amount of product you want. Also excellent for mixing colours in to product. Example mixing your Mica Mixers into your Hybrid Gel or Hard Gel or Gel Top Coats. Cleans up easy with a wipe of 70% alcohol
+        - The Brush is designed for strength when pressing and shaping hybrid gel (Polygel), but gentle enough to soften your product gently around cuticles. These synthetic hairs clean up easy in 70% alcohol. *Do not use acetone to clean this brush.*
+    white-rose-gold-acrylic-brush:
+      title: "White & Rose Gold Acrylic Brush"
+      product:
+        shopify: 7087643951140
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/white-rose-acrylic-brush/white-rose-acrylic-brush-02.jpg
+        - products/white-rose-acrylic-brush/white-rose-acrylic-brush-01.jpg
+      writeupMarkdown: |
+        This 100% Kolinsky acrylic brush is the most important tool in the professional nail technician's collection. Take care of this brush, and it will take care of you.
+
+        This brush holds the perfect amount of liquid, and maintains its shape while sculpting and building. It comes to a fine point for those crispy French edges when you need it.
+
+        **How to use:**
+        - When you first receive your new acrylic brush, you'll want to gently remove the packing powder that keeps its shape during shipping. Use the supplied black brush to gently brush toward the tip to get rid of this powder. Next soak your brush, without fraying or disturbing the hairs, into a dappen dish with monomer.
+        - If you get product stuck and dried in the brush, soak it in acetone for just a few minutes to release the product and clean it out, and then condition the brush in monomer. Make sure you gently roll in one direction on a paper towel to make a point and use the cap to keep the bristles soft.
     gold-press-brush:
       title: "Gold Press Brush"
       product:
         shopify: 7036859777060
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 2x3
         images:
@@ -493,7 +530,7 @@ brushes:
       product:
         shopify: 6996610940964
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
