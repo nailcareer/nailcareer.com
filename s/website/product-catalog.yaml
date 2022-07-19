@@ -631,6 +631,26 @@ brushes:
 files-and-forms:
   label: "Files & Forms"
   products:
+    sanding-bands/medium:
+      title: "Medium Sanding Bands"
+      product:
+        shopify: 7088021110820
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/sanding-bands/sanding-bands-medium-01.jpg
+      writeupMarkdown: |
+        **Medium #120 Grit**
+
+        Recommended for natural nail prep.
+        One per client recommended for good sanitation practices. Approx 45 per 2oz jar.
+        In a adorable reusable glass jar with cork lid.
+
+        **How to use:**
+        - Slide onto a mandrel.
+        - On a low speed on your Efile, this sanding bands is excellent for preping natural nail and also removing the cuticle that adheres to natural nail.
     sanding-bands/coarse:
       title: "Coarse Sanding Bands"
       product:
