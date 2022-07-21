@@ -41,7 +41,7 @@ accessories:
       product:
         shopify: 6990856716324
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -58,7 +58,7 @@ accessories:
       product:
         shopify: 6990882045988
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 2x3
         images:
@@ -153,7 +153,7 @@ acrylic:
       product:
         shopify: 7048120401956
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -171,7 +171,7 @@ acrylic:
       product:
         shopify: 7048102772772
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 2x3
         images:
@@ -191,7 +191,7 @@ acrylic:
       product:
         shopify: 7048107786276
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 2x3
         images:
@@ -1061,7 +1061,7 @@ gel:
       product:
         shopify: 6990850490404
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1229,7 +1229,7 @@ gel-tips:
       product:
         shopify: 7047960330276
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 3x2
         images:
