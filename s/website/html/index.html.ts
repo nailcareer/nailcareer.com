@@ -28,7 +28,7 @@ mainHtml: html`
 			</svg></div>
 		<div class="slate">
 			<h2><a target="_blank" href="https://www.youtube.com/channel/UCTldDNXS4GeChcmwm55mXYQ">YouTube Channel</a></h2>
-			<p>Suzie hosts the popular YouTube Channel <strong>Nail Career Education</strong>, which has more than 2 million subscribers!</p>
+			<p>Suzie hosts the popular YouTube Channel <strong>Nail Career Education</strong>, which has more than 2.5 million subscribers!</p>
 		</div>
 	</div>
 	<div class="gridbox-alpha questions">
@@ -63,7 +63,7 @@ mainHtml: html`
 </a>
 <div class="intro">
 	<h2>Nail Career Education is one of the top nail channels on YouTube.</h2>
-	<p><strong>Hosted by Suzie and entrusted by 2.4 million subscribers.</strong></p>
+	<p><strong>Hosted by Suzie and entrusted by 2.5 million subscribers.</strong></p>
 	<p>Beginning in 2015, Nail Career Education grew its following with Suzie teaching nail tips, one video tutorial at a time. Today, NCE is one of the top trusted nail care sources worldwide and has spawned its own product line.</p>
 	<p>From nail pros to hobbyists, formally educated to self taught: Nail lovers everywhere have found Suzie and her videos and have created the NCE Community.</p>
 </div>
