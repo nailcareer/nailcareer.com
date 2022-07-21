@@ -1,0 +1,2483 @@
+
+accessories:
+  label: "Accessories"
+  products:
+    practice-finger-kit:
+      title: "Practice Finger Kit"
+      product:
+        shopify: 7089665540132
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/practice-fingers/practice-fingers-01.jpg
+      writeupMarkdown: |
+        Three adjustable fingers, and a stand. They pivot and bend, simulating human fingers. Comes with 100 detachable and disposable nail tips.
+
+        **How to use:**
+        - Place one of the fingers on the stand.
+        - You can detach the reusable tips by snapping it right off of the simulated finger. Simply snap in a new tip.
+        - I highly recommend using these practice fingers before you get to work on any humans. Practice your skills and you’ll be much more confident when you’re working with actual fingers
+    lets-get-messy-tile:
+      title: "\"Let's Get Messy\" Tile"
+      product:
+        shopify: 7089664655396
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/lets-get-messy/lets-get-messy-01.jpg
+      writeupMarkdown: |
+        This tile surface is perfect for mixing and blending gels, soft gels, hybrid gels, or just using the solid surface to use your Jem Jab to collect gemstones. The smooth non-porous surface is so easy to wipe clean.
+
+        **How to use:**
+        - Place any type of product on the surface of your tile.
+        - Excellent for mixing and grabbing tiny things, like from your gemstones collection, because the surface makes it very easy to pick them up with a tool like the Jem Jab.
+        - Wipe with tissue soaked in acetone or alcohol will clean the surface beautifully.
+    glass-dispenser:
+      title: "Glass Dispenser"
+      product:
+        shopify: 6990856716324
+        restockingSoon: true
+        isNew: false
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/glass-dispenser/dispenser-01.jpg
+        - products/glass-dispenser/dispenser-02.jpg
+      writeupMarkdown: |
+        This glass push pump dispenser allows for alcohol or monomer to stay fresh and uncontaminated. The liquid dispenses into the top well with each push, making it easy to access. Soak cotton pads with alcohol to clean nails or dip your brush in the right amount of monomer to regulate your liquid to powder ratio.
+
+        *(Size 180 ml)*
+
+        ***Note:*** This mechanism is not designed or recommended for Acetone or nail polish remover. Do not leave Acrylic Monomer in Sunlight or UV rays; this can damage the monomer.
+    scissors:
+      title: "Scissors"
+      product:
+        shopify: 6990882045988
+        restockingSoon: true
+        isNew: false
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/scissors/scissors-01.jpg
+      writeup: |
+        <p>European Classic Design made of Stainless Steel Blades. Sharp points allows for trimming and cutting tiny things like <a href="/store/products/dried-flowers">Dried Flowers</a>, striping tape, decals etc.</p>
+    blue-cotton-napkins:
+      title: "Blue Cotton Napkins (Lint-Free)"
+      product:
+        shopify: 6965501755428
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/blue-cotton-napkins/blue-cotton-napkins.jpg
+      writeup: |
+        <p>NCE cotton napkins are strong and lint-free, so they don't have any unwanted fibers, making them great for working with Gel.</p>
+        <p><strong>How to use:</strong> Soak napkin in solution, and gently swipe over the nail.</p>
+        <p>Over 300 napkins per bag.</p>
+    jewel-dappen-dish:
+      title: "Suzie’s ‘Jewel of the Nail’ Dappen Dish"
+      product:
+        shopifyUid: Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1NzYzNTQ2ODkwNjA=
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/jewel-dappen-dish/dappen-dish-01.jpg
+        - products/jewel-dappen-dish/dappen-dish-04.jpg
+        - products/jewel-dappen-dish/dappen-dish-05.jpg
+        - products/jewel-dappen-dish/dappen-dish-03.jpg
+      writeup: |
+        <h3>Display this dazzling crystal sapphire coloured dappen dish on your nail table!</h3>
+        <p>This dappen dish is the perfect size to immerse and condition your brush. It has ample depth to tap against the sides and regulate your monomer intake.</p>
+        <p>Place the jewel onto the dish to protect your monomer from any contamination.</p>
+        <p>Use this striking accessory as a stunning backdrop for your nail photo ops! Also works perfectly as a jewelry dish or a safe place to keep small pieces like e-file bits and gems.</p>
+    pumpkin-nail-display:
+      title: "Suzie’s Pumpkin Nail Display"
+      product:
+        shopifyUid: Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTMxODIxNzExNzI=
+        restockingSoon: true
+      carousel:
+        images:
+        - products/pumpkin-nail-display/pumpkin-01.jpg
+      writeup: |
+        <p>Display your nail art on this whimsical display! Five golden tip posts are ready for your work. Includes a package of assorted tips.</p>
+    nail-bar-blue:
+      title: "Suzie’s Blue Nail Bar"
+      product:
+        shopifyUid: Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTMxODQ3MjcwNzY=
+        restockingSoon: true
+      carousel:
+        images:
+        - products/nail-bar/nail-bar-02.jpg
+      writeup: |
+        <p>Display your nail art on this adorable nail tip bar. Very handy to show your work for glamour shots. Includes five golden posts and a pack of assorted tips.</p>
+    nail-bar-pink:
+      title: "Suzie’s Pink Nail Bar"
+      product:
+        shopifyUid: Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTMxODUxMjAyOTI=
+        restockingSoon: true
+      carousel:
+        images:
+        - products/nail-bar/nail-bar-01.jpg
+      writeup: |
+        <p>Display your nail art on this adorable nail tip bar. Very handy to show your work for glamour shots. Includes five golden posts and a pack of assorted tips.</p>
+    # apron:
+    #   title: "Suzie’s Apron"
+    #   product:
+    #     shopifyUid: Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE1MDI3MDAyMDgxNjQ=
+    #     restockingSoon: false
+    #   carousel:
+    #     images:
+    #     - products/apron/nce-apron-03.jpg
+    #     - products/apron/nce-apron-02.jpg
+    #   writeupMarkdown: |
+    #     *“Nuke it with Suzie!”*
+
+    #     Designed by Suzie, this apron will protect your clothing from spills, splatters and dust. It will also keep anything you need handy in its generously sized front pocket— your phone, files, whatever!
+
+    #     Each order comes with two aprons
+
+    #     - Crisp eggshell-white waffle cotton hides nail dust
+    #     - Piped lining for a finished look
+    #     - Front pocket for easy tool/accessory access
+    #     - Goes with anything you wear!
+acrylic:
+  label: "Acrylic"
+  products:
+    acrylic-1oz/set-with-clear-cap-and-pink-tint:
+      title: "Clear Cap & Pink Tint 1oz Acrylic"
+      product:
+        shopify: 7048120401956
+        restockingSoon: true
+        isNew: false
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/acrylic-1oz/set-clear-cap-pink-tint-01.jpg
+      writeupMarkdown: |
+        **Clear Cap:** perfect for encasing all your inlays or fades. Clear Cap ads strength to your nail design.
+
+        **Pink Tint:** This delicate translucent pink is stunning on its own from cuticle to free edge. It also adds a slight pink hint of colour to your natural nail when creating French or Ombre nails.
+
+        Combine with Foundation Pink to create a custom colour for you and your clients. Create your own Custom "Suzie's Mix".
+    monomer/clean-acrylic-2oz-pouch:
+      title: "Clean Acrylic Monomer - 2oz Pouch"
+      redirects:
+      - acrylic-powder-refill-clean-acrylic
+      product:
+        shopify: 7048102772772
+        restockingSoon: true
+        isNew: false
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/acrylic-refill-pouches/clean-acrylic.jpg
+      writeupMarkdown: |
+        Create Acrylic Nails much easier with Clean Monomer. Once you create the right bead consistency it almost sculpts itself. I wish I had this product when I first started my career. This advantage will take months to years off your learning curve.
+
+        Suzies Clean Acrylic is virtually odourless. Work with Clean Acrylic in your home and your family won’t even know.
+        Use three times less than traditional monomers. Excellent self levelling properties. Makes creating nails way easier.
+
+        How to use:
+        - This product is an excellent way to begin creating acrylic nails.
+    monomer/fast-set-2oz-pouch:
+      title: "Fast Set Monomer - 2oz Pouch"
+      redirects:
+      - acrylic-powder-refill-fast-set
+      product:
+        shopify: 7048107786276
+        restockingSoon: true
+        isNew: false
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/acrylic-refill-pouches/fast-set.jpg
+      writeupMarkdown: |
+        High quality monomer. UV stabilizers. Blends beautifully with Suzies Acrylic Powder‘s. Easy work ability and self levelling properties.
+    acrylic-powder-refill-foundation-pink:
+      title: "Foundation Pink - Acrylic Powder 2oz Refill Pouch"
+      product:
+        shopify: 6971278393380
+        restockingSoon: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/acrylic-refill-pouches/foundation-pink.jpg
+      writeupMarkdown: |
+        Restock your Acrylic with this 2oz Refill Pouch! Simply open the top and pour into your favourite dish or jar. Pouches have resealable zips.
+
+        Suzie’s Acrylic Powder formulas are stunning, high quality and easy to work with.
+
+        This Foundation Pink Acrylic Powder is a must have! A natural pink that compliments all skin tones. And a full coverage ideal for extending the nail bed and concealing any imperfections of the nail.
+
+        *Pro Tip:* Mix with Pink Tint to create a custom blend for your clients.
+    acrylic-powder-refill-pink-tint:
+      title: "Pink Tint - Acrylic Powder 2oz Refill Pouch"
+      product:
+        shopify: 6971278458916
+        restockingSoon: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/acrylic-refill-pouches/pink-tint.jpg
+      writeupMarkdown: |
+        Restock your Acrylic with this 2oz Refill Pouch! Simply open the top and pour into your favourite dish or jar. Pouches have resealable zips.
+
+        Suzie’s Acrylic Powder formulas are stunning, high quality and easy to work with.
+
+        This Pink Tint Acrylic Powder is a delicate transparent pink. It has a gentle pink tint for that healthy looking glow on the nail plate.
+    acrylic-powder-refill-soft-white:
+      title: "Soft White - Acrylic Powder 2oz Refill Pouch"
+      product:
+        shopify: 6971279310884
+        restockingSoon: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/acrylic-refill-pouches/soft-white.jpg
+      writeupMarkdown: |
+        Restock your Acrylic with this 2oz Refill Pouch! Simply open the top and pour into your favourite dish or jar. Pouches have resealable zips.
+
+        Suzie’s Acrylic Powder formulas are stunning, high quality and easy to work with.
+
+        This Soft White Acrylic Powder is gentle and natural looking on the nail. Designed to blend with Suzie’s Pink Tint to create the perfect Ombre and French nails.
+    acrylic-powder-refill-clear-cap:
+      title: "Clear Cap - Acrylic Powder 2oz Refill Pouch"
+      product:
+        shopify: 6971280162852
+        restockingSoon: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/acrylic-refill-pouches/clear-cap.jpg
+      writeupMarkdown: |
+        Restock your Acrylic with this 2oz Refill Pouch! Simply open the top and pour into your favourite dish or jar. Pouches have resealable zips.
+
+        Suzie’s Acrylic Powder formulas are stunning, high quality and easy to work with. 
+
+        This Clear Cap Acrylic Powder is a staple in your powder collection. Creates a strong, protective layer to encapsulate and show off your design. Blend Clear Cap with other pigments to create unique colours. Excellent for showcasing glitters and inlays.
+    mini-acrylic:
+      title: "Suzie’s Mini Acrylic Kit"
+      product:
+        shopify: 6748201943076
+        restockingSoon: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/mini-acrylic/mini-acrylic-05.jpg
+        - products/acrylic-refill-pouches/clean-acrylic.jpg
+        - products/mini-acrylic/mini-acrylic-03.jpg
+        - products/mini-acrylic/mini-acrylic-04.jpg
+      writeupMarkdown: |
+        ***Suzie:*** *“I wish I had this product when I was learning acrylic!”*
+
+        This kit is the perfect size to try Suzie’s Odourless System.
+
+        It’s different than traditional monomers. It’s...
+        - Low odour
+        - Cures very slowly (so you have time to sculpt)
+        - Efficient product, you can use 3x less
+        - Foundation pink powder for a flawless finish
+        - Soft white for Ombre and French nails
+    acrylic-1oz/worlds-best-bo:
+      title: "Acrylic Powder 1oz: World's Best Bo..."
+      product:
+        shopify: https://nail-career-education.myshopify.com/admin/products/6944669892644
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/acrylic-1oz/worlds-best-bo/worlds-best-bo-01.jpg
+        - products/acrylic-1oz/worlds-best-bo/worlds-best-bo-02.jpg
+        - products/acrylic-1oz/worlds-best-bo/worlds-best-bo-04.jpg
+      writeup: |
+        <details class="memes">
+          <summary><em>Did you get the reference?</em> Click to reveal!</summary>
+          <img alt="" src="/assets/images-small/memes/worlds-best-boss.jpg">
+          <p>It's a quote from <em>The Office!</em> We love that show!</p>
+        </details>
+        <p>A soft coloured powder for a delicate design. The velvety texture blends perfectly with Suzie's Monomers. Comes in a reusable glass jar with a natural cork stopper.</p>
+        <p>You can use this acrylic powder on its own, or blend it with other acrylic colours to make your own custom colours. Blend with Suzie's soft white to create a marble — or blend the clear acrylic to make a transparent shade of each colour.</p>
+        <p>⚠️ Orders for this product are scheduled to start shipping in the first week of March.</p>
+        <ul>
+          <li>Store in a cool dark place</li>
+          <li>Keep away from children</li>
+          <li>Colours can look different on devices, so they may appear different in-person</li>
+        </ul>
+    acrylic-1oz/fold-in-the-che:
+      title: "Acrylic Powder 1oz: Fold in the Che..."
+      product:
+        shopify: https://nail-career-education.myshopify.com/admin/products/6944671072292
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/acrylic-1oz/fold-in-the-che/fold-in-the-che-01.jpg
+        - products/acrylic-1oz/fold-in-the-che/fold-in-the-che-02.jpg
+        - products/acrylic-1oz/fold-in-the-che/fold-in-the-che-03.jpg
+      writeup: |
+        <details class="memes">
+          <summary><em>Did you get the reference?</em> Click to reveal!</summary>
+          <img alt="" src="/assets/images-small/memes/fold-in-the-cheese.jpg">
+          <p>It's a quote from <em>Schitt's Creek!</em> We love that show! It's Suzie's favourite</p>
+        </details>
+        <p>A soft coloured powder for a delicate design. The velvety texture blends perfectly with Suzie's Monomers. Comes in a reusable glass jar with a natural cork stopper.</p>
+        <p>You can use this acrylic powder on its own, or blend it with other acrylic colours to make your own custom colours. Blend with Suzie's soft white to create a marble — or blend the clear acrylic to make a transparent shade of each colour.</p>
+        <p>⚠️ Orders for this product are scheduled to start shipping in the first week of March.</p>
+        <ul>
+          <li>Store in a cool dark place</li>
+          <li>Keep away from children</li>
+          <li>Colours can look different on devices, so they may appear different in-person</li>
+        </ul>
+    acrylic-1oz/boom-roas:
+      title: "Acrylic Powder 1oz: Boom Roas..."
+      product:
+        shopify: https://nail-career-education.myshopify.com/admin/products/6944671531044
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/acrylic-1oz/boom-roas/boom-roas-01.jpg
+        - products/acrylic-1oz/boom-roas/boom-roas-02.jpg
+        - products/acrylic-1oz/boom-roas/boom-roas-03.jpg
+      writeup: |
+        <details class="memes">
+          <summary><em>Did you get the reference?</em> Click to reveal!</summary>
+          <img alt="" src="/assets/images-small/memes/boom-roasted.jpg">
+          <p>It's a quote from <em>The Office!</em> We love that show!</p>
+        </details>
+        <p>A soft coloured powder for a delicate design. The velvety texture blends perfectly with Suzie's Monomers. Comes in a reusable glass jar with a natural cork stopper.</p>
+        <p>You can use this acrylic powder on its own, or blend it with other acrylic colours to make your own custom colours. Blend with Suzie's soft white to create a marble — or blend the clear acrylic to make a transparent shade of each colour.</p>
+        <p>⚠️ Orders for this product are scheduled to start shipping in the first week of March.</p>
+        <ul>
+          <li>Store in a cool dark place</li>
+          <li>Keep away from children</li>
+          <li>Colours can look different on devices, so they may appear different in-person</li>
+        </ul>
+    acrylic-1oz/ewwwww-dav:
+      title: "Acrylic Powder 1oz: EWWW Dav..."
+      product:
+        shopify: https://nail-career-education.myshopify.com/admin/products/6944672481316
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/acrylic-1oz/ewwwww-dav/ewwwww-dav-01.jpg
+        - products/acrylic-1oz/ewwwww-dav/ewwwww-dav-02.jpg
+        - products/acrylic-1oz/ewwwww-dav/ewwwww-dav-03.jpg
+      writeup: |
+        <details class="memes">
+          <summary><em>Did you get the reference?</em> Click to reveal!</summary>
+          <img alt="" src="/assets/images-small/memes/ewww-david.jpg">
+          <p>It's a quote from <em>Schitt's Creek!</em> We love that show! It's Suzie's favourite</p>
+        </details>
+        <p>A soft coloured powder for a delicate design. The velvety texture blends perfectly with Suzie's Monomers. Comes in a reusable glass jar with a natural cork stopper.</p>
+        <p>You can use this acrylic powder on its own, or blend it with other acrylic colours to make your own custom colours. Blend with Suzie's soft white to create a marble — or blend the clear acrylic to make a transparent shade of each colour.</p>
+        <p>⚠️ Orders for this product are scheduled to start shipping in the first week of March.</p>
+        <ul>
+          <li>Store in a cool dark place</li>
+          <li>Keep away from children</li>
+          <li>Colours can look different on devices, so they may appear different in-person</li>
+        </ul>
+    acrylic-1oz/best-wishes-warmest-rega:
+      title: "Acrylic Powder 1oz: Best Wishes, Warmest Rega..."
+      product:
+        shopify: https://nail-career-education.myshopify.com/admin/products/6944672776228
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/acrylic-1oz/best-wishes-warmest-rega/best-wishes-warm-rega-01.jpg
+        - products/acrylic-1oz/best-wishes-warmest-rega/best-wishes-warm-rega-02.jpg
+        - products/acrylic-1oz/best-wishes-warmest-rega/best-wishes-warm-rega-03.jpg
+      writeup: |
+        <details class="memes">
+          <summary><em>Did you get the reference?</em> Click to reveal!</summary>
+          <img alt="" src="/assets/images-small/memes/warmest-regards.jpg">
+          <p>It's a quote from <em>Schitt's Creek!</em> We love that show! It's Suzie's favourite</p>
+        </details>
+        <p>A soft coloured powder for a delicate design. The velvety texture blends perfectly with Suzie's Monomers. Comes in a reusable glass jar with a natural cork stopper.</p>
+        <p>You can use this acrylic powder on its own, or blend it with other acrylic colours to make your own custom colours. Blend with Suzie's soft white to create a marble — or blend the clear acrylic to make a transparent shade of each colour.</p>
+        <p>⚠️ Orders for this product are scheduled to start shipping in the first week of March.</p>
+        <ul>
+          <li>Store in a cool dark place</li>
+          <li>Keep away from children</li>
+          <li>Colours can look different on devices, so they may appear different in-person</li>
+        </ul>
+    acrylic-powder-collection-of-four:
+      title: "Suzie’s Acrylic Powder Collection of Four"
+      product:
+        shopify: https://nail-career-education.myshopify.com/admin/products/6659820388388
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/acrylic-powders/acrylic-powder-brighter-01.jpg
+        - products/acrylic-powders/acrylic-powder-brighter-02.jpg
+        - products/acrylic-powders/acrylic-powder-brighter-03.jpg
+        - products/acrylic-powders/acrylic-powder-brighter-04.jpg
+        - products/acrylic-powders/acrylic-powder-brighter-05.jpg
+      writeupMarkdown: |
+        For sculpting and designing custom nails. Mix together to create different hues and shades from the original four colours. For best results, use with Suzie’s Odourless and Fast Set Monomers.
+
+        ***Note:*** Store in a cool dark place. Keep away from children.
+    acrylic-powder-2oz-soft-white:
+      title: "Acrylic Powder 2oz Soft White"
+      product:
+        shopify: https://nail-career-education.myshopify.com/admin/products/6659823435812
+        restockingSoon: true
+      carousel:
+        aspectRatio: 3x2
+        images:
+        - products/acrylic-powders/acrylic-powder-brighter-04.jpg
+      writeupMarkdown: |
+        This opaque white acrylic is designed specially with ombre and french nails in mind.
+
+        For sculpting and designing custom nails. Use with Suzie’s Odourless and Fast Set Monomers for a correctly cured nail.
+
+        ***Note:*** Store in a cool dark place. Keep away from children.
+    acrylic-powder-2oz-foundation-pink:
+      title: "Suzie’s Acrylic Powder 2oz Foundation Pink"
+      product:
+        shopify: https://nail-career-education.myshopify.com/admin/products/6659824123940
+        restockingSoon: true
+      carousel:
+        aspectRatio: 3x2
+        images:
+        - products/acrylic-powders/acrylic-powder-brighter-02.jpg
+      writeupMarkdown: |
+        This semi-opaque acrylic powder is designed to cover flaws and help create an ombre effect.
+
+        For sculpting and designing custom nails. Use with Suzie’s Odourless and Fast Set Monomers for a correctly cured nail.
+
+        ***Note:*** Store in a cool dark place. Keep away from children.
+    acrylic-powder-2oz-pink-tint:
+      title: "Suzie’s Acrylic Powder 2oz Pink Tint"
+      product:
+        shopify: https://nail-career-education.myshopify.com/admin/products/6659823796260
+        restockingSoon: true
+      carousel:
+        aspectRatio: 3x2
+        images:
+        - products/acrylic-powders/acrylic-powder-brighter-03.jpg
+      writeupMarkdown: |
+        This transparent acrylic is designed to create the healthy natural pink hue of a natural nail.
+
+        For sculpting and designing custom nails. Use with Suzie’s Odourless and Fast Set Monomers for a correctly cured nail.
+
+        ***Note:*** Store in a cool dark place. Keep away from children.
+    acrylic-powder-2oz-clear-cap:
+      title: "Suzie’s Acrylic Powder 2oz Clear Cap"
+      product:
+        shopify: https://nail-career-education.myshopify.com/admin/products/6659825795108
+        restockingSoon: true
+      carousel:
+        aspectRatio: 3x2
+        images:
+        - products/acrylic-powders/acrylic-powder-brighter-05.jpg
+      writeupMarkdown: |
+        This acrylic is strong and clear, designed to encapsulate and protect your inlay designs. It will also help mix colours.
+
+        For sculpting and designing custom nails. Use with Suzie’s Odourless and Fast Set Monomers for a correctly cured nail.
+
+        ***Note:*** Store in a cool dark place. Keep away from children.
+    prep-and-bond:
+      title: "Suzie's Prep & Bond"
+      product:
+        shopify: 6923953242148
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/prep-and-bond/prepbond-1.jpg
+      writeupMarkdown: |
+        ***Prepare to prevent lift!***
+
+        To be applied before acrylic application.
+
+        Oils in the nail plate must be eliminated prior to application. Let’s Dehydrate will remove oils and cleanse the nail. It helps remove oils and extra moisture which prevents lifting. This is an important step to a no-lift nail.
+
+        Let’s Bond acts as an adhesive between your natural nail and the acrylic product you’re going to apply. This product should be applied after Let’s Dehydrate. After you have correctly prepared the nail and removed the dust, gently apply Let’s Bond to the exposed natural nail being careful not to over saturate the natural nail plate. Try not to forget to apply your Let’s Bond, otherwise lifting may occur.
+
+brushes:
+  label: "Brushes"
+  products:
+    synthetic-acrylic-brush/oval-8:
+      title: "Oval #8 Synthetic Acrylic Brush"
+      product:
+        shopify: 7089666621476
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/synthetic-acrylic-brush/oval-8-01.jpg
+      writeupMarkdown: |
+        Excellent for learning acrylic especially with Low Odour Monomer. Synthetic hairs are much less absorbent. So makes working with monomers easier to create perfect beads, because it holds less monomer.
+
+        Always store with the cap on, to keep the brush soft for your next usage.
+
+        **How to Use:**
+        - This gold beauty holds much less monomer than natural hair brushes. If you've had issues in the past with runny beads, then this might be the brush for you!
+        - After use, roll to make sure no product is stuck in bristles.
+        - Clean this brush with ALCOHOL ONLY.
+        - Keep in mind, acetone will destroy hairs.
+    hybrid-gel-brush:
+      title: "Hybrid Gel Brush"
+      product:
+        shopify: 7087645458468
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/hybrid-gel-brush/hybrid-gel-01.jpg
+        - products/hybrid-gel-brush/hybrid-gel-02.jpg
+        - products/hybrid-gel-brush/hybrid-gel-03.jpg
+      writeupMarkdown: |
+        This Dual ended tool has a spatula on one end. The other end is brush with synthetic bristles, perfectly shaped for sculpting Hybrid Gel.
+
+        **How to Use:**
+        - The Spatula is Perfect for scooping out the exact amount of product you want. Also excellent for mixing colours in to product. Example mixing your Mica Mixers into your Hybrid Gel or Hard Gel or Gel Top Coats. Cleans up easy with a wipe of 70% alcohol
+        - The Brush is designed for strength when pressing and shaping hybrid gel (Polygel), but gentle enough to soften your product gently around cuticles. These synthetic hairs clean up easy in 70% alcohol. *Do not use acetone to clean this brush.*
+    white-rose-gold-acrylic-brush:
+      title: "White & Rose Gold Acrylic Brush"
+      product:
+        shopify: 7087643951140
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/white-rose-acrylic-brush/white-rose-acrylic-brush-02.jpg
+        - products/white-rose-acrylic-brush/white-rose-acrylic-brush-01.jpg
+      writeupMarkdown: |
+        This 100% Kolinsky acrylic brush is the most important tool in the professional nail technician's collection. Take care of this brush, and it will take care of you.
+
+        This brush holds the perfect amount of liquid, and maintains its shape while sculpting and building. It comes to a fine point for those crispy French edges when you need it.
+
+        **How to use:**
+        - When you first receive your new acrylic brush, you'll want to gently remove the packing powder that keeps its shape during shipping. Use the supplied black brush to gently brush toward the tip to get rid of this powder. Next soak your brush, without fraying or disturbing the hairs, into a dappen dish with monomer.
+        - If you get product stuck and dried in the brush, soak it in acetone for just a few minutes to release the product and clean it out, and then condition the brush in monomer. Make sure you gently roll in one direction on a paper towel to make a point and use the cap to keep the bristles soft.
+    gold-press-brush:
+      title: "Gold Press Brush"
+      product:
+        shopify: 7036859777060
+        restockingSoon: true
+        isNew: false
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/gold-press-brush/gold-press-brush-01.jpg
+      writeupMarkdown: |
+        Gold press brush is made of soft bristles condensed and tightly pressed together, allowing a smooth even surface to massage evenly across the surface of your nail.
+
+        **How to use:**
+
+        Gently massage gold press brush on nail with even gentle pressure to shine 24 k gold.
+    gel-brush:
+      title: "Gel Brush"
+      product:
+        shopify: 6996610940964
+        restockingSoon: true
+        isNew: false
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/gel-brush/gel-brush-01.jpg
+        - products/gel-brush/gel-brush-02.jpg
+      writeup: |
+        <p>Soft Nylon bristle for applying sculpting gel nails. A tight cap to keep light away from bristles so you can condition with Gel. Easy to clean casing and handle. Nice lightweight handle.</p>
+        <h3>How to care for your new Gel Brush</h3>
+        <p>Clean bristles with Alcohol or gel. Do not use acetone, as it will damage bristles. Please use the cap when not in use, to avoid hardening, especially if conditioning with gel.</p>
+    blue-duster:
+      title: "Suzie’s Blue Duster"
+      product:
+        shopify: 6814424137764
+        restockingSoon: true
+      carousel:
+        images:
+        - products/blue-duster/blue-duster-03.jpg
+      writeup: |
+        <p>Easily remove fine dust from nails with this soft nylon hair brush. Effective for Acrylic and Gel dust removal.</p>
+    nail-art-brush-set:
+      title: "Suzie’s Nail Art Brush Set"
+      product:
+        shopify: https://nail-career-education.myshopify.com/admin/products/6696149254180
+        restockingSoon: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/nail-art-brush-set/nail-art-brush-set-06-brighter.jpg
+        - products/nail-art-brush-set/nail-art-brush-set-01-brighter.jpg
+        - products/nail-art-brush-set/nail-art-brush-set-02-brighter.jpg
+        - products/nail-art-brush-set/nail-art-brush-set-03-brighter.jpg
+        - products/nail-art-brush-set/nail-art-brush-set-04-brighter.jpg
+        - products/nail-art-brush-set/nail-art-brush-set-05-brighter.jpg
+      writeupMarkdown: |
+        This set comes with five versatile nail art brushes of various sizes and lengths, which are excellent for hand-painting expressive details on the nail.
+        - Extra Long Liner Use this brush to make your line work quicker and easier.
+        - Long Liner Create swirls and flowing lines in one swoop. Also great for creating flowers; using a little pressure to create a petal.
+        - Marbleizer This brush will help you "marbleize" lines. With different pressures on bristles, create varying width of lines you need for a marble effect.
+        - Writing Detailer Use this brush for handwriting. When there's something to say, say it with style!
+        - Highlight Detailer When you need a tiny line, highlight, or maybe an eyelash or eyebrow.
+    rose-gold-brush-kit:
+      title: "Suzie’s Acrylic Brush & Files Kit: White & Rose Gold Edition"
+      product:
+        shopifyUid: Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1NzYzNDg3NTgwNTI=
+        restockingSoon: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/rose-gold-brush/rose-gold-brush-02.jpg
+        - products/acrylic-brush/nce-acrylic-brush-01.jpg
+        - products/rose-gold-brush/rose-gold-brush-03.jpg
+        - products/acrylic-brush/nce-acrylic-brush-02.jpg
+        - products/acrylic-brush/nce-acrylic-brush-11.jpg
+        - products/acrylic-brush/nce-acrylic-brush-12.jpg
+      writeup: |
+        <p>The most important tool for a nail tech is their brush. What matters most is its functionality— next to how it looks, of course…</p>
+        <p>I've designed this beauty to check both of those boxes! In White and Rose Gold and made with kolinsky, this Oval 8 brush is an ideal size for creating Acrylic nails. I always design my brushes with a cap, which is so important for the longevity of a happy brush!</p>
+        <p>Take care of this baby, and this brush will help you create beautiful nails for years to come.</p>
+        <h3>Five Files Included</h3>
+        <ul>
+          <li>
+            <strong>Fine File 240/240</strong>
+            <ul>
+              <li>ideal for smoothing</li>
+              <li>gentle enough for natural nails</li>
+            </ul>
+          </li>
+          <li>
+            <strong>Medium File 180/180</strong>
+            <ul>
+              <li>ideal or shaping</li>
+              <li>delicate yet strong grit for acrylic nails</li>
+            </ul>
+          </li>
+          <li>
+            <strong>Coarse File 100/100</strong>
+            <ul>
+              <li>ideal for sculpting</li>
+              <li>low-profile for ease between nail and finger</li>
+            </ul>
+          </li>
+          <li>
+            <strong>Sandy Sponge File 80/80</strong>
+            <ul>
+              <li>ideal for sanding</li>
+              <li>flexibly surrounds the nail</li>
+            </ul>
+          </li>
+          <li>
+            <strong>Smooth &amp; Shine Sponge 300/4000</strong>
+            <ul>
+              <li>one side buffs, and the other side shines</li>
+              <li>can create a shine on natural nails without needing a top-coat product</li>
+            </ul>
+          </li>
+        </ul>
+
+files-and-forms:
+  label: "Files & Forms"
+  products:
+    sanding-bands/medium:
+      title: "Medium Sanding Bands"
+      product:
+        shopify: 7088021110820
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/sanding-bands/sanding-bands-medium-01.jpg
+      writeupMarkdown: |
+        **Medium #120 Grit**
+
+        Recommended for natural nail prep.
+        One per client recommended for good sanitation practices. Approx 45 per 2oz jar.
+        In a adorable reusable glass jar with cork lid.
+
+        **How to use:**
+        - Slide onto a mandrel.
+        - On a low speed on your Efile, this sanding bands is excellent for preping natural nail and also removing the cuticle that adheres to natural nail.
+    sanding-bands/coarse:
+      title: "Coarse Sanding Bands"
+      product:
+        shopify: 7079296794660
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/sanding-bands/sanding-bands-01.jpg
+      writeupMarkdown: |
+        **Coarse #80 Grit** for sculpting Acrylic, Gel and Hybrid Gel. All contained in this adorable glass jar, perfect for refills. Approx 45 sanding bands in a 2oz jar.
+
+        ⚠️ Coarse sanding bands are NOT recommended for direct use on natural nails!
+
+        **How to use:**
+        - Place onto Mandrel.
+        - Recommend one per client for best sanitation practices.
+        - Excellent for removing or shaping products.
+    sanding-bands/fine:
+      title: "Fine Sanding Bands"
+      product:
+        shopify: 7079301480484
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/sanding-bands/sanding-bands-02.jpg
+      writeupMarkdown: |
+        **Fine #180 Grit**
+
+        Recommended for natural nail prep.
+        One per client recommended for good sanitation practices. Approx 45 per 2oz jar.
+        In a adorable reusable glass jar with cork lid.
+
+        **How to use:**
+        - Slide onto a mandrel.
+        - On a low speed on your Efile, this sanding bands is excellent for preping natural nail and also removing the cuticle that adheres to natural nail.
+    gold-trimmer-bit:
+      title: "Gold Trimmer Bit"
+      product:
+        shopify: 6971277672484
+        restockingSoon: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/gold-trimmer-bit/gold-trimmer-bit-02.jpg
+        - products/gold-trimmer-bit/gold-trimmer-bit-01.jpg
+      writeup: |
+        <p>Strong Tungston Carbide will last years.</p>
+        <p>Fits 3/32 Efiles. For us on Product. Not meant for Natural Nail.</p>
+        <ul>
+          <li>I love this bit for getting into the tiny spots. It’s excellent for trimming off fine over spill of product.</li>
+          <li>For example if you have hardened Acrylic or hard gel or gel polish flooding into the cuticle, this tiny bit can get in there to remover this over spill with out ruining your gel polish.</li>
+          <li>Also excellent for fine tuning extra product from  underneath the free edge. Also excellent for gently buffing product around cuticle for a smooth effect near cuticle.</li>
+        </ul>
+    french-cut-bit:
+      title: "French Cut Bit"
+      product:
+        shopify: 6923935088676
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/french-cut-bit/french-cut-bit-01.jpg
+      writeupMarkdown: |
+        ***Perfect your French Smile Lines***
+
+        This bit will change your French Nail Game! French nails can be challenging. But they don’t have to be! This specialty cut bit has V shaped edges which allow you to make a clean French Smile Line quickly and easily– and in one stroke across the nail. This bit will speed you up and help you make your French nail fills much faster.
+
+        ⚠️ E-Files and bits require training and practice before safe usage on humans. This product is intended to be used on humans only by a professional.
+
+        Fits 3/32 E-Files (like [Suzie's EZ-File](/store/products/ezfile))
+    bit-kit:
+      title: "Suzie’s Bit Kit"
+      product:
+        shopify: 6767534768164
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/bits/bits-09.jpg
+        - products/bits/bits-03.jpg
+        - products/bits/bits-02.jpg
+        - products/bits/bits-01.jpg
+        - products/bits/bits-04.jpg
+        - products/bits/bits-05.jpg
+        - products/bits/bits-06.jpg
+        - products/bits/bits-07.jpg
+        - products/bits/bits-08.jpg
+      writeupMarkdown: |
+        Three essential bits!
+
+        With these three e-file bits, you can achieve the majority of nail designs from beginning to end.
+
+        They fit [Suzie's EZ-File](/store/products/ezfile), and most other e-files.
+
+        ⚠️ E-Files and bits require training and practice before safe usage on humans. This product is intended to be used on humans only by a professional.
+      details: |
+        <ol class="productshowcase">
+          <li>
+            <figure>
+              <div><img src="/assets/images-medium/products/bits/bits-03.jpg" alt=""></div>
+              <figcaption>
+                <strong>Golden Mandrel Bit</strong>
+                <span>Includes 15 sanding bands</span>
+                <ul>
+                  <li>5 Fine Purple</li>
+                  <li>5 Medium Purple</li>
+                  <li>5 Course Green</li>
+                </ul>
+                <span>This post has two grip points to secure your sanding bands</span>
+              </figcaption>
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <div><img src="/assets/images-medium/products/bits/bits-02.jpg" alt=""></div>
+              <figcaption>
+                <strong>Bulk &amp; Sculpt Bit</strong>
+                <em>(Safety Bit)</em>
+                <ul>
+                  <li>Made of strong Rainbow Tungsten Carbide material.</li>
+                  <li>Creating less dust and less heat.</li>
+                  <li>Has rounded safety top to protect cuticles.</li>
+                  <li>Excellent for removal of all enhancements, Gel polish, sculpting Gel, Acrylic, and Hybrid Gel.</li>
+                  <li>Can last for years, depending on usage.</li>
+                </ul>
+                <span class="warn">Not for use on natural nails</span>
+              </figcaption>
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <div><img src="/assets/images-medium/products/bits/bits-01.jpg" alt=""></div>
+              <figcaption>
+                <strong>Clean Up Bit</strong>
+                <ul>
+                  <li>The same Rainbow Tungsten Carbide material as the Bulk &amp; Sculpt.</li>
+                  <li>This bit is ideal for cleaning overflow product from the underside of the nail. It can also be used on the cuticle, but with very light pressure.</li>
+                </ul>
+                <span class="warn">Not for use on natural nails</span>
+              </figcaption>
+            </figure>
+          </li>
+        </ol>
+        <shopper-product restocking-soon="" link="6767534768164"></shopper-product>
+    ezfile:
+      title: "Suzie’s Ez-File"
+      product:
+        shopify: 6748213674020
+        restockingSoon: true
+      carousel:
+        aspectRatio: 3x2
+        images:
+        - products/ezfile/ezfile-01.jpg
+        - products/ezfile/ezfile-02.jpg
+        - products/ezfile/ezfile-03.jpg
+        - products/ezfile/ezfile-04.jpg
+        - products/ezfile/ezfile-05.jpg
+      writeup: |
+        <h2>Powerful, yet gentle.</h2>
+        <p>This e-file’s range allows low speeds for natural nails, and reaches strong speeds for removing/sculpting gel polish, gel tips, hybrid, hard gel, dip powder, and strong acrylic.</p>
+        <p>Lightweight and portable- you can take this e-file anywhere to file nails quickly. Whether you're at a fashion show, at the nail table, or just want to be comfy on your couch!</p>
+        <p>⚠️ E-Files and bits require training and practice before safe usage on humans. This product is intended to be used on humans only by a professional.</p>
+        <ul>
+          <li>Fits 3/32 bits.</li>
+          <li>Power 25W, Voltage 12V/2A</li>
+          <li>Rated speed: up to 35,000 RPM</li>
+          <li>Includes: power box, quick-change hand piece, hand piece holder and bits.</li>
+        </ul>
+    files-5:
+      title: "Suzie’s 5-File Set"
+      product:
+        shopifyUid: Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzQzOTM2MDA2NDcyMDQ=
+        restockingSoon: true
+      carousel:
+        images:
+        - products/acrylic-brush/nce-acrylic-brush-01.jpg
+        - products/tube-blue/blue-tube-02.jpg
+        - products/acrylic-brush/nce-acrylic-brush-05.jpg
+        - products/acrylic-brush/nce-acrylic-brush-06.jpg
+        - products/acrylic-brush/nce-acrylic-brush-07.jpg
+        - products/acrylic-brush/nce-acrylic-brush-08.jpg
+        - products/acrylic-brush/nce-acrylic-brush-09.jpg
+        - products/acrylic-brush/nce-acrylic-brush-10.jpg
+      writeup: |
+        <p>Each set comes in a beautiful tube that doubles as a hand-rest</p>
+        <h3>Five Individual Files Included</h3>
+        <ul>
+          <li>
+            <strong>Fine File 240/240</strong>
+            <ul>
+              <li>ideal for smoothing</li>
+              <li>gentle enough for natural nails</li>
+            </ul>
+          </li>
+          <li>
+            <strong>Medium File 180/180</strong>
+            <ul>
+              <li>ideal or shaping</li>
+              <li>delicate yet strong grit for acrylic nails</li>
+            </ul>
+          </li>
+          <li>
+            <strong>Coarse File 100/100</strong>
+            <ul>
+              <li>ideal for sculpting</li>
+              <li>low-profile for ease between nail and finger</li>
+            </ul>
+          </li>
+          <li>
+            <strong>Sandy Sponge File 80/80</strong>
+            <ul>
+              <li>ideal for sanding</li>
+              <li>flexibly surrounds the nail</li>
+            </ul>
+          </li>
+          <li>
+            <strong>Smooth &amp; Shine Sponge 300/4000</strong>
+            <ul>
+              <li>one side buffs, and the other side shines</li>
+              <li>can create a shine on natural nails without needing a top-coat product</li>
+            </ul>
+          </li>
+        </ul>
+    files-fine:
+      title: "Suzie’s Fine Files (25 pack)"
+      product:
+        shopifyUid: Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTMxODU4MDg0MjA=
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/files-bulk/files-bulk-01.jpg
+        - products/files-bulk/files-bulk-06.jpg
+      writeup: |
+        <ul>
+          <li>240/240 grit</li>
+          <li>ideal for smoothing</li>
+          <li>gentle enough for natural nails</li>
+        </ul>
+    files-medium:
+      title: "Suzie’s Medium Files (25 pack)"
+      product:
+        shopifyUid: Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTMxODY4ODk3NjQ=
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/files-bulk/files-bulk-02.jpg
+      writeup: |
+        <ul>
+          <li>180/180 grit</li>
+          <li>ideal or shaping</li>
+          <li>delicate yet strong grit for acrylic nails</li>
+        </ul>
+    files-coarse:
+      title: "Suzie’s Coarse Files (25 pack)"
+      product:
+        shopifyUid: Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTMxODc2MTA2NjA=
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/files-bulk/files-bulk-05.jpg
+      writeup: |
+        <ul>
+          <li>100/100 grit</li>
+          <li>ideal for sculpting</li>
+          <li>low-profile for ease between nail and finger</li>
+        </ul>
+    files-sanding-sponge:
+      title: "Suzie’s Sanding Sponge (7 pack)"
+      product:
+        shopifyUid: Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTMxODg1OTM3MDA=
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/files-bulk/files-bulk-04.jpg
+      writeup: |
+        <ul>
+          <li>80/80 grit</li>
+          <li>ideal for sanding</li>
+          <li>flexibly surrounds the nail</li>
+        </ul>
+    files-smooth-and-shine:
+      title: "Suzie’s Smooth & Shine (6 pack)"
+      product:
+        shopifyUid: Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTMxODc2NDM0Mjg=
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/files-bulk/files-bulk-03.jpg
+      writeup: |
+        <ul>
+          <li>400/3000 grit</li>
+          <li>one side buffs, and the other side shines</li>
+          <li>can create a shine on natural nails without needing top-coat product</li>
+        </ul>
+    button-forms:
+      title: "Suzie’s ‘The Button’ Forms"
+      product:
+        shopifyUid: Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1NzYzNTI3MjI5ODA=
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/button-forms/button-forms-02.jpg
+        - products/button-forms/button-forms-05.jpg
+        - products/button-forms/button-forms-04.jpg
+      writeupMarkdown: |
+        ***Suzie’s Signature forms!***
+
+        ***Suzie:*** *“As a nail tech, I can’t tell you how excited I was to design a nail form, thinking of all the elements I could ever want in one design! I took my time designing them, because I wanted to give you the very best. I'm so happy with how they turned out- cute as a button-  that's why I call them ‘The Button!’”*
+
+        - Designed to work with Acrylic, Gel, and Hybrid Gel
+        - Guidelines for Almond, Square, Stiletto, and Coffin nail designs
+        - Longer than standard forms to accommodate extra long nails
+        - Strong paper that's great for custom shaping
+        - Unique circular design
+    button-forms-500:
+      title: "Suzie’s ‘The Button’ Forms (500 pack)"
+      product:
+        shopifyUid: Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1Nzk0NDQxNTQ0MDQ=
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/button-forms-500/button-forms-500-02.jpg
+        - products/button-forms-500/button-forms-500-01.jpg
+        - products/button-forms/button-forms-02.jpg
+        - products/button-forms/button-forms-05.jpg
+        - products/button-forms/button-forms-04.jpg
+      writeupMarkdown: |
+        ***Suzie’s Signature forms!***
+
+        ***Suzie:*** *“As a nail tech, I can’t tell you how excited I was to design a nail form, thinking of all the elements I could ever want in one design! I took my time designing them, because I wanted to give you the very best. I'm so happy with how they turned out- cute as a button-  that's why I call them ‘The Button!’”*
+
+        - Designed to work with Acrylic, Gel, and Hybrid Gel
+        - Guidelines for Almond, Square, Stiletto, and Coffin nail designs
+        - Longer than standard forms to accommodate extra long nails
+        - Strong paper that's great for custom shaping
+        - Unique circular design
+
+gel:
+  label: "Gel"
+  products:
+    glass-nails:
+      title: "Glass Nails"
+      product:
+        shopify: 6990850490404
+        restockingSoon: true
+        isNew: false
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/glass-nails/glass-nails-01.jpg
+        - products/glass-nails/glass-nails-02.jpg
+        - products/glass-nails/glass-nails-03.jpg
+      writeupMarkdown: |
+        This gel is excellent for those learning how to sculpt gel. It has a thick viscosity gel so that it is slow moving, allowing ample time to create.
+
+        ***Hema Free And Cruelty free***
+
+        How to Use:
+        1. Prep the nail and remove any dust.
+        1. Apply [BRIDGE](/store/products/bridge) (this product is excellent to bond your gel product with your existing product or for bonding to your natural nail). Don’t forget to cure.
+        1. Apply a thin layer of Suzie's Glass Nail all over the nail. This will help the next layer settle on top of this layer. Cure.
+        1. Grab a big blob of gel and gently coat near the cuticle. Let it slowly slide down the nail. Add more if needed.
+        1. Don’t forget to hold upside down to let gravity give you a natural apex.
+        1. Once you’re happy with the shape, cure for 60 seconds. Wipe off the dispersion layer. Now you’re ready to sculpt your desired shape.
+    ez-gel:
+      title: "EZ Gel Kit"
+      product:
+        shopify: 6875102281764
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/ezgel/ezgel-09.jpg
+        - products/ezgel/ezgel-08.jpg
+        - products/ezgel/ezgel-02.jpg
+        - products/ezgel/ezgel-03.jpg
+        - products/ezgel/ezgel-04.jpg
+        - products/ezgel/ezgel-05.jpg
+        - products/ezgel/ezgel-06.jpg
+        - products/ezgel/ezgel-07.jpg
+      writeup: |
+        <h2>Introducing Suzie's EZ Gel Kit!</h2>
+        <p>Contents include:</p>
+        <ul>
+          <li>Suzie’s MIDNIGHT EZ Gel 20 ml</li>
+          <li>Suzie’s Pink Mix 20 ml</li>
+          <li>Suzie’s French &amp; Ombre White 20ml</li>
+          <li>Bridge Gel Adhesion</li>
+          <li>5 Premium File Set</li>
+          <li>Reveal Gel Top Coat (no wipe)</li>
+          <li>10 The Button Forms</li>
+          <li>Ez Gel Brush &amp; Spatula</li>
+          <li>Lint Free Gel Pads</li>
+        </ul>
+        <p><em>🇺🇸 Suzie's EZ-Gel Colours and Bridge Gel Adhesion are HEMA-Free, Cruelty-Free, and Made in America</em></p>
+    ez-gel-pink-mix:
+      title: "Suzie's Pink Mix - EZ Gel Colour"
+      product:
+        shopify: 6971281670180
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/ezgel/ezgel-03.jpg
+        - products/ezgel-colors/ez-pink-mix.jpg
+      writeupMarkdown: |
+        Suzie’s EZ Gel is creamy, smooth, easy to control and shape into your favourite nail and is formulated to work with alcohol.
+
+        Suzie’s EZ Gels come in jars/pots instead of in tubes to make gathering your gel easier and to minimize waste. You can easily scoop any unused/extra gel and place it back in the jar for next time.
+
+        Suzie’s Pink Mix is specially formulated to be a little opaque and a little transparent, making it excellent for creating Ombre easily in just two steps. It’s designed to be opaque enough to cover any natural flaws on the nail, and just translucent enough to fade over the Ombre White for that perfect ombre effect.
+
+        Use this Pink Mix on the nail plate just before you apply a French smile line and you’ll see how beautifully it compliments white, black or any colour you pair it with.
+
+        🇺🇸 Suzie's EZ-Gel Colours and Bridge Gel Adhesion are HEMA-Free, Cruelty-Free, and Made in America
+    ez-gel-midnight:
+      title: "Midnight - EZ Gel Colour"
+      product:
+        shopify: 6971282358308
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/ezgel/ezgel-02.jpg
+        - products/ezgel-colors/ez-midnight.jpg
+      writeupMarkdown: |
+        Suzie’s EZ Gel is creamy, smooth, easy to control and shape into your favourite nail and is formulated to work with alcohol.
+
+        Suzie’s EZ Gels come in jars/pots instead of in tubes to make gathering your gel easier and to minimize waste. You can easily scoop any unused/extra gel and place it back in the jar for next time.
+
+        This Midnight black EZ Gel is solid, even when applied very thin. Black can be tricky– this black EZ Gel is designed with the right pigment so as to ensure a complete cure. Wait until you see this Midnight black against pink!
+
+        🇺🇸 Suzie's EZ-Gel Colours and Bridge Gel Adhesion are HEMA-Free, Cruelty-Free, and Made in America
+    ez-gel-soft-white:
+      title: "French & Ombre White - EZ Gel Colour"
+      product:
+        shopify: 6971282948132
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/ezgel/ezgel-08.jpg
+        - products/ezgel-colors/ez-pink-and-white.jpg
+      writeupMarkdown: |
+        Suzie’s EZ Gel is creamy, smooth, easy to control and shape into your favourite nail and is formulated to work with alcohol.
+
+        Suzie’s EZ Gels come in jars/pots instead of in tubes to make gathering your gel easier and to minimize waste. You can easily scoop any unused/extra gel and place it back in the jar for next time.
+
+        This French & Ombre White EZ Gel is a natural looking soft white. Designed to compliment Suzie’s Pink Mix EZ Gel when creating French and Ombre nails. This soft white EZ Gel will add a delicate touch to any nail design.
+
+        🇺🇸 Suzie's EZ-Gel Colours and Bridge Gel Adhesion are HEMA-Free, Cruelty-Free, and Made in America
+    mini-nuke:
+      title: "Mini Nuke"
+      product:
+        shopify: 6875100250148
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/mini-nuke/mini-nuke-01.jpg
+        - products/mini-nuke/mini-nuke-02.jpg
+        - products/mini-nuke/mini-nuke-03.jpg
+      writeupMarkdown: |
+        Suzie’s Mini Nuke Gel Lamp packs POWER. It’s compact, but powerful enough to cure hard gels, hybrid gels and soft gels.
+
+        Details:
+        - One year warranty
+        - 4 Finger Lamp
+        - Power- 5W
+        - Size 129x76x59mm
+        - Timer-30 sec
+        - 12 pcs LED Bulbs
+        - Micro USB
+        - 50gr
+    bridge:
+      title: "Bridge"
+      product:
+        shopify: 6971280982052
+        restockingSoon: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/bridge/bridge-01.jpg
+      writeupMarkdown: |
+        Are your nails lifting? Is your polish chipping easily? You need Bridge in your life!
+
+        Bridge is designed to help aid adhesion between your natural nail and product (specifically: gel and gel polish). Use Bridge after you finish sculpting and just before you apply gel polish or gel for a stronger adhesion.
+
+        How to use:
+        - Apply one coat very thin, in circles. Massage into the nail plate.
+        - Cure for 60 secs. Apply gel or gel polish.
+    reveal-top-coat:
+      title: "'Reveal' Top Coat"
+      product:
+        shopify: 6875101528100
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/reveal-top-coat/reveal-top-coat-01.jpg
+      writeupMarkdown: |
+        This Gel Top Coat will give your nails HIGH SHINE and a lasting finish strong enough to seal in gems and beads.
+
+        Apply Reveal Gel Top Coat over your enhancements, gel polish and nail art to protect your design. Cure for 60 seconds under a UV lamp.
+
+gel-tips:
+  label: "Gel Tips"
+  products:
+    quick-tips/coffin-long:
+      title: "Suzie’s Quick Tips - Coffin Long"
+      product:
+        shopify: 7047960330276
+        restockingSoon: true
+        isNew: false
+      carousel:
+        aspectRatio: 3x2
+        images:
+        - products/quick-tips/quick-tips-coffin-long.jpg
+      writeupMarkdown: |
+        Clear Full Coverage Gelly Tips - Soak Off!
+
+        No Sculpting, No Shaping, No Lamp.
+
+        These are a game changer! Just add a little bead of Acrylic and BOOM — you have a nail!
+        - Shape: Coffin
+        - Length: Long
+    quick-tips/coffin-medium:
+      title: "Suzie’s Quick Tips - Coffin Medium"
+      product:
+        shopify: 6725898567716
+        restockingSoon: true
+      carousel:
+        aspectRatio: 3x2
+        images:
+        - products/quick-tips/quick-tips-coffin-medium.jpg
+      writeupMarkdown: |
+        Clear Full Coverage Gelly Tips - Soak Off! 
+
+        No Sculpting, No Shaping, No Lamp.
+
+        These are a game changer! Just add a little bead of Acrylic and BOOM — you have a nail!
+        - Shape: Coffin
+        - Length: Medium
+    quick-tips/square-medium:
+      title: "Suzie’s Quick Tips - Square Medium"
+      product:
+        shopify: 6767568224292
+        restockingSoon: true
+      carousel:
+        aspectRatio: 3x2
+        images:
+        - products/quick-tips/quick-tips-square-medium.jpg
+      writeupMarkdown: |
+        Clear Full Coverage Gelly Tips - Soak Off!
+
+        No Sculpting, No Shaping, No Lamp.
+
+        These are a game changer! Just add a little bead of Acrylic and BOOM — you have a nail!
+        - Shape: Square
+        - Length: Medium
+    quick-tips/:
+      title: "Suzie’s Quick Tips - Almond Medium"
+      product:
+        shopify: 6669675003940
+        restockingSoon: true
+      carousel:
+        aspectRatio: 3x2
+        images:
+        - products/quick-tips/quick-tips-01.jpg
+      writeupMarkdown: |
+        Clear Full Coverage Gelly Tips - Soak Off! 
+
+        No Sculpting, No Shaping, No Lamp.
+
+        These are a game changer! Just add a little bead of Acrylic and BOOM — you have a nail!
+        - Shape: Almond
+        - Length: Medium
+    quick-tips/stiletto-long:
+      title: "Suzie’s Quick Tips - Stiletto Long"
+      product:
+        shopify: 6725899059236
+        restockingSoon: true
+      carousel:
+        aspectRatio: 3x2
+        images:
+        - products/quick-tips/quick-tips-stiletto-long.jpg
+      writeupMarkdown: |
+        Clear Full Coverage Gelly Tips - Soak Off! 
+
+        No Sculpting, No Shaping, No Lamp.
+
+        These are a game changer! Just add a little bead of Acrylic and BOOM — you have a nail!
+        - Shape: Stiletto
+        - Length: Long
+
+manicure:
+  label: "Manicure"
+  products:
+    oil/gingerbread-cookies:
+      title: "Suzie’s Gingerbread Cookies Cuticle Oil"
+      product:
+        shopify: 6848650739748
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/oil/gingerbread-cookies-01.jpg
+      writeupMarkdown: |
+        Hydrate your hands and nails– with the cozy scent of freshly baked Gingerbread cookies!
+
+        ***Suzie:*** *"In my 35 year career, I've never skipped using cuticle oil after every nail service. It replenishes hydration, and I love it’s fresh fragrance"*
+
+        Suzie's luxury cuticle oil leaves your hands feeling nourished and hydrated. One drop on the cuticle keeps skin soft and helps prevent dry skin, dry nails and hangnails.
+
+        Made with Vitamin E oil to soften cuticles and moisturize dry, brittle nails.
+
+        Includes a dropper for sanitary application.
+
+        *(Nut Free, One 30ml bottle)*
+    cuticle-oil:
+      title: "Suzie’s Cuticle Oil"
+      product:
+        shopifyUid: Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzUwMzYyMjQ0NDY1MDA=
+        restockingSoon: true
+      carousel:
+        aspectRatio: 3x2
+        images:
+        - products/oil/nce-cuticle-1.jpg
+        - products/oil/nce-cuticle-3.jpg
+        - products/oil/nce-cuticle-05.jpg
+        - products/oil/nce-cuticle-2.jpg
+      writeupMarkdown: |
+        Hydrate your hands and nails– with the fresh scent of Pomegranate and Lime
+
+        ***Suzie:*** *"In my 35 year career, I've never skipped using cuticle oil after every nail service. It replenishes hydration, and I love it’s fresh fragrance"*
+
+        Suzie's luxury cuticle oil leaves your hands feeling nourished and hydrated. One drop on the cuticle keeps skin soft and helps prevent dry skin, dry nails and hangnails.
+
+        Made with Vitamin E oil to soften cuticles and moisturize dry, brittle nails.
+
+        Includes a dropper for sanitary application.
+
+        *(Nut Free, One 30ml bottle)*
+    lets-get-sugar:
+      title: "Suzie’s \"Let's Get Sugar\""
+      product:
+        shopify: https://nail-career-education.myshopify.com/admin/products/6696151711780
+        restockingSoon: true
+      carousel:
+        aspectRatio: 3x2
+        images:
+        - products/lets-get-sugar/sugar-01-brighter.jpg
+      writeup: |
+        <p>Fine Cane Sugar infused with Shea Butter and Coconut oil.</p>
+        <p>Apply twice a week, to leave your skin feeling soft and revitalized.</p>
+        <p>Use before <a href="./lets-get-hydrated">"Let's Get Hydrated"</a> for best results.</p>
+    lets-get-hydrated:
+      hideFromIndex: true
+      title: "Suzie’s \"Let's Get Hydrated\""
+      product:
+        shopify: https://nail-career-education.myshopify.com/admin/products/6696154431524
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/lets-get-hydrated/lets-get-hydrated-01-brighter.jpg
+        - products/lets-get-hydrated/lets-get-hydrated-02-brighter.jpg
+      writeup: |
+        <p>A rich cream made with Shea Butter. Very little goes a long way.</p>
+        <p>Massage onto hands, feet, arms and legs as needed.</p>
+    peppermint-squeeze:
+      hideFromIndex: true
+      title: "Suzie’s Peppermint Squeeze"
+      product:
+        shopify: https://nail-career-education.myshopify.com/admin/products/6696155938852
+        restockingSoon: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/peppermint-squeeze/peppermint-01.jpg
+      writeup: |
+        <p>A small squeeze softens cuticles making it easier to gently push them back.</p>
+        <p>Refreshing fragrance of peppermint and lemon.</p>
+        <p>Infused with Vitamin E and Aloe.</p>
+    wooden-nail-brush:
+      title: "Suzie’s Wooden Nail Brush"
+      product:
+        shopify: https://nail-career-education.myshopify.com/admin/products/6696161673252
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/wooden-nail-brush/wooden-brush-01-brighter.jpg
+        - products/wooden-nail-brush/wooden-brush-02-brighter.jpg
+      writeup: |
+        <p>With a little soap and water, this brush is effective for scrubbing nails clean and removing any debris under or around natural nails or nail enhancements</p>
+    nce-towel:
+      title: "Suzie’s Towel"
+      product:
+        shopify: https://nail-career-education.myshopify.com/admin/products/6696160362532
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/nce-towel/towel-02-brighter.jpg
+        - products/nce-towel/towel-04-brighter.jpg
+        - products/nce-towel/towel-01-brighter.jpg
+        - products/nce-towel/towel-03.jpg
+      writeupMarkdown: |
+        Use this soft, absorbent, microfibre towel to rest and dry hands during your nail services.
+    manicure-kit:
+      hideFromIndex: true
+      title: "Suzie’s Manicure Kit"
+      product:
+        shopifyUid: Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY1OTQ0MDE5OTI3NDA=
+        restockingSoon: false
+      carousel:
+        aspectRatio: 3x2
+        images:
+        - products/manicure-kit/manicure-kit-03.jpg
+        - products/manicure-kit/manicure-kit-04.jpg
+        - products/manicure-kit/manicure-kit-05.jpg
+        - products/manicure-kit/manicure-kit-01.jpg
+        - products/files-bulk/files-bulk-06.jpg
+        - products/butter-cream/butter-cream-02.jpg
+        - products/oil/nce-cuticle-05.jpg
+        - products/manicure-kit/manicure-kit-02.jpg
+        - products/manicure-kit/manicure-kit-06.jpg
+      writeup: |
+        <h3>Natural nail care in one collection.</h3>
+        <p>Happy hands as a lovely gift or for yourself! This kit has everything you need to give or receive a professional manicure (or pedicure).</p>
+        <p>Includes in depth step-by-step instructions written by Suzie.</p>
+        <h4><span>Let's Get Sugar</span> <span>— 60 ml</span></h4>
+        <p>Fine Cane Sugar infused with Shea Butter and Coconut oil.</p>
+        <p>Apply twice a week, to leave your skin feeling soft and revitalized.</p>
+        <p>Use before "Let's Get Hydrated" for best results.</p>
+        <h4><span>Let's Get Hydrated</span> <span>— 125 ml</span></h4>
+        <p>A rich cream made with Shea Butter. Very little goes a long way.</p>
+        <p>Massage onto hands, feet, arms and legs as needed.</p>
+        <h4><span>Peppermint Squeeze</span> <span>— 30 ml</span></h4>
+        <p>A small squeeze softens cuticles making it easier to gently push them back.</p>
+        <p>Refreshing fragrance of peppermint and lemon.</p>
+        <p>Infused with Vitamin E and Aloe.</p>
+        <h4><span>Cuticle Oil</span> <span>— 15 ml</span></h4>
+        <p>Oil is essential for moisturizing cuticles.</p>
+        <p>Pomegranate and lime scented.</p>
+        <h4><span>Fine File</span> <span>— 240/240 grit</span></h4>
+        <p>Gently shapes the free edge of the nail.</p>
+        <h4><span>Smooth &amp; Shine File</span> <span>— 400/3000 grit</span></h4>
+        <p>The secret to shiny nails without a top coat polish.</p>
+        <h4><span>Wooden tools</span></h4>
+        <p>Cuticle sticks, a small spoon and a nail brush.</p>
+        <h4><span>NCE Towel</span></h4>
+        <p>This adorable microfibre towel will decorate your nail table and create a soft surface for hands.</p>
+
+nail-art:
+  label: "Nail Art"
+  products:
+    big-scoop-lil-scoop:
+      title: "Big Scoop Lil Scoop"
+      product:
+        shopify: 7079277363236
+        restocking: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/big-scoop-lil-scoop/big-scoop-lil-scoop-01.jpg
+        - products/big-scoop-lil-scoop/big-scoop-lil-scoop-02.jpg
+        - products/big-scoop-lil-scoop/big-scoop-lil-scoop-03.jpg
+      writeupMarkdown: |
+        Made from Stainless Steel with Rainbow Finish. Large scoop on one end, Little scoop on the other end.
+
+        ***How to Use***
+        - Large scoop on one end for dip, or creating custom colours, for adding glitters etc. Great to use this large end for blending powders, Glitters together. Also great for pushing back cuticles.
+        - Lil scoop when you just want to blend a pinch of pigment. Also great for puncturing gel foil sealers.
+    mica/six-pack:
+      title: "Mica Six Pack"
+      product:
+        shopify: 7079253147684
+        restocking: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/mica/mica-nails-03.jpg
+        - products/mica/mica-nails-06.jpg
+        - products/mica/mica-nails-02.jpg
+        - products/mica/mica-nails-04.jpg
+        - products/mica/mica-02.jpg
+        - products/mica/mica-03.jpg
+        - products/mica/mica-04.jpg
+        - products/mica/mica-05.jpg
+        - products/mica/mica-06.jpg
+        - products/mica/mica-07.jpg
+        - products/mica/mica-nails-01.jpg
+      writeupMarkdown: |
+        Collection of all six mica powders: Purple, Pink, Green, Blue, White, and Gold.
+
+        Fine Mica Powder. Very strong colour pigments with a shimmer to reflect light.
+
+        5 grams of powder per jar.
+
+        ***How to use:***
+        - Just add pinch, mix or blend into your favourite medium.
+        - Add a tiny amount to your monomer, acrylic powders, hard gel or hybrid gels.
+        - Blend two shades together to create a new shade. The more you add you may have to extend your curing times.
+
+        *⚠️ Wear a mask, and have good ventilation, especially when filing. Keep away from eyes, lips, and other parts of the body.*
+    mica/purple:
+      title: "Purple Mica Mixer"
+      product:
+        shopify: 7079197245476
+        restocking: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/mica/mica-06.jpg
+        - products/mica/mica-01.jpg
+      writeupMarkdown: |
+        Fine Mica Powder. Very strong colour pigments with a shimmer to reflect light.
+
+        5 grams of powder.
+
+        ***How to use:***
+        - Just add pinch, mix or blend into your favourite medium.
+        - Add a tiny amount to your monomer, acrylic powders, hard gel or hybrid gels.
+        - Blend two shades together to create a new shade. The more you add you may have to extend your curing times.
+
+        *⚠️ Wear a mask, and have good ventilation, especially when filing. Keep away from eyes, lips, and other parts of the body.*
+    mica/pink:
+      title: "Pink Mica Mixer"
+      product:
+        shopify: 7079218675748
+        restocking: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/mica/mica-04.jpg
+        - products/mica/mica-01.jpg
+      writeupMarkdown: |
+        Fine Mica Powder. Very strong colour pigments with a shimmer to reflect light.
+
+        5 grams of powder.
+
+        ***How to use:***
+        - Just add pinch, mix or blend into your favourite medium.
+        - Add a tiny amount to your monomer, acrylic powders, hard gel or hybrid gels.
+        - Blend two shades together to create a new shade. The more you add you may have to extend your curing times.
+
+        *⚠️ Wear a mask, and have good ventilation, especially when filing. Keep away from eyes, lips, and other parts of the body.*
+    mica/green:
+      title: "Green Mica Mixer"
+      product:
+        shopify: 7079228375076
+        restocking: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/mica/mica-05.jpg
+        - products/mica/mica-01.jpg
+      writeupMarkdown: |
+        Fine Mica Powder. Very strong colour pigments with a shimmer to reflect light.
+
+        5 grams of powder.
+
+        ***How to use:***
+        - Just add pinch, mix or blend into your favourite medium.
+        - Add a tiny amount to your monomer, acrylic powders, hard gel or hybrid gels.
+        - Blend two shades together to create a new shade. The more you add you may have to extend your curing times.
+
+        *⚠️ Wear a mask, and have good ventilation, especially when filing. Keep away from eyes, lips, and other parts of the body.*
+    mica/blue:
+      title: "Blue Mica Mixer"
+      product:
+        shopify: 7079230636068
+        restocking: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/mica/mica-07.jpg
+        - products/mica/mica-01.jpg
+      writeupMarkdown: |
+        Fine Mica Powder. Very strong colour pigments with a shimmer to reflect light.
+
+        5 grams of powder.
+
+        ***How to use:***
+        - Just add pinch, mix or blend into your favourite medium.
+        - Add a tiny amount to your monomer, acrylic powders, hard gel or hybrid gels.
+        - Blend two shades together to create a new shade. The more you add you may have to extend your curing times.
+
+        *⚠️ Wear a mask, and have good ventilation, especially when filing. Keep away from eyes, lips, and other parts of the body.*
+    mica/white:
+      title: "White Mica Mixer"
+      product:
+        shopify: 7079238762532
+        restocking: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/mica/mica-02.jpg
+        - products/mica/mica-01.jpg
+      writeupMarkdown: |
+        Fine Mica Powder. Very strong colour pigments with a shimmer to reflect light.
+
+        5 grams of powder.
+
+        ***How to use:***
+        - Just add pinch, mix or blend into your favourite medium.
+        - Add a tiny amount to your monomer, acrylic powders, hard gel or hybrid gels.
+        - Blend two shades together to create a new shade. The more you add you may have to extend your curing times.
+
+        *⚠️ Wear a mask, and have good ventilation, especially when filing. Keep away from eyes, lips, and other parts of the body.*
+    mica/gold:
+      title: "Gold Mica Mixer"
+      product:
+        shopify: 7079240564772
+        restocking: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/mica/mica-03.jpg
+        - products/mica/mica-01.jpg
+      writeupMarkdown: |
+        Fine Mica Powder. Very strong colour pigments with a shimmer to reflect light.
+
+        5 grams of powder.
+
+        ***How to use:***
+        - Just add pinch, mix or blend into your favourite medium.
+        - Add a tiny amount to your monomer, acrylic powders, hard gel or hybrid gels.
+        - Blend two shades together to create a new shade. The more you add you may have to extend your curing times.
+
+        *⚠️ Wear a mask, and have good ventilation, especially when filing. Keep away from eyes, lips, and other parts of the body.*
+    disco-squares:
+      title: "Disco Ball Squares"
+      product:
+        shopify: 7048095858724
+        restockingSoon: true
+        isNew: false
+      carousel:
+        aspectRatio: 3x2
+        images:
+        - products/disco-squares/disco-01.jpg
+        - products/disco-squares/disco-02.jpg
+        - products/disco-squares/disco-03.jpg
+        - products/disco-squares/disco-04.jpg
+      writeupMarkdown: |
+        Small Silver Squares that a super reflective. When you move them you can see the multicolours.
+
+        How to Use:
+        - Can be used with Gel, Acrylic, Tips, can even be adhered with top coats.
+    real-24-karat-gold:
+      title: "Real 24 Karat Gold Sheets"
+      product:
+        shopify: 7036871278628
+        restockingSoon: true
+        isNew: false
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/real-24-karat-gold/gold-03.jpg
+        - products/real-24-karat-gold/gold-01.jpg
+        - products/real-24-karat-gold/gold-02.jpg
+      writeupMarkdown: |
+        2 sheets of gold, each 3.25" by 3.25" inches.
+
+        Yes, it’s really 24 K REAL Gold.
+
+        You can apply it in tiny sections, or cover the entire nail. Looks beautiful to accent any design. Add a little 24 K, and take your design from *"nice"* to *"stunning"!*
+
+        **HOW TO USE:**
+
+        - ⚠️ Use clean tweezers (don't touch with fingers!)
+        - ⚠️ The gold sheets are very lightweight and delicate — be careful not to fold or crumple them.
+        - Using tweezers place gold on nail.
+        - Move very slowly when working with this gold.
+        - Trim off access with cuticle stick or tweezers.
+        - (Optional) Using [Gold Press Brush](/store/products/gold-press-brush), press gently and massage gold to a shine.
+        - Once you have achieved the look you want, set your design with ['Reveal' Top Coat](/store/products/reveal-top-coat)
+    dried-flowers:
+      title: "Dried Flower Collection"
+      product:
+        shopify: 6990867595300
+        restockingSoon: true
+        isNew: false
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/dried-flowers/dried-flowers-08.jpg
+        - products/dried-flowers/dried-flowers-01.jpg
+        - products/dried-flowers/dried-flowers-09.jpg
+        - products/dried-flowers/dried-flowers-10.jpg
+        - products/dried-flowers/dried-flowers-02.jpg
+        - products/dried-flowers/dried-flowers-03.jpg
+        - products/dried-flowers/dried-flowers-04.jpg
+        - products/dried-flowers/dried-flowers-05.jpg
+        - products/dried-flowers/dried-flowers-06.jpg
+        - products/dried-flowers/dried-flowers-07.jpg
+      writeup: |
+        <p><em>(Size 1 oz)</em></p>
+        <p>Don’t be fooled by the little glass jar - there’s a lot of flowers in here! 150 real flowers. From big petals to tiny petals, and white and pastel colours to vivid royal blue and bright pink. Ranging in all sizes. Many pieces of leaves included to fill in some foliage. Also includes over 100 paper flowers.</p>
+        <p>Use as an In-Lay with Acrylic, Hard Gel, and Hybrid Gel. Can also be used with Suzie's Quick Tips.</p>
+        <p><em>Tip</em> — place a bigger flower as a focal point and cut up tiny flowers to fill and place around. Don’t forget the leaves.</p>
+    tweezers:
+      title: "Tweezers"
+      product:
+        shopify: 6990874902564
+        restockingSoon: true
+        isNew: false
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/tweezers/tweezers-01.jpg
+        - products/tweezers/tweezers-02.jpg
+        - products/tweezers/tweezers-03.jpg
+      writeupMarkdown: |
+        These tiny tipped tweezers grab even the smallest nail art pieces, making tedious tasks a lot easier! Save the frustration, and do it with style in a gold coloured finish.
+    jem-jab:
+      title: "Jem Jab"
+      product:
+        shopify: 6875095040036
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/jem-jab/jemjab-01.jpg
+        - products/jem-jab/jemjab-02.jpg
+        - products/jem-jab/jemjab-03.jpg
+      writeupMarkdown: |
+        **Suzie's Nail Art Tool**
+
+        This ‘Jem Jab’ has two functional ends…
+        - The wax tip end picks up and releases gems easily onto the nail.
+        - The pointy end allows you to delicately adjust your gems.
+
+        This Jem Jab is unique in that its pointy end is particularly tiny, which allows you to adjust the tiniest of gems and beads.
+
+        Easy wipe clean with alcohol if any gel or polish transfers.
+    caviar/bright-gold:
+      title: "Bright Gold Caviar Beads"
+      product:
+        shopify: 6944660652068
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/caviar-beads/caviar-beads-01.jpg
+        - products/caviar-beads/caviar-beads-02.jpg
+      writeupMarkdown: |
+        **A little sparkle goes a long way…**
+
+        These Caviar Beads are 0.6mm and 0.4mm small, making them a collection of the tiniest beads in the nail industry. Such small beads are unique and expensive as they are difficult to make. 
+        Adding these tiny beads to your designs brings such a level of detail and sophistication. It really is all in the details.
+
+        **How to use**
+        1. Pour a small amount into a dish to see the different sized beads. (I recommend the [Gem Catcher](/store/products/gem-catcher) — designed to easily be poured back into jar).
+        1. Using a tiny brush, gather a bit of gel and place onto the beads to gather several. Lay them onto your nail by pushing them into place.
+        1. Alternatively, to grab one bead, use the wax side of a [Jem Jab](/store/products/jem-jab) and place onto wet acrylic or gel. Then use the pointy end and adjust into place.
+
+        Note: [Jem Jab](/store/products/jem-jab) is not included. [Gem Catcher](/store/products/gem-catcher) is not included. Keep out of reach of children.
+    caviar/pewter:
+      title: "Pewter Caviar Beads"
+      product:
+        shopify: 6944659734564
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/caviar-beads/caviar-beads-03.jpg
+        - products/caviar-beads/caviar-beads-04.jpg
+      writeupMarkdown: |
+        **A little sparkle goes a long way…**
+
+        These Caviar Beads are 0.6mm and 0.4mm small, making them a collection of the tiniest beads in the nail industry. Such small beads are unique and expensive as they are difficult to make. 
+        Adding these tiny beads to your designs brings such a level of detail and sophistication. It really is all in the details.
+
+        **How to use**
+        1. Pour a small amount into a dish to see the different sized beads. (I recommend the [Gem Catcher](/store/products/gem-catcher) — designed to easily be poured back into jar).
+        1. Using a tiny brush, gather a bit of gel and place onto the beads to gather several. Lay them onto your nail by pushing them into place.
+        1. Alternatively, to grab one bead, use the wax side of a [Jem Jab](/store/products/jem-jab) and place onto wet acrylic or gel. Then use the pointy end and adjust into place.
+
+        Note: [Jem Jab](/store/products/jem-jab) is not included. [Gem Catcher](/store/products/gem-catcher) is not included. Keep out of reach of children.
+    caviar/pearl:
+      title: "Pearl Caviar Beads"
+      product:
+        shopify: 6944660488228
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/caviar-beads/caviar-beads-05.jpg
+        - products/caviar-beads/caviar-beads-06.jpg
+      writeupMarkdown: |
+        **A little sparkle goes a long way…**
+
+        These Caviar Beads are 0.6mm and 0.4mm small, making them a collection of the tiniest beads in the nail industry. Such small beads are unique and expensive as they are difficult to make. 
+        Adding these tiny beads to your designs brings such a level of detail and sophistication. It really is all in the details.
+
+        **How to use**
+        1. Pour a small amount into a dish to see the different sized beads. (I recommend the [Gem Catcher](/store/products/gem-catcher) — designed to easily be poured back into jar).
+        1. Using a tiny brush, gather a bit of gel and place onto the beads to gather several. Lay them onto your nail by pushing them into place.
+        1. Alternatively, to grab one bead, use the wax side of a [Jem Jab](/store/products/jem-jab) and place onto wet acrylic or gel. Then use the pointy end and adjust into place.
+
+        Note: [Jem Jab](/store/products/jem-jab) is not included. [Gem Catcher](/store/products/gem-catcher) is not included. Keep out of reach of children.
+    twinkle-sprinkle:
+      title: "Twinkle Sprinkle"
+      product:
+        shopify: 6875089403940
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/twinkle-sprinkle/twinkle-sprinkle-01.jpg
+      writeup: |
+        <h2>High Quality 1mm Tiny Micro Crystal AB Rhinestones</h2>
+        <p>10.5 grams</p>
+        <h3>Instructions</h3>
+        <ol>
+          <li>Pour or dip freshly painted nails with ‘Twinkle Sprinkle’</li>
+          <li>Apply polish on top</li>
+          <li>Let dry</li>
+        </ol><br>
+        <p>Suzie used this product in her video: <em>"Mrs. Clause Builds Icicles"</em>:</p>
+        <div class="youtube-embed"><iframe src="https://www.youtube.com/embed/_D7uDG1TO18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+    gem-catcher:
+      title: "Gem Catcher"
+      product:
+        shopify: 6875099463716
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/gem-catcher/gemcatcher-01.jpg
+        - products/gem-catcher/gemcatcher-02.jpg
+      writeupMarkdown: |
+        **Suzie's Gem Catcher Dish**
+
+        The triangle shape of this gem dish is key! This allows you to easily pour your glitter or gems back into their jars by using one of the three corners.
+
+        Use this dish to collect any nail art that may fall during application, and then effortlessly pour back in to save your nail art and eliminate waste.
+    silvery-gems:
+      title: "Silvery Assorted Gems"
+      product:
+        shopify: 6875102871588
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/silvery-gems/silvery-gems-01.jpg
+        - products/silvery-gems/silvery-gems-02.jpg
+      writeup: |
+        <h2>Suzie's New Silvery Nail Art Gems</h2>
+        <p>This jar is loaded with flatbacks, pearls, large and small. Crystal flatbacks of several different sizes, half circles, and arrowheads.</p>
+        <ul>
+          <li>Keep out of reach of children</li>
+        </ul><br>
+        <p>Suzie used this product in her video: <em>"Mrs. Clause Builds Icicles"</em>:</p>
+        <div class="youtube-embed"><iframe src="https://www.youtube.com/embed/_D7uDG1TO18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+    golden-gems:
+      title: "Golden Assorted Gems"
+      product:
+        shopify: 6944658784292
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/golden-gems/golden-gems-01.jpg
+        - products/golden-gems/golden-gems-02.jpg
+      writeup: |
+        <h2>Suzie's New Golden Nail Art Gems</h2>
+        <p>This little jar is LOADED with so many gems! Over 1400 pieces!</p>
+        <p>Triangles, squares, circles, feathers, stars, starburst, beads, studs, shells, rectangles, solid triangles, half circles in two sizes, caviar beads, and more</p>
+        <ul>
+          <li>Keep out of reach of children</li>
+        </ul>
+    rainbow-crystals:
+      title: "Rainbow Crystals"
+      product:
+        shopify: 6944657506340
+        restockingSoon: true
+      carousel:
+        aspectRatio: 3x2
+        images:
+        - products/rainbow-crystals/rainbow-01.jpg
+        - products/rainbow-crystals/rainbow-layers.jpg
+      writeup: |
+        <h2>Suzie's Rainbow Crystals Nail Art</h2>
+        <p>Diamonds, circles, rectangles, teardrops, and super-tiny beads.</p>
+        <ul>
+          <li>Keep out of reach of children</li>
+        </ul>
+    ice-crystals:
+      title: "Ice Crystals"
+      product:
+        shopify: 6875103199268
+        restockingSoon: true
+      carousel:
+        aspectRatio: 3x2
+        images:
+        - products/ice-crystals/icecrystals-01.jpg
+        - products/ice-crystals/xmas-icicles-03.jpg
+        - products/ice-crystals/xmas-icicles-06.jpg
+      writeup: |
+        <h2>Suzie's Ice Crystals Nail Art</h2>
+        <p>Diamonds, circles, rectangles, teardrops, and super-tiny beads.</p>
+        <ul>
+          <li>Keep out of reach of children</li>
+        </ul><br>
+        <p>Suzie used this product in her video: <em>"Mrs. Clause Builds Icicles"</em>:</p>
+        <div class="youtube-embed"><iframe src="https://www.youtube.com/embed/_D7uDG1TO18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+    3d-diamond-shapes/all-six-colors:
+      hideFromIndex: true
+      title: "All Six Colors - 3D Diamond Shapes"
+      product:
+        shopify: 6859170218020
+        restockingSoon: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/diamond-shapes/3d-diamond-shape-set.jpg
+      writeupMarkdown: |
+        Decorative 3D Diamond shaped nail art pieces that catch light and add colour, sparkle and shine. Use as inlays or on top of polish.
+
+        This set includes all six stunning colours:
+        - Blue Green
+        - Blue Hues
+        - Blue Ice
+        - Emerald Green
+        - Pink Gold
+        - Red Gold
+
+        **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
+    3d-diamond-shapes/blue-green:
+      title: "Blue Green - 3D Diamond Shapes"
+      product:
+        shopify: 6856054308900
+        restockingSoon: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/diamond-shapes/blue-green.jpg
+      writeupMarkdown: |
+        Decorative 3D Diamond shaped nail art pieces that catch light and add colour, sparkle and shine. Use as inlays or on top of polish.
+
+        **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
+    3d-diamond-shapes/blue-hues:
+      title: "Blue Hues - 3D Diamond Shapes"
+      product:
+        shopify: 6856055717924
+        restockingSoon: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/diamond-shapes/blue-hues.jpg
+      writeupMarkdown: |
+        Decorative 3D Diamond shaped nail art pieces that catch light and add colour, sparkle and shine. Use as inlays or on top of polish.
+
+        **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
+    3d-diamond-shapes/blue-ice:
+      hideFromIndex: true
+      title: "Blue Ice - 3D Diamond Shapes"
+      product:
+        shopify: 6855999914020
+        restockingSoon: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/diamond-shapes/blue-ice.jpg
+      writeupMarkdown: |
+        Decorative 3D Diamond shaped nail art pieces that catch light and add colour, sparkle and shine. Use as inlays or on top of polish.
+
+        **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
+    3d-diamond-shapes/emerald-green:
+      title: "Emerald Green - 3D Diamond Shapes"
+      product:
+        shopify: 6856057618468
+        restockingSoon: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/diamond-shapes/emerald-green.jpg
+      writeupMarkdown: |
+        Decorative 3D Diamond shaped nail art pieces that catch light and add colour, sparkle and shine. Use as inlays or on top of polish.
+
+        **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
+    3d-diamond-shapes/pink-gold:
+      title: "Pink Gold - 3D Diamond Shapes"
+      product:
+        shopify: 6856058404900
+        restockingSoon: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/diamond-shapes/pink-gold.jpg
+      writeupMarkdown: |
+        Decorative 3D Diamond shaped nail art pieces that catch light and add colour, sparkle and shine. Use as inlays or on top of polish.
+
+        **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
+    3d-diamond-shapes/red-gold:
+      title: "Red Gold - 3D Diamond Shapes"
+      product:
+        shopify: 6856062173220
+        restockingSoon: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/diamond-shapes/red-gold.jpg
+      writeupMarkdown: |
+        Decorative 3D Diamond shaped nail art pieces that catch light and add colour, sparkle and shine. Use as inlays or on top of polish.
+
+        **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
+    gem-jars/frosted-white-glitter:
+      title: "Frosted White Glitter - Gem Jar"
+      product:
+        shopify: 6839712841764
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/gem-jars/gem-frosted-white-glitter.jpg
+      writeupMarkdown: |
+        A magically sparkly white glitter to add that something EXTRA to your nail designs.
+
+        Pour this glitter right from the jar onto freshly painted nails– or dip each nail straight into the jar!
+
+        *Pro Tip:* Very gently pat glitter onto the nail to ensure it’s secured before allowing it to dry.
+    foils/gold:
+      title: "Golden Foil"
+      product:
+        shopify: 6828675137572
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/foil/foil-gold.jpg
+      writeupMarkdown: |
+        Use this eye catching foil on your nails as inlays or on top of polish. Unleash its full vibrancy with a top coat!
+
+        - **For Inlay:** Place pieces of foil in between layers of hard gel, acrylic, or hybrids. Place on top of uncured acrylic or before you cure gels. Apply your product of choice on top. Watch it brighten and come to life as you apply a top coat!
+        - **For Polish Secure:** Place on top of nail polish, gel polish, or fully sculpted nail enhancements. Apply to freshly applied polish or gel polish before you cure it. Apply a top coat to secure your foil and unleash its full vibrance!
+    foils/silver:
+      title: "Silvery Foil"
+      product:
+        shopify: 6828676612132
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/foil/foil-silver.jpg
+      writeupMarkdown: |
+        Use this eye catching foil on your nails as inlays or on top of polish. Unleash its full vibrancy with a top coat!
+
+        - **For Inlay:** Place pieces of foil in between layers of hard gel, acrylic, or hybrids. Place on top of uncured acrylic or before you cure gels. Apply your product of choice on top. Watch it brighten and come to life as you apply a top coat!
+        - **For Polish Secure:** Place on top of nail polish, gel polish, or fully sculpted nail enhancements. Apply to freshly applied polish or gel polish before you cure it. Apply a top coat to secure your foil and unleash its full vibrance!
+    foils/gold-and-copper:
+      title: "Golden & Copper Coloured Foil"
+      product:
+        shopify: 6828678971428
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/foil/foil-gold-and-copper.jpg
+      writeupMarkdown: |
+        Use this eye catching foil on your nails as inlays or on top of polish. Unleash its full vibrancy with a top coat!
+
+        - **For Inlay:** Place pieces of foil in between layers of hard gel, acrylic, or hybrids. Place on top of uncured acrylic or before you cure gels. Apply your product of choice on top. Watch it brighten and come to life as you apply a top coat!
+        - **For Polish Secure:** Place on top of nail polish, gel polish, or fully sculpted nail enhancements. Apply to freshly applied polish or gel polish before you cure it. Apply a top coat to secure your foil and unleash its full vibrance!
+    foils/gold-and-green:
+      title: "Golden & Green Coloured Foil"
+      product:
+        shopify: 6828677595172
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/foil/foil-gold-and-green.jpg
+      writeupMarkdown: |
+        Use this eye catching foil on your nails as inlays or on top of polish. Unleash its full vibrancy with a top coat!
+
+        - **For Inlay:** Place pieces of foil in between layers of hard gel, acrylic, or hybrids. Place on top of uncured acrylic or before you cure gels. Apply your product of choice on top. Watch it brighten and come to life as you apply a top coat!
+        - **For Polish Secure:** Place on top of nail polish, gel polish, or fully sculpted nail enhancements. Apply to freshly applied polish or gel polish before you cure it. Apply a top coat to secure your foil and unleash its full vibrance!
+
+polish:
+  label: "Polish"
+  products:
+    polish/reflection/collection:
+      title: "Reflection Collection All 12 Polishes"
+      product:
+        shopify: 6728291483684
+        restockingSoon: true
+      carousel:
+        aspectRatio: 3x2
+        images:
+        - products/polish/reflection/polish-reflection-collection-01.jpg
+      writeupMarkdown: |
+        *(This collection includes all Reflection Collection polishes #1 through #12)*
+
+        Twelve polish colours by KCE specially selected by Suzie. Each of these polish colours are shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply these polishes onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** These polishes are highly pigmented, so they may stain, which is a good reason to apply onto top coat.
+    polish/reflection/1:
+      title: "Reflection Collection #1 Suzie's Shade"
+      product:
+        shopify: 6725867765796
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/polish/reflection/polish-01.jpg
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
+    polish/reflection/2:
+      title: "Reflection Collection #2 Cameraman Blue"
+      product:
+        shopify: 6725869535268
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/polish/reflection/polish-02.jpg
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
+    polish/reflection/3:
+      title: "Reflection Collection #3 Silver Screen"
+      product:
+        shopify: 6725869928484
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/polish/reflection/polish-03.jpg
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
+    polish/reflection/4:
+      title: "Reflection Collection #4 Gold Kisses"
+      product:
+        shopify: 6725872812068
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/polish/reflection/polish-04.jpg
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
+    polish/reflection/5:
+      title: "Reflection Collection #5 Gold on my Tea Cup"
+      product:
+        shopify: 6725873893412
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/polish/reflection/polish-05.jpg
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
+    polish/reflection/6:
+      title: "Reflection Collection #6 Bumblebee Bum"
+      product:
+        shopify: 6725875761188
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/polish/reflection/polish-06.jpg
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
+    polish/reflection/7:
+      title: "Reflection Collection #7 Boujee Blush"
+      product:
+        shopify: 6725878644772
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/polish/reflection/polish-07.jpg
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
+    polish/reflection/8:
+      title: "Reflection Collection #8 Trying to be Subtle"
+      product:
+        shopify: 6725879660580
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/polish/reflection/polish-08.jpg
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
+    polish/reflection/9:
+      title: "Reflection Collection #9 In Your Face Fuchsia"
+      product:
+        shopify: 6725880152100
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/polish/reflection/polish-09.jpg
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
+    polish/reflection/10:
+      title: "Reflection Collection #10 Grant's Pants"
+      product:
+        shopify: 6725880250404
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/polish/reflection/polish-10.jpg
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
+    polish/reflection/11:
+      title: "Reflection Collection #11 Fairy Fire Red"
+      product:
+        shopify: 6725880709156
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/polish/reflection/polish-11.jpg
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
+    polish/reflection/12:
+      title: "Reflection Collection #12 Goth's Secret"
+      product:
+        shopify: 6725881528356
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/polish/reflection/polish-12.jpg
+      writeupMarkdown: |
+        *BOLD* polish colour by KCE specially selected by Suzie. This polish colour is shiny, fast drying, high pigmented– and sure to make a statement!
+
+        *Tip:* For maximum shine, apply onto a top coat layer (either gel or polish top coat).
+
+        ***Note:*** This is a highly pigmented polish, which may stain, which is a good reason to apply onto top coat.
+
+        Browse the [all 12 Reflection Collection polishes](/store/#polish) in the store
+
+_uncategorized:
+  products:
+    chrome/halloween/1:
+      title: "Chrome Powder: Frank's Complexion"
+      product:
+        shopify: 6761809870884
+        restockingSoon: false
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/chrome/halloween/halloween-chrome-01.jpg
+      writeup: |
+        <h3>Suzie's Chrome Powder</h3>
+        <ul>
+          <li>Example photo above shows two sample tips: one with black gel as a base, and the other with white gel as a base.</li>
+          <li>Each chrome powder comes with an applicator.</li>
+        </ul>
+        <h3>Directions</h3>
+        <ol>
+          <li>Apply chrome powder with applicator to a cured gel top coat. Burnish powder onto top coat until fully covered. Completely dust off any powder residue.</li>
+          <li>Apply a top coat of gel to protect chrome from scuffing off.</li>
+        </ol>
+        <h3>Tips</h3>
+        <ul>
+          <li>Use black gel as a base for a deeper more intense colour.</li>
+          <li>Use white gel as a base for a less intense colour.</li>
+        </ul>
+    chrome/halloween/2:
+      title: "Chrome Powder: Carve Me A Pumpkin"
+      product:
+        shopify: 6761810034724
+        restockingSoon: false
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/chrome/halloween/halloween-chrome-02.jpg
+      writeup: |
+        <h3>Suzie's Chrome Powder</h3>
+        <ul>
+          <li>Example photo above shows two sample tips: one with black gel as a base, and the other with white gel as a base.</li>
+          <li>Each chrome powder comes with an applicator.</li>
+        </ul>
+        <h3>Directions</h3>
+        <ol>
+          <li>Apply chrome powder with applicator to a cured gel top coat. Burnish powder onto top coat until fully covered. Completely dust off any powder residue.</li>
+          <li>Apply a top coat of gel to protect chrome from scuffing off.</li>
+        </ol>
+        <h3>Tips</h3>
+        <ul>
+          <li>Use black gel as a base for a deeper more intense colour.</li>
+          <li>Use white gel as a base for a less intense colour.</li>
+        </ul>
+    chrome/halloween/3:
+      title: "Chrome Powder: Vampire's Cape"
+      product:
+        shopify: 6761811836964
+        restockingSoon: false
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/chrome/halloween/halloween-chrome-03.jpg
+      writeup: |
+        <h3>Suzie's Chrome Powder</h3>
+        <ul>
+          <li>Example photo above shows two sample tips: one with black gel as a base, and the other with white gel as a base.</li>
+          <li>Each chrome powder comes with an applicator.</li>
+        </ul>
+        <h3>Directions</h3>
+        <ol>
+          <li>Apply chrome powder with applicator to a cured gel top coat. Burnish powder onto top coat until fully covered. Completely dust off any powder residue.</li>
+          <li>Apply a top coat of gel to protect chrome from scuffing off.</li>
+        </ol>
+        <h3>Tips</h3>
+        <ul>
+          <li>Use black gel as a base for a deeper more intense colour.</li>
+          <li>Use white gel as a base for a less intense colour.</li>
+        </ul>
+    chrome/halloween/4:
+      title: "Chrome Powder: Hallo's Night"
+      product:
+        shopify: 6761813606436
+        restockingSoon: false
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/chrome/halloween/halloween-chrome-04.jpg
+      writeup: |
+        <h3>Suzie's Chrome Powder</h3>
+        <ul>
+          <li>Example photo above shows two sample tips: one with black gel as a base, and the other with white gel as a base.</li>
+          <li>Each chrome powder comes with an applicator.</li>
+        </ul>
+        <h3>Directions</h3>
+        <ol>
+          <li>Apply chrome powder with applicator to a cured gel top coat. Burnish powder onto top coat until fully covered. Completely dust off any powder residue.</li>
+          <li>Apply a top coat of gel to protect chrome from scuffing off.</li>
+        </ol>
+        <h3>Tips</h3>
+        <ul>
+          <li>Use black gel as a base for a deeper more intense colour.</li>
+          <li>Use white gel as a base for a less intense colour.</li>
+        </ul>
+    crystal-gold-brush:
+      title: "Suzie’s Acrylic Brush: Crystal-handle & Gold Edition"
+      product:
+        shopifyUid: Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY2MDYxMDQ0Mjg1ODA=
+        restockingSoon: false
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/crystal-gold-brush/crystal-gold-brush-01.jpg
+        - products/crystal-gold-brush/crystal-gold-brush-02.jpg
+      writeup: |
+        <h3>Suzie’s first size #6 brush!</h3>
+        <p>The most important tool for a nail tech is their brush. What matters most is its functionality— next to how it looks, of course...</p>
+        <p>In rose gold with a crystal handle, this brush is smaller and sleeker to help you get that perfect bead just right with the correct liquid to powder ratio! It’s also excellent for applying jelly tips.</p>
+        <p>Take care of this baby, and this brush will help you create beautiful nails for years to come.</p>
+        <ul>
+          <li>Chemical resistant rose gold casing</li>
+          <li>Matching rose gold lid— to ensure brush longevity</li>
+          <li>Made with genuine kolinksy</li>
+        </ul>
+    pride-brushes:
+      title: "Suzie’s Pride Brushes"
+      product:
+        shopifyUid: Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY2MjAxNjI2MjE0NzY=
+        restockingSoon: false
+      carousel:
+        aspectRatio: 3x2
+        images:
+        - products/pride-set/pride-set-01.jpg
+        - products/pride-set/pride-set-02.jpg
+        - products/pride-set/pride-set-03.jpg
+      writeup: |
+        <h3>Pride Acrylic Brush</h3>
+        <ul class="happytags">
+          <li>Size #6 kolinsky hair</li>
+          <li>Chemical-resistant metal casing</li>
+          <li>Multi-colour finish</li>
+          <li>Cap included</li>
+        </ul>
+        <p>Whether you're just learning or highly experienced, this #6 oval brush is excellent to obtain the right amount of monomer to create acrylic beads. The fine point will maintain its shape for those tiny corners you're trying to fill, which is great for shaping crisp French Lines. Take care of this brush, and it will last years.</p>
+        <h3>Pride Duster</h3>
+        <ul class="happytags">
+          <li>Soft nylon</li>
+          <li>Slender handle</li>
+          <li>Multi-colour finish</li>
+        </ul>
+        <p>This soft nylon duster will gently remove unwanted dust or glitter from hands and your nail table. Use the duster before applying any acrylic, gel, or polish.</p>
