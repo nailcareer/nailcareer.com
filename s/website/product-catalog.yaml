@@ -2,6 +2,40 @@
 accessories:
   label: "Accessories"
   products:
+    practice-finger-kit:
+      title: "Practice Finger Kit"
+      product:
+        shopify: 7089665540132
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/practice-fingers/practice-fingers-01.jpg
+      writeupMarkdown: |
+        Three adjustable fingers, and a stand. They pivots and bend, simulating a human fingers. Comes with 100 detachable and disposable nail tips.
+
+        **How to use:**
+        - Place one of the fingers on the stand.
+        - You can detach the reusable tips by snapping it right off of the simulated finger. Simply snap in a new tip.
+        - I highly recommend using these practice fingers before you get to work on any humans. Practice your skills and you’ll be much more confident when you’re working with actual fingers
+    lets-get-messy-tile:
+      title: "\"Let's Get Messy\" Tile"
+      product:
+        shopify: 7089664655396
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/lets-get-messy/lets-get-messy-01.jpg
+      writeupMarkdown: |
+        This tile surface is perfect for mixing and blending gels, soft gels, hybrid gels, or just using the solid surface to use your Jem Jab to collect gemstones. The smooth non-porous surface is so easy to wipe clean.
+
+        **How to use:**
+        - Place any type of product on the surface of your tile.
+        - Excellent for mixing and grabbing tiny things, like from your gemstones collection, because the surface makes it very easy to pick them up with a tool like the Jem Jab.
+        - Wipe with tissue soaked in acetone or alcohol will clean the surface beautifully.
     glass-dispenser:
       title: "Glass Dispenser"
       product:
@@ -472,6 +506,26 @@ acrylic:
 brushes:
   label: "Brushes"
   products:
+    synthetic-acrylic-brush/oval-8:
+      title: "Oval #8 Synthetic Acrylic Brush"
+      product:
+        shopify: 7089666621476
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/synthetic-acrylic-brush/oval-8-01.jpg
+      writeupMarkdown: |
+        Excellent for learning acrylic especially with Low Odour Monomer. Synthetic hairs are much less absorbent. So makes working with monomers easier to create perfect beads, because it holds less monomer.
+
+        Always store with the cap on, to keep the brush soft for your next usage.
+
+        **How to Use:**
+        - This gold beauty holds much less monomer than natural hair brushes. If you've had issues in the past with runny beads, then this might be the brush for you!
+        - After use, roll to make sure no product is stuck in bristles.
+        - Clean this brush with ALCOHOL ONLY.
+        - Keep in mind, acetone will destroy hairs.
     hybrid-gel-brush:
       title: "Hybrid Gel Brush"
       product:
