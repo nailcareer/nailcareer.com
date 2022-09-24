@@ -7,7 +7,7 @@
 	"type": "module",
 	"scripts": {
 		"build": "run-s clean link-node_modules link-s verifications && run-p compile-tsc compile-sass importmap assets && run-p compile-bundle && run-p compile-website-production",
-		"clean": "rimraf x && mkdirp x x/assets/images",
+		"clean": "rimraf x && mkdirp x x/assets/images x/assets/graphics",
 		"verifications": "cp s/website/verifications/facebook/* x && cp s/website/verifications/pinterest/* x",
 		"link-s": "ln -s $(realpath s) x/s",
 		"link-xiome": "rm -rf node_modules/xiome && ln -s $(realpath ../xiome) node_modules/xiome",
