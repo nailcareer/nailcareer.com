@@ -73,6 +73,8 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 						<div slot=before-checkout>
 							<p class=note>Prices on final checkout page are shown in US Dollars.</p>
 							<p class=note>Shipping is currently only available within North America.</p>
+							<p class=note>Orders are usually processed within five business days.</p>
+							<p class=note>Email <nce-email user="hello" domain="nailcareer.com"></nce-email> if you'd like to arrange local pickup in Langford BC, Canada.</p>
 							<p class=terms><strong>Terms:</strong> Professional use only.</p>
 						</div>
 					</shopper-cart>
