@@ -8,7 +8,6 @@ import {Component, mixinLightDom, html, property, mixinStyles, css, TemplateResu
 }
 
 `)
-@mixinLightDom
 export class NceEmail extends Component {
 
 	@property({type: String, reflect: true})

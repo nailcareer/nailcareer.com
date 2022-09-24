@@ -34,7 +34,7 @@ export class NceFooter extends Component {
 		return html`
 			<footer>
 				<p><strong>Suzie’s Nail Career Education Inc</strong></p>
-				<p>Email <nce-email user="hello" domain="nailcareer.com"></nce-email> for customer support or business inquiries</p>
+				<p>Email <nce-email exportparts="link" user="hello" domain="nailcareer.com"></nce-email> for customer support or business inquiries</p>
 				<p>
 					Store
 					<a part=link target=_blank href="https://github.com/nailcareer/nailcareer.com/blob/master/legal/privacy-policy.md">privacy policy</a>
