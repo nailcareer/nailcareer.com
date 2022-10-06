@@ -23,7 +23,7 @@ If after you opt-in, you change your mind, you may withdraw your consent for us 
 
 Suzie's Nail Career Education Inc 
 
-`4050 Altamont Ave. Victoria, BC, V8Z 5H2`
+`111-2787 Jacklin Road, Victoria British Columbia V9B 3X7, Canada`
 
 ## SECTION 3 - DISCLOSURE
 
@@ -109,4 +109,4 @@ Suzie's Nail Career Education Inc
 
 [Re: Privacy Compliance Officer] 
 
-`4050 Altamont Ave. Victoria, BC, V8Z 5H2`
+`111-2787 Jacklin Road, Victoria British Columbia V9B 3X7, Canada`

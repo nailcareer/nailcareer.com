@@ -47,7 +47,7 @@ Only regular priced items may be refunded, unfortunately sale items cannot be re
 
 ### Exchanges (if applicable)
 
-We only replace items if they are defective or damaged. If you need to exchange it for the same item, send us an email at hello@nailcareer.com and send your item to: `4050 Altamont Ave. Victoria, BC, V8Z 5H2`
+We only replace items if they are defective or damaged. If you need to exchange it for the same item, send us an email at hello@nailcareer.com and send your item to: `111-2787 Jacklin Road, Victoria British Columbia V9B 3X7, Canada`
 
 ### Gifts
 
@@ -57,7 +57,7 @@ If the item wasn’t marked as a gift when purchased, or the gift giver had the 
 
 ### Shipping
 
-To return your product, you should mail your product to: `4050 Altamont Ave. Victoria, BC, V8Z 5H2`
+To return your product, you should mail your product to: `111-2787 Jacklin Road, Victoria British Columbia V9B 3X7, Canada`
 
 You will be responsible for paying for your own shipping costs for returning your item. Shipping costs are non-refundable. If you receive a refund, the cost of return shipping will be deducted from your refund.
 
