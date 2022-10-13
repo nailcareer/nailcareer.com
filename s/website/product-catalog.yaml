@@ -126,6 +126,7 @@ accessories:
       writeup: |
         <p>Display your nail art on this adorable nail tip bar. Very handy to show your work for glamour shots. Includes five golden posts and a pack of assorted tips.</p>
     # apron:
+    #   hideFromIndex: true
     #   title: "Suzie’s Apron"
     #   product:
     #     shopifyUid: Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE1MDI3MDAyMDgxNjQ=
@@ -1952,6 +1953,7 @@ nail-art:
 
         **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
     3d-diamond-shapes/blue-green:
+      hideFromIndex: true
       title: "Blue Green - 3D Diamond Shapes"
       product:
         shopify: 6856054308900
@@ -1965,6 +1967,7 @@ nail-art:
 
         **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
     3d-diamond-shapes/blue-hues:
+      hideFromIndex: true
       title: "Blue Hues - 3D Diamond Shapes"
       product:
         shopify: 6856055717924
@@ -1992,6 +1995,7 @@ nail-art:
 
         **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
     3d-diamond-shapes/emerald-green:
+      hideFromIndex: true
       title: "Emerald Green - 3D Diamond Shapes"
       product:
         shopify: 6856057618468
@@ -2005,6 +2009,7 @@ nail-art:
 
         **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
     3d-diamond-shapes/pink-gold:
+      hideFromIndex: true
       title: "Pink Gold - 3D Diamond Shapes"
       product:
         shopify: 6856058404900
@@ -2018,6 +2023,7 @@ nail-art:
 
         **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
     3d-diamond-shapes/red-gold:
+      hideFromIndex: true
       title: "Red Gold - 3D Diamond Shapes"
       product:
         shopify: 6856062173220
