@@ -71,11 +71,38 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 					<shopper-button></shopper-button>
 					<shopper-cart slot=panel require-terms-checked>
 						<div slot=before-checkout>
-							<p class=note>Prices on final checkout page are shown in US Dollars.</p>
-							<p class=note>Shipping is available to North America, United Kingdom, Ireland, Isle of Man, Australia, and New Zealand. Duty fees may apply.</p>
-							<p class=note>Orders are usually processed within five business days.</p>
-							<p class=note>Email <nce-email user="hello" domain="nailcareer.com"></nce-email> if you'd like to arrange local pickup in Langford BC, Canada.</p>
-							<p class=terms><strong>Terms:</strong> Professional use only.</p>
+							<h4>Terms</h4>
+							<details>
+								<summary>Click to see shipping details.</summary>
+								<div>
+									<p>Duty fees may apply.</p>
+									<p>Orders are usually processed within five business days.</p>
+									<p>International shipping is available to the following countries:</p>
+									<ul class=countries>
+										<li>Australia</li>
+										<li>Canada</li>
+										<li>Finland</li>
+										<li>France</li>
+										<li>Germany</li>
+										<li>Iceland</li>
+										<li>Ireland</li>
+										<li>Isle of Man</li>
+										<li>Italy</li>
+										<li>Mexico</li>
+										<li>New Zealand</li>
+										<li>Norway</li>
+										<li>Portugal</li>
+										<li>Spain</li>
+										<li>Sweden</li>
+										<li>Switzerland</li>
+										<li>United Kingdom</li>
+										<li>United States</li>
+									</ul>
+									<p>Email <nce-email user="hello" domain="nailcareer.com"></nce-email> if your country is not on this list, or if you'd like to arrange local pickup in Langford BC, Canada.</p>
+								</div>
+							</details>
+							<p>Prices on the next checkout page are shown in US Dollars.</p>
+							<p>Products are for professional use only.</p>
 						</div>
 					</shopper-cart>
 				</xio-menu-item>

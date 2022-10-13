@@ -257,6 +257,28 @@ xio-menu {
 			> * + * {
 				margin-top: 1em;
 			}
+			details {
+				> div {
+					border: 1px solid;
+					border-radius: 0.5em;
+					padding: 0.5em;
+					> * + * {
+						margin-top: 0.5em;
+					}
+				}
+			}
+			.countries {
+				list-style: none;
+				margin-left: 0.5em;
+				margin-right: 0.5em;
+				li {
+					display: inline-block;
+					padding: 0.2em;
+					border: 1px solid;
+					border-radius: 0.4em;
+					margin: 0.1em;
+				}
+			}
 		}
 		--shopper-cart-table-border: 1px solid rgba(0, 64, 128, 0.2);
 		[data-nightlight] & {
