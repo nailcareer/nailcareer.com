@@ -11,6 +11,10 @@ pageName: "store",
 pageSubtitle: "Store",
 mainHtml: html`
 
+	<ul class=infoboxes>
+		<li data-vibe=ordinary>🎁 Free gift included with orders over $250 USD!</li>
+	</ul>
+
 	<div class=plate>
 		${renderCatalogNavigation(context.catalog)}
 	</div>
