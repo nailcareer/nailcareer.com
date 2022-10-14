@@ -15,6 +15,8 @@ mainHtml: html`
 		<li data-vibe=ordinary>🎁 Free gift included with orders over $250 USD!</li>
 	</ul>
 
+	<nce-search></nce-search>
+
 	<div class=plate>
 		${renderCatalogNavigation(context.catalog)}
 	</div>
@@ -39,7 +41,6 @@ function renderCatalogNavigation(catalog: ProductCatalog) {
 	`
 }
 
-
 function renderCatalog(catalog: ProductCatalog) {
 	return Object.entries(catalog)
 		.filter(([name]) => name !== "_uncategorized")
@@ -63,6 +64,7 @@ function renderProduct(
 		name: string,
 		{
 			hideFromIndex,
+			title,
 			product: {
 				shopify,
 				shopifyUid,
@@ -76,6 +78,7 @@ function renderProduct(
 		<shopper-product
 			show-image
 			image-size="260"
+			data-title="${encodeURIComponent(title)}"
 			${attrBool("restocking-soon", restockingSoon)}
 			${attrBool("data-new", isNew)}
 			${attrMaybe("data-notice", notice)}
