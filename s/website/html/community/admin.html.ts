@@ -37,6 +37,10 @@ mainHtml: html`
 
 					<h3>All video views registered in the system</h3>
 					<xiome-video-views></xiome-video-views>
+
+					<h2>Store management</h2>
+					<xiome-store-connect></xiome-store-connect>
+					<xiome-store-subscription-planning></xiome-store-subscription-planning>
 				</xiome-login-panel>
 			</div>
 		</div>
