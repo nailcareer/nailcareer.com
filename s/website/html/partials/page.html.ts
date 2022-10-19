@@ -34,7 +34,7 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 
 	${mode === "debug"
 		? html`
-			<xiome-mock mode="app"></xiome-mock>
+			<xiome-mock mode="app" root="/node_modules/xiome/x"></xiome-mock>
 			<script defer type="importmap-shim" src="/importmap.json"></script>
 			<script defer type=module-shim src="/main.js"></script>
 			<script defer type="module-shim" src="/node_modules/xiome/x/xiome-mock.js"></script>
