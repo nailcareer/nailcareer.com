@@ -44,6 +44,9 @@ mainHtml: html`
 					</xiome-login-panel>
 				</div>
 			</div>
+			<p>hello</p>
+			<xiome-store-customer-portal></xiome-store-customer-portal>
+			<xiome-store-subscription-catalog></xiome-store-subscription-catalog>
 		</div>
 	</div>
 
