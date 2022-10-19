@@ -9,6 +9,10 @@
 	box-sizing: border-box;
 }
 
+:not(:defined) {
+	display: none !important;
+}
+
 [initially-hidden] {
 	display: none;
 }

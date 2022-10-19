@@ -109,7 +109,10 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 					<xiome-login-panel slot=panel show-logout>
 						<p slot=logged-out>Enter your email to login or create an account</p>
 						<xiome-my-account>
-							<h3>your account</h3>
+							<xiome-store-subscription-status></xiome-store-subscription-status>
+							<xiome-store-billing-area>
+								Edit Billing Settings
+							</xiome-store-billing-area>
 						</xiome-my-account>
 					</xiome-login-panel>
 				</xio-menu-item>
