@@ -53,6 +53,7 @@
 	"dependencies": {
 		"@babel/polyfill": "^7.12.1",
 		"@webcomponents/webcomponentsjs": "^2.7.0",
+		"@chasemoskal/magical": "^0.0.0",
 		"carouse": "0.0.1",
 		"es-module-shims": "^1.6.2",
 		"install": "^0.13.0",
