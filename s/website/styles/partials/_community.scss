@@ -34,18 +34,21 @@
 	}
 
 	[data-community-page="welcome"] {
-		xiome-login-panel {
-			max-width: 28em;
+		.subs {
+			text-align: center;
 		}
-		xiome-login-panel::part(buttonbar) {
-			text-align: right;
+		xiome-store-subscription-catalog {
+			&::part(tiers) {
+				justify-content: center;
+			}
+			&::part(planlabel) {
+				display: none;
+				margin-bottom: 1rem;
+			}
 		}
-		xiome-my-account {
+		xiome-store-customer-portal {
 			display: block;
-			margin: 1em 0;
-		}
-		.nextstep {
-			margin-top: 3em;
+			margin-top: 4rem;
 		}
 	}
 
