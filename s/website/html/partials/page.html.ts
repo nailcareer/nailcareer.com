@@ -22,7 +22,7 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 	<link rel=stylesheet href="${v(`/styles.css`)}"/>
 	<link rel=icon type="image/jpeg" href="/assets/images/suzie.jpg"/>
 	<link rel=preconnect href="https://fonts.googleapis.com"/>
-	<link rel=preconnect href="https://fonts.gstatic.com" crossorigin/>
+	<link rel=preconnect href="https://fonts.gstatic.com" crossorigin="anonymous"/>
 	<link rel=stylesheet href="https://fonts.googleapis.com/css2?family=Raleway&display=swap"/>
 
 	<shopper-config
@@ -109,10 +109,12 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 					<xiome-login-panel slot=panel show-logout>
 						<p slot=logged-out>Enter your email to login or create an account</p>
 						<xiome-my-account>
-							<xiome-store-subscription-status></xiome-store-subscription-status>
-							<xiome-store-billing-area>
-								Edit Billing Settings
-							</xiome-store-billing-area>
+							<div class=membersettings>
+								<xiome-store-subscription-status></xiome-store-subscription-status>
+								<xiome-store-billing-area>
+									Edit Billing Settings
+								</xiome-store-billing-area>
+							</div>
 						</xiome-my-account>
 					</xiome-login-panel>
 				</xio-menu-item>
