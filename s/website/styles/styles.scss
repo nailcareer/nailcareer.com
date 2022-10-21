@@ -322,6 +322,36 @@ xio-menu {
 	}
 }
 
+xiome-my-account {
+	.membersettings {
+		margin: 1em auto;
+		padding: 1em 0;
+		border-top: 1px solid #0004;
+		border-bottom: 1px solid #0004;
+		[data-nightlight] & {
+			border-color: #fff4;
+		}
+		> * {
+			margin: auto;
+			display: block;
+			+ * {
+				margin-top: 1em;
+			}
+		}
+	}
+	xiome-store-subscription-status {
+		&::part(cardlist) {
+			justify-content: center;
+		}
+	}
+}
+
+:is(xiome-store-subscription-status, xiome-store-subscription-catalog) {
+	&::part(tier) {
+		background: blue;
+	}
+}
+
 main {
 	text-align: center;
 }
