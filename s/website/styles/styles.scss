@@ -340,7 +340,10 @@ xiome-my-account {
 		}
 	}
 	xiome-store-subscription-status {
-		&::part(cardlist) {
+		&::part(plan_label) {
+			text-align: center;
+		}
+		&::part(card_list) {
 			justify-content: center;
 		}
 	}
@@ -348,7 +351,60 @@ xiome-my-account {
 
 :is(xiome-store-subscription-status, xiome-store-subscription-catalog) {
 	&::part(tier) {
-		background: blue;
+		background: #4fc1cc;
+		color: white;
+		border: 0.4em solid #fff8;
+		text-shadow: 0 2px 2px #0004;
+		box-shadow: 0 5px 10px #0001;
+		[data-nightlight] & {
+			box-shadow: 0 5px 10px #0008;
+		}
+	}
+	&::part(tier_details) {
+		padding: 1em;
+	}
+	&::part(tier_info) {
+		background: #fff4;
+	}
+	&::part(tier_button) {
+		margin-top: 1em;
+		background: #00ff6d;
+		color: white;
+		font-family: sans-serif;
+		font-weight: bold;
+		text-transform: uppercase;
+		text-shadow: 0 1px 2px #0004;
+		border: 0;
+		border-top: 2px solid #fff8;
+		border-bottom: 2px solid #0004;
+		box-shadow: 0px 3px 5px #0002;
+	}
+	&::part(tier_icon) {
+		background: #76999c;
+		border-radius: 2em;
+		padding: 0.1em;
+		border: 0.1em solid white;
+		box-shadow: 0 3px 5px #0008;
+	}
+	&::part(tier_icon_unpaid),
+	&::part(tier_button_pay) {
+		background: #f90;
+	}
+	&::part(tier_icon_active),
+	&::part(tier_button_renew),
+	&::part(tier_button_buy),
+	&::part(tier_button_upgrade) {
+		background: #00c800;
+	}
+	&::part(tier_button_downgrade) {
+		background: #8bac8b;
+	}
+	&::part(tier_icon_cancelled),
+	&::part(tier_button_cancel) {
+		background: #76999c;
+	}
+	&::part(tier_icon_content) {
+		color: white;
 	}
 }
 

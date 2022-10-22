@@ -20,7 +20,7 @@ mainHtml: html`
 				<a data-tag="soon">Premium</a>
 			</nav>
 			<div class=subs>
-				<h1>Join Suzie's Subscriber Membership</h1>
+				<h1>Join Suzie's next event!</h1>
 				<xiome-store-subscription-catalog></xiome-store-subscription-catalog>
 				<xiome-store-customer-portal>
 					Edit Billing Settings
