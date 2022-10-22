@@ -29,6 +29,10 @@
 		"editor.insertSpaces": true,
 	},
 
+	"lit-plugin.rules.no-invalid-attribute-name": "off",
+	"lit-plugin.rules.no-incompatible-type-binding": "off",
+	"lit-plugin.rules.no-complex-attribute-binding": "off",
+
 	"typescript.tsdk": "node_modules/typescript/lib",
 	"javascript.format.semicolons": "remove",
 	"typescript.format.semicolons": "remove",

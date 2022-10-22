@@ -2,6 +2,7 @@
 import pageHtml from "../partials/page.html.js"
 import {NceWebsiteContext} from "../../types.js"
 import {html} from "xiome/x/toolbox/hamster-html/html.js"
+import {CommunityPage, communitySubnav} from "../partials/community-subnav.html.js"
 
 export default ({base, mode, ...context}: NceWebsiteContext) => pageHtml({
 ...context,
@@ -13,12 +14,7 @@ mainHtml: html`
 
 	<div data-community-page=welcome>
 		<div class=plate>
-			<nav class=subnav>
-				<a href="./" data-marked>Welcome</a>
-				<a href="./qa">Q&amp;A</a>
-				<a data-tag="soon">Livestream</a>
-				<a data-tag="soon">Premium</a>
-			</nav>
+			${communitySubnav(CommunityPage.Membership)}
 			<div class=subs>
 				<h1>Join Suzie's next event!</h1>
 				<xiome-store-subscription-catalog></xiome-store-subscription-catalog>
