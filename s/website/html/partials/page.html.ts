@@ -38,7 +38,7 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 			<script defer type="importmap-shim" src="/importmap.json"></script>
 			<script defer type=module-shim src="/main.js"></script>
 			<script defer type="module-shim" src="/node_modules/xiome/x/xiome-mock.js"></script>
-			<script defer src="/node_modules/es-module-shims/dist/es-module-shims.js"></script>
+			<script defer src="/node_modules/es-module-shims/dist/es-module-shims.wasm.js"></script>
 		`
 		: html`
 			<xiome-config
