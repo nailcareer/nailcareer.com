@@ -353,10 +353,11 @@ xiome-my-account {
 	&::part(tier) {
 		background: #4fc1cc;
 		color: white;
-		border: 0.4em solid #fff8;
 		text-shadow: 0 2px 2px #0004;
+		border: 0;
 		box-shadow: 0 5px 10px #0001;
 		[data-nightlight] & {
+			border: 0.4em solid #fff8;
 			box-shadow: 0 5px 10px #0008;
 		}
 	}
