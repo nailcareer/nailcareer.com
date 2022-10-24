@@ -149,6 +149,44 @@ accessories:
 acrylic:
   label: "Acrylic"
   products:
+    acrylic/clean/slow-cure/4oz:
+      title: "Slow-Cure Clean Acrylic 4oz Jar"
+      product:
+        shopify: 7172071850020
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/clean-acrylic/slow-cure/01.jpg
+      writeupMarkdown: |
+        Create Acrylic Nails much easier with Clean Monomer. Once you create the right bead consistency it almost sculpts itself. I wish I had this product when I first started my career. This advantage will take months to years off your learning curve.
+
+        Suzies Clean Acrylic is virtually odourless. Work with Clean Acrylic in your home and your family won’t even know. Use three times less than traditional monomers. Excellent self levelling properties. Makes creating nails way easier.
+
+        This product is an excellent way to begin creating acrylic nails.
+
+        ***Cures SLOW, so you can take your time!***
+
+        Learn how to sculpt without being rushed. This Slow-Cure Clean Acrylic takes it’s time while you shape your bead. You have about 3 times longer to sculpt before it starts to cure. While regular monomer is about 45 seconds, you’ll have about three minutes with this Slow-Cure Clean Acrylic. Watch my detailed videos on YouTube to help you use this product to learn Acrylic nails. And because it cures SLOW it means it evaporates much less, meaning your monomer lasts longer.
+    acrylic/clean/fast-cure/4oz:
+      title: "Fast-Cure Clean Acrylic 4oz Jar"
+      product:
+        shopify: 7172076077092
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/clean-acrylic/fast-cure/01.jpg
+      writeupMarkdown: |
+        Create Acrylic Nails much easier with Clean Monomer. Once you create the right bead consistency it almost sculpts itself. I wish I had this product when I first started my career. This advantage will take months to years off your learning curve.
+
+        Suzies Clean Acrylic is virtually odourless. Work with Clean Acrylic in your home and your family won’t even know. Use three times less than traditional monomers. Excellent self levelling properties. Makes creating nails way easier.
+
+        ***Cures FAST!***
+
+        For the nail tech who has some experience with beads/liquid to powder ratio control and wants a little more speed or is advancing to the challenge of a faster setting bead.
     acrylic-1oz/set-with-clear-cap-and-pink-tint:
       title: "Clear Cap & Pink Tint 1oz Acrylic"
       product:
@@ -181,10 +219,8 @@ acrylic:
         Create Acrylic Nails much easier with Clean Monomer. Once you create the right bead consistency it almost sculpts itself. I wish I had this product when I first started my career. This advantage will take months to years off your learning curve.
 
         Suzies Clean Acrylic is virtually odourless. Work with Clean Acrylic in your home and your family won’t even know.
-        Use three times less than traditional monomers. Excellent self levelling properties. Makes creating nails way easier.
 
-        How to use:
-        - This product is an excellent way to begin creating acrylic nails.
+        Use three times less than traditional monomers. Excellent self levelling properties. Makes creating nails way easier.
     monomer/fast-set-2oz-pouch:
       title: "Fast Set Monomer - 2oz Pouch"
       redirects:
@@ -1052,6 +1088,24 @@ files-and-forms:
 gel:
   label: "Gel"
   products:
+    naturally-fake:
+      title: "Naturally Fake"
+      product:
+        shopify: 7172060676132
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/naturally-fake/06.jpg
+        - products/naturally-fake/04.jpg
+        - products/naturally-fake/01.jpg
+        - products/naturally-fake/05.jpg
+        - products/naturally-fake/03.jpg
+      writeupMarkdown: |
+        *20 gram jar.*
+
+        Naturally Fake is your answer to Natural looking Nails. I spent months creating this creamy formula to simulate natural nails. It’s hard to grow natural nails when your hands are so busy and exposed to the elements, it’s hard on nails, but Naturally Fake  will change all that. No one is gonna know. Pair with Suzies Pink EZ Gel, specially formulated with just enough opacity to cover flaws but still translucent to match the natural nail bed. A beautiful colour to compliment all skin tones.
     glass-nails:
       title: "Glass Nails"
       product:
@@ -1408,8 +1462,22 @@ manicure:
         - products/wooden-nail-brush/wooden-brush-02-brighter.jpg
       writeup: |
         <p>With a little soap and water, this brush is effective for scrubbing nails clean and removing any debris under or around natural nails or nail enhancements</p>
+    nce-towel-white:
+      title: "NCE Towel - White"
+      product:
+        shopify: 7172023582756
+        isNew: true
+        restockingSoon: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/nce-towel/white/01.jpg
+        - products/nce-towel/white/02.jpg
+        - products/nce-towel/white/03.jpg
+      writeupMarkdown: |
+        Use this soft, absorbent, microfibre towel to rest and dry hands during your nail services.
     nce-towel:
-      title: "Suzie’s Towel"
+      title: "NCE Towel - Blue"
       product:
         shopify: https://nail-career-education.myshopify.com/admin/products/6696160362532
         restockingSoon: true
