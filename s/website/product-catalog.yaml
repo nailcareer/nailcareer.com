@@ -219,22 +219,29 @@ acrylic:
         - products/acrylic-refill-pouches/fast-set.jpg
       writeupMarkdown: |
         High quality monomer. UV stabilizers. Blends beautifully with Suzies Acrylic Powder‘s. Easy work ability and self levelling properties.
-    acrylic-1oz/set-with-clear-cap-and-pink-tint:
-      title: "Clear Cap & Pink Tint 1oz Acrylic"
+    mini-acrylic:
+      title: "Suzie’s Mini Acrylic Kit"
       product:
-        shopify: 7048120401956
+        shopify: 6748201943076
         restockingSoon: true
-        isNew: false
       carousel:
-        aspectRatio: 1x1
+        aspectRatio: 2x3
         images:
-        - products/acrylic-1oz/set-clear-cap-pink-tint-01.jpg
+        - products/mini-acrylic/mini-acrylic-05.jpg
+        - products/acrylic-refill-pouches/clean-acrylic.jpg
+        - products/mini-acrylic/mini-acrylic-03.jpg
+        - products/mini-acrylic/mini-acrylic-04.jpg
       writeupMarkdown: |
-        **Clear Cap:** perfect for encasing all your inlays or fades. Clear Cap ads strength to your nail design.
+        ***Suzie:*** *“I wish I had this product when I was learning acrylic!”*
 
-        **Pink Tint:** This delicate translucent pink is stunning on its own from cuticle to free edge. It also adds a slight pink hint of colour to your natural nail when creating French or Ombre nails.
+        This kit is the perfect size to try Suzie’s Odourless System.
 
-        Combine with Foundation Pink to create a custom colour for you and your clients. Create your own Custom "Suzie's Mix".
+        It’s different than traditional monomers. It’s...
+        - Low odour
+        - Cures very slowly (so you have time to sculpt)
+        - Efficient product, you can use 3x less
+        - Foundation pink powder for a flawless finish
+        - Soft white for Ombre and French nails
     acrylic-powder-refill-foundation-pink:
       title: "Foundation Pink - Acrylic Powder 2oz Refill Pouch"
       product:
@@ -297,29 +304,22 @@ acrylic:
         Suzie’s Acrylic Powder formulas are stunning, high quality and easy to work with. 
 
         This Clear Cap Acrylic Powder is a staple in your powder collection. Creates a strong, protective layer to encapsulate and show off your design. Blend Clear Cap with other pigments to create unique colours. Excellent for showcasing glitters and inlays.
-    mini-acrylic:
-      title: "Suzie’s Mini Acrylic Kit"
+    acrylic-1oz/set-with-clear-cap-and-pink-tint:
+      title: "Clear Cap & Pink Tint 1oz Acrylic"
       product:
-        shopify: 6748201943076
+        shopify: 7048120401956
         restockingSoon: true
+        isNew: false
       carousel:
-        aspectRatio: 2x3
+        aspectRatio: 1x1
         images:
-        - products/mini-acrylic/mini-acrylic-05.jpg
-        - products/acrylic-refill-pouches/clean-acrylic.jpg
-        - products/mini-acrylic/mini-acrylic-03.jpg
-        - products/mini-acrylic/mini-acrylic-04.jpg
+        - products/acrylic-1oz/set-clear-cap-pink-tint-01.jpg
       writeupMarkdown: |
-        ***Suzie:*** *“I wish I had this product when I was learning acrylic!”*
+        **Clear Cap:** perfect for encasing all your inlays or fades. Clear Cap ads strength to your nail design.
 
-        This kit is the perfect size to try Suzie’s Odourless System.
+        **Pink Tint:** This delicate translucent pink is stunning on its own from cuticle to free edge. It also adds a slight pink hint of colour to your natural nail when creating French or Ombre nails.
 
-        It’s different than traditional monomers. It’s...
-        - Low odour
-        - Cures very slowly (so you have time to sculpt)
-        - Efficient product, you can use 3x less
-        - Foundation pink powder for a flawless finish
-        - Soft white for Ombre and French nails
+        Combine with Foundation Pink to create a custom colour for you and your clients. Create your own Custom "Suzie's Mix".
     acrylic-1oz/worlds-best-bo:
       title: "Acrylic Powder 1oz: World's Best Bo..."
       product:
