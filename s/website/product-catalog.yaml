@@ -160,15 +160,11 @@ acrylic:
         images:
         - products/clean-acrylic/slow-cure/01.jpg
       writeupMarkdown: |
-        Create Acrylic Nails much easier with Clean Monomer. Once you create the right bead consistency it almost sculpts itself. I wish I had this product when I first started my career. This advantage will take months to years off your learning curve.
+        *Low-odor Formula.*
 
-        Suzies Clean Acrylic is virtually odourless. Work with Clean Acrylic in your home and your family won’t even know. Use three times less than traditional monomers. Excellent self levelling properties. Makes creating nails way easier.
+        I wish I had this product when I first started my career. Slow-Cure will take months or years off your learning curve.
 
-        This product is an excellent way to begin creating acrylic nails.
-
-        ***Cures SLOW, so you can take your time!***
-
-        Learn how to sculpt without being rushed. This Slow-Cure Clean Acrylic takes it’s time while you shape your bead. You have about 3 times longer to sculpt before it starts to cure. While regular monomer is about 45 seconds, you’ll have about three minutes with this Slow-Cure Clean Acrylic. Watch my detailed videos on YouTube to help you use this product to learn Acrylic nails. And because it cures SLOW it means it evaporates much less, meaning your monomer lasts longer.
+        Slow-Cure is easier to work with, giving you more time to shape the nail before it hardens. Once you create the right bead consistency it almost sculpts itself.
     acrylic/clean/fast-cure/4oz:
       title: "Fast-Cure Acrylic Monomer - 4 oz Bottle"
       product:
@@ -180,13 +176,9 @@ acrylic:
         images:
         - products/clean-acrylic/fast-cure/01.jpg
       writeupMarkdown: |
-        Create Acrylic Nails much easier with Clean Monomer. Once you create the right bead consistency it almost sculpts itself. I wish I had this product when I first started my career. This advantage will take months to years off your learning curve.
+        Suzie's Fast-Cure monomer is enhanced with UV stabilizers, which helps maintain your powder's true colour and prevents yellowing.
 
-        Suzies Clean Acrylic is virtually odourless. Work with Clean Acrylic in your home and your family won’t even know. Use three times less than traditional monomers. Excellent self levelling properties. Makes creating nails way easier.
-
-        ***Cures FAST!***
-
-        For the nail tech who has some experience with beads/liquid to powder ratio control and wants a little more speed or is advancing to the challenge of a faster setting bead.
+        Fast-Cure hardens in less than one minute, which helps you finish a set of nails much faster.
     monomer/clean-acrylic-2oz-pouch:
       title: "Slow-Cure Acrylic Monomer - 2 oz Pouch"
       redirects:
@@ -200,11 +192,11 @@ acrylic:
         images:
         - products/acrylic-refill-pouches/clean-acrylic.jpg
       writeupMarkdown: |
-        Create Acrylic Nails much easier with Clean Monomer. Once you create the right bead consistency it almost sculpts itself. I wish I had this product when I first started my career. This advantage will take months to years off your learning curve.
+        *Low-odor Formula.*
 
-        Suzies Clean Acrylic is virtually odourless. Work with Clean Acrylic in your home and your family won’t even know.
+        I wish I had this product when I first started my career. Slow-Cure will take months or years off your learning curve.
 
-        Use three times less than traditional monomers. Excellent self levelling properties. Makes creating nails way easier.
+        Slow-Cure is easier to work with, giving you more time to shape the nail before it hardens. Once you create the right bead consistency it almost sculpts itself.
     monomer/fast-set-2oz-pouch:
       title: "Fast-Cure Acrylic Monomer - 2 oz Pouch"
       redirects:
@@ -218,7 +210,9 @@ acrylic:
         images:
         - products/acrylic-refill-pouches/fast-set.jpg
       writeupMarkdown: |
-        High quality monomer. UV stabilizers. Blends beautifully with Suzies Acrylic Powder‘s. Easy work ability and self levelling properties.
+        Suzie's Fast-Cure monomer is enhanced with UV stabilizers, which helps maintain your powder's true colour and prevents yellowing.
+
+        Fast-Cure hardens in less than one minute, which helps you finish a set of nails much faster.
     mini-acrylic:
       title: "Suzie’s Mini Acrylic Kit"
       product:
