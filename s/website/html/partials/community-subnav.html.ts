@@ -34,7 +34,7 @@ const pages: {
 		id: CommunityPage.Membership,
 		label: "Membership",
 		link: "./",
-		tag: undefined,
+		tag: "new",
 	},
 	{
 		id: CommunityPage.QuestionsBoard,
