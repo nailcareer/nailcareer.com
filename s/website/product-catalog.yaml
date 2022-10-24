@@ -150,7 +150,7 @@ acrylic:
   label: "Acrylic"
   products:
     acrylic/clean/slow-cure/4oz:
-      title: "Slow-Cure Clean Acrylic 4oz Jar"
+      title: "Slow-Cure Acrylic Monomer - 4 oz Bottle"
       product:
         shopify: 7172071850020
         restockingSoon: true
@@ -170,7 +170,7 @@ acrylic:
 
         Learn how to sculpt without being rushed. This Slow-Cure Clean Acrylic takes it’s time while you shape your bead. You have about 3 times longer to sculpt before it starts to cure. While regular monomer is about 45 seconds, you’ll have about three minutes with this Slow-Cure Clean Acrylic. Watch my detailed videos on YouTube to help you use this product to learn Acrylic nails. And because it cures SLOW it means it evaporates much less, meaning your monomer lasts longer.
     acrylic/clean/fast-cure/4oz:
-      title: "Fast-Cure Clean Acrylic 4oz Jar"
+      title: "Fast-Cure Acrylic Monomer - 4 oz Bottle"
       product:
         shopify: 7172076077092
         restockingSoon: true
@@ -187,24 +187,8 @@ acrylic:
         ***Cures FAST!***
 
         For the nail tech who has some experience with beads/liquid to powder ratio control and wants a little more speed or is advancing to the challenge of a faster setting bead.
-    acrylic-1oz/set-with-clear-cap-and-pink-tint:
-      title: "Clear Cap & Pink Tint 1oz Acrylic"
-      product:
-        shopify: 7048120401956
-        restockingSoon: true
-        isNew: false
-      carousel:
-        aspectRatio: 1x1
-        images:
-        - products/acrylic-1oz/set-clear-cap-pink-tint-01.jpg
-      writeupMarkdown: |
-        **Clear Cap:** perfect for encasing all your inlays or fades. Clear Cap ads strength to your nail design.
-
-        **Pink Tint:** This delicate translucent pink is stunning on its own from cuticle to free edge. It also adds a slight pink hint of colour to your natural nail when creating French or Ombre nails.
-
-        Combine with Foundation Pink to create a custom colour for you and your clients. Create your own Custom "Suzie's Mix".
     monomer/clean-acrylic-2oz-pouch:
-      title: "Clean Acrylic Monomer - 2oz Pouch"
+      title: "Slow-Cure Acrylic Monomer - 2 oz Pouch"
       redirects:
       - acrylic-powder-refill-clean-acrylic
       product:
@@ -222,7 +206,7 @@ acrylic:
 
         Use three times less than traditional monomers. Excellent self levelling properties. Makes creating nails way easier.
     monomer/fast-set-2oz-pouch:
-      title: "Fast Set Monomer - 2oz Pouch"
+      title: "Fast-Cure Acrylic Monomer - 2 oz Pouch"
       redirects:
       - acrylic-powder-refill-fast-set
       product:
@@ -235,6 +219,22 @@ acrylic:
         - products/acrylic-refill-pouches/fast-set.jpg
       writeupMarkdown: |
         High quality monomer. UV stabilizers. Blends beautifully with Suzies Acrylic Powder‘s. Easy work ability and self levelling properties.
+    acrylic-1oz/set-with-clear-cap-and-pink-tint:
+      title: "Clear Cap & Pink Tint 1oz Acrylic"
+      product:
+        shopify: 7048120401956
+        restockingSoon: true
+        isNew: false
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/acrylic-1oz/set-clear-cap-pink-tint-01.jpg
+      writeupMarkdown: |
+        **Clear Cap:** perfect for encasing all your inlays or fades. Clear Cap ads strength to your nail design.
+
+        **Pink Tint:** This delicate translucent pink is stunning on its own from cuticle to free edge. It also adds a slight pink hint of colour to your natural nail when creating French or Ombre nails.
+
+        Combine with Foundation Pink to create a custom colour for you and your clients. Create your own Custom "Suzie's Mix".
     acrylic-powder-refill-foundation-pink:
       title: "Foundation Pink - Acrylic Powder 2oz Refill Pouch"
       product:
