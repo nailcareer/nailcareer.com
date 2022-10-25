@@ -1545,7 +1545,6 @@ nail-art:
         images:
         - products/gems/christmas-gems/forest-green/01.jpg
         - products/gems/christmas-gems/forest-green/02.jpg
-        - products/gems/christmas-gems/forest-green/03.jpg
       writeupMarkdown: |
         Approximately 300 gems per pack.
 
@@ -1664,8 +1663,8 @@ nail-art:
       carousel:
         aspectRatio: 1x1
         images:
-        - products/gems/happy-crystals/white-quartz/01.jpg
         - products/gems/happy-crystals/white-quartz/02.jpg
+        - products/gems/happy-crystals/white-quartz/01.jpg
       writeupMarkdown: |
         Approximately 300 gems per pack.
 
