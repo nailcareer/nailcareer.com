@@ -81,6 +81,7 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 									<ul class=countries>
 										<li>Australia</li>
 										<li>Canada</li>
+										<li>Denmark</li>
 										<li>Finland</li>
 										<li>France</li>
 										<li>Germany</li>
@@ -89,6 +90,7 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 										<li>Isle of Man</li>
 										<li>Italy</li>
 										<li>Mexico</li>
+										<li>Netherlands</li>
 										<li>New Zealand</li>
 										<li>Norway</li>
 										<li>Portugal</li>
