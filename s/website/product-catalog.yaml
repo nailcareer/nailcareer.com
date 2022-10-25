@@ -1534,12 +1534,148 @@ manicure:
 nail-art:
   label: "Nail Art"
   products:
+    gems/christmas/forest-green:
+      title: "Forest Green - Christmas Gems"
+      product:
+        shopify: 7172768825380
+        restocking: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/gems/christmas-gems/forest-green/01.jpg
+        - products/gems/christmas-gems/forest-green/02.jpg
+        - products/gems/christmas-gems/forest-green/03.jpg
+      writeupMarkdown: |
+        Approximately 300 gems per pack.
+
+        Sizes SS4/SS6/SS10/SS16.
+    gems/christmas/gold-brick:
+      title: "Gold Brick - Christmas Gems"
+      product:
+        shopify: 7172758241316
+        restocking: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/gems/christmas-gems/gold-brick/01.jpg
+        - products/gems/christmas-gems/gold-brick/02.jpg
+      writeupMarkdown: |
+        Approximately 300 gems per pack.
+
+        Sizes SS4/SS6/SS10/SS16.
+    gems/christmas/royal-blue:
+      title: "Royal Blue - Christmas Gems"
+      product:
+        shopify: 7172762402852
+        restocking: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/gems/christmas-gems/royal-blue/01.jpg
+        - products/gems/christmas-gems/royal-blue/02.jpg
+      writeupMarkdown: |
+        Approximately 300 gems per pack.
+
+        Sizes SS4/SS6/SS10/SS16.
+    gems/christmas/ruby-red:
+      title: "Ruby Red - Christmas Gems"
+      product:
+        shopify: 7172763648036
+        restocking: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/gems/christmas-gems/ruby-red/01.jpg
+        - products/gems/christmas-gems/ruby-red/02.jpg
+      writeupMarkdown: |
+        Approximately 300 gems per pack.
+
+        Sizes SS4/SS6/SS10/SS16.
+    gems/christmas/suzies-aqua:
+      title: "Suzie's Aqua - Christmas Gems"
+      product:
+        shopify: 7172764368932
+        restocking: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/gems/christmas-gems/suzies-aqua/01.jpg
+        - products/gems/christmas-gems/suzies-aqua/02.jpg
+      writeupMarkdown: |
+        Approximately 300 gems per pack.
+
+        Sizes SS4/SS6/SS10/SS16.
+    gems/happy-crystals/blue-agate:
+      title: "Blue Agate - Happy Crystals"
+      product:
+        shopify: 7172764729380
+        restocking: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/gems/happy-crystals/blue-agate/01.jpg
+        - products/gems/happy-crystals/blue-agate/02.jpg
+      writeupMarkdown: |
+        Approximately 300 gems per pack.
+
+        Sizes SS4/SS6/SS10/SS16.
+    gems/happy-crystals/jade:
+      title: "Jade - Happy Crystals"
+      product:
+        shopify: 7172766990372
+        restocking: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/gems/happy-crystals/jade/01.jpg
+        - products/gems/happy-crystals/jade/02.jpg
+      writeupMarkdown: |
+        Approximately 300 gems per pack.
+
+        Sizes SS4/SS6/SS10/SS16.
+    gems/happy-crystals/pink-quartz:
+      title: "Pink Quartz - Happy Crystals"
+      product:
+        shopify: 7172768071716
+        restocking: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/gems/happy-crystals/pink-quartz/01.jpg
+        - products/gems/happy-crystals/pink-quartz/02.jpg
+      writeupMarkdown: |
+        Approximately 300 gems per pack.
+
+        Sizes SS4/SS6/SS10/SS16.
+    gems/happy-crystals/white-quartz:
+      title: "White Quartz - Happy Crystals"
+      product:
+        shopify: 7172768170020
+        restocking: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/gems/happy-crystals/white-quartz/01.jpg
+        - products/gems/happy-crystals/white-quartz/02.jpg
+      writeupMarkdown: |
+        Approximately 300 gems per pack.
+
+        Sizes SS4/SS6/SS10/SS16.
     big-scoop-lil-scoop:
       title: "Big Scoop Lil Scoop"
       product:
         shopify: 7079277363236
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1557,7 +1693,7 @@ nail-art:
       product:
         shopify: 7079253147684
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1590,7 +1726,7 @@ nail-art:
       product:
         shopify: 7079197245476
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1612,7 +1748,7 @@ nail-art:
       product:
         shopify: 7079218675748
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1634,7 +1770,7 @@ nail-art:
       product:
         shopify: 7079228375076
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1656,7 +1792,7 @@ nail-art:
       product:
         shopify: 7079230636068
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1678,7 +1814,7 @@ nail-art:
       product:
         shopify: 7079238762532
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1700,7 +1836,7 @@ nail-art:
       product:
         shopify: 7079240564772
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
