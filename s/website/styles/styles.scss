@@ -340,26 +340,24 @@ xiome-my-account {
 		}
 	}
 	xiome-store-subscription-status {
-		&::part(plan_label) {
+		[data-plan-label] {
 			text-align: center;
 		}
-		&::part(card_list) {
+		[data-card-list] {
 			justify-content: center;
 		}
 	}
 }
 
-:is(xiome-store-subscription-status, xiome-store-subscription-catalog) {
-	&::part(tier) {
-		background: #4fc1cc;
-		color: white;
-		text-shadow: 0 2px 2px #0004;
-		border: 0;
-		box-shadow: 0 5px 10px #0001;
-		[data-nightlight] & {
-			border: 0.4em solid #fff8;
-			box-shadow: 0 5px 10px #0008;
-		}
+xiome-store-subscription-tier {
+	background: #4fc1cc;
+	color: white;
+	border: 0;
+	text-shadow: 0 2px 2px #0004;
+	box-shadow: 0 5px 10px #0001;
+	[data-nightlight] & {
+		border: 0.4em solid #fff8;
+		box-shadow: 0 5px 10px #0008;
 	}
 	&::part(tier_details) {
 		padding: 1em;

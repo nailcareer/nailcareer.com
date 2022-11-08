@@ -37,13 +37,13 @@
 		.subs {
 			text-align: center;
 		}
+
 		xiome-store-subscription-catalog {
-			&::part(tiers) {
+			[data-tiers] {
 				justify-content: center;
 			}
-			&::part(planlabel) {
+			[data-plan-label] {
 				display: none;
-				margin-bottom: 1rem;
 			}
 		}
 		xiome-store-customer-portal {
