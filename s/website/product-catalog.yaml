@@ -783,14 +783,16 @@ files-and-forms:
         images:
         - products/gold-trimmer-bit/gold-trimmer-bit-02.jpg
         - products/gold-trimmer-bit/gold-trimmer-bit-01.jpg
-      writeup: |
-        <p>Strong Tungston Carbide will last years.</p>
-        <p>Fits 3/32 Efiles. For us on Product. Not meant for Natural Nail.</p>
-        <ul>
-          <li>I love this bit for getting into the tiny spots. It’s excellent for trimming off fine over spill of product.</li>
-          <li>For example if you have hardened Acrylic or hard gel or gel polish flooding into the cuticle, this tiny bit can get in there to remover this over spill with out ruining your gel polish.</li>
-          <li>Also excellent for fine tuning extra product from  underneath the free edge. Also excellent for gently buffing product around cuticle for a smooth effect near cuticle.</li>
-        </ul>
+      writeupMarkdown: |
+        I love this bit for getting into the tiny spots. It’s excellent for trimming off fine over spill of product.
+
+        For example if you have hardened Acrylic or hard gel or gel polish flooding into the cuticle, this tiny bit can get in there to remover this over spill with out ruining your gel polish.
+
+        Also excellent for fine tuning extra product from  underneath the free edge. Also excellent for gently buffing product around cuticle for a smooth effect near cuticle.
+
+        - Strong Tungsten Carbide will last years.
+        - Fits 3/32 e-files.
+        - ⚠️ Do not use on natural nails! Use only on Product.
     french-cut-bit:
       title: "French Cut Bit"
       product:
