@@ -80,6 +80,7 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 									<p>International shipping is available to the following countries:</p>
 									<ul class=countries>
 										<li>Australia</li>
+										<li>Belgium</li>
 										<li>Canada</li>
 										<li>Denmark</li>
 										<li>Finland</li>
