@@ -35,6 +35,7 @@
 	},
 	"devDependencies": {
 		"@rollup/plugin-node-resolve": "^15.0.1",
+		"@types/node": "^18.11.9",
 		"chokidar-cli": "^3.0.0",
 		"html-minifier-terser": "^7.0.0",
 		"http-server": "^14.1.1",
@@ -44,11 +45,11 @@
 		"mkdirp": "^1.0.4",
 		"npm-run-all": "^4.1.5",
 		"rimraf": "^3.0.2",
-		"rollup": "^3.2.3",
-		"sass": "^1.55.0",
-		"serve": "^14.0.1",
+		"rollup": "^3.3.0",
+		"sass": "^1.56.1",
+		"serve": "^14.1.2",
 		"terser": "^5.15.1",
-		"typescript": "^4.8.4"
+		"typescript": "^4.9.3"
 	},
 	"dependencies": {
 		"@babel/polyfill": "^7.12.1",
