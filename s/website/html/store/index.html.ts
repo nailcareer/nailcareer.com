@@ -21,7 +21,6 @@ mainHtml: html`
 				<em>SELECT ITEMS</em>
 			</p>
 		</li>
-		<li data-vibe=ordinary>🎁 Free gift included with North American orders over $250 USD!</li>
 	</ul>
 
 	<div class=plate>
