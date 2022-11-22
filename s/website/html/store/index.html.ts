@@ -3,6 +3,8 @@ import pageHtml from "../partials/page.html.js"
 import {attrBool, attrMaybe, html} from "xiome/x/toolbox/hamster-html/html.js"
 import {NceWebsiteContext, Product, ProductCatalog, ProductCategory, SpecialPartnership} from "../../types.js"
 
+// <li data-vibe=ordinary>🎁 Free gift included with orders over $250 USD!</li>
+
 export default ({base, mode, ...context}: NceWebsiteContext) => pageHtml({
 ...context,
 base,
@@ -12,7 +14,14 @@ pageSubtitle: "Store",
 mainHtml: html`
 
 	<ul class=infoboxes>
-		<li data-vibe=ordinary>🎁 Free gift included with orders over $250 USD!</li>
+		<li data-vibe=black-friday>
+			<p>BLACK FRIDAY SALE</p>
+			<p>
+				<strong>25% OFF</strong>
+				<em>SELECT ITEMS</em>
+			</p>
+		</li>
+		<li data-vibe=ordinary>🎁 Free gift included with North American orders over $250 USD!</li>
 	</ul>
 
 	<div class=plate>

@@ -36,6 +36,30 @@
 				}
 			}
 
+			&[data-vibe="black-friday"] {
+				font-family: sans-serif;
+				background: #000a;
+				border-left: 4px solid #77ffe2;
+				font-weight: bold;
+				text-shadow: 0 0 9px #fff6;
+				p {
+					line-height: 1em;
+					&:nth-child(1) {
+						font-size: 2em;
+						color: #77ffe2;
+					}
+					&:nth-child(2) {
+						color: white;
+						font-size: 1.5em;
+						em {
+							opacity: 0.6;
+							font-weight: normal;
+							// font-style: normal;
+						}
+					}
+				}
+			}
+
 			+ li {
 				margin-top: 0.25rem;
 			}
