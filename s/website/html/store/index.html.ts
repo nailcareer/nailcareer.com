@@ -13,16 +13,6 @@ pageName: "store",
 pageSubtitle: "Store",
 mainHtml: html`
 
-	<ul class=infoboxes>
-		<li data-vibe=black-friday>
-			<p>BLACK FRIDAY SALE</p>
-			<p>
-				<strong>25% OFF</strong>
-				<em>SELECT ITEMS</em>
-			</p>
-		</li>
-	</ul>
-
 	<div class=plate>
 		${renderCatalogNavigation(context.catalog)}
 	</div>

@@ -122,6 +122,18 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 		</div>
 	</nce-header>
 
+	<ul class=infoboxes>
+		<li data-vibe=black-friday>
+			<a href="/store">
+				<p>BLACK FRIDAY SALE</p>
+				<p>
+					<strong>25% OFF</strong>
+					<em>SELECT ITEMS</em>
+				</p>
+			</a>
+		</li>
+	</ul>
+
 	<main>
 		${mainHtml}
 	</main>
