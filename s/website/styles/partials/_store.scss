@@ -269,11 +269,22 @@
 }
 
 .productgrid > [sale]::before {
-	content: attr(sale) "% off!";
+	content: attr(sale) "% off";
 	background: #cafae4;
 	color: #199a9a;
 	text-shadow: none;
 	border: 2px solid;
+}
+
+/* black friday sale */
+.productgrid > [sale="25"]::before {
+	content: attr(sale) "% off";
+	background: #0008;
+	color: #77ffe2;
+	text-shadow: none;
+	border: 0;
+	border-top: 2px solid;
+	border-radius: 0;
 }
 
 .productgrid > [out-of-stock]::before {
