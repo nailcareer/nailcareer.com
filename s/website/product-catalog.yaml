@@ -7,7 +7,7 @@ accessories:
       product:
         shopify: 7089665540132
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -24,7 +24,7 @@ accessories:
       product:
         shopify: 7089664655396
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -154,7 +154,7 @@ acrylic:
       product:
         shopify: 7172071850020
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 2x3
         images:
@@ -170,7 +170,7 @@ acrylic:
       product:
         shopify: 7172076077092
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 2x3
         images:
@@ -540,7 +540,7 @@ brushes:
       product:
         shopify: 7089666621476
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 2x3
         images:
@@ -560,7 +560,7 @@ brushes:
       product:
         shopify: 7087645458468
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 2x3
         images:
@@ -578,7 +578,7 @@ brushes:
       product:
         shopify: 7087643951140
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 2x3
         images:
@@ -719,7 +719,7 @@ files-and-forms:
       product:
         shopify: 7088021110820
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -739,7 +739,7 @@ files-and-forms:
       product:
         shopify: 7079296794660
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -758,7 +758,7 @@ files-and-forms:
       product:
         shopify: 7079301480484
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1092,7 +1092,7 @@ gel:
       product:
         shopify: 7172060676132
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1471,7 +1471,7 @@ manicure:
       title: "NCE Towel - White"
       product:
         shopify: 7172023582756
-        isNew: true
+        isNew: false
         restockingSoon: true
       carousel:
         aspectRatio: 1x1
@@ -1548,7 +1548,7 @@ nail-art:
       product:
         shopify: 7172768825380
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1563,7 +1563,7 @@ nail-art:
       product:
         shopify: 7172758241316
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1578,7 +1578,7 @@ nail-art:
       product:
         shopify: 7172762402852
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1593,7 +1593,7 @@ nail-art:
       product:
         shopify: 7172763648036
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1608,7 +1608,7 @@ nail-art:
       product:
         shopify: 7172764368932
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1623,7 +1623,7 @@ nail-art:
       product:
         shopify: 7172764729380
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1638,7 +1638,7 @@ nail-art:
       product:
         shopify: 7172766990372
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1653,7 +1653,7 @@ nail-art:
       product:
         shopify: 7172768071716
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1668,7 +1668,7 @@ nail-art:
       product:
         shopify: 7172768170020
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
