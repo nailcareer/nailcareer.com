@@ -917,7 +917,7 @@ files-and-forms:
           </li>
         </ol>
         <shopper-product restocking-soon="" link="6767534768164"></shopper-product>
-    ezfile:
+    ezfile/index:
       hideFromIndex: true
       title: "Suzie’s Ez-File"
       product:
@@ -932,6 +932,7 @@ files-and-forms:
         - products/ezfile/ezfile-04.jpg
         - products/ezfile/ezfile-05.jpg
       writeup: |
+        <h3>Edit: See new product listing at <a href="/store/products/ezfile/2">EZ File</a></h3>
         <h2>Powerful, yet gentle.</h2>
         <p>This e-file’s range allows low speeds for natural nails, and reaches strong speeds for removing/sculpting gel polish, gel tips, hybrid, hard gel, dip powder, and strong acrylic.</p>
         <p>Lightweight and portable- you can take this e-file anywhere to file nails quickly. Whether you're at a fashion show, at the nail table, or just want to be comfy on your couch!</p>
