@@ -1543,6 +1543,19 @@ manicure:
 nail-art:
   label: "Nail Art"
   products:
+    christmas-glitter/wreaths-gifts-and-deer:
+      title: "Wreaths, Gifts, and Deer"
+      product:
+        shopify: 7199529173028
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/christmas-glitter/wreaths-gift-deer/01.jpg
+        - products/christmas-glitter/wreaths-gift-deer/02.jpg
+      writeupMarkdown: |
+        Solid gold in colour, each piece is very tiny and detailed. Each piece is bendable as well. Tiny presents tiny Christmas trees, tiny wreaths. The tiny reindeer are all so adorable. I particularly love the tiny Christmas trees, and all the tiny different types and shapes of snowflakes.
     christmas-glitter/collection:
       title: "Christmas Glitter Collection of 8"
       product:
