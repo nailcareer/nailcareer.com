@@ -7,7 +7,7 @@ accessories:
       product:
         shopify: 7089665540132
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -24,7 +24,7 @@ accessories:
       product:
         shopify: 7089664655396
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -154,7 +154,7 @@ acrylic:
       product:
         shopify: 7172071850020
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 2x3
         images:
@@ -170,7 +170,7 @@ acrylic:
       product:
         shopify: 7172076077092
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 2x3
         images:
@@ -540,7 +540,7 @@ brushes:
       product:
         shopify: 7089666621476
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 2x3
         images:
@@ -560,7 +560,7 @@ brushes:
       product:
         shopify: 7087645458468
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 2x3
         images:
@@ -578,7 +578,7 @@ brushes:
       product:
         shopify: 7087643951140
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 2x3
         images:
@@ -714,12 +714,47 @@ brushes:
 files-and-forms:
   label: "Files & Forms"
   products:
+    ezfile/2:
+      title: "Suzie’s EZ File"
+      redirects:
+      - ezfile/index
+      product:
+        shopify: 7199532122148
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/ezfile2/01.jpg
+        - products/ezfile2/02.jpg
+        - products/ezfile2/03.jpg
+        - products/ezfile2/04.jpg
+      writeupMarkdown: |
+        My Newest EZ File can be used as a portable unit or a desk efile. Up to 35k RPM. Slender and light handpiece. The low speed is smooth and perfect for natural nails and increases smoothly as high as you need for sculpting and removals.
+
+        - Comes with a mandrel and some standard bits
+        - Includes test for Handpiece
+        - Last 8-10 on Full Charge
+        - Takes 3 hours to Fully Charge
+
+        ## Powerful, yet gentle.
+
+        This e-file's range allows low speeds for natural nails, and reaches strong speeds for removing/sculpting gel polish, gel tips, hybrid, hard gel, dip powder, and strong acrylic.
+
+        Lightweight and portable- you can take this e-file anywhere to file nails quickly. Whether you're at a fashion show, at the nail table, or just want to be comfy on your couch!
+
+        > ⚠️ E-Files and bits require training and practice before safe usage on humans. This product is intended to be used on humans only by a professional.
+
+        - Fits 3/32 bits
+        - Power 25W, Voltage 12V/2A
+        - Rated speed: up to 35,000 RPM
+        - Includes: power box, quick-change hand piece, hand piece holder and bits.
     sanding-bands/medium:
       title: "Medium Sanding Bands"
       product:
         shopify: 7088021110820
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -739,7 +774,7 @@ files-and-forms:
       product:
         shopify: 7079296794660
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -758,7 +793,7 @@ files-and-forms:
       product:
         shopify: 7079301480484
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -809,7 +844,7 @@ files-and-forms:
 
         ⚠️ E-Files and bits require training and practice before safe usage on humans. This product is intended to be used on humans only by a professional.
 
-        Fits 3/32 E-Files (like [Suzie's EZ-File](/store/products/ezfile))
+        Fits 3/32 E-Files (like [Suzie's EZ File](/store/products/ezfile/2))
     bit-kit:
       title: "Suzie’s Bit Kit"
       product:
@@ -832,7 +867,7 @@ files-and-forms:
 
         With these three e-file bits, you can achieve the majority of nail designs from beginning to end.
 
-        They fit [Suzie's EZ-File](/store/products/ezfile), and most other e-files.
+        They fit [Suzie's EZ File](/store/products/ezfile/2), and most other e-files.
 
         ⚠️ E-Files and bits require training and practice before safe usage on humans. This product is intended to be used on humans only by a professional.
       details: |
@@ -884,30 +919,6 @@ files-and-forms:
           </li>
         </ol>
         <shopper-product restocking-soon="" link="6767534768164"></shopper-product>
-    ezfile:
-      title: "Suzie’s Ez-File"
-      product:
-        shopify: 6748213674020
-        restockingSoon: true
-      carousel:
-        aspectRatio: 3x2
-        images:
-        - products/ezfile/ezfile-01.jpg
-        - products/ezfile/ezfile-02.jpg
-        - products/ezfile/ezfile-03.jpg
-        - products/ezfile/ezfile-04.jpg
-        - products/ezfile/ezfile-05.jpg
-      writeup: |
-        <h2>Powerful, yet gentle.</h2>
-        <p>This e-file’s range allows low speeds for natural nails, and reaches strong speeds for removing/sculpting gel polish, gel tips, hybrid, hard gel, dip powder, and strong acrylic.</p>
-        <p>Lightweight and portable- you can take this e-file anywhere to file nails quickly. Whether you're at a fashion show, at the nail table, or just want to be comfy on your couch!</p>
-        <p>⚠️ E-Files and bits require training and practice before safe usage on humans. This product is intended to be used on humans only by a professional.</p>
-        <ul>
-          <li>Fits 3/32 bits.</li>
-          <li>Power 25W, Voltage 12V/2A</li>
-          <li>Rated speed: up to 35,000 RPM</li>
-          <li>Includes: power box, quick-change hand piece, hand piece holder and bits.</li>
-        </ul>
     files-5:
       title: "Suzie’s 5-File Set"
       product:
@@ -1092,7 +1103,7 @@ gel:
       product:
         shopify: 7172060676132
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1471,7 +1482,7 @@ manicure:
       title: "NCE Towel - White"
       product:
         shopify: 7172023582756
-        isNew: true
+        isNew: false
         restockingSoon: true
       carousel:
         aspectRatio: 1x1
@@ -1543,12 +1554,164 @@ manicure:
 nail-art:
   label: "Nail Art"
   products:
+    christmas-glitter/wreaths-gifts-and-deer:
+      title: "Wreaths, Gifts, and Deer"
+      product:
+        shopify: 7199529173028
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/christmas-glitter/wreaths-gift-deer/01.jpg
+        - products/christmas-glitter/wreaths-gift-deer/02.jpg
+      writeupMarkdown: |
+        Solid gold in colour, each piece is very tiny and detailed. Each piece is bendable as well. Tiny presents tiny Christmas trees, tiny wreaths. The tiny reindeer are all so adorable. I particularly love the tiny Christmas trees, and all the tiny different types and shapes of snowflakes.
+    christmas-glitter/collection:
+      title: "Christmas Glitter Collection of 8"
+      product:
+        shopify: 7199198740516
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/christmas-glitter/collection.jpg
+        - products/christmas-glitter/showcase/01.jpg
+        - products/christmas-glitter/showcase/02.jpg
+        - products/christmas-glitter/showcase/03.jpg
+        - products/christmas-glitter/showcase/04.jpg
+        - products/christmas-glitter/showcase/05.jpg
+        - products/christmas-glitter/showcase/06.jpg
+        - products/christmas-glitter/showcase/07.jpg
+      writeupMarkdown: |
+        Inlay into any product or nail product your working with. Add to Hard Gel, Acrylic, Hybrid Gel,  Gel Polish & Nail Polish. Simply apply to freshly applied product for an inlay and cap.
+
+        For Nail Polish or Gel Polish simply lay glitter on top of wet product. Let dry or cure and put a topcoat over top.
+
+        ***PRO TIP*** — put two coats of topcoat to make it smoother if pieces stick up at all.
+
+        Combine more colours together to create even more designs.
+
+        This collection contains:
+        1. [Gold Snowflakes](./gold-snowflakes)
+        1. [Blue Bits & White Snowflakes](./blue-bits-white-snowflakes)
+        1. [Red & Green Trees](./red-green-trees)
+        1. [Green Trees](./green-trees)
+        1. [Red & Green Snowflakes](./red-green-snowflakes)
+        1. [White Snowflakes](./white-snowflakes)
+        1. [Tinsel Blue Snowflakes & Moons](./tinsel-blue-snowflakes)
+        1. [Turquoise & White Snowflakes](./turquoise-white-snowflakes)
+    christmas-glitter/gold-snowflakes:
+      title: "Gold Snowflakes - Christmas Glitter"
+      product:
+        shopify: 7199259131940
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/christmas-glitter/gold-snowflakes/01.jpg
+        - products/christmas-glitter/gold-snowflakes/02.jpg
+      writeupMarkdown: |
+        Consists of large snowflakes, and small, gold stars, three different sizes of hexagon gold shapes. To fit smaller nails, large snowflakes can be cut in half and quarters easily with scissors.
+    christmas-glitter/blue-bits-white-snowflakes:
+      title: "Blue Bits & White Snowflakes - Christmas Glitter"
+      product:
+        shopify: 7199267323940
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/christmas-glitter/blue-bits-white-snowflakes/02.jpg
+        - products/christmas-glitter/blue-bits-white-snowflakes/01.jpg
+      writeupMarkdown: |
+        Consists of large white snowflakes with two more smaller size snowflakes, all white. Two different sizes of octagon shaped glitter sky, blue in colour.
+    christmas-glitter/red-green-trees:
+      title: "Red & Green Trees - Christmas Glitter"
+      product:
+        shopify: 7199286427684
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/christmas-glitter/red-green-trees/01.jpg
+        - products/christmas-glitter/red-green-trees/02.jpg
+      writeupMarkdown: |
+        Filled with green and red Christmas tree Shapes. Three different size hexagon, glitter sprinkled throughout.
+    christmas-glitter/green-trees:
+      title: "Green Trees - Christmas Glitter"
+      product:
+        shopify: 7199319326756
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/christmas-glitter/green-trees/01.jpg
+        - products/christmas-glitter/green-trees/02.jpg
+      writeupMarkdown: |
+        A beautiful Christmas green, mostly Christmas tree collection. In this jar there are three different sizes of hexagon shapes, and green and gold.
+    christmas-glitter/red-green-snowflakes:
+      title: "Red & Green Snowflakes - Christmas Glitter"
+      product:
+        shopify: 7199292260388
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/christmas-glitter/red-green-snowflakes/01.jpg
+        - products/christmas-glitter/red-green-snowflakes/02.jpg
+      writeupMarkdown: |
+        So many large Red & Green Snowfkakes. Peppered with silver stars and three sizes of hexagon shapes in red glitter.
+    christmas-glitter/white-snowflakes:
+      title: "White Snowflakes - Christmas Glitter"
+      product:
+        shopify: 7199324962852
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/christmas-glitter/white-snowflakes/01.jpg
+        - products/christmas-glitter/white-snowflakes/02.jpg
+      writeupMarkdown: |
+        Large solid white snowflakes surrounded by two different sizes of hexagon. Glitters can show multi colours as you move them. Soft, pink and soft blue and mauve appear within the glitters as the light hits them at different angles.
+    christmas-glitter/tinsel-blue-snowflakes:
+      title: "Tinsel Blue Snowflakes & Moons - Christmas Glitter"
+      product:
+        shopify: 7199330959396
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/christmas-glitter/tinsel-blue-snowflakes/01.jpg
+        - products/christmas-glitter/tinsel-blue-snowflakes/02.jpg
+      writeupMarkdown: |
+        Big blue & big silver snowflakes and delicate small silver moons surrounded in tiny glitter of white and blue, with a couple of sizes of hexagon in blue and white glitter.
+    christmas-glitter/turquoise-white-snowflakes:
+      title: "Turquoise & White Snowflakes - Christmas Glitter"
+      product:
+        shopify: 7199336071204
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/christmas-glitter/turquoise-white-snowflakes/01.jpg
+        - products/christmas-glitter/turquoise-white-snowflakes/02.jpg
+      writeupMarkdown: |
+        Large white, solid snowflakes with turquoise, reflecting, also blue snowflakes. Surrounded in tiny glitter and various socks, gone shapes of white, soft, green and baby blue all very reflective.
     gems/christmas/forest-green:
       title: "Forest Green - Christmas Gems"
       product:
         shopify: 7172768825380
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1563,7 +1726,7 @@ nail-art:
       product:
         shopify: 7172758241316
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1578,7 +1741,7 @@ nail-art:
       product:
         shopify: 7172762402852
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1593,7 +1756,7 @@ nail-art:
       product:
         shopify: 7172763648036
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1608,7 +1771,7 @@ nail-art:
       product:
         shopify: 7172764368932
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1623,7 +1786,7 @@ nail-art:
       product:
         shopify: 7172764729380
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1638,7 +1801,7 @@ nail-art:
       product:
         shopify: 7172766990372
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1653,7 +1816,7 @@ nail-art:
       product:
         shopify: 7172768071716
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1668,7 +1831,7 @@ nail-art:
       product:
         shopify: 7172768170020
         restocking: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
