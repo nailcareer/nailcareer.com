@@ -842,7 +842,7 @@ files-and-forms:
 
         ⚠️ E-Files and bits require training and practice before safe usage on humans. This product is intended to be used on humans only by a professional.
 
-        Fits 3/32 E-Files (like [Suzie's EZ-File](/store/products/ezfile))
+        Fits 3/32 E-Files (like [Suzie's EZ File](/store/products/ezfile/2))
     bit-kit:
       title: "Suzie’s Bit Kit"
       product:
@@ -865,7 +865,7 @@ files-and-forms:
 
         With these three e-file bits, you can achieve the majority of nail designs from beginning to end.
 
-        They fit [Suzie's EZ-File](/store/products/ezfile), and most other e-files.
+        They fit [Suzie's EZ File](/store/products/ezfile/2), and most other e-files.
 
         ⚠️ E-Files and bits require training and practice before safe usage on humans. This product is intended to be used on humans only by a professional.
       details: |
@@ -918,6 +918,7 @@ files-and-forms:
         </ol>
         <shopper-product restocking-soon="" link="6767534768164"></shopper-product>
     ezfile:
+      hideFromIndex: true
       title: "Suzie’s Ez-File"
       product:
         shopify: 6748213674020
