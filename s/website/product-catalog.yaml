@@ -714,6 +714,39 @@ brushes:
 files-and-forms:
   label: "Files & Forms"
   products:
+    ezfile/2:
+      title: "Suzie’s EZ File"
+      product:
+        shopify: 7199532122148
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/ezfile2/01.jpg
+        - products/ezfile2/02.jpg
+        - products/ezfile2/03.jpg
+        - products/ezfile2/04.jpg
+      writeupMarkdown: |
+        My Newest EZ File can be used as a portable unit or a desk efile. Up to 35k RPM. Slender and light handpiece. The low speed is smooth and perfect for natural nails and increases smoothly as high as you need for sculpting and removals.
+
+        - Comes with a mandrel and some standard bits
+        - Includes test for Handpiece
+        - Last 8-10 on Full Charge
+        - Takes 3 hours to Fully Charge
+
+        ## Powerful, yet gentle.
+
+        This e-file's range allows low speeds for natural nails, and reaches strong speeds for removing/sculpting gel polish, gel tips, hybrid, hard gel, dip powder, and strong acrylic.
+
+        Lightweight and portable- you can take this e-file anywhere to file nails quickly. Whether you're at a fashion show, at the nail table, or just want to be comfy on your couch!
+
+        > ⚠️ E-Files and bits require training and practice before safe usage on humans. This product is intended to be used on humans only by a professional.
+
+        - Fits 3/32 bits
+        - Power 25W, Voltage 12V/2A
+        - Rated speed: up to 35,000 RPM
+        - Includes: power box, quick-change hand piece, hand piece holder and bits.
     sanding-bands/medium:
       title: "Medium Sanding Bands"
       product:
