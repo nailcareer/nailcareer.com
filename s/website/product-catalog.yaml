@@ -1381,6 +1381,33 @@ gel-tips:
 lamps:
   label: "Lamps"
   products:
+    lamps/nuke-it:
+      title: "Nuke It"
+      product:
+        shopify: 7200286933028
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/lamps/nuke-it/01.jpg
+        - products/lamps/nuke-it/02.jpg
+        - products/lamps/nuke-it/03.jpg
+        - products/lamps/nuke-it/04.jpg
+        - products/lamps/nuke-it/05.jpg
+      writeupMarkdown: |
+        ***Nuke It*** is Suzie's full-hand UV/LED lamp for curing gel nails. It's larger than Suzie's [*Mini Nuke*](./mini-nuke) lamp.
+
+        *Nuke It* is also more powerful, and has better coverage with more individual LEDs pushing more wattage overall. It's nicely shaped to cure thumb nails.
+
+        - One year warranty
+        - Powerful full-hand lamp, cures thumbs
+        - Easy carry handle
+        - Removable bottom plate
+        - 36 watts
+        - Timer modes at 30, 60, or 90 seconds
+        - Comes with a North-American power cord
+        - All Suzie's Gel products have been tested with the Nuke It & Mini Nuke lamps for the correct cure
     lamps/mini-nuke:
       title: "Mini Nuke"
       product:
@@ -1394,13 +1421,12 @@ lamps:
         - products/lamps/mini-nuke/02.jpg
         - products/lamps/mini-nuke/03.jpg
       writeupMarkdown: |
-        Suzie’s Mini Nuke Gel Lamp packs POWER. It’s compact, but powerful enough to cure hard gels, hybrid gels and soft gels.
+        ***Mini Nuke*** is Suzie's small UV/LED lamp for curing gel nails. It's smaller and more compact than the [*Nuke It*](./nuke-it) lamp.
 
-        Details:
         - One year warranty
-        - 4 Finger Lamp
-        - 6 watt LED
-        - 30 second timer
+        - 4-finger
+        - 6 watts
+        - 30-second timer
         - USB charger with north-american power adapter
 manicure:
   label: "Manicure"
