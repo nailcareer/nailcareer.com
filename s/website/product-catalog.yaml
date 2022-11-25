@@ -1569,7 +1569,16 @@ nail-art:
         - products/christmas-glitter/showcase/04.jpg
         - products/christmas-glitter/showcase/05.jpg
       writeupMarkdown: |
-        Solid gold in colour, each piece is very tiny and detailed. Each piece is bendable as well. Tiny presents tiny Christmas trees, tiny wreaths. The tiny reindeer are all so adorable. I particularly love the tiny Christmas trees, and all the tiny different types and shapes of snowflakes.
+        Solid gold in colour, each piece is very tiny and detailed. Each piece is bendable as well.
+        
+        - Tiny Gifts
+        - Tiny Christmas Trees
+        - Tiny Wreaths
+        - Tiny Reindeer!
+
+        *They're all so adorable!*
+        
+        I particularly love the tiny Christmas trees, and all the tiny different types and shapes of snowflakes.
     christmas-glitter/collection:
       title: "Christmas Glitter Collection of 8"
       product:
