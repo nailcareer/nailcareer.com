@@ -1396,18 +1396,23 @@ lamps:
         - products/lamps/nuke-it/04.jpg
         - products/lamps/nuke-it/05.jpg
       writeupMarkdown: |
-        ***Nuke It*** is Suzie's full-hand UV/LED lamp for curing gel nails. It's larger than Suzie's [*Mini Nuke*](./mini-nuke) lamp.
-
-        *Nuke It* is also more powerful, and has better coverage with more individual LEDs pushing more wattage overall. It's nicely shaped to cure thumb nails.
+        ***Nuke It*** is Suzie's powerful full-hand UV/LED lamp for gel nails that has high curing capability.
 
         - One year warranty
         - Powerful full-hand lamp, cures thumbs
         - Easy carry handle
-        - Removable bottom plate
+        - Bottom plate is reflective, and removable
         - 36 watts
         - Timer modes at 30, 60, or 90 seconds
+          - 90 second mode is good for sensitive users
         - Comes with a North-American power cord
-        - All Suzie's Gel products have been tested with the Nuke It & Mini Nuke lamps for the correct cure
+
+        All Suzie's Gel products have been tested with the Nuke It & Mini Nuke lamps for the correct cure, so feel confident curing:
+        - [EZ Gel](/store/products/ez-gel)
+        - [Suzie's Glass Nails](/store/products/glass-nails)
+        - [Reveal Top Coat](/store/products/reveal-top-coat)
+        - [Bridge](/store/products/bridge)
+        - [Naturally Fake](/store/products/naturally-fake)
     lamps/mini-nuke:
       title: "Mini Nuke"
       product:
