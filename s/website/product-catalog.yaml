@@ -1555,6 +1555,112 @@ manicure:
 nail-art:
   label: "Nail Art"
   products:
+    chrome/1/collection:
+      title: "Chrome Powder Collection"
+      product:
+        shopify: 7200245284900
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/chrome/1/collection.jpg
+      writeupMarkdown: |
+        **This collection includes:**
+        1. [**Blue** Chrome Powder](/store/products/chrome/1/1)
+        1. [**Red** Chrome Powder](/store/products/chrome/1/2)
+        1. [**Green** Chrome Powder](/store/products/chrome/1/3)
+        1. [**Gold** Chrome Powder](/store/products/chrome/1/4)
+        1. [**Silver** Chrome Powder](/store/products/chrome/1/5)
+        1. [**Fuchsia** Chrome Powder](/store/products/chrome/1/6)
+
+        **How to use:** Gently rub chrome powder onto nail with cured gel top coat with the provided applicator. Apply onto Gel Top Coat or Nail Polish, then seal with Gel Top Coat. Apply two coats for more intense colour.
+
+        > **Pro Tip** — *Apply to under-cured gel topcoat rather than over-cured. If chrome powder slides off topcoat, then put another layer of topcoat on cure for only 10 seconds, then apply chrome powder. Wipe away excess powder with gentle duster. Then topcoat with gel topcoat once again and cure.*
+    chrome/1/1:
+      title: "Blue Chrome"
+      product:
+        shopify: 7200253837348
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/chrome/1/01.jpg
+      writeupMarkdown: |
+        **How to use:** Gently rub chrome powder onto nail with cured gel top coat with the provided applicator. Apply onto Gel Top Coat or Nail Polish, then seal with Gel Top Coat. Apply two coats for more intense colour.
+
+        > **Pro Tip** — *Apply to under-cured gel topcoat rather than over-cured. If chrome powder slides off topcoat, then put another layer of topcoat on cure for only 10 seconds, then apply chrome powder. Wipe away excess powder with gentle duster. Then topcoat with gel topcoat once again and cure.*
+    chrome/1/2:
+      title: "Red Chrome"
+      product:
+        shopify: 7200254558244
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/chrome/1/02.jpg
+      writeupMarkdown: |
+        **How to use:** Gently rub chrome powder onto nail with cured gel top coat with the provided applicator. Apply onto Gel Top Coat or Nail Polish, then seal with Gel Top Coat. Apply two coats for more intense colour.
+
+        > **Pro Tip** — *Apply to under-cured gel topcoat rather than over-cured. If chrome powder slides off topcoat, then put another layer of topcoat on cure for only 10 seconds, then apply chrome powder. Wipe away excess powder with gentle duster. Then topcoat with gel topcoat once again and cure.*
+    chrome/1/3:
+      title: "Green Chrome"
+      product:
+        shopify: 7200254754852
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/chrome/1/03.jpg
+      writeupMarkdown: |
+        **How to use:** Gently rub chrome powder onto nail with cured gel top coat with the provided applicator. Apply onto Gel Top Coat or Nail Polish, then seal with Gel Top Coat. Apply two coats for more intense colour.
+
+        > **Pro Tip** — *Apply to under-cured gel topcoat rather than over-cured. If chrome powder slides off topcoat, then put another layer of topcoat on cure for only 10 seconds, then apply chrome powder. Wipe away excess powder with gentle duster. Then topcoat with gel topcoat once again and cure.*
+    chrome/1/4:
+      title: "Gold Chrome"
+      product:
+        shopify: 7200255016996
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/chrome/1/04.jpg
+      writeupMarkdown: |
+        **How to use:** Gently rub chrome powder onto nail with cured gel top coat with the provided applicator. Apply onto Gel Top Coat or Nail Polish, then seal with Gel Top Coat. Apply two coats for more intense colour.
+
+        > **Pro Tip** — *Apply to under-cured gel topcoat rather than over-cured. If chrome powder slides off topcoat, then put another layer of topcoat on cure for only 10 seconds, then apply chrome powder. Wipe away excess powder with gentle duster. Then topcoat with gel topcoat once again and cure.*
+    chrome/1/5:
+      title: "Silver Chrome"
+      product:
+        shopify: 7200255508516
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/chrome/1/05.jpg
+      writeupMarkdown: |
+        **How to use:** Gently rub chrome powder onto nail with cured gel top coat with the provided applicator. Apply onto Gel Top Coat or Nail Polish, then seal with Gel Top Coat. Apply two coats for more intense colour.
+
+        > **Pro Tip** — *Apply to under-cured gel topcoat rather than over-cured. If chrome powder slides off topcoat, then put another layer of topcoat on cure for only 10 seconds, then apply chrome powder. Wipe away excess powder with gentle duster. Then topcoat with gel topcoat once again and cure.*
+    chrome/1/6:
+      title: "Fuchsia Chrome"
+      product:
+        shopify: 7200256491556
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/chrome/1/06.jpg
+      writeupMarkdown: |
+        **How to use:** Gently rub chrome powder onto nail with cured gel top coat with the provided applicator. Apply onto Gel Top Coat or Nail Polish, then seal with Gel Top Coat. Apply two coats for more intense colour.
+
+        > **Pro Tip** — *Apply to under-cured gel topcoat rather than over-cured. If chrome powder slides off topcoat, then put another layer of topcoat on cure for only 10 seconds, then apply chrome powder. Wipe away excess powder with gentle duster. Then topcoat with gel topcoat once again and cure.*
     christmas-glitter/wreaths-gifts-and-deer:
       title: "Wreaths, Gifts, and Deer"
       product:
