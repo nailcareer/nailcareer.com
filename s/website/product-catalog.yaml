@@ -1426,10 +1426,11 @@ manicure:
 
         *(Nut Free, One 30ml bottle)*
     lets-get-sugar:
+      hideFromIndex: true
       title: "Suzie’s \"Let's Get Sugar\""
       product:
         shopify: https://nail-career-education.myshopify.com/admin/products/6696151711780
-        restockingSoon: true
+        restockingSoon: false
       carousel:
         aspectRatio: 3x2
         images:
@@ -1443,7 +1444,7 @@ manicure:
       title: "Suzie’s \"Let's Get Hydrated\""
       product:
         shopify: https://nail-career-education.myshopify.com/admin/products/6696154431524
-        restockingSoon: true
+        restockingSoon: false
       carousel:
         aspectRatio: 1x1
         images:
