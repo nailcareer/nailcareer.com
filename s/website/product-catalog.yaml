@@ -1103,7 +1103,7 @@ gel:
       product:
         shopify: 7172060676132
         restockingSoon: true
-        isNew: false
+        isNew: true
       carousel:
         aspectRatio: 1x1
         images:
