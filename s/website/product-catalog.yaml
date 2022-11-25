@@ -1379,7 +1379,7 @@ gel-tips:
         - Length: Long
 
 lamps:
-  label: "Lamps"
+  label: "Gel Lamps"
   products:
     lamps/nuke-it:
       title: "Nuke It"
