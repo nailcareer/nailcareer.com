@@ -1230,6 +1230,7 @@ gel:
 
         🇺🇸 Suzie's EZ-Gel Colours and Bridge Gel Adhesion are HEMA-Free, Cruelty-Free, and Made in America
     mini-nuke:
+      hideFromIndex: true
       title: "Mini Nuke"
       product:
         shopify: 6875100250148
@@ -1377,6 +1378,30 @@ gel-tips:
         - Shape: Stiletto
         - Length: Long
 
+lamps:
+  label: "Lamps"
+  products:
+    lamps/mini-nuke:
+      title: "Mini Nuke"
+      product:
+        shopify: 7200283557924
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/lamps/mini-nuke/01.jpg
+        - products/lamps/mini-nuke/02.jpg
+        - products/lamps/mini-nuke/03.jpg
+      writeupMarkdown: |
+        Suzie’s Mini Nuke Gel Lamp packs POWER. It’s compact, but powerful enough to cure hard gels, hybrid gels and soft gels.
+
+        Details:
+        - One year warranty
+        - 4 Finger Lamp
+        - 6 watt LED
+        - 30 second timer
+        - USB charger with north-american power adapter
 manicure:
   label: "Manicure"
   products:
