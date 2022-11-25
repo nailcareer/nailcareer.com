@@ -2409,10 +2409,11 @@ nail-art:
 
         **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
     gem-jars/frosted-white-glitter:
+      hideFromIndex: true
       title: "Frosted White Glitter - Gem Jar"
       product:
         shopify: 6839712841764
-        restockingSoon: true
+        restockingSoon: false
       carousel:
         aspectRatio: 1x1
         images:
