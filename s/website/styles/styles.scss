@@ -118,21 +118,35 @@ html {
 			font-weight: bold;
 			text-shadow: 0 0 9px #fff6;
 			a {
+				color: #fffa;
 				text-decoration: none;
 			}
 			p {
 				line-height: 1em;
 				&:nth-child(1) {
-					font-size: 2em;
+					font-size: 2.2em;
 					color: #77ffe2;
+					margin-bottom: 0.2em;
 				}
 				&:nth-child(2) {
 					color: white;
-					font-size: 1.5em;
+					strong {
+						vertical-align: top;
+						font-size: 1.5em;
+					}
 					em {
+						vertical-align: top;
+						font-size: 0.8em;
 						opacity: 0.6;
 						font-weight: normal;
+						text-transform: uppercase;
 					}
+				}
+				&:nth-child(3) {
+					font-size: 0.8em;
+					opacity: 0.6;
+					text-transform: uppercase;
+					text-shadow: none;
 				}
 			}
 		}

@@ -1103,7 +1103,7 @@ gel:
       product:
         shopify: 7172060676132
         restockingSoon: true
-        isNew: false
+        isNew: true
       carousel:
         aspectRatio: 1x1
         images:
@@ -1426,10 +1426,11 @@ manicure:
 
         *(Nut Free, One 30ml bottle)*
     lets-get-sugar:
+      hideFromIndex: true
       title: "Suzie’s \"Let's Get Sugar\""
       product:
         shopify: https://nail-career-education.myshopify.com/admin/products/6696151711780
-        restockingSoon: true
+        restockingSoon: false
       carousel:
         aspectRatio: 3x2
         images:
@@ -1443,7 +1444,7 @@ manicure:
       title: "Suzie’s \"Let's Get Hydrated\""
       product:
         shopify: https://nail-career-education.myshopify.com/admin/products/6696154431524
-        restockingSoon: true
+        restockingSoon: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1565,8 +1566,19 @@ nail-art:
         images:
         - products/christmas-glitter/wreaths-gift-deer/01.jpg
         - products/christmas-glitter/wreaths-gift-deer/02.jpg
+        - products/christmas-glitter/showcase/04.jpg
+        - products/christmas-glitter/showcase/05.jpg
       writeupMarkdown: |
-        Solid gold in colour, each piece is very tiny and detailed. Each piece is bendable as well. Tiny presents tiny Christmas trees, tiny wreaths. The tiny reindeer are all so adorable. I particularly love the tiny Christmas trees, and all the tiny different types and shapes of snowflakes.
+        Solid gold in colour, each piece is very tiny and detailed. Each piece is bendable as well.
+        
+        - Tiny Gifts
+        - Tiny Christmas Trees
+        - Tiny Wreaths
+        - Tiny Reindeer!
+
+        *They're all so adorable!*
+        
+        I particularly love the tiny Christmas trees, and all the tiny different types and shapes of snowflakes.
     christmas-glitter/collection:
       title: "Christmas Glitter Collection of 8"
       product:
@@ -1580,8 +1592,6 @@ nail-art:
         - products/christmas-glitter/showcase/01.jpg
         - products/christmas-glitter/showcase/02.jpg
         - products/christmas-glitter/showcase/03.jpg
-        - products/christmas-glitter/showcase/04.jpg
-        - products/christmas-glitter/showcase/05.jpg
         - products/christmas-glitter/showcase/06.jpg
         - products/christmas-glitter/showcase/07.jpg
       writeupMarkdown: |
@@ -2408,10 +2418,11 @@ nail-art:
 
         **Instructions:** Place the Diamond Shapes onto wet top coat, then cure or dry.
     gem-jars/frosted-white-glitter:
+      hideFromIndex: true
       title: "Frosted White Glitter - Gem Jar"
       product:
         shopify: 6839712841764
-        restockingSoon: true
+        restockingSoon: false
       carousel:
         aspectRatio: 1x1
         images:

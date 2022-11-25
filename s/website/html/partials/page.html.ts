@@ -128,7 +128,7 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 				<p>BLACK FRIDAY SALE</p>
 				<p>
 					<strong>25% OFF</strong>
-					<em>SELECT ITEMS</em>
+					<em>Select items, while supplies last</em>
 				</p>
 			</a>
 		</li>
