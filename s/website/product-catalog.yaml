@@ -1617,6 +1617,20 @@ manicure:
 nail-art:
   label: "Nail Art"
   products:
+    chrome/1/7:
+      title: "Purple Chrome"
+      product:
+        shopify: 7201521336356
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/chrome/1/07.jpg
+      writeupMarkdown: |
+        **How to use:** Gently rub chrome powder onto nail with cured gel top coat with the provided applicator. Apply onto Gel Top Coat or Nail Polish, then seal with Gel Top Coat. Apply two coats for more intense colour.
+
+        > **Pro Tip** — *Apply to under-cured gel topcoat rather than over-cured. If chrome powder slides off topcoat, then put another layer of topcoat on cure for only 10 seconds, then apply chrome powder. Wipe away excess powder with gentle duster. Then topcoat with gel topcoat once again and cure.*
     chrome/1/collection:
       title: "Chrome Powder Collection"
       product:
