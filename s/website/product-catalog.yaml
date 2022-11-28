@@ -1098,6 +1098,21 @@ files-and-forms:
 gel:
   label: "Gel"
   products:
+    topcoat/matte/:
+      title: "Matte-finish Top Coat"
+      product:
+        shopify: 7201519206436
+        restockingSoon: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/topcoat/matte/02.jpg
+        - products/topcoat/matte/01.jpg
+      writeupMarkdown: |
+        For that frosted Matte look and velvety finish, this Matte is what you need.
+
+        Apply over finished nail or over gel polish. Cure for approximately 60 seconds under a 36-watt LED Lamp (or longer in a UV Lamp)
     naturally-fake:
       title: "Naturally Fake"
       product:
