@@ -1300,11 +1300,14 @@ lamps:
       carousel:
         aspectRatio: 1x1
         images:
-        - products/lamps/nuke-it/01.jpg
-        - products/lamps/nuke-it/02.jpg
-        - products/lamps/nuke-it/03.jpg
+        - products/lamps/nuke-it/06.jpg
         - products/lamps/nuke-it/04.jpg
         - products/lamps/nuke-it/05.jpg
+        - products/lamps/nuke-it/01.jpg
+        - products/lamps/nuke-it/07.jpg
+        - products/lamps/nuke-it/08.jpg
+        - products/lamps/nuke-it/09.jpg
+        - products/lamps/nuke-it/10.jpg
       writeupMarkdown: |
         ***Nuke It*** is Suzie's powerful full-hand UV/LED lamp for gel nails with high curing capability.
 
@@ -1332,9 +1335,11 @@ lamps:
       carousel:
         aspectRatio: 1x1
         images:
+        - products/lamps/mini-nuke/05.jpg
         - products/lamps/mini-nuke/01.jpg
         - products/lamps/mini-nuke/02.jpg
         - products/lamps/mini-nuke/03.jpg
+        - products/lamps/mini-nuke/04.jpg
       writeupMarkdown: |
         ***Mini Nuke*** is Suzie's small UV/LED lamp for curing gel nails. It's smaller and more compact than the [*Nuke It*](./nuke-it) lamp.
 
