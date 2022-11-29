@@ -29,6 +29,8 @@
 		"editor.insertSpaces": true,
 	},
 
+	"lit-plugin.rules.no-complex-attribute-binding": "off",
+
 	"typescript.tsdk": "node_modules/typescript/lib",
 	"javascript.format.semicolons": "remove",
 	"typescript.format.semicolons": "remove",
