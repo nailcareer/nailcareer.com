@@ -1924,6 +1924,7 @@ nail-art:
         images:
         - products/gems/christmas-gems/forest-green/01.jpg
         - products/gems/christmas-gems/forest-green/02.jpg
+        - products/gems/christmas-gems/forest-green/closeup_04.jpg
       writeupMarkdown: |
         Approximately 300 gems per pack.
 
@@ -1939,6 +1940,7 @@ nail-art:
         images:
         - products/gems/christmas-gems/gold-brick/01.jpg
         - products/gems/christmas-gems/gold-brick/02.jpg
+        - products/gems/christmas-gems/gold-brick/closeup_05.jpg
       writeupMarkdown: |
         Approximately 300 gems per pack.
 
@@ -1954,6 +1956,7 @@ nail-art:
         images:
         - products/gems/christmas-gems/royal-blue/01.jpg
         - products/gems/christmas-gems/royal-blue/02.jpg
+        - products/gems/christmas-gems/royal-blue/closeup_03.jpg
       writeupMarkdown: |
         Approximately 300 gems per pack.
 
@@ -1969,6 +1972,7 @@ nail-art:
         images:
         - products/gems/christmas-gems/ruby-red/01.jpg
         - products/gems/christmas-gems/ruby-red/02.jpg
+        - products/gems/christmas-gems/ruby-red/closeup_02.jpg
       writeupMarkdown: |
         Approximately 300 gems per pack.
 
@@ -1984,6 +1988,7 @@ nail-art:
         images:
         - products/gems/christmas-gems/suzies-aqua/01.jpg
         - products/gems/christmas-gems/suzies-aqua/02.jpg
+        - products/gems/christmas-gems/suzies-aqua/closeup_07.jpg
       writeupMarkdown: |
         Approximately 300 gems per pack.
 
@@ -1999,6 +2004,7 @@ nail-art:
         images:
         - products/gems/happy-crystals/blue-agate/01.jpg
         - products/gems/happy-crystals/blue-agate/02.jpg
+        - products/gems/happy-crystals/blue-agate/closeup_09.jpg
       writeupMarkdown: |
         Approximately 300 gems per pack.
 
@@ -2014,6 +2020,7 @@ nail-art:
         images:
         - products/gems/happy-crystals/jade/01.jpg
         - products/gems/happy-crystals/jade/02.jpg
+        - products/gems/happy-crystals/jade/closeup_06.jpg
       writeupMarkdown: |
         Approximately 300 gems per pack.
 
@@ -2029,6 +2036,7 @@ nail-art:
         images:
         - products/gems/happy-crystals/pink-quartz/01.jpg
         - products/gems/happy-crystals/pink-quartz/02.jpg
+        - products/gems/happy-crystals/pink-quartz/closeup_01.jpg
       writeupMarkdown: |
         Approximately 300 gems per pack.
 
@@ -2044,6 +2052,7 @@ nail-art:
         images:
         - products/gems/happy-crystals/white-quartz/02.jpg
         - products/gems/happy-crystals/white-quartz/01.jpg
+        - products/gems/happy-crystals/white-quartz/closeup_08.jpg
       writeupMarkdown: |
         Approximately 300 gems per pack.
 
