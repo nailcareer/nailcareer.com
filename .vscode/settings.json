@@ -30,6 +30,7 @@
 	},
 
 	"lit-plugin.rules.no-complex-attribute-binding": "off",
+	"lit-plugin.rules.no-incompatible-type-binding": "off",
 
 	"typescript.tsdk": "node_modules/typescript/lib",
 	"javascript.format.semicolons": "remove",
