@@ -535,7 +535,28 @@ acrylic:
 brushes:
   label: "Brushes"
   products:
+    synthetic-acrylic-brush/oval-6:
+      title: "Oval #6 Synthetic Acrylic Brush"
+      product:
+        shopify: 7224862179364
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/synthetic-acrylic-brush/oval-8-01.jpg
+      writeupMarkdown: |
+        Excellent for learning acrylic especially with Low Odour Monomer. Synthetic hairs are much less absorbent. So makes working with monomers easier to create perfect beads, because it holds less monomer.
+
+        Always store with the cap on, to keep the brush soft for your next usage.
+
+        **How to Use:**
+        - This gold beauty holds much less monomer than natural hair brushes. If you've had issues in the past with runny beads, then this might be the brush for you!
+        - After use, roll to make sure no product is stuck in bristles.
+        - Clean this brush with ALCOHOL ONLY.
+        - Keep in mind, acetone will destroy hairs.
     synthetic-acrylic-brush/oval-8:
+      hideFromIndex: true
       title: "Oval #8 Synthetic Acrylic Brush"
       product:
         shopify: 7089666621476
