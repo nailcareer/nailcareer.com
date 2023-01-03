@@ -35,7 +35,7 @@
 	},
 	"devDependencies": {
 		"@rollup/plugin-node-resolve": "^15.0.1",
-		"@types/node": "^18.11.17",
+		"@types/node": "^18.11.18",
 		"chokidar-cli": "^3.0.0",
 		"html-minifier-terser": "^7.1.0",
 		"http-server": "^14.1.1",
@@ -45,8 +45,8 @@
 		"mkdirp": "^1.0.4",
 		"npm-run-all": "^4.1.5",
 		"rimraf": "^3.0.2",
-		"rollup": "^3.7.5",
-		"sass": "^1.57.0",
+		"rollup": "^3.9.1",
+		"sass": "^1.57.1",
 		"serve": "^14.1.2",
 		"terser": "^5.16.1",
 		"typescript": "^4.9.4"
@@ -55,7 +55,7 @@
 		"@babel/polyfill": "^7.12.1",
 		"@webcomponents/webcomponentsjs": "^2.7.0",
 		"carouse": "0.0.1",
-		"es-module-shims": "^1.6.2",
+		"es-module-shims": "^1.6.3",
 		"install": "^0.13.0",
 		"lit": "^2.5.0",
 		"markdown-it": "^13.0.1",
