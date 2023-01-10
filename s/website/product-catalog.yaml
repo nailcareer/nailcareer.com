@@ -1662,7 +1662,7 @@ nail-art:
       carousel:
         aspectRatio: 1x1
         images:
-        - products/chrome/1/purple-01.jpg
+        - products/chrome/1/alpha/purple.jpg
       writeupMarkdown: |
         **How to use:** Gently rub chrome powder onto nail with cured gel top coat with the provided applicator. Apply onto Gel Top Coat or Nail Polish, then seal with Gel Top Coat. Apply two coats for more intense colour.
 
@@ -1676,7 +1676,7 @@ nail-art:
       carousel:
         aspectRatio: 1x1
         images:
-        - products/chrome/1/collection.jpg
+        - products/chrome/1/alpha/collection.jpg
       writeupMarkdown: |
         **This collection includes:**
         1. [**Blue** Chrome Powder](/store/products/chrome/1/1)
@@ -1698,7 +1698,7 @@ nail-art:
       carousel:
         aspectRatio: 1x1
         images:
-        - products/chrome/1/01.jpg
+        - products/chrome/1/alpha/blue.jpg
       writeupMarkdown: |
         **How to use:** Gently rub chrome powder onto nail with cured gel top coat with the provided applicator. Apply onto Gel Top Coat or Nail Polish, then seal with Gel Top Coat. Apply two coats for more intense colour.
 
@@ -1712,7 +1712,7 @@ nail-art:
       carousel:
         aspectRatio: 1x1
         images:
-        - products/chrome/1/02.jpg
+        - products/chrome/1/alpha/red.jpg
       writeupMarkdown: |
         **How to use:** Gently rub chrome powder onto nail with cured gel top coat with the provided applicator. Apply onto Gel Top Coat or Nail Polish, then seal with Gel Top Coat. Apply two coats for more intense colour.
 
@@ -1726,7 +1726,7 @@ nail-art:
       carousel:
         aspectRatio: 1x1
         images:
-        - products/chrome/1/03.jpg
+        - products/chrome/1/alpha/green.jpg
       writeupMarkdown: |
         **How to use:** Gently rub chrome powder onto nail with cured gel top coat with the provided applicator. Apply onto Gel Top Coat or Nail Polish, then seal with Gel Top Coat. Apply two coats for more intense colour.
 
@@ -1740,7 +1740,7 @@ nail-art:
       carousel:
         aspectRatio: 1x1
         images:
-        - products/chrome/1/04.jpg
+        - products/chrome/1/alpha/gold.jpg
       writeupMarkdown: |
         **How to use:** Gently rub chrome powder onto nail with cured gel top coat with the provided applicator. Apply onto Gel Top Coat or Nail Polish, then seal with Gel Top Coat. Apply two coats for more intense colour.
 
@@ -1754,7 +1754,7 @@ nail-art:
       carousel:
         aspectRatio: 1x1
         images:
-        - products/chrome/1/05.jpg
+        - products/chrome/1/alpha/silver.jpg
       writeupMarkdown: |
         **How to use:** Gently rub chrome powder onto nail with cured gel top coat with the provided applicator. Apply onto Gel Top Coat or Nail Polish, then seal with Gel Top Coat. Apply two coats for more intense colour.
 
@@ -1768,7 +1768,7 @@ nail-art:
       carousel:
         aspectRatio: 1x1
         images:
-        - products/chrome/1/06.jpg
+        - products/chrome/1/alpha/fuchsia.jpg
       writeupMarkdown: |
         **How to use:** Gently rub chrome powder onto nail with cured gel top coat with the provided applicator. Apply onto Gel Top Coat or Nail Polish, then seal with Gel Top Coat. Apply two coats for more intense colour.
 
