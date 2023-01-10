@@ -1,5 +1,5 @@
 
-import {Component, mixinLightDom, html, property, mixinStyles, css, TemplateResult} from "../framework/component.js"
+import {Component, html, property, mixinStyles, css, TemplateResult} from "../framework/component.js"
 
 @mixinStyles(css`
 
