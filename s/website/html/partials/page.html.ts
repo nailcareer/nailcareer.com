@@ -104,8 +104,6 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 									<p>Email <nce-email user="hello" domain="nailcareer.com"></nce-email> if your country is not on this list, or if you'd like to arrange local pickup in Langford BC, Canada.</p>
 								</div>
 							</details>
-							<p>❄️ We're experiencing shipping delays due to extreme weather.</p>
-							<p>Shipping team is on holiday Dec 23-27, and Dec 30 to Jan 2.</p>
 							<p>Prices on the next checkout page are shown in US Dollars.</p>
 							<p>Products are for professional use only.</p>
 						</div>
