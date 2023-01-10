@@ -1,7 +1,9 @@
 
-import {NceWebsiteContext} from "../types.js"
-import pageHtml from "./partials/page.html.js"
 import {html} from "xiome/x/toolbox/hamster-html/html.js"
+
+import {NceWebsiteContext} from "../types.js"
+import {eventPromoUrl} from "../constants.js"
+import pageHtml from "./partials/page.html.js"
 
 export default (context: NceWebsiteContext) => pageHtml({
 ...context,
@@ -11,7 +13,7 @@ mainHtml: html`
 <div class="homie">
 	<h1>Nail Career Education</h1>
 	<div class="poster">
-		<a href="https://www.eventbrite.ca/e/nail-tech-course-tickets-462021818697">
+		<a href="${eventPromoUrl}">
 			<img alt="" src="/assets/graphics/promos/001.webp"/>
 		</a>
 	</div>

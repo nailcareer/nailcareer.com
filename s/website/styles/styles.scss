@@ -151,6 +151,55 @@ html {
 			}
 		}
 
+		&[data-vibe="promo"] {
+			background: #008fffba;
+			border-left: 4px solid #00e8ff;
+			font-weight: bold;
+			color: white;
+			text-shadow: 1px 2px 0 #0002;
+
+			font-family: sans-serif;
+			// background: #000a;
+			// border-left: 4px solid #77ffe2;
+			// font-weight: bold;
+			text-shadow: 0 0 9px #fff6;
+			a {
+				color: #fffa;
+				text-decoration: none;
+			}
+			a:hover {
+				color: #fff;
+			}
+			p {
+				line-height: 1em;
+				&:nth-child(1) {
+					font-size: 2.2em;
+					color: #77ffe2;
+					margin-bottom: 0.2em;
+				}
+				&:nth-child(2) {
+					color: white;
+					strong {
+						vertical-align: top;
+						font-size: 1.5em;
+					}
+					em {
+						vertical-align: top;
+						font-size: 0.8em;
+						opacity: 0.6;
+						font-weight: normal;
+						text-transform: uppercase;
+					}
+				}
+				&:nth-child(3) {
+					font-size: 0.8em;
+					opacity: 0.6;
+					text-transform: uppercase;
+					text-shadow: none;
+				}
+			}
+		}
+
 		+ li {
 			margin-top: 0.25rem;
 		}

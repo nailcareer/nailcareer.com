@@ -2,6 +2,7 @@
 import {NceWebsiteContext} from "../../types.js"
 import {read} from "../../buildtools/reading-and-writing.js"
 import {html, HtmlTemplate, unsanitized} from "xiome/x/toolbox/hamster-html/html.js"
+import {eventPromoUrl} from "../../constants.js"
 
 export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsiteContext & {
 	pageName: string
@@ -123,6 +124,18 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 	</nce-header>
 
 	<main>
+		<ul class=infoboxes>
+			<li data-vibe=promo>
+				<a href="${eventPromoUrl}">
+					<p>Suzie's 2-day Course</p>
+					<p>
+						<strong>Sign up now!</strong>
+						<em>Jan 21-21 in Victoria BC</em>
+					</p>
+				</a>
+			</li>
+		</ul>
+
 		${mainHtml}
 	</main>
 
