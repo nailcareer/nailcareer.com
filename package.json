@@ -60,10 +60,10 @@
 		"install": "^0.13.0",
 		"lit": "^2.6.0",
 		"markdown-it": "^13.0.1",
-		"shopper": "^0.2.2",
+		"shopper": "^0.2.5",
 		"sorry-not-sorry": "0.0.3",
 		"whatwg-fetch": "^3.6.2",
-		"xiome": "^0.0.33"
+		"xiome": "^0.0.36"
 	},
 	"author": "Chase Moskal <chasemoskal@gmail.com>"
 }
