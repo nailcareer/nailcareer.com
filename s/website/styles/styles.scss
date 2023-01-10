@@ -158,10 +158,8 @@ html {
 }
 
 a, *::part(link) {
-	opacity: 0.7;
 	color: #007eff;
 	&:hover, &:focus {
-		opacity: 1;
 		color: #007eff;
 	}
 	&:active {

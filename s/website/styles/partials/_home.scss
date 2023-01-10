@@ -69,6 +69,16 @@
 			text-shadow: 0 0 10px #fff6;
 			filter: hue-rotate(126deg) saturate(2);
 		}
+		.poster {
+			a {
+				opacity: 1;
+			}
+			img {
+				display: block;
+				width: 100%;
+				border-radius: 0.3em;
+			}
+		}
 		.showcase {
 			@extend .stdshadow;
 			@extend .stdborder;
