@@ -72,7 +72,7 @@ export class NceHeader extends Component {
 						<a part="navlink" ?data-marked=${page("home")} href="/">Home</a
 						><a part="navlink" ?data-marked=${page("store")} href="/store/">Store</a
 						><a part="navlink" ?data-marked=${page("blog")} href="https://www.blog.nailcareer.com/">Blog</a
-						><a part="navlink tag new" ?data-marked=${page("community")} data-tag=new href="/community/">Community</a
+						><a part="navlink" ?data-marked=${page("community")} href="/community/">Community</a
 						><a part="navlink tag soon" ?data-marked=${page("academy")} data-tag=soon>Academy</a>
 					</nav>
 				</div>
