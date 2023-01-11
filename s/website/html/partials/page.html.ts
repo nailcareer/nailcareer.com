@@ -130,7 +130,7 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 					<p>Suzie's 2-day Course</p>
 					<p>
 						<strong>Sign up now!</strong>
-						<em>Jan 21-21 in Victoria BC</em>
+						<em>Jan 21-22 in Victoria BC</em>
 					</p>
 				</a>
 			</li>
