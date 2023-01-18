@@ -1,5 +1,8 @@
 
 import NceLogo from "../icons/nce-logo.svg.js"
+
+import {navlinks} from "./header/navlinks.js"
+import {renderNavlink} from "./header/render-navlink.js"
 import {Component, html, mixinStyles, css, property, TemplateResult} from "../framework/component.js"
 
 @mixinStyles(css`
@@ -7,7 +10,7 @@ import {Component, html, mixinStyles, css, property, TemplateResult} from "../fr
 	:host {
 		display: block;
 	}
-	
+
 	header > div {
 		display: flex;
 		flex-wrap: wrap;
@@ -60,21 +63,19 @@ export class NceHeader extends Component {
 	["current-page"]: string
 
 	render(): TemplateResult {
-		const page = (pageName: string) => pageName === this["current-page"]
 		return html`
 			<header>
 				<slot></slot>
 				<div>
+
 					<a href="/">
 						${NceLogo}
 					</a>
+
 					<nav>
-						<a part="navlink" ?data-marked=${page("home")} href="/">Home</a
-						><a part="navlink" ?data-marked=${page("store")} href="/store/">Store</a
-						><a part="navlink" ?data-marked=${page("blog")} href="https://www.blog.nailcareer.com/">Blog</a
-						><a part="navlink" ?data-marked=${page("community")} href="/community/">Community</a
-						><a part="navlink tag soon" ?data-marked=${page("academy")} data-tag=soon>Academy</a>
+						${navlinks.map(renderNavlink(this["current-page"]))}
 					</nav>
+
 				</div>
 			</header>
 		`
