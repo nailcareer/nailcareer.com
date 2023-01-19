@@ -1,5 +1,5 @@
 
-import {attrBool, attrMaybe, html, HtmlTemplate} from "xiome/x/toolbox/hamster-html/html.js"
+import {attrBool, attrMaybe, html} from "xiome/x/toolbox/hamster-html/html.js"
 
 export type AcademyPage = (
 	| "supporter"
@@ -15,7 +15,7 @@ export function academySubnav(currentPage: AcademyPage) {
 
 	const link = ({page, label, url, tag}: {
 			page: AcademyPage
-			label: string | HtmlTemplate
+			label: string
 			url?: string
 			tag?: string
 		}) => (html`
@@ -40,7 +40,7 @@ export function academySubnav(currentPage: AcademyPage) {
 
 			${link({
 				page: "qa",
-				label: html`Q&amp;A`,
+				label: "Q&A",
 				url: "./qa",
 			})}
 
