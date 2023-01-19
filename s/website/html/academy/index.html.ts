@@ -15,7 +15,7 @@ mainHtml: html`
 
 	<div data-academy-page=academy>
 		<div class=plate>
-			${academySubnav("supporter")}
+			${academySubnav("academy")}
 
 			<h1>Welcome to the NCE Community</h1>
 			<div class=sidebyside>

@@ -2,7 +2,7 @@
 import {attrBool, attrMaybe, html} from "xiome/x/toolbox/hamster-html/html.js"
 
 export type AcademyPage = (
-	| "supporter"
+	| "academy"
 	| "qa"
 	| "livestream"
 
@@ -33,7 +33,7 @@ export function academySubnav(currentPage: AcademyPage) {
 		<nav class=subnav>
 
 			${link({
-				page: "supporter",
+				page: "academy",
 				label: "Supporter",
 				url: "./",
 			})}
