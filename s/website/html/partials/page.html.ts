@@ -1,8 +1,9 @@
 
+import {html, HtmlTemplate, unsanitized} from "xiome/x/toolbox/hamster-html/html.js"
+
+import {eventPromoUrl} from "../../constants.js"
 import {NceWebsiteContext} from "../../types.js"
 import {read} from "../../buildtools/reading-and-writing.js"
-import {html, HtmlTemplate, unsanitized} from "xiome/x/toolbox/hamster-html/html.js"
-import {eventPromoUrl} from "../../constants.js"
 
 export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsiteContext & {
 	pageName: string

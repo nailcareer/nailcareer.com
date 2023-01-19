@@ -9,8 +9,8 @@ export default ({base, mode, ...context}: NceWebsiteContext) => pageHtml({
 ...context,
 base,
 mode,
-pageName: "community",
-pageSubtitle: "Community Livestream",
+pageName: "academy",
+pageSubtitle: "Livestream",
 mainHtml: html`
 
 	<div data-community-page=livestream>
