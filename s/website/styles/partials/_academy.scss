@@ -33,7 +33,7 @@
 		margin-top: 2em;
 	}
 
-	[data-community-page="welcome"] {
+	[data-academy-page="academy"] {
 		xiome-login-panel {
 			max-width: 28em;
 		}
@@ -49,7 +49,7 @@
 		}
 	}
 
-	[data-community-page="qa"] {
+	[data-academy-page="qa"] {
 		xiome-login-panel {
 			max-width: 28em;
 			margin-bottom: 2em;
@@ -94,13 +94,13 @@
 		}
 	}
 
-	[data-community-page="livestream-chat"] {
+	[data-academy-page="livestream-chat"] {
 		xiome-chat {
 			--xiome-chat-history-height: 40em;
 		}
 	}
 
-	[data-community-page="livestream"] {
+	[data-academy-page="livestream"] {
 		.plate { max-width: unset; }
 		.subnav,
 		.helpboxes {
@@ -207,7 +207,7 @@
 		}
 	}
 
-	[data-community-page="admin"] {
+	[data-academy-page="admin"] {
 		.feature xiome-login-panel > * {
 			display: block;
 			margin-top: 1em;

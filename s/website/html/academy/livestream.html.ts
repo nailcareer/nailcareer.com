@@ -13,7 +13,7 @@ pageName: "academy",
 pageSubtitle: "Livestream",
 mainHtml: html`
 
-	<div data-community-page=livestream>
+	<div data-academy-page=livestream>
 		<div class=plate>
 			${academySubnav("livestream")}
 

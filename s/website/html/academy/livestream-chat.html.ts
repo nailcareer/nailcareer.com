@@ -11,7 +11,7 @@ pageName: "academy",
 pageSubtitle: "Livechat",
 mainHtml: html`
 
-	<div data-community-page=livestream-chat>
+	<div data-academy-page=livestream-chat>
 		<div class=plate>
 			<xiome-chat></xiome-chat>
 		</div>

@@ -13,7 +13,7 @@ pageName: "academy",
 pageSubtitle: "Academy",
 mainHtml: html`
 
-	<div data-community-page=welcome>
+	<div data-academy-page=academy>
 		<div class=plate>
 			${academySubnav("supporter")}
 

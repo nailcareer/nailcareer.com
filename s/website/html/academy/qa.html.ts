@@ -13,7 +13,7 @@ pageName: "academy",
 pageSubtitle: "Q&A",
 mainHtml: html`
 
-	<div data-community-page=questions>
+	<div data-academy-page=qa>
 		<div class=plate>
 			${academySubnav("qa")}
 
