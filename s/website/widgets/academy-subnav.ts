@@ -39,15 +39,15 @@ export function academySubnav(currentPage: AcademyPage) {
 			})}
 
 			${link({
-				page: "qa",
-				label: "Q&A",
-				url: "./qa",
-			})}
-
-			${link({
 				page: "livestream",
 				label: "Livestream",
 				url: "./livestream",
+			})}
+
+			${link({
+				page: "qa",
+				label: "Q&A",
+				url: "./qa",
 			})}
 
 		</nav>
