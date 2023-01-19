@@ -17,8 +17,7 @@ mainHtml: html`
 		<div class=plate>
 			${academySubnav("qa")}
 
-			<h1>Welcome to the NCE Community</h1>
-			<h1>Suzie is ready to answer your questions!</h1>
+			<!-- <h1>Suzie is ready to answer your questions!</h1>
 			<div class=sidebyside>
 				<div class=text>
 					<p>Post and heart questions on the board below, and Suzie will answer her favourites in her upcoming youtube videos.</p>
@@ -26,10 +25,11 @@ mainHtml: html`
 				<div class=image>
 					<img src="/assets/images-medium/courses/suzie-event-02.jpg" alt=""/>
 				</div>
-			</div>
+			</div> -->
+
 			<div class=feature>
 					<xiome-login-panel>
-						<p slot=logged-out>Login to heart and post questions</p>
+						<p slot=logged-out>Login to post questions</p>
 					</xiome-login-panel>
 					<xiome-questions></xiome-questions>
 			</div>
