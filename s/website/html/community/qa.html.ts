@@ -1,4 +1,4 @@
 
-import {redirect} from "../partials/redirect.js"
+import {redirect} from "../../widgets/redirect.js"
 
 export default redirect("/academy/qa")

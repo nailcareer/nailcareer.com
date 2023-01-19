@@ -1,7 +1,9 @@
 
+import {html} from "xiome/x/toolbox/hamster-html/html.js"
+
 import pageHtml from "../partials/page.html.js"
 import {NceWebsiteContext} from "../../types.js"
-import {html} from "xiome/x/toolbox/hamster-html/html.js"
+import {academySubnav} from "../../widgets/academy-subnav.js"
 
 export default ({base, mode, ...context}: NceWebsiteContext) => pageHtml({
 ...context,
@@ -13,12 +15,8 @@ mainHtml: html`
 
 	<div data-community-page=livestream>
 		<div class=plate>
-			<nav class=subnav>
-				<a href="./" data-marked>Welcome</a>
-				<a href="./qa">Q&amp;A</a>
-				<a data-tag="soon" data-marked>Livestream</a>
-				<a data-tag="soon">Premium</a>
-			</nav>
+			${academySubnav("livestream")}
+
 			<div class="live" data-chat="true">
 				<div class="boxes">
 					<div class="videobox">
