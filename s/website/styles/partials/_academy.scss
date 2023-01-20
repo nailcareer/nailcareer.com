@@ -33,7 +33,60 @@
 		margin-top: 2em;
 	}
 
+	.twosided {
+		width: 100%;
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		gap: 1em;
+		flex-wrap: wrap-reverse;
+
+		> * {
+			flex: 1 1 16em;
+		}
+
+		img {
+			display: block;
+			width: 100%;
+			border: 0.5em white solid;
+			box-shadow: 2px 5px 8px #0002;
+		}
+	}
+
+	xiome-store-subscription-catalog {
+		[data-plan-label] {
+			text-align: center;
+		}
+		[data-tiers] {
+			justify-content: center;
+		}
+	}
+
+	xiome-store-subscription-tier {
+		font-size: 1.2em;
+	}
+
+	::part(tier_button_buy) {
+		font-size: 1.2em;
+		background: lime;
+		background: linear-gradient(
+			to bottom,
+			lime,
+			green,
+		);
+		border-color: lime;
+		padding: 0.2em 1em;
+		font-weight: bold;
+		color: white;
+		text-transform: uppercase;
+		font-family: "sans-serif";
+		text-shadow: 1px 2px 1px #0008;
+	}
+
 	[data-academy-page="academy"] {
+		h1 {
+			text-align: center;
+		}
 		xiome-login-panel {
 			max-width: 28em;
 		}

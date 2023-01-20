@@ -15,33 +15,20 @@ mainHtml: html`
 
 	<div data-academy-page=academy>
 		<div class=plate>
+
 			${academySubnav("academy")}
 
-			<h1>Welcome to the NCE Community</h1>
-			<div class=sidebyside>
-				<div class=text>
-					<p>Suzie's new community is in early-access, and you can be one of the first members to join.</p>
-					<p>We're getting started with the <a href="./qa">Q&amp;A board</a> where you can submit your questions, and Suzie will answer her favourites in her videos!</p>
-				</div>
-				<div class=image>
+			<h1>Join Suzie's Online Community</h1>
+
+			<div class=twosided>
+				<div class=cell>
 					<img src="/assets/images-medium/courses/suzie-event-01.jpg" alt=""/>
 				</div>
-				<div class=feature>
-					<xiome-login-panel initially-hidden>
-						<div class=text slot=logged-out>
-							<h3>Enter your email to login or create an account</h3>
-						</div>
-						<div class=text>
-							<h3>You are logged in</h3>
-							<p>You can customize your nickname and your tagline, which will appear wherever you post in the NCE Community</p>
-						</div>
-						<xiome-my-account></xiome-my-account>
-						<div class="text nextstep">
-							<p>Now go check out the <a href="./qa">Q&amp;A Board</a></p>
-						</div>
-					</xiome-login-panel>
+				<div class=cell>
+					<xiome-store-subscription-catalog></xiome-store-subscription-catalog>
 				</div>
 			</div>
+
 		</div>
 	</div>
 

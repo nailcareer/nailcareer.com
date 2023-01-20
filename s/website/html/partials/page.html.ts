@@ -36,12 +36,10 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 
 	${mode === "debug"
 		? html`
-			<xiome-config
-				app=ea296d14b6d75503a7d419da911c64c1a8d685c3cc6739d2483bccb3a6af973c
-			></xiome-config>
+			<xiome-mock mode=app root="/node_modules/xiome/x"></xiome-mock>
 			<script type=importmap-shim src="/importmap.json"></script>
 			<script defer type=module-shim src="/main.js"></script>
-			<script defer type=module-shim src="/node_modules/xiome/x/xiome.js"></script>
+			<script defer type=module-shim src="/node_modules/xiome/x/xiome-mock.js"></script>
 			<script defer src="/node_modules/es-module-shims/dist/es-module-shims.js"></script>
 		`
 		: html`
@@ -116,7 +114,9 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 					<xiome-login-panel slot=panel show-logout>
 						<p slot=logged-out>Enter your email to login or create an account</p>
 						<xiome-my-account>
-							<h3>your account</h3>
+							<hr/>
+							<xiome-store-subscription-status></xiome-store-subscription-status>
+							<xiome-store-billing-area></xiome-store-billing-area>
 						</xiome-my-account>
 					</xiome-login-panel>
 				</xio-menu-item>
