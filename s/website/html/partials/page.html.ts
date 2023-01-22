@@ -70,7 +70,7 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 				</xio-menu-item>
 				<xio-menu-item data-label=shopper>
 					<shopper-button></shopper-button>
-					<shopper-cart slot=panel require-terms-checked>
+					<shopper-cart slot=panel require-terms-checked checkout-in-same-window>
 						<div slot=before-checkout>
 							<h4>Terms</h4>
 							<details>
