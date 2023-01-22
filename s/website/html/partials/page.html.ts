@@ -124,18 +124,6 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 	</nce-header>
 
 	<main>
-		<ul class=infoboxes>
-			<li data-vibe=promo>
-				<a href="${eventPromoUrl}">
-					<p>Suzie's 2-day Course</p>
-					<p>
-						<strong>Sign up now!</strong>
-						<em>Jan 21-22 in Victoria BC</em>
-					</p>
-				</a>
-			</li>
-		</ul>
-
 		${mainHtml}
 	</main>
 
@@ -144,6 +132,18 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 </body>
 </html>
 `
+
+// <ul class=infoboxes>
+// 	<li data-vibe=promo>
+// 		<a href="${eventPromoUrl}">
+// 			<p>Suzie's 2-day Course</p>
+// 			<p>
+// 				<strong>Sign up now!</strong>
+// 				<em>Jan 21-22 in Victoria BC</em>
+// 			</p>
+// 		</a>
+// 	</li>
+// </ul>
 
 // <ul class=infoboxes>
 // 	<li data-vibe=black-friday>
