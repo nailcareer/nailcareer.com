@@ -12,11 +12,6 @@ mainHtml: html`
 
 <div class="homie">
 	<h1>Nail Career Education</h1>
-	<div class="poster">
-		<a href="${eventPromoUrl}">
-			<img alt="" src="/assets/graphics/promos/001.webp"/>
-		</a>
-	</div>
 	<div class="showcase">
 		<div class="one"><img src="/assets/images-medium/suzie/suzie-with-coffee.jpg" alt="" /></div>
 		<div class="sidebox">
