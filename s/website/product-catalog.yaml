@@ -1422,6 +1422,8 @@ gel-tips:
         These are a game changer! Just add a little bead of Acrylic and BOOM — you have a nail!
         - Shape: Coffin
         - Length: Long
+      youtubeEmbed: |
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLJYqKefDNU3QdC6qiLxYUk9gZ3KJ9YymJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     quick-tips/coffin-medium:
       title: "Suzie’s Quick Tips - Coffin Medium"
       product:
@@ -1439,6 +1441,8 @@ gel-tips:
         These are a game changer! Just add a little bead of Acrylic and BOOM — you have a nail!
         - Shape: Coffin
         - Length: Medium
+      youtubeEmbed: |
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLJYqKefDNU3QdC6qiLxYUk9gZ3KJ9YymJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     quick-tips/square-medium:
       title: "Suzie’s Quick Tips - Square Medium"
       product:
@@ -1456,6 +1460,8 @@ gel-tips:
         These are a game changer! Just add a little bead of Acrylic and BOOM — you have a nail!
         - Shape: Square
         - Length: Medium
+      youtubeEmbed: |
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLJYqKefDNU3QdC6qiLxYUk9gZ3KJ9YymJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     quick-tips/:
       title: "Suzie’s Quick Tips - Almond Medium"
       product:
@@ -1473,6 +1479,8 @@ gel-tips:
         These are a game changer! Just add a little bead of Acrylic and BOOM — you have a nail!
         - Shape: Almond
         - Length: Medium
+      youtubeEmbed: |
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLJYqKefDNU3QdC6qiLxYUk9gZ3KJ9YymJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     quick-tips/stiletto-long:
       title: "Suzie’s Quick Tips - Stiletto Long"
       product:
@@ -1490,6 +1498,8 @@ gel-tips:
         These are a game changer! Just add a little bead of Acrylic and BOOM — you have a nail!
         - Shape: Stiletto
         - Length: Long
+      youtubeEmbed: |
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLJYqKefDNU3QdC6qiLxYUk9gZ3KJ9YymJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 manicure:
   label: "Manicure"
