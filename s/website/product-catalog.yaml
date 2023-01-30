@@ -1209,6 +1209,8 @@ gel:
           <li>Lint Free Gel Pads</li>
         </ul>
         <p><em>🇺🇸 Suzie's EZ-Gel Colours and Bridge Gel Adhesion are HEMA-Free, Cruelty-Free, and Made in America</em></p>
+      youtubeEmbed: |
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLJYqKefDNU3RgJmBMnJQ7Q9sGwGtsNFRp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     ez-gel-pink-mix:
       title: "Suzie's Pink Mix - EZ Gel Colour"
       product:
@@ -1229,6 +1231,8 @@ gel:
         Use this Pink Mix on the nail plate just before you apply a French smile line and you’ll see how beautifully it compliments white, black or any colour you pair it with.
 
         🇺🇸 Suzie's EZ-Gel Colours and Bridge Gel Adhesion are HEMA-Free, Cruelty-Free, and Made in America
+      youtubeEmbed: |
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLJYqKefDNU3RgJmBMnJQ7Q9sGwGtsNFRp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     ez-gel-midnight:
       title: "Midnight - EZ Gel Colour"
       product:
@@ -1247,6 +1251,8 @@ gel:
         This Midnight black EZ Gel is solid, even when applied very thin. Black can be tricky– this black EZ Gel is designed with the right pigment so as to ensure a complete cure. Wait until you see this Midnight black against pink!
 
         🇺🇸 Suzie's EZ-Gel Colours and Bridge Gel Adhesion are HEMA-Free, Cruelty-Free, and Made in America
+      youtubeEmbed: |
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLJYqKefDNU3RgJmBMnJQ7Q9sGwGtsNFRp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     ez-gel-soft-white:
       title: "French & Ombre White - EZ Gel Colour"
       product:
@@ -1265,6 +1271,8 @@ gel:
         This French & Ombre White EZ Gel is a natural looking soft white. Designed to compliment Suzie’s Pink Mix EZ Gel when creating French and Ombre nails. This soft white EZ Gel will add a delicate touch to any nail design.
 
         🇺🇸 Suzie's EZ-Gel Colours and Bridge Gel Adhesion are HEMA-Free, Cruelty-Free, and Made in America
+      youtubeEmbed: |
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLJYqKefDNU3RgJmBMnJQ7Q9sGwGtsNFRp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     mini-nuke:
       hideFromIndex: true
       title: "Mini Nuke"

@@ -18,7 +18,15 @@ const markdown = (() => {
 })()
 
 export default ({
-	product: {title, product, carousel, writeup, writeupMarkdown, details},
+	product: {
+		title,
+		product,
+		carousel,
+		writeup,
+		writeupMarkdown,
+		youtubeEmbed,
+		details,
+	},
 	imagesDirectory,
 	...context
 }: NceWebsiteContext & {
@@ -64,6 +72,13 @@ mainHtml: html`
 				<div class=writeup>
 					${unsanitized(markdown(writeupMarkdown))}
 				</div>`
+			: undefined}
+		${youtubeEmbed
+			? html`
+				<div class=youtube-embed>
+					${unsanitized(youtubeEmbed)}
+				</div>
+			`
 			: undefined}
 		${maybe(details, () => html`
 			<div class=details>

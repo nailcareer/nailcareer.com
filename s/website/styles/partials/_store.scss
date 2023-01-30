@@ -370,8 +370,10 @@
 }
 
 .youtube-embed {
+	margin-top: 1em;
 	iframe {
 		width: 100%;
+		height: unset;
 		aspect-ratio: 16 / 9;
 	}
 }

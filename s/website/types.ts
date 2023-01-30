@@ -38,6 +38,7 @@ export interface Product {
 	}
 	writeup?: string
 	writeupMarkdown?: string
+	youtubeEmbed?: string
 	details?: string
 }
 
