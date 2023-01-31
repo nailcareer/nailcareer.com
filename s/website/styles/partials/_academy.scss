@@ -1,11 +1,13 @@
 
 [data-page="academy"] {
+
 	.text {
 		max-width: 28em;
 		> * + * {
 			margin-top: 0.7em;
 		}
 	}
+
 	.sidebyside {
 		display: flex;
 		flex-wrap: wrap-reverse;
@@ -29,6 +31,7 @@
 			align-items: center;
 		}
 	}
+
 	.feature {
 		margin-top: 2em;
 	}
@@ -39,18 +42,28 @@
 		flex-direction: row;
 		align-items: center;
 		gap: 1em;
-		flex-wrap: wrap-reverse;
+		flex-wrap: wrap;
 
 		> * {
 			flex: 1 1 16em;
 		}
 
-		img {
-			display: block;
-			width: 100%;
-			border: 0.5em white solid;
-			box-shadow: 2px 5px 8px #0002;
+		ul {
+			font-size: 1.4em;
+			li {
+				margin-top: 0.5em;
+			}
 		}
+	}
+
+	.welcomeimage {
+		display: block;
+		width: 100%;
+		max-width: 24em;
+		margin: auto;
+		margin-top: 4em;
+		border: 0.5em white solid;
+		box-shadow: 2px 5px 8px #002;
 	}
 
 	xiome-store-subscription-catalog {

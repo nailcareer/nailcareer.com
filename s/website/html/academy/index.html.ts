@@ -22,12 +22,17 @@ mainHtml: html`
 
 			<div class=twosided>
 				<div class=cell>
-					<img src="/assets/images-medium/courses/suzie-event-01.jpg" alt=""/>
-				</div>
-				<div class=cell>
 					<xiome-store-subscription-catalog></xiome-store-subscription-catalog>
 				</div>
+				<div class=cell>
+					<ul>
+						<li>Gain access to Suzie's monthly <a href="./livestream">Livestream</a></li>
+						<li>Be allowed to post questions for Suzie on the <a href="./qa">Q&amp;A board</a></li>
+					</ul>
+				</div>
 			</div>
+
+			<img class=welcomeimage src="/assets/images-medium/courses/suzie-event-01.jpg" alt=""/>
 
 		</div>
 	</div>
