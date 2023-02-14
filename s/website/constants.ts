@@ -1,2 +1,2 @@
 
-export const eventPromoUrl = "https://www.eventbrite.ca/e/nail-tech-course-tickets-462021818697"
+export const eventPromoUrl = "https://www.eventbrite.ca/e/certified-nail-technician-workshop-tickets-539908469767"

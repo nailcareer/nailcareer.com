@@ -124,6 +124,16 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 	</nce-header>
 
 	<main>
+		<ul class=infoboxes>
+			<li data-vibe=promo>
+				<a href="${eventPromoUrl}">
+					<p>New In-person Workshop!</p>
+					<p>With <strong>Suzie</strong>, Featuring <strong>Jenny Bui</strong></p>
+					<p>May 6-8, 2023, in Vancouver BC Canada</p>
+					<button>Reserve your Seat</button>
+				</a>
+			</li>
+		</ul>
 		${mainHtml}
 	</main>
 
@@ -132,18 +142,6 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 </body>
 </html>
 `
-
-// <ul class=infoboxes>
-// 	<li data-vibe=promo>
-// 		<a href="${eventPromoUrl}">
-// 			<p>Suzie's 2-day Course</p>
-// 			<p>
-// 				<strong>Sign up now!</strong>
-// 				<em>Jan 21-22 in Victoria BC</em>
-// 			</p>
-// 		</a>
-// 	</li>
-// </ul>
 
 // <ul class=infoboxes>
 // 	<li data-vibe=black-friday>

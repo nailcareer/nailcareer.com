@@ -76,9 +76,14 @@
 			img {
 				display: block;
 				width: 100%;
-				max-width: 30em;
+				aspect-ratio: 2 / 1;
+				object-fit: contain;
 				border-radius: 0.3em;
 				margin: auto;
+				background: #2af3ff26;
+				@media (max-width: 900px) {
+					aspect-ratio: unset;
+				}
 			}
 		}
 		.showcase {
