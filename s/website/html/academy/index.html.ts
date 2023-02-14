@@ -18,7 +18,7 @@ mainHtml: html`
 
 			${academySubnav("academy")}
 
-			<h1>Join Suzie's Online Community</h1>
+			<h1>Join Suzie's NCE Academy</h1>
 
 			<div class=twosided>
 				<div class=cell>
@@ -27,7 +27,7 @@ mainHtml: html`
 				<div class=cell>
 					<ul>
 						<li>Gain access to Suzie's monthly <a href="./livestream">Livestream</a></li>
-						<li>Be allowed to post questions for Suzie on the <a href="./qa">Q&amp;A board</a></li>
+						<li>Post questions for Suzie to answer on the <a href="./qa">Q&amp;A board</a></li>
 					</ul>
 				</div>
 			</div>

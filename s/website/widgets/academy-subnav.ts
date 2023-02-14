@@ -34,7 +34,7 @@ export function academySubnav(currentPage: AcademyPage) {
 
 			${link({
 				page: "academy",
-				label: "Supporter",
+				label: "Membership",
 				url: "./",
 			})}
 
