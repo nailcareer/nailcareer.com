@@ -125,12 +125,17 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 
 	<main>
 		<ul class=infoboxes>
-			<li data-vibe=promo>
+			<li data-vibe=promo data-side-by-side>
 				<a href="${eventPromoUrl}">
-					<p>New In-person Workshop!</p>
-					<p>With <strong>Suzie</strong>, Featuring <strong>Jenny Bui</strong></p>
-					<p>May 6-8, 2023, in Vancouver BC Canada</p>
-					<button>Reserve your Seat</button>
+					<div>
+						<img alt="" src="/assets/graphics/promos/002-thumb.webp"/>
+					</div>
+					<div>
+						<p>New In-person Workshop!</p>
+						<p>With <strong>Suzie</strong>, Featuring <strong>Jenny Bui</strong></p>
+						<p>May 6-8, 2023, in Vancouver BC Canada</p>
+						<button>Reserve your Seat</button>
+					</div>
 				</a>
 			</li>
 		</ul>

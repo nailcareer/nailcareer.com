@@ -89,6 +89,7 @@ html {
 		padding: 0.5rem;
 		max-width: 32rem;
 
+
 		&[data-vibe="ordinary"] {
 			background: #00fff922;
 			border-left: 4px solid #00fff9ff;
@@ -209,6 +210,35 @@ html {
 
 			button {
 				margin-top: 0.6rem;
+			}
+
+			&[data-side-by-side] {
+				padding: 0;
+				border: 0;
+
+				a {
+					display: flex;
+					flex-direction: row;
+					flex-wrap: wrap;
+					align-items: stretch;
+					justify-content: center;
+
+					> :nth-child(1) {
+						flex: 0 0 12em;
+						width: 32%;
+						min-width: 12em;
+						max-width: 40em;
+						img {
+							display: block;
+							width: 100%;
+						}
+					}
+
+					> :nth-child(2) {
+						flex: 1 1 15em;
+						padding: 0.6em;
+					}
+				}
 			}
 		}
 
