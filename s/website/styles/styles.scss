@@ -154,12 +154,19 @@ html {
 
 		&[data-vibe="promo"] {
 			text-align: left;
-			color: white;
-			background: #00adff;
+			// color: white;
+			// background: #00adff;
 			box-shadow: 1px 4px 10px #0002;
 			border-left: 4px solid #00e8ff;
 			font-family: sans-serif;
 			text-shadow: 0 0 9px #fff6;
+
+			color: white;
+			background: #38a8ff;
+
+			[data-nightlight] & {
+				background: #1582d7;
+			}
 
 			a {
 				color: inherit;
@@ -177,14 +184,13 @@ html {
 				font-weight: bold;
 				text-shadow: 0 3px 5px #0004;
 				color: white;
-				background: #94d8ff;
+				background: #00dcff;
 				border-radius: 0.5em;
 				border: none;
 				border-top: 1px solid #fff4;
 				border-bottom: 1px solid #0004;
 				&:hover {
 					opacity: 1;
-					// background: #41caff;
 				}
 			}
 
@@ -236,14 +242,12 @@ html {
 						display: flex;
 						flex-direction: column;
 					}
-				}
-			}
 
-			[data-nightlight] & {
-				color: white;
-				background: #008fffba;
-				button {
-					background: #00B8FF;
+					@media (max-width: 480px) {
+						> :nth-child(1) {
+							display: none;
+						}
+					}
 				}
 			}
 		}
