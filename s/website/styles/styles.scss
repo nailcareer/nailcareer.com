@@ -81,7 +81,7 @@ html {
 	margin: 0 auto;
 	max-width: 100%;
 	width: max-content;
-	padding: 0 0.5rem;
+	// padding: 0 0.5rem;
 
 	> li {
 		display: block;
@@ -154,18 +154,12 @@ html {
 
 		&[data-vibe="promo"] {
 			text-align: left;
-			color: deepskyblue;
-			background: white;
+			color: white;
+			background: #00adff;
 			box-shadow: 1px 4px 10px #0002;
 			border-left: 4px solid #00e8ff;
-			text-shadow: 1px 2px 0 #0002;
 			font-family: sans-serif;
 			text-shadow: 0 0 9px #fff6;
-
-			[data-nightlight] & {
-				color: white;
-				background: #008fffba;
-			}
 
 			a {
 				color: inherit;
@@ -173,34 +167,41 @@ html {
 			}
 
 			button {
+				opacity: 0.9;
 				display: block;
 				cursor: pointer;
 				font-size: 1em;
-				margin: auto;
-				margin-right: 0;
-				padding: 0.5em;
+				margin-top: auto;
+				margin-left: auto;
+				padding: 0.4em;
 				font-weight: bold;
 				text-shadow: 0 3px 5px #0004;
 				color: white;
-				background: #00B8FF;
+				background: #94d8ff;
 				border-radius: 0.5em;
 				border: none;
 				border-top: 1px solid #fff4;
 				border-bottom: 1px solid #0004;
 				&:hover {
-					background: #41caff;
+					opacity: 1;
+					// background: #41caff;
 				}
 			}
 
 			p {
-				opacity: 0.7;
+				opacity: 0.9;
+				font-size: 0.8em;
 				line-height: 1em;
+				text-shadow: 1px 2px 2px #0004;
 				&:nth-of-type(1) {
 					opacity: 1;
-					font-size: 1.8em;
+					font-size: 1em;
 					margin-bottom: 0.2em;
 					font-weight: bold;
 					text-transform: uppercase;
+				}
+				&:last-of-type {
+					margin-bottom: 0.5em;
 				}
 			}
 
@@ -208,26 +209,21 @@ html {
 				margin-top: 0.3rem;
 			}
 
-			button {
-				margin-top: 0.6rem;
-			}
-
 			&[data-side-by-side] {
 				padding: 0;
 				border: 0;
 
 				a {
+					max-width: 100%;
+					width: 24em;
 					display: flex;
 					flex-direction: row;
-					flex-wrap: wrap;
 					align-items: stretch;
 					justify-content: center;
 
 					> :nth-child(1) {
-						flex: 0 0 12em;
-						width: 32%;
-						min-width: 12em;
-						max-width: 40em;
+						flex: 0 0 30%;
+						background: #00ffff42;
 						img {
 							display: block;
 							width: 100%;
@@ -235,9 +231,19 @@ html {
 					}
 
 					> :nth-child(2) {
-						flex: 1 1 15em;
+						flex: 1 1 100%;
 						padding: 0.6em;
+						display: flex;
+						flex-direction: column;
 					}
+				}
+			}
+
+			[data-nightlight] & {
+				color: white;
+				background: #008fffba;
+				button {
+					background: #00B8FF;
 				}
 			}
 		}

@@ -128,7 +128,7 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 			<li data-vibe=promo data-side-by-side>
 				<a href="${eventPromoUrl}">
 					<div>
-						<img alt="" src="/assets/graphics/promos/002-thumb.webp"/>
+						<img alt="" src="/assets/graphics/promos/002-thumb2.webp"/>
 					</div>
 					<div>
 						<p>New In-person Workshop!</p>
