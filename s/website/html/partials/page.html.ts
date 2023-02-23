@@ -132,7 +132,7 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 					</div>
 					<div>
 						<p>New In-person Workshop!</p>
-						<p>With <strong>Suzie</strong>, Featuring <strong>Jenny Bui</strong></p>
+						<p>With <strong>Suzie</strong>, and special guest <strong>Jenny Bui</strong></p>
 						<p>May 6-8, 2023, in Vancouver BC Canada</p>
 						<button>Reserve your Seat</button>
 					</div>
