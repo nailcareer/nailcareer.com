@@ -149,6 +149,37 @@ accessories:
 acrylic:
   label: "Acrylic"
   products:
+    acrylic-starter-kit:
+      title: "Acrylic Starter Kit"
+      product:
+        shopify: 7254130851876
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/acrylic-starter-kit/01.jpg
+        - products/acrylic-starter-kit/02.jpg
+      writeupMarkdown: |
+        This kit is designed with the beginner in mind, and will help you learn to sculpt and finish acrylic nails.
+
+        ### Included in the kit
+        - Rose Gold Oval 8 Acrylic Brush
+        - Slow-cure Acrylic Monomer (2 oz)
+        - Practice Fingers
+        - Medium File
+        - Fine File
+        - Sanding Sponge
+        - Let’s Prep (dehydrator)
+        - Let's Bond (primer)
+        - Clear Cap Acrylic Powder Pouch (2 oz)
+        - Pink Tint Acrylic Powder Pouch (2 oz)
+        - Foundation Pink Acrylic Powder Jar (1 oz) 
+        - Soft White Acrylic Powder Jar (1 oz)
+        - The Button Forms (100 pack)
+        - Reveal Top Coat
+
+        *Note: this kit does not include a UV/LED lamp*
     acrylic/clean/slow-cure/4oz:
       title: "Slow-Cure Acrylic Monomer - 4 oz Bottle"
       product:
@@ -1127,6 +1158,32 @@ files-and-forms:
 gel:
   label: "Gel"
   products:
+    builder-gel-starter-kit:
+      title: "Builder Gel Starter Kit"
+      product:
+        shopify: 7254132064292
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/builder-gel-starter-kit/01.jpg
+        - products/builder-gel-starter-kit/02.jpg
+      writeupMarkdown: |
+        Builder Gel Starter Kit is perfect for learning the art of working with builder gel.
+
+        ### Included in the kit
+        - Gel Brush
+        - Practice Fingers
+        - The Button Forms (100 pack)
+        - Fine File
+        - Medium File
+        - Gel Glass Nails
+        - Reveal Top Coat
+        - Bridge Adhesive
+        - Blue Lint-free napkins
+
+        *Note: this kit does not include a UV/LED lamp*
     topcoat/matte/:
       title: "Matte-finish Top Coat"
       product:
