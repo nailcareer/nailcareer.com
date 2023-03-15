@@ -1158,6 +1158,27 @@ files-and-forms:
 gel:
   label: "Gel"
   products:
+    ez-gel-clear:
+      title: "Clear EZ Gel"
+      product:
+        shopify: 7261283319844
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/ezgel-colors/clear/01.jpg
+        - products/ezgel-colors/clear/02.jpg
+        - products/ezgel-colors/clear/03.jpg
+      writeupMarkdown: |
+
+        Suzie’s EZ Gel is creamy, smooth, easy to control and shape into your favourite nail and is formulated to work with alcohol.
+
+        Suzie’s EZ Gels come in jars/pots instead of in tubes to make gathering your gel easier and to minimize waste. You can easily scoop any unused/extra gel and place it back in the jar for next time.
+
+        This Clear-coloured gel is excellent to use as a cap over Suzie's other gel colours to encapsulate design or glitter or inlays.
+
+        🇺🇸 Suzie's EZ-Gel Colours and Bridge Gel Adhesion are HEMA-Free, Cruelty-Free, and Made in America
     builder-gel-starter-kit:
       title: "Builder Gel Starter Kit"
       product:
@@ -1561,6 +1582,26 @@ gel-tips:
 manicure:
   label: "Manicure"
   products:
+    oil/cherry-blossom:
+      title: "Cherry Blossom Cuticle Oil"
+      product:
+        shopify: 7261286531108
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/oil/cherry-blossom/01.jpg
+      writeupMarkdown: |
+        ***Suzie:*** *"In my 35 year career, I've never skipped using cuticle oil after every nail service. It replenishes hydration, and I love it’s fresh fragrance"*
+
+        Suzie's luxury cuticle oil leaves your hands feeling nourished and hydrated. One drop on the cuticle keeps skin soft and helps prevent dry skin, dry nails and hangnails.
+
+        Made with Vitamin E oil to soften cuticles and moisturize dry, brittle nails.
+
+        Includes a dropper for sanitary application.
+
+        *(Nut Free, One 30ml bottle)*
     oil/gingerbread-cookies:
       title: "Suzie’s Gingerbread Cookies Cuticle Oil"
       product:
