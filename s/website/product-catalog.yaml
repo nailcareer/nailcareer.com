@@ -1159,7 +1159,7 @@ gel:
   label: "Gel"
   products:
     ez-gel-clear:
-      title: "Clear EZ Gel"
+      title: "Clear - EZ Gel Colour"
       product:
         shopify: 7261283319844
         restockingSoon: true
@@ -1298,7 +1298,7 @@ gel:
       youtubeEmbed: |
         <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLJYqKefDNU3RgJmBMnJQ7Q9sGwGtsNFRp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     ez-gel-pink-mix:
-      title: "Suzie's Pink Mix - EZ Gel Colour"
+      title: "Suzie’s Pink Mix - EZ Gel Colour"
       product:
         shopify: 6971281670180
         restockingSoon: true
