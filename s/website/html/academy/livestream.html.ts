@@ -21,8 +21,8 @@ mainHtml: html`
 				<div class="boxes">
 					<div class="videobox">
 						<xiome-video-display initially-hidden>
-							<p slot="unavailable">livestream is coming soon</p>
-							<p slot="unprivileged">your account does not have permission to view the livestream</p>
+							<p slot="unavailable">livestream is currently unavailable.</p>
+							<p slot="unprivileged">the livestream is either off, or your account doesn't have permission to view it.</p>
 						</xiome-video-display>
 					</div>
 					<div class="chatbox">
