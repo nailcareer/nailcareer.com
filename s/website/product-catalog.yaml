@@ -574,6 +574,30 @@ acrylic:
 brushes:
   label: "Brushes"
   products:
+    student-brush/2:
+      title: "Student Brush Level 2"
+      product:
+        shopify: 7263098667044
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/student-brush/2/01.jpg
+        - products/student-brush/2/02.jpg
+        - products/student-brush/2/03.jpg
+        - products/student-brush/2/04.jpg
+      writeupMarkdown: |
+        Student Brush Level 2 is an Oval 8 natural hair brush. Natural Hair is optimum for creating acrylic beads. Use the cap/lid provided to keep your natural hair soft and protect the shape.
+
+        ### Usage
+        Brush out the packing powder with provided brush- then soak your natural hair brush in your monomer of choice. After creating nails simply make sure any combined product is not left in your brush. Only leave Monomer in your brush, cap it, store placed upside down.
+
+        ### Tips
+        - **If product is gathering in your brush**  
+          Give it a 15 sec dip in Acetone to remove, and swipe on towel to remove debris. Then submerge in monomer to recondition, slightly drain then cap it.
+        - **If product is hardened in your brush**  
+          Then soak in Acetone for 5 mins or longer if needed. Once unwanted product is gone, soak in monomer to recondition, slightly drain, then cap it.
     synthetic-acrylic-brush/oval-6:
       title: "Oval #6 Synthetic Acrylic Brush"
       product:
@@ -1456,7 +1480,35 @@ lamps:
         - [Reveal Top Coat](/store/products/reveal-top-coat)
         - [Bridge](/store/products/bridge)
         - [Naturally Fake](/store/products/naturally-fake)
+    lamps/mini-nuke/2:
+      title: "Mini Nuke"
+      product:
+        shopify: 7263097618468
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/lamps/mini-nuke/2/01.jpg
+        - products/lamps/mini-nuke/2/02.jpg
+        - products/lamps/mini-nuke/2/03.jpg
+        - products/lamps/mini-nuke/2/04.jpg
+      writeupMarkdown: |
+        ***Mini Nuke*** is Suzie's small UV/LED lamp for curing gel nails. It's smaller and more compact than the [*Nuke It*](./nuke-it) lamp.
+
+        - 6 watts
+        - 33 LED bulbs
+        - Size of lamp: 139x70x60 mm
+        - 50 grams
+        - 30-second timer
+
+        ### Usage
+        - Place your freshly gel polishes fingers inside lamp in the center under the lights.
+        - Press the button for a 30 sec timer.
+        - For thumbs, place upright for a correct cure
+        - ***TIP*** — Do thumbs side by side - upright - place on countertop edge for most optimum angle
     lamps/mini-nuke:
+      hideFromIndex: true
       title: "Mini Nuke"
       product:
         shopify: 7200283557924
