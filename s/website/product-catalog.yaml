@@ -154,7 +154,7 @@ acrylic:
       product:
         shopify: 7254130851876
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -603,7 +603,7 @@ brushes:
       product:
         shopify: 7224862179364
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 2x3
         images:
@@ -805,7 +805,7 @@ files-and-forms:
       product:
         shopify: 7199532122148
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 2x3
         images:
@@ -1208,7 +1208,7 @@ gel:
       product:
         shopify: 7254132064292
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1234,7 +1234,7 @@ gel:
       product:
         shopify: 7201519206436
         restockingSoon: false
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1249,7 +1249,7 @@ gel:
       product:
         shopify: 7172060676132
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1450,7 +1450,7 @@ lamps:
       product:
         shopify: 7200286933028
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1513,7 +1513,7 @@ lamps:
       product:
         shopify: 7200283557924
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1834,7 +1834,7 @@ nail-art:
       product:
         shopify: 7201521336356
         restocking: false
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1848,7 +1848,7 @@ nail-art:
       product:
         shopify: 7200245284900
         restocking: false
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1870,7 +1870,7 @@ nail-art:
       product:
         shopify: 7200253837348
         restocking: false
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1884,7 +1884,7 @@ nail-art:
       product:
         shopify: 7200254558244
         restocking: false
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1898,7 +1898,7 @@ nail-art:
       product:
         shopify: 7200254754852
         restocking: false
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1912,7 +1912,7 @@ nail-art:
       product:
         shopify: 7200255016996
         restocking: false
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1926,7 +1926,7 @@ nail-art:
       product:
         shopify: 7200255508516
         restocking: false
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1940,7 +1940,7 @@ nail-art:
       product:
         shopify: 7200256491556
         restocking: false
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1954,7 +1954,7 @@ nail-art:
       product:
         shopify: 7199529173028
         restocking: false
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -1978,7 +1978,7 @@ nail-art:
       product:
         shopify: 7199198740516
         restocking: false
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -2011,7 +2011,7 @@ nail-art:
       product:
         shopify: 7199259131940
         restocking: false
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -2024,7 +2024,7 @@ nail-art:
       product:
         shopify: 7199267323940
         restocking: false
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -2037,7 +2037,7 @@ nail-art:
       product:
         shopify: 7199286427684
         restocking: false
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -2050,7 +2050,7 @@ nail-art:
       product:
         shopify: 7199319326756
         restocking: false
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -2063,7 +2063,7 @@ nail-art:
       product:
         shopify: 7199292260388
         restocking: false
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -2076,7 +2076,7 @@ nail-art:
       product:
         shopify: 7199324962852
         restocking: false
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -2089,7 +2089,7 @@ nail-art:
       product:
         shopify: 7199330959396
         restocking: false
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -2102,7 +2102,7 @@ nail-art:
       product:
         shopify: 7199336071204
         restocking: false
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
