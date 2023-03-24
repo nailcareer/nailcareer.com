@@ -575,7 +575,7 @@ brushes:
   label: "Brushes"
   products:
     student-brush/2:
-      title: "Student Brush Level 2"
+      title: "Student Brush Level 2: Natural"
       product:
         shopify: 7263098667044
         restockingSoon: true
@@ -599,7 +599,7 @@ brushes:
         - **If product is hardened in your brush**  
           Then soak in Acetone for 5 mins or longer if needed. Once unwanted product is gone, soak in monomer to recondition, slightly drain, then cap it.
     synthetic-acrylic-brush/oval-6:
-      title: "Oval #6 Synthetic Acrylic Brush"
+      title: "Student Brush Level 1: Synthetic"
       product:
         shopify: 7224862179364
         restockingSoon: true
@@ -609,6 +609,8 @@ brushes:
         images:
         - products/synthetic-acrylic-brush/oval-8-01.jpg
       writeupMarkdown: |
+        *Student Brush Level 1: Synthetic* is Suzie's oval #6 brush.
+
         Excellent for learning acrylic especially with Low Odour Monomer. Synthetic hairs are much less absorbent. So makes working with monomers easier to create perfect beads, because it holds less monomer.
 
         Always store with the cap on, to keep the brush soft for your next usage.
