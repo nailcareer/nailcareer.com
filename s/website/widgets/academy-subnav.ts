@@ -35,13 +35,15 @@ export function academySubnav(currentPage: AcademyPage) {
 			${link({
 				page: "academy",
 				label: "Membership",
-				url: "./",
+				tag: "soon",
+				// url: "./",
 			})}
 
 			${link({
 				page: "livestream",
 				label: "Livestream",
 				url: "./livestream",
+				tag: "new",
 			})}
 
 			${link({

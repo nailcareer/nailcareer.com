@@ -37,7 +37,7 @@
 	"devDependencies": {
 		"@benev/batchimage": "^0.0.0",
 		"@rollup/plugin-node-resolve": "^15.0.1",
-		"@types/node": "^18.15.10",
+		"@types/node": "^18.15.11",
 		"chokidar-cli": "^3.0.0",
 		"html-minifier-terser": "^7.1.0",
 		"http-server": "^14.1.1",
@@ -56,14 +56,14 @@
 		"@babel/polyfill": "^7.12.1",
 		"@webcomponents/webcomponentsjs": "^2.7.0",
 		"carouse": "0.0.1",
-		"es-module-shims": "^1.7.0",
+		"es-module-shims": "^1.7.1",
 		"install": "^0.13.0",
 		"lit": "^2.7.0",
 		"markdown-it": "^13.0.1",
 		"shopper": "^0.2.8",
 		"sorry-not-sorry": "0.0.3",
 		"whatwg-fetch": "^3.6.2",
-		"xiome": "^0.0.44"
+		"xiome": "^0.0.45"
 	},
 	"author": "Chase Moskal <chasemoskal@gmail.com>"
 }
