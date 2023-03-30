@@ -2,8 +2,11 @@
 import pageHtml from "../partials/page.html.js"
 import {NceWebsiteContext} from "../../types.js"
 import {html} from "xiome/x/toolbox/hamster-html/html.js"
+import minimalPageHtml from "../partials/minimal-page.html.js"
 
-export default ({base, mode, ...context}: NceWebsiteContext) => pageHtml({
+export default ({
+	base, mode, ...context
+}: NceWebsiteContext) => minimalPageHtml({
 ...context,
 base,
 mode,
