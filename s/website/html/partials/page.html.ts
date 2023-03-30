@@ -1,12 +1,11 @@
 
-import {html, HtmlTemplate, unsanitized} from "xiome/x/toolbox/hamster-html/html.js"
+import {html, HtmlTemplate} from "xiome/x/toolbox/hamster-html/html.js"
 
 import {eventPromoUrl} from "../../constants.js"
 import {NceWebsiteContext} from "../../types.js"
-import {read} from "../../buildtools/reading-and-writing.js"
 import {metaAndTitle} from "./common/meta-and-title.js"
-import {stylesAndFavicon} from "./common/styles-and-favicon.js"
 import {shopperConfig} from "./common/shopper-config.js"
+import {stylesAndFavicon} from "./common/styles-and-favicon.js"
 import {xiomeInstallation} from "./common/xiome-installation.js"
 import {nightlightInstallation} from "./common/nightlight-installation.js"
 
