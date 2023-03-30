@@ -1,11 +1,13 @@
 
-[data-page="community"] {
+[data-page="academy"] {
+
 	.text {
 		max-width: 28em;
 		> * + * {
 			margin-top: 0.7em;
 		}
 	}
+
 	.sidebyside {
 		display: flex;
 		flex-wrap: wrap-reverse;
@@ -29,11 +31,84 @@
 			align-items: center;
 		}
 	}
+
 	.feature {
 		margin-top: 2em;
 	}
 
-	[data-community-page="welcome"] {
+	.twosided {
+		width: 100%;
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		gap: 1em;
+		flex-wrap: wrap;
+
+		> * {
+			flex: 1 1 16em;
+		}
+
+		ul {
+			font-size: 1.2em;
+			li {
+				margin-top: 0.5em;
+			}
+		}
+	}
+
+	.welcomeimage {
+		display: block;
+		width: 100%;
+		max-width: 24em;
+		margin: auto;
+		margin-top: 4em;
+		border: 0.5em white solid;
+		box-shadow: 2px 5px 8px #002;
+	}
+
+	.note_coming_soon {
+		font-weight: bold;
+		background: deepskyblue;
+		color: white;
+		text-shadow: 1px 2px 3px #0004;
+		padding: 0 0.5em;
+		border-radius: 0.5em;
+	}
+
+	xiome-store-subscription-catalog {
+		[data-plan-label] {
+			text-align: center;
+		}
+		[data-tiers] {
+			justify-content: center;
+		}
+	}
+
+	xiome-store-subscription-tier {
+		font-size: 1.2em;
+	}
+
+	::part(tier_button_buy) {
+		font-size: 1.2em;
+		background: lime;
+		background: linear-gradient(
+			to bottom,
+			lime,
+			green,
+		);
+		border-color: lime;
+		padding: 0.2em 1em;
+		font-weight: bold;
+		color: white;
+		text-transform: uppercase;
+		font-family: "sans-serif";
+		text-shadow: 1px 2px 1px #0008;
+	}
+
+	[data-academy-page="academy"] {
+		h1 {
+			text-align: center;
+		}
 		xiome-login-panel {
 			max-width: 28em;
 		}
@@ -49,7 +124,7 @@
 		}
 	}
 
-	[data-community-page="qa"] {
+	[data-academy-page="qa"] {
 		xiome-login-panel {
 			max-width: 28em;
 			margin-bottom: 2em;
@@ -94,13 +169,13 @@
 		}
 	}
 
-	[data-community-page="livestream-chat"] {
+	[data-academy-page="livestream-chat"] {
 		xiome-chat {
-			--xiome-chat-history-height: 40em;
+			--xiome-chat-history-height: calc(90vh - 12em);
 		}
 	}
 
-	[data-community-page="livestream"] {
+	[data-academy-page="livestream"] {
 		.plate { max-width: unset; }
 		.subnav,
 		.helpboxes {
@@ -109,7 +184,7 @@
 		}
 		xiome-chat {
 			font-size: 0.7em;
-			--xiome-chat-history-height: 15em;
+			--xiome-chat-history-height: 25em;
 		}
 		.live {
 			padding: 0 1em;
@@ -207,7 +282,7 @@
 		}
 	}
 
-	[data-community-page="admin"] {
+	[data-academy-page="admin"] {
 		.feature xiome-login-panel > * {
 			display: block;
 			margin-top: 1em;

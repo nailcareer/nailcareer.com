@@ -19,7 +19,7 @@ export class NcePhone extends Component {
 				part=link
 				target=_blank
 				href="tel:${phoneNumber}"
-				title="Send email to ${phoneNumberWithDashes}">
+				title="Phone ${phoneNumberWithDashes}">
 					${phoneNumberWithDashes}
 			</a>
 		`

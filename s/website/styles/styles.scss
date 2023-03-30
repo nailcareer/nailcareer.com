@@ -1,7 +1,7 @@
 
 @use "partials/home";
 @use "partials/store";
-@use "partials/community";
+@use "partials/academy";
 
 * {
 	margin: 0;
@@ -496,6 +496,18 @@ xio-menu {
 	}
 	xiome-login-panel::part(buttonbar) {
 		text-align: right;
+	}
+	xiome-my-account {
+		hr {
+			display: block;
+			margin: 1em auto;
+			border: none;
+			border-top: 1px solid #fff2;
+			border-bottom: 1px solid #0001;
+		}
+		xiome-store-billing-area {
+			margin-top: 1em;
+		}
 	}
 }
 

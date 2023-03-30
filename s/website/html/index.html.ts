@@ -39,8 +39,8 @@ mainHtml: html`
 				<path d="M14 15v2a1 1 0 0 1 -1 1h-7l-3 3v-10a1 1 0 0 1 1 -1h2" />
 			</svg></div>
 		<div class="slate">
-			<h2><a href="./community/qa">New Community Q&amp;A</a></h2>
-			<p>Join the NCE Community to submit your questions, and Suzie will answer her favourites in her videos.</p>
+			<h2><a href="./academy/qa">Academy Q&amp;A</a></h2>
+			<p>Join the NCE Academy to submit your questions, and Suzie will answer her favourites in her videos.</p>
 		</div>
 	</div>
 	<shopper-product class="gridbox-alpha" data-new restocking-soon show-image href="/store/products/ez-gel" link="6875102281764"></shopper-product>
