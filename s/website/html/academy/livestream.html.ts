@@ -31,13 +31,14 @@ mainHtml: html`
 						</xiome-video-companion>
 					</div>
 				</div>
-				<div class="controls"><button class="togglechat">Toggle Chat</button></div>
+				<div class="controls">
+					<button class="togglechat">Toggle Chat</button>
+				</div>
 				<div class="helpboxes">
 					<div class="help-stream">
 						<h3>Welcome to Suzie's Livestream</h3>
 						<p>Stay tuned for scheduling information.</p>
-						<p>If you are having troubles getting the livestream working, please email <nce-email user="hello" domain="nailcareer.com"></nce-email>
-						</p>
+						<p>If you are having troubles getting the livestream working, please email <nce-email user="hello" domain="nailcareer.com"></nce-email></p>
 					</div>
 					<div class="help-chat">
 						<h3>How to participate in the live chat</h3>
