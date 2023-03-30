@@ -50,11 +50,11 @@
 		"sass": "^1.60.0",
 		"serve": "^14.2.0",
 		"terser": "^5.16.8",
-		"typescript": "^5.0.2"
+		"typescript": "^5.0.3"
 	},
 	"dependencies": {
 		"@babel/polyfill": "^7.12.1",
-		"@webcomponents/webcomponentsjs": "^2.7.0",
+		"@webcomponents/webcomponentsjs": "^2.8.0",
 		"carouse": "0.0.1",
 		"es-module-shims": "^1.7.1",
 		"install": "^0.13.0",
