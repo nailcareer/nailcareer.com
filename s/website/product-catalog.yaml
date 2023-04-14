@@ -1828,6 +1828,118 @@ manicure:
         <h4><span>NCE Towel</span></h4>
         <p>This adorable microfibre towel will decorate your nail table and create a soft surface for hands.</p>
 
+loose-glitter:
+  label: "Loose Glitter"
+  products:
+    loose-glitter/snow-of-fairies:
+      title: "Snow of Fairies - Loose Glitter"
+      product:
+        shopify: 7268757438500
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/loose-glitters/snow-of-fairies/01.jpg
+        - products/loose-glitters/snow-of-fairies/02.jpg
+      writeupMarkdown: |
+        Very fine loose glitter.
+        Extremely reflective. Very tiny pieces. 1 ounce size.
+
+        Reusable eco-friendly, natural cork, sealed glass jar.
+
+        How to use: sprinkle onto wet nail, or mix into hard gel, hybrid gel, or acrylic.
+    loose-glitter/magic-sand:
+      title: "Magic Sand - Loose Glitter"
+      product:
+        shopify: 7268763303972
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/loose-glitters/magic-sand/01.jpg
+        - products/loose-glitters/magic-sand/02.jpg
+      writeupMarkdown: |
+        Very fine loose glitter.
+        Extremely reflective. Very tiny pieces. 1 ounce size.
+
+        Reusable eco-friendly, natural cork, sealed glass jar.
+
+        How to use: sprinkle onto wet nail, or mix into hard gel, hybrid gel, or acrylic.
+    loose-glitter/chunky-autumn:
+      title: "Chunky Autumn - Loose Glitter"
+      product:
+        shopify: 7268731158564
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/loose-glitters/chunky-autumn/01.jpg
+        - products/loose-glitters/chunky-autumn/02.jpg
+      writeupMarkdown: |
+        Very fine loose glitter.
+        Extremely reflective. Very tiny pieces. 1 ounce size.
+
+        Reusable eco-friendly, natural cork, sealed glass jar.
+
+        How to use: sprinkle onto wet nail, or mix into hard gel, hybrid gel, or acrylic.
+    loose-glitter/hot-sand:
+      title: "Hot Sand - Loose Glitter"
+      product:
+        shopify: 7268763435044
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/loose-glitters/hot-sand/01.jpg
+        - products/loose-glitters/hot-sand/02.jpg
+      writeupMarkdown: |
+        Very fine loose glitter.
+        Extremely reflective. Very tiny pieces. 1 ounce size.
+
+        Reusable eco-friendly, natural cork, sealed glass jar.
+
+        How to use: sprinkle onto wet nail, or mix into hard gel, hybrid gel, or acrylic.
+    loose-glitter/glitter-on-fire:
+      title: "Glitter on Fire - Loose Glitter"
+      product:
+        shopify: 7268761927716
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/loose-glitters/glitter-on-fire/01.jpg
+        - products/loose-glitters/glitter-on-fire/02.jpg
+      writeupMarkdown: |
+        Very fine loose glitter.
+        Extremely reflective. Very tiny pieces. 1 ounce size.
+
+        Reusable eco-friendly, natural cork, sealed glass jar.
+
+        How to use: sprinkle onto wet nail, or mix into hard gel, hybrid gel, or acrylic.
+    loose-glitter/fairy-flakes:
+      title: "Fairy Flakes - Loose Glitter"
+      product:
+        shopify: 7268761829412
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/loose-glitters/fairy-flakes/01.jpg
+        - products/loose-glitters/fairy-flakes/02.jpg
+      writeupMarkdown: |
+        Very fine loose glitter.
+        Extremely reflective. Very tiny pieces. 1 ounce size.
+
+        Reusable eco-friendly, natural cork, sealed glass jar.
+
+        How to use: sprinkle onto wet nail, or mix into hard gel, hybrid gel, or acrylic.
+
 nail-art:
   label: "Nail Art"
   products:
