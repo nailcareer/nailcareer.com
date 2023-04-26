@@ -149,6 +149,134 @@ accessories:
 acrylic:
   label: "Acrylic"
   products:
+    acrylic-1oz/beach-vibes/collection:
+      title: "Beach Vibes Collection - Acrylic Powder 1oz"
+      product:
+        shopify: 7273971089444
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/acrylic-powders/beach-vibes/01.jpg
+        - products/acrylic-powders/beach-vibes/02.jpg
+        - products/acrylic-powders/beach-vibes/03.jpg
+      writeupMarkdown: |
+        Packed with colour and glitter, these acrylics are ready for the beach!
+
+        This collectio comes with all six colours:
+        - [Saturday Suzie](./saturday-suzie)
+        - [Bird of Paradise](./bird-of-paradise)
+        - [Lemon Gelato](./lemon-gelato)
+        - [My Trendy Flippers](./my-trendy-flippers)
+        - [Pink Umbrella](./pink-umbrella)
+        - [Sea Foam](./seafoam)
+
+        Apply solid or softly fade for an Ombre look.
+
+        To be used with Acrylic Monomer. (Can also be used as a dip)
+    acrylic-1oz/beach-vibes/saturday-suzie:
+      title: "Saturday Suzie - Beach Vibes - Acrylic Powder 1oz"
+      product:
+        shopify: 7273969156132
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/acrylic-powders/beach-vibes/saturday-suzie/01.jpg
+        - products/acrylic-powders/beach-vibes/saturday-suzie/02.jpg
+      writeupMarkdown: |
+        Packed with colour and glitter, these acrylics are ready for the beach!
+
+        Apply solid or softly fade for an Ombre look.
+
+        To be used with Acrylic Monomer. (Can also be used as a dip)
+    acrylic-1oz/beach-vibes/bird-of-paradise:
+      title: "Bird of Paradise - Beach Vibes - Acrylic Powder 1oz"
+      product:
+        shopify: 7273968992292
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/acrylic-powders/beach-vibes/bird-of-paradise/01.jpg
+        - products/acrylic-powders/beach-vibes/bird-of-paradise/02.jpg
+      writeupMarkdown: |
+        Packed with colour and glitter, these acrylics are ready for the beach!
+
+        Apply solid or softly fade for an Ombre look.
+
+        To be used with Acrylic Monomer. (Can also be used as a dip)
+    acrylic-1oz/beach-vibes/lemon-gelato:
+      title: "Lemon Gelato - Beach Vibes - Acrylic Powder 1oz"
+      product:
+        shopify: 7273969352740
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/acrylic-powders/beach-vibes/lemon-gelato/01.jpg
+        - products/acrylic-powders/beach-vibes/lemon-gelato/02.jpg
+      writeupMarkdown: |
+        Packed with colour and glitter, these acrylics are ready for the beach!
+
+        Apply solid or softly fade for an Ombre look.
+
+        To be used with Acrylic Monomer. (Can also be used as a dip)
+    acrylic-1oz/beach-vibes/my-trendy-flippers:
+      title: "My Trendy Flippers - Beach Vibes - Acrylic Powder 1oz"
+      product:
+        shopify: 7273969516580
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/acrylic-powders/beach-vibes/my-trendy-flippers/01.jpg
+        - products/acrylic-powders/beach-vibes/my-trendy-flippers/02.jpg
+      writeupMarkdown: |
+        Packed with colour and glitter, these acrylics are ready for the beach!
+
+        Apply solid or softly fade for an Ombre look.
+
+        To be used with Acrylic Monomer. (Can also be used as a dip)
+    acrylic-1oz/beach-vibes/pink-umbrella:
+      title: "Pink Umbrella - Beach Vibes - Acrylic Powder 1oz"
+      product:
+        shopify: 7273970761764
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/acrylic-powders/beach-vibes/pink-umbrella/01.jpg
+        - products/acrylic-powders/beach-vibes/pink-umbrella/02.jpg
+      writeupMarkdown: |
+        Packed with colour and glitter, these acrylics are ready for the beach!
+
+        Apply solid or softly fade for an Ombre look.
+
+        To be used with Acrylic Monomer. (Can also be used as a dip)
+    acrylic-1oz/beach-vibes/seafoam:
+      title: "Sea Foam - Beach Vibes - Acrylic Powder 1oz"
+      product:
+        shopify: 7273970925604
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/acrylic-powders/beach-vibes/seafoam/01.jpg
+        - products/acrylic-powders/beach-vibes/seafoam/02.jpg
+      writeupMarkdown: |
+        Packed with colour and glitter, these acrylics are ready for the beach!
+
+        Apply solid or softly fade for an Ombre look.
+
+        To be used with Acrylic Monomer. (Can also be used as a dip)
     acrylic-starter-kit:
       title: "Acrylic Starter Kit"
       product:
