@@ -2232,6 +2232,124 @@ loose-glitter:
 nail-art:
   label: "Nail Art"
   products:
+    foils/adhesive:
+      title: "Foil Adhesive"
+      product:
+        shopify: 7275283972132
+        restockingSoon: false
+        isNew: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/foils/adhesive/01.jpg
+      writeupMarkdown: |
+        Foil Adhesive ensures your transfer foil adheres to your nail.
+
+        How to use:
+        - Apply thin layer over your enhancement or gel polish.
+        - Cure for 40 seconds under Suzie's [Nuke It](/store/products/lamps/nuke-it) Lamp.
+        - Apply foil over top of cured nail: press into nail evenly and consistently to enforce the transfer.
+        - Gently lift off nail, and the transfer is complete, if transfer does not complete check the curing process.
+        - When using different lamps, the cure time will vary.
+    foils/flower/collection:
+      title: "Flower Foil Collection"
+      product:
+        shopify: 7275284365348
+        restockingSoon: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/foils/flower/collection/01.jpg
+        - products/foils/flower/60s-70s-vibe/cover.jpg
+        - products/foils/flower/abstract/cover.jpg
+        - products/foils/flower/see-thru/cover.jpg
+        - products/foils/flower/vintage/cover.jpg
+      writeupMarkdown: |
+        This collection includes:
+        - [1960s-70s Vibe Flower Foil](./60s-70s-vibe)
+        - [Abstract Flower Foil](./abstract)
+        - [See-Thru Flower Foil](./see-thru)
+        - [Vintage Flower Foil](./vintage)
+
+        You may also be interested in:
+        - [Foil Adhesive](../adhesive)
+    foils/flower/60s-70s-vibe:
+      title: "1960s-70s Vibe Flower Foil"
+      product:
+        shopify: 7275284791332
+        restockingSoon: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/foils/flower/60s-70s-vibe/cover.jpg
+        - products/foils/flower/60s-70s-vibe/01.jpg
+        - products/foils/flower/60s-70s-vibe/02.jpg
+        - products/foils/flower/60s-70s-vibe/03.jpg
+        - products/foils/flower/60s-70s-vibe/04.jpg
+      writeupMarkdown: |
+        Part of the [Flower Foil Collection](./collection)
+
+        You may also be interested in:
+        - [Foil Adhesive](../adhesive)
+    foils/flower/abstract:
+      title: "Abstract Flower Foil"
+      product:
+        shopify: 7275284922404
+        restockingSoon: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/foils/flower/abstract/cover.jpg
+        - products/foils/flower/abstract/01.jpg
+        - products/foils/flower/abstract/02.jpg
+        - products/foils/flower/abstract/03.jpg
+        - products/foils/flower/abstract/04.jpg
+      writeupMarkdown: |
+        Part of the [Flower Foil Collection](./collection)
+
+        You may also be interested in:
+        - [Foil Adhesive](../adhesive)
+    foils/flower/see-thru:
+      title: "See-Thru Flower Foil"
+      product:
+        shopify: 7275284955172
+        restockingSoon: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/foils/flower/see-thru/cover.jpg
+        - products/foils/flower/see-thru/01.jpg
+        - products/foils/flower/see-thru/02.jpg
+        - products/foils/flower/see-thru/03.jpg
+        - products/foils/flower/see-thru/04.jpg
+      writeupMarkdown: |
+        Part of the [Flower Foil Collection](./collection)
+
+        You may also be interested in:
+        - [Foil Adhesive](../adhesive)
+    foils/flower/vintage:
+      title: "Vintage Flower Foil"
+      product:
+        shopify: 7275284987940
+        restockingSoon: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/foils/flower/vintage/cover.jpg
+        - products/foils/flower/vintage/01.jpg
+        - products/foils/flower/vintage/02.jpg
+        - products/foils/flower/vintage/03.jpg
+        - products/foils/flower/vintage/04.jpg
+      writeupMarkdown: |
+        Part of the [Flower Foil Collection](./collection)
+
+        You may also be interested in:
+        - [Foil Adhesive](../adhesive)
     chrome/1/7:
       title: "Purple Chrome"
       product:
