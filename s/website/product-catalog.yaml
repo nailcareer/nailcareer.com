@@ -2275,7 +2275,7 @@ nail-art:
         - products/foils/flower/vintage/cover.jpg
       writeupMarkdown: |
         This collection includes:
-        - [1960s-70s Vibe Flower Foil](./60s-70s-vibe)
+        - [60s-70s Vibe Flower Foil](./60s-70s-vibe)
         - [Abstract Flower Foil](./abstract)
         - [See-Thru Flower Foil](./see-thru)
         - [Vintage Flower Foil](./vintage)
@@ -2289,7 +2289,7 @@ nail-art:
         - Apply the transfer foil onto the sticky layer, and watch out to avoid any wrinkles in the foil. Try to smooth it out with your finger. Rub the entire nail, pressing the transfer foil into the nail.
         - Gently lift foil transfer off the nail. Then apply a gel topcoat and cure for the required time.
     foils/flower/60s-70s-vibe:
-      title: "1960s-70s Vibe Flower Foil"
+      title: "60s-70s Vibe Flower Foil"
       product:
         shopify: 7275284791332
         restockingSoon: false
@@ -3665,3 +3665,5 @@ _uncategorized:
           <li>Multi-colour finish</li>
         </ul>
         <p>This soft nylon duster will gently remove unwanted dust or glitter from hands and your nail table. Use the duster before applying any acrylic, gel, or polish.</p>
+
+
