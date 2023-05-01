@@ -2266,7 +2266,7 @@ nail-art:
         restockingSoon: false
         isNew: true
       carousel:
-        aspectRatio: 1x1
+        aspectRatio: 2x3
         images:
         - products/foils/flower/collection/01.jpg
         - products/foils/flower/60s-70s-vibe/cover.jpg
@@ -2295,13 +2295,13 @@ nail-art:
         restockingSoon: false
         isNew: true
       carousel:
-        aspectRatio: 1x1
+        aspectRatio: 2x3
         images:
+        - products/foils/flower/60s-70s-vibe/04.jpg
+        - products/foils/flower/60s-70s-vibe/03.jpg
         - products/foils/flower/60s-70s-vibe/cover.jpg
         - products/foils/flower/60s-70s-vibe/01.jpg
         - products/foils/flower/60s-70s-vibe/02.jpg
-        - products/foils/flower/60s-70s-vibe/03.jpg
-        - products/foils/flower/60s-70s-vibe/04.jpg
       writeupMarkdown: |
         Part of the [Flower Foil Collection](./collection)
 
@@ -2320,13 +2320,13 @@ nail-art:
         restockingSoon: false
         isNew: true
       carousel:
-        aspectRatio: 1x1
+        aspectRatio: 2x3
         images:
+        - products/foils/flower/abstract/04.jpg
+        - products/foils/flower/abstract/03.jpg
         - products/foils/flower/abstract/cover.jpg
         - products/foils/flower/abstract/01.jpg
         - products/foils/flower/abstract/02.jpg
-        - products/foils/flower/abstract/03.jpg
-        - products/foils/flower/abstract/04.jpg
       writeupMarkdown: |
         Part of the [Flower Foil Collection](./collection)
 
@@ -2345,13 +2345,13 @@ nail-art:
         restockingSoon: false
         isNew: true
       carousel:
-        aspectRatio: 1x1
+        aspectRatio: 2x3
         images:
+        - products/foils/flower/see-thru/04.jpg
+        - products/foils/flower/see-thru/03.jpg
         - products/foils/flower/see-thru/cover.jpg
         - products/foils/flower/see-thru/01.jpg
         - products/foils/flower/see-thru/02.jpg
-        - products/foils/flower/see-thru/03.jpg
-        - products/foils/flower/see-thru/04.jpg
       writeupMarkdown: |
         Part of the [Flower Foil Collection](./collection)
 
@@ -2370,13 +2370,13 @@ nail-art:
         restockingSoon: false
         isNew: true
       carousel:
-        aspectRatio: 1x1
+        aspectRatio: 2x3
         images:
+        - products/foils/flower/vintage/04.jpg
+        - products/foils/flower/vintage/03.jpg
         - products/foils/flower/vintage/cover.jpg
         - products/foils/flower/vintage/01.jpg
         - products/foils/flower/vintage/02.jpg
-        - products/foils/flower/vintage/03.jpg
-        - products/foils/flower/vintage/04.jpg
       writeupMarkdown: |
         Part of the [Flower Foil Collection](./collection)
 
