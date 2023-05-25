@@ -1,7 +1,6 @@
 
 import {html, HtmlTemplate} from "xiome/x/toolbox/hamster-html/html.js"
 
-import {eventPromoUrl} from "../../constants.js"
 import {NceWebsiteContext} from "../../types.js"
 import {metaAndTitle} from "./common/meta-and-title.js"
 import {shopperConfig} from "./common/shopper-config.js"
@@ -91,21 +90,6 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 	</nce-header>
 
 	<main>
-		<ul class=infoboxes>
-			<li data-vibe=promo data-side-by-side>
-				<a href="${eventPromoUrl}">
-					<div>
-						<img alt="" src="/assets/graphics/promos/002-thumb3.webp"/>
-					</div>
-					<div>
-						<p>New In-person Workshop!</p>
-						<p>With <strong>Suzie</strong>, and special guest <strong>Jenny Bui</strong></p>
-						<p>May 6-8, 2023, in Vancouver BC Canada</p>
-						<button>Reserve your Seat</button>
-					</div>
-				</a>
-			</li>
-		</ul>
 		${mainHtml}
 	</main>
 
@@ -126,3 +110,20 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 // 		</a>
 // 	</li>
 // </ul>
+
+// <ul class=infoboxes>
+// 	<li data-vibe=promo data-side-by-side>
+// 		<a href="${eventPromoUrl}">
+// 			<div>
+// 				<img alt="" src="/assets/graphics/promos/002-thumb3.webp"/>
+// 			</div>
+// 			<div>
+// 				<p>New In-person Workshop!</p>
+// 				<p>With <strong>Suzie</strong>, and special guest <strong>Jenny Bui</strong></p>
+// 				<p>May 6-8, 2023, in Vancouver BC Canada</p>
+// 				<button>Reserve your Seat</button>
+// 			</div>
+// 		</a>
+// 	</li>
+// </ul>
+
