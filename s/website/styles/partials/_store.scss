@@ -35,6 +35,15 @@
 					margin-top: 0.3em;
 				}
 			}
+			blockquote {
+				color: #7e7050;
+				border-left: 0.2em solid #7e705044;
+				padding-left: 1em;
+				[data-nightlight] & {
+					color: #ffe6ae;
+					border-color: #ffe6ae44;
+				}
+			}
 		}
 	}
 	.visual {
