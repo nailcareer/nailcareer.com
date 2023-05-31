@@ -1972,6 +1972,7 @@ loose-glitter:
         aspectRatio: 1x1
         images:
         - products/loose-glitters/summer-cocktails/blue-hawaiian.jpg
+        - products/loose-glitters/summer-cocktails/all-four.jpg
       writeupMarkdown: |
         The tiny reflective glitter. Each cocktail colour has tiny hints of pink. Light dances across each piece of glitter with slight movements.
 
@@ -1990,6 +1991,7 @@ loose-glitter:
         aspectRatio: 1x1
         images:
         - products/loose-glitters/summer-cocktails/skinny-margaritas.jpg
+        - products/loose-glitters/summer-cocktails/all-four.jpg
       writeupMarkdown: |
         The tiny reflective glitter. Each cocktail colour has tiny hints of pink. Light dances across each piece of glitter with slight movements.
 
@@ -2008,6 +2010,7 @@ loose-glitter:
         aspectRatio: 1x1
         images:
         - products/loose-glitters/summer-cocktails/cosmopolitan.jpg
+        - products/loose-glitters/summer-cocktails/all-four.jpg
       writeupMarkdown: |
         The tiny reflective glitter. Each cocktail colour has tiny hints of pink. Light dances across each piece of glitter with slight movements.
 
@@ -2026,6 +2029,7 @@ loose-glitter:
         aspectRatio: 1x1
         images:
         - products/loose-glitters/summer-cocktails/aperol-spritz.jpg
+        - products/loose-glitters/summer-cocktails/all-four.jpg
       writeupMarkdown: |
         The tiny reflective glitter. Each cocktail colour has tiny hints of pink. Light dances across each piece of glitter with slight movements.
 
