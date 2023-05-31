@@ -1962,6 +1962,78 @@ manicure:
 loose-glitter:
   label: "Loose Glitter"
   products:
+    loose-glitter/blue-hawaiian:
+      title: "Blue Hawaiian - Loose Glitter"
+      product:
+        shopify: 7283365478436
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/loose-glitters/summer-cocktails/blue-hawaiian.jpg
+      writeupMarkdown: |
+        The tiny reflective glitter. Each cocktail colour has tiny hints of pink. Light dances across each piece of glitter with slight movements.
+
+        How to use:
+        - Sprinkle on freshly applied Top coat of uncured Gel polish or nail polish.
+        - One coat is light and beautiful.
+        - Two coats is more intense.
+        - Top coat or simply leave for texture.
+    loose-glitter/skinny-margaritas:
+      title: "Skinny Margaritas - Loose Glitter"
+      product:
+        shopify: 7283365675044
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/loose-glitters/summer-cocktails/skinny-margaritas.jpg
+      writeupMarkdown: |
+        The tiny reflective glitter. Each cocktail colour has tiny hints of pink. Light dances across each piece of glitter with slight movements.
+
+        How to use:
+        - Sprinkle on freshly applied Top coat of uncured Gel polish or nail polish.
+        - One coat is light and beautiful.
+        - Two coats is more intense.
+        - Top coat or simply leave for texture.
+    loose-glitter/cosmopolitan:
+      title: "Cosmopolitan - Loose Glitter"
+      product:
+        shopify: 7283365806116
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/loose-glitters/summer-cocktails/cosmopolitan.jpg
+      writeupMarkdown: |
+        The tiny reflective glitter. Each cocktail colour has tiny hints of pink. Light dances across each piece of glitter with slight movements.
+
+        How to use:
+        - Sprinkle on freshly applied Top coat of uncured Gel polish or nail polish.
+        - One coat is light and beautiful.
+        - Two coats is more intense.
+        - Top coat or simply leave for texture.
+    loose-glitter/aperol-spritz:
+      title: "Aperol Spritz - Loose Glitter"
+      product:
+        shopify: 7283365871652
+        restocking: false
+        isNew: true
+      carousel:
+        aspectRatio: 1x1
+        images:
+        - products/loose-glitters/summer-cocktails/aperol-spritz.jpg
+      writeupMarkdown: |
+        The tiny reflective glitter. Each cocktail colour has tiny hints of pink. Light dances across each piece of glitter with slight movements.
+
+        How to use:
+        - Sprinkle on freshly applied Top coat of uncured Gel polish or nail polish.
+        - One coat is light and beautiful.
+        - Two coats is more intense.
+        - Top coat or simply leave for texture.
     loose-glitter/snow-of-fairies:
       title: "Snow of Fairies - Loose Glitter"
       product:
