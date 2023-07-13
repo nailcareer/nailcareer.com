@@ -149,6 +149,138 @@ accessories:
 acrylic:
   label: "Acrylic"
   products:
+    acrylic-1oz/beach-vibes-2/collection:
+      title: "Neon Collection - Beach Vibes 2 - Acrylic Powder 1oz"
+      product:
+        shopify: 7296343146532
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/acrylic-powders/beach-vibes-2/13.jpg
+        - products/acrylic-powders/beach-vibes-2/02.jpg
+        - products/acrylic-powders/beach-vibes-2/04.jpg
+        - products/acrylic-powders/beach-vibes-2/06.jpg
+        - products/acrylic-powders/beach-vibes-2/08.jpg
+        - products/acrylic-powders/beach-vibes-2/10.jpg
+        - products/acrylic-powders/beach-vibes-2/12.jpg
+      writeupMarkdown: |
+        Packed with colour and glitter, these acrylics are ready for the beach!
+
+        This collection comes six colours:
+        - [Green Neon](./green-neon)
+        - [Pink Neon](./pink-neon)
+        - [Yellow Neon](./yellow-neon)
+        - [Purple Neon](./purple-neon)
+        - [Orange Neon](./orange-neon)
+        - [Blue Neon](./blue-neon)
+
+        Apply solid or softly fade for an Ombre look.
+
+        To be used with Acrylic Monomer. (Can also be used as a dip)
+    acrylic-1oz/beach-vibes-2/green-neon:
+      title: "Green Neon - Beach Vibes 2 - Acrylic Powder 1oz"
+      product:
+        shopify: 7296343506980
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/acrylic-powders/beach-vibes-2/02.jpg
+        - products/acrylic-powders/beach-vibes-2/01.jpg
+      writeupMarkdown: |
+        Packed with colour and glitter, these acrylics are ready for the beach!
+
+        Apply solid or softly fade for an Ombre look.
+
+        To be used with Acrylic Monomer. (Can also be used as a dip)
+    acrylic-1oz/beach-vibes-2/pink-neon:
+      title: "Pink Neon - Beach Vibes 2 - Acrylic Powder 1oz"
+      product:
+        shopify: 7296343605284
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/acrylic-powders/beach-vibes-2/06.jpg
+        - products/acrylic-powders/beach-vibes-2/05.jpg
+      writeupMarkdown: |
+        Packed with colour and glitter, these acrylics are ready for the beach!
+
+        Apply solid or softly fade for an Ombre look.
+
+        To be used with Acrylic Monomer. (Can also be used as a dip)
+    acrylic-1oz/beach-vibes-2/yellow-neon:
+      title: "Yellow Neon - Beach Vibes 2 - Acrylic Powder 1oz"
+      product:
+        shopify: 7296343638052
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/acrylic-powders/beach-vibes-2/10.jpg
+        - products/acrylic-powders/beach-vibes-2/09.jpg
+      writeupMarkdown: |
+        Packed with colour and glitter, these acrylics are ready for the beach!
+
+        Apply solid or softly fade for an Ombre look.
+
+        To be used with Acrylic Monomer. (Can also be used as a dip)
+    acrylic-1oz/beach-vibes-2/purple-neon:
+      title: "Purple Neon - Beach Vibes 2 - Acrylic Powder 1oz"
+      product:
+        shopify: 7296343867428
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/acrylic-powders/beach-vibes-2/04.jpg
+        - products/acrylic-powders/beach-vibes-2/03.jpg
+      writeupMarkdown: |
+        Packed with colour and glitter, these acrylics are ready for the beach!
+
+        Apply solid or softly fade for an Ombre look.
+
+        To be used with Acrylic Monomer. (Can also be used as a dip)
+    acrylic-1oz/beach-vibes-2/orange-neon:
+      title: "Orange Neon - Beach Vibes 2 - Acrylic Powder 1oz"
+      product:
+        shopify: 7296343900196
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/acrylic-powders/beach-vibes-2/12.jpg
+        - products/acrylic-powders/beach-vibes-2/11.jpg
+      writeupMarkdown: |
+        Packed with colour and glitter, these acrylics are ready for the beach!
+
+        Apply solid or softly fade for an Ombre look.
+
+        To be used with Acrylic Monomer. (Can also be used as a dip)
+    acrylic-1oz/beach-vibes-2/blue-neon:
+      title: "Blue Neon - Beach Vibes 2 - Acrylic Powder 1oz"
+      product:
+        shopify: 7296343965732
+        restockingSoon: true
+        isNew: true
+      carousel:
+        aspectRatio: 2x3
+        images:
+        - products/acrylic-powders/beach-vibes-2/08.jpg
+        - products/acrylic-powders/beach-vibes-2/07.jpg
+      writeupMarkdown: |
+        Packed with colour and glitter, these acrylics are ready for the beach!
+
+        Apply solid or softly fade for an Ombre look.
+
+        To be used with Acrylic Monomer. (Can also be used as a dip)
     acrylic-1oz/beach-vibes/collection:
       title: "Beach Vibes Collection - Acrylic Powder 1oz"
       product:
