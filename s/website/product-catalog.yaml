@@ -3306,9 +3306,10 @@ nail-art:
         </ul>
     ice-crystals:
       title: "Ice Crystals"
+      hideFromIndex: true
       product:
         shopify: 6875103199268
-        restockingSoon: true
+        restockingSoon: false
       carousel:
         aspectRatio: 3x2
         images:
