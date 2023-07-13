@@ -618,9 +618,10 @@ acrylic:
         Combine with Foundation Pink to create a custom colour for you and your clients. Create your own Custom "Suzie's Mix".
     acrylic-1oz/worlds-best-bo:
       title: "Acrylic Powder 1oz: World's Best Bo..."
+      hideFromIndex: true
       product:
         shopify: https://nail-career-education.myshopify.com/admin/products/6944669892644
-        restockingSoon: true
+        restockingSoon: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -642,9 +643,10 @@ acrylic:
         </ul>
     acrylic-1oz/fold-in-the-che:
       title: "Acrylic Powder 1oz: Fold in the Che..."
+      hideFromIndex: true
       product:
         shopify: https://nail-career-education.myshopify.com/admin/products/6944671072292
-        restockingSoon: true
+        restockingSoon: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -666,9 +668,10 @@ acrylic:
         </ul>
     acrylic-1oz/boom-roas:
       title: "Acrylic Powder 1oz: Boom Roas..."
+      hideFromIndex: true
       product:
         shopify: https://nail-career-education.myshopify.com/admin/products/6944671531044
-        restockingSoon: true
+        restockingSoon: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -690,9 +693,10 @@ acrylic:
         </ul>
     acrylic-1oz/ewwwww-dav:
       title: "Acrylic Powder 1oz: EWWW Dav..."
+      hideFromIndex: true
       product:
         shopify: https://nail-career-education.myshopify.com/admin/products/6944672481316
-        restockingSoon: true
+        restockingSoon: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -714,9 +718,10 @@ acrylic:
         </ul>
     acrylic-1oz/best-wishes-warmest-rega:
       title: "Acrylic Powder 1oz: Best Wishes, Warmest Rega..."
+      hideFromIndex: true
       product:
         shopify: https://nail-career-education.myshopify.com/admin/products/6944672776228
-        restockingSoon: true
+        restockingSoon: false
       carousel:
         aspectRatio: 1x1
         images:
