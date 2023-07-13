@@ -286,7 +286,7 @@ acrylic:
       product:
         shopify: 7273971089444
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -312,7 +312,7 @@ acrylic:
       product:
         shopify: 7273969156132
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -329,7 +329,7 @@ acrylic:
       product:
         shopify: 7273968992292
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -346,7 +346,7 @@ acrylic:
       product:
         shopify: 7273969352740
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -363,7 +363,7 @@ acrylic:
       product:
         shopify: 7273969516580
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -380,7 +380,7 @@ acrylic:
       product:
         shopify: 7273970761764
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
@@ -397,7 +397,7 @@ acrylic:
       product:
         shopify: 7273970925604
         restockingSoon: true
-        isNew: true
+        isNew: false
       carousel:
         aspectRatio: 1x1
         images:
