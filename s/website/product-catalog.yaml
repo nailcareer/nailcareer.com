@@ -860,9 +860,10 @@ brushes:
           Then soak in Acetone for 5 mins or longer if needed. Once unwanted product is gone, soak in monomer to recondition, slightly drain, then cap it.
     synthetic-acrylic-brush/oval-6:
       title: "Student Brush Level 1: Synthetic"
+      hideFromIndex: true
       product:
         shopify: 7224862179364
-        restockingSoon: true
+        restockingSoon: false
         isNew: false
       carousel:
         aspectRatio: 2x3
