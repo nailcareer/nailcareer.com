@@ -8,6 +8,47 @@ import {stylesAndFavicon} from "./common/styles-and-favicon.js"
 import {xiomeInstallation} from "./common/xiome-installation.js"
 import {nightlightInstallation} from "./common/nightlight-installation.js"
 
+// <shopper-button></shopper-button>
+// <shopper-cart slot=panel require-terms-checked checkout-in-same-window>
+// 	<div slot=before-checkout>
+// 		<h4>Terms</h4>
+// 		<details>
+// 			<summary>Click to see shipping details.</summary>
+// 			<div>
+// 				<p>Duty fees may apply.</p>
+// 				<p>Orders are usually processed within five business days.</p>
+// 				<p>International shipping is available to the following countries:</p>
+// 				<ul class=countries>
+// 					<li>Australia</li>
+// 					<li>Belgium</li>
+// 					<li>Canada</li>
+// 					<li>Denmark</li>
+// 					<li>Finland</li>
+// 					<li>France</li>
+// 					<li>Germany</li>
+// 					<li>Iceland</li>
+// 					<li>Ireland</li>
+// 					<li>Isle of Man</li>
+// 					<li>Italy</li>
+// 					<li>Mexico</li>
+// 					<li>Netherlands</li>
+// 					<li>New Zealand</li>
+// 					<li>Poland</li>
+// 					<li>Portugal</li>
+// 					<li>Spain</li>
+// 					<li>Sweden</li>
+// 					<li>Switzerland</li>
+// 					<li>United Kingdom</li>
+// 					<li>United States</li>
+// 				</ul>
+// 				<p>Email <nce-email user="hello" domain="nailcareer.com"></nce-email> if your country is not on this list, or if you'd like to arrange local pickup in Langford BC, Canada.</p>
+// 			</div>
+// 		</details>
+// 		<p>Prices on the next checkout page are shown in US Dollars.</p>
+// 		<p>Products are for professional use only.</p>
+// 	</div>
+// </shopper-cart>
+
 export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsiteContext & {
 	pageName: string
 	pageSubtitle?: string
@@ -33,46 +74,8 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 					<xio-nightlight data-label=nightlight></xio-nightlight>
 				</xio-menu-item>
 				<xio-menu-item data-label=shopper>
-					<shopper-button></shopper-button>
-					<shopper-cart slot=panel require-terms-checked checkout-in-same-window>
-						<div slot=before-checkout>
-							<h4>Terms</h4>
-							<details>
-								<summary>Click to see shipping details.</summary>
-								<div>
-									<p>Duty fees may apply.</p>
-									<p>Orders are usually processed within five business days.</p>
-									<p>International shipping is available to the following countries:</p>
-									<ul class=countries>
-										<li>Australia</li>
-										<li>Belgium</li>
-										<li>Canada</li>
-										<li>Denmark</li>
-										<li>Finland</li>
-										<li>France</li>
-										<li>Germany</li>
-										<li>Iceland</li>
-										<li>Ireland</li>
-										<li>Isle of Man</li>
-										<li>Italy</li>
-										<li>Mexico</li>
-										<li>Netherlands</li>
-										<li>New Zealand</li>
-										<li>Poland</li>
-										<li>Portugal</li>
-										<li>Spain</li>
-										<li>Sweden</li>
-										<li>Switzerland</li>
-										<li>United Kingdom</li>
-										<li>United States</li>
-									</ul>
-									<p>Email <nce-email user="hello" domain="nailcareer.com"></nce-email> if your country is not on this list, or if you'd like to arrange local pickup in Langford BC, Canada.</p>
-								</div>
-							</details>
-							<p>Prices on the next checkout page are shown in US Dollars.</p>
-							<p>Products are for professional use only.</p>
-						</div>
-					</shopper-cart>
+					<sheep-cart-button></sheep-cart-button>
+					<sheep-cart slot=panel></sheep-cart>
 				</xio-menu-item>
 				<xio-menu-item data-label="account">
 					<xiome-my-avatar></xiome-my-avatar>
