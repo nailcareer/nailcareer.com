@@ -8,7 +8,7 @@ export default ({base, mode, ...context}: NceWebsiteContext) => pageHtml({
 ...context,
 base,
 mode,
-pageName: "store",
+pageName: "store2",
 pageSubtitle: "Store",
 mainHtml: html`
 
@@ -24,12 +24,7 @@ mainHtml: html`
 
 	<header class="header slice">
 		<div class=bigbar>
-			<h1>
-				<a href="https://github.com/chase-moskal/sheep-cart">
-					<span>sheep-cart</span>
-					<small>(on github)</small>
-				</a>
-			</h1>
+			<h1>NCE Store</h1>
 			<sheep-search></sheep-search>
 			<sheep-nav></sheep-nav>
 		</div>
