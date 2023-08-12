@@ -17,17 +17,18 @@ registerComponents(
 
 import "shopper/x/install-shopper.js"
 import "carouse"
-
 import {install_sheep_cart, register_to_dom} from "sheep-cart"
 
-const {elements, load} = install_sheep_cart({
-	domain: "nail-career-education.myshopify.com",
-	storefront_access_token: "493f6df6e7fb5bfc231bb9f221fecdee",
-})
+void async function main() {
+	const {elements, load} = install_sheep_cart({
+		home: "collections",
+		domain: "nail-career-education.myshopify.com",
+		storefront_access_token: "493f6df6e7fb5bfc231bb9f221fecdee",
+	})
 
-register_to_dom(elements)
+	register_to_dom(elements)
+	await load()
 
-await load()
-
-console.log("💅")
+	console.log("💅")
+}()
 
