@@ -95,8 +95,7 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 	<aside class=promo4>
 		<a
 			class=image
-			target="_blank"
-			href="https://nailcareer.com/store/">
+			href="https://nailcareer.com/store/#/collection/summer-sale/273763270692">
 			<img
 				alt="Suzie's Summer Sale"
 				title="Suzie's Summer Sale"
