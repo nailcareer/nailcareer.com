@@ -331,41 +331,47 @@ html {
 	justify-content: center;
 	gap: 0.5em;
 
-	margin: auto;
-	padding: 0 1em;
+	flex-wrap: wrap;
 
-	width: 90%;
-	height: 10em;
+	margin: auto;
+	padding: 0 2em;
+
 	max-width: 50rem;
 
 	> a {
 		text-decoration: none;
 	}
 
-	> :is(.image, .card) {
+	& :is(.image > img, .card) {
 		box-shadow: 1px 5px 10px #0003;
+		border-radius: 0.3em;
+		overflow: hidden;
 	}
 
 	> .image {
-		flex: 0 auto;
+		width: 100%;
+		flex: 1 0 auto;
+		max-width: 20em;
+		aspect-ratio: 2 / 1;
 		> img {
 			display: block;
+			width: 100%;
 			height: 100%;
-			aspect-ratio: 2 / 1;
-			border-radius: 0.3em;
 		}
 	}
 
 	> .card {
 		flex: 1 1 auto;
-		width: 50ch;
+		max-width: 25em;
 		font-family: sans-serif;
 		display: flex;
 		background: #75b8c5;
 		color: white !important;
 		text-shadow: 1px 2px 2px #0008;
-		border-radius: 0.3em;
-		overflow: hidden;
+
+		@media (max-width: 600px) {
+			font-size: 0.7em;
+		}
 
 		> img {
 			flex: 0 0 auto;
@@ -379,6 +385,8 @@ html {
 		}
 
 		> div {
+			display: flex;
+			flex-direction: column;
 			flex: 1 1 auto;
 			width: max-content;
 			padding: 0.25em 1em;
@@ -396,11 +404,10 @@ html {
 			> button {
 				opacity: 0.9;
 				display: block;
-				margin-top: auto;
 
 				cursor: pointer;
 				font-size: 1em;
-				margin-top: 0.5em;
+				margin-top: auto;
 				margin-left: auto;
 				padding: 0.2em 0.5em;
 				font-weight: bold;
@@ -414,23 +421,6 @@ html {
 				&:hover {
 					opacity: 1;
 				}
-			}
-		}
-	}
-}
-
-@media (max-width: 1100px) {
-	.promo4 {
-		flex-direction: column;
-		height: unset;
-		max-width: 25rem;
-		> .card {
-			width: 100%;
-		}
-		> .image {
-			> img {
-				height: unset;
-				width: 100%;
 			}
 		}
 	}
