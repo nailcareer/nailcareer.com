@@ -92,8 +92,22 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 		</div>
 	</nce-header>
 
-	<aside class=promo3>
-		<a target="_blank" href="https://www.eventbrite.ca/e/660636390227">
+	<aside class=promo4>
+		<a
+			class=image
+			target="_blank"
+			href="https://nailcareer.com/store/">
+			<img
+				alt="Suzie's Summer Sale"
+				title="Suzie's Summer Sale"
+				src="/assets/graphics/promos/004-b.jpg"
+				/>
+		</a>
+
+		<a
+			class=card
+			target="_blank"
+			href="https://www.eventbrite.ca/e/660636390227">
 			<img alt="" src="/assets/graphics/promos/003.webp"/>
 			<div>
 				<p>Suzie's 3-Day Workshop</p>
