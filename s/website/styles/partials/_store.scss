@@ -62,33 +62,33 @@
 		padding-bottom: 5em;
 		text-align: left;
 
-		&::part(card) {
+		&::part(product-list-card) {
 			background: #fff;
 			padding: 0.5rem;
 			border-radius: 1em;
 			box-shadow: 0.3em 0.4em 1em #0002;
 		}
 
-		&::part(card-img) {
+		&::part(product-list-card-img) {
 			border-radius: 0.8em;
 		}
 
-		&::part(addbutton x-add-to-cart) {
+		&::part(card-x-add-to-cart-button) {
 			background: #43ddff;
 			color: white;
 		}
 
-		&::part(addbutton x-select-from-variants) {
+		&::part(card-x-select-from-variants-button) {
 			background: #437cff;
 			color: white;
 		}
 
-		&::part(addbutton x-sold-out) {
+		&::part(card-x-sold-out-button) {
 			background: #4d5484;
 			color: white;
 		}
 
-		&::part(pill-collection) {
+		&::part(pills-collection) {
 			display: none;
 		}
 
