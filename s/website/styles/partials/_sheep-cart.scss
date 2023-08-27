@@ -5,6 +5,7 @@
 		background: #f150ff80;
 		text-shadow: 1px 2px 2px #0004;
 	}
+
 	&::part(line-item) {
 		border: 1px solid;
 		border-radius: 0.5em;
@@ -21,15 +22,17 @@ sheep-nav {
 }
 
 sheep-search {
+	--highlight: #f45eff;
+
 	&::part(input) {
 		max-width: unset;
 	}
+
 	&::part(tag) {
-		color: inherit;
 		opacity: 0.4;
 	}
+
 	&::part(tag x-active) {
-		color: inherit;
 		opacity: 1;
 		box-shadow: 0 0 1.5em #fff8;
 	}
