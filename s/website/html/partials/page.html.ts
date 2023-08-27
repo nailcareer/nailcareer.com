@@ -67,6 +67,8 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 </head>
 <body data-page="${pageName}">
 
+	<sheep-modal></sheep-modal>
+
 	<nce-header current-page="${pageName}" initially-hidden>
 		<div class=menuarea>
 			<xio-menu sticky initially-hidden>

@@ -12,11 +12,8 @@ pageName: "store",
 pageSubtitle: "Store",
 mainHtml: html`
 
-	<sheep-modal></sheep-modal>
-
 	<header class="header slice">
 		<div class=bigbar>
-			<h1>NCE Store</h1>
 			<sheep-search></sheep-search>
 			<sheep-nav></sheep-nav>
 		</div>

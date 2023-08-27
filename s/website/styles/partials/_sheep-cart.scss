@@ -1,5 +1,5 @@
 
-:is(sheep-catalog, sheep-cart, sheep-cart-modal) {
+:is(sheep-catalog, sheep-cart) {
 	&::part(sale) {
 		color: white;
 		background: #f150ff80;
@@ -44,15 +44,15 @@ sheep-catalog {
 	padding-bottom: 5em;
 	text-align: left;
 
-	&::part(product-list-card) {
+	&::part(card) {
 		background: #fff;
 		padding: 0.5rem;
-		border-radius: 1em;
+		border-radius: 0.2rem;
 		box-shadow: 0.3em 0.4em 1em #0002;
 	}
 
-	&::part(product-list-card-img) {
-		border-radius: 0.8em;
+	&::part(card-img) {
+		border-radius: 0.2rem;
 	}
 
 	&::part(card-x-add-to-cart-button) {
@@ -72,6 +72,19 @@ sheep-catalog {
 
 	&::part(pills-collection) {
 		display: none;
+	}
+
+	&::part(collection-list-bar) {
+		border-radius: 0.1rem;
+		text-shadow: 0.05em 0.1em 0.01em #0004;
+	}
+
+	&::part(collection-tab-list) {
+		font-size: 0.7em;
+	}
+
+	&::part(collection-tab) {
+		text-shadow: 0.05em 0.1em 0.01em #0004;
 	}
 
 	[data-nightlight] & {
