@@ -100,10 +100,6 @@ sheep-catalog {
 		font-size: 0.7em;
 	}
 
-	&::part(collection-tab) {
-		text-shadow: 0.05em 0.1em 0.01em #0004;
-	}
-
 	[data-nightlight] & {
 		&::part(card) {
 			color: white;
