@@ -15,7 +15,9 @@ mainHtml: html`
 	<header class="header slice">
 		<div class=bigbar>
 			<sheep-search></sheep-search>
-			<sheep-nav></sheep-nav>
+			<sheep-nav>
+				<span slot=collections>departments</span>
+			</sheep-nav>
 		</div>
 	</header>
 
