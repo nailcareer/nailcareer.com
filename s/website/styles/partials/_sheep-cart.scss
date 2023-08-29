@@ -1,9 +1,20 @@
 
+body {
+	--sheep-border-radius: 0.2em;
+	--sheep-frame-padding: 0;
+	--sheep-frame-background: transparent;
+}
+
 :is(sheep-catalog, sheep-cart) {
+	&::part(checkout-button) {
+		background: #84b884;
+	}
+
 	&::part(sale) {
 		color: white;
-		background: #f150ff80;
+		background: #fdaeae;
 		text-shadow: 1px 2px 2px #0004;
+		border-radius: 0.2em;
 	}
 
 	&::part(line-item) {
@@ -52,20 +63,26 @@ sheep-catalog {
 	}
 
 	&::part(card-img) {
-		border-radius: 0.2rem;
+		border-radius: 0.1rem;
 	}
 
-	&::part(card-x-add-to-cart-button) {
-		background: #43ddff;
+	&::part(addbutton-button) {
+		background: #77e4ff;
+		color: white;
+		border-radius: 0.2em;
+	}
+
+	&::part(x-select-from-variants-button) {
+		background: #9cbaff;
 		color: white;
 	}
 
-	&::part(card-x-select-from-variants-button) {
-		background: #437cff;
+	&::part(x-in-cart) {
+		background: #71c67b;
 		color: white;
 	}
 
-	&::part(card-x-sold-out-button) {
+	&::part(x-sold-out-button) {
 		background: #4d5484;
 		color: white;
 	}
