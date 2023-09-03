@@ -96,16 +96,6 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 
 	<aside class=promo4>
 		<a
-			class=image
-			href="https://nailcareer.com/store/#/collection/summer-sale/273763270692">
-			<img
-				alt="Suzie's Summer Sale"
-				title="Suzie's Summer Sale"
-				src="/assets/graphics/promos/004-b.jpg"
-				/>
-		</a>
-
-		<a
 			class=card
 			target="_blank"
 			href="https://www.eventbrite.ca/e/660636390227">
