@@ -5,7 +5,8 @@ export const navlinks = [
 	navlink("Home", "/"),
 	navlink("Store", "/store/"),
 	navlink("Blog", "https://www.blog.nailcareer.com/"),
-	navlink("Academy", "/academy/livestream", ["new"]),
+	navlink("Academy", "/academy/livestream"),
+	// navlink("Academy", "/academy/livestream", ["new"]),
 ] satisfies Navlink[]
 
 function navlink(
