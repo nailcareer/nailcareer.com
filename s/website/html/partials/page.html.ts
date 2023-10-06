@@ -94,21 +94,6 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 		</div>
 	</nce-header>
 
-	<aside class=promo4>
-		<a
-			class=card
-			target="_blank"
-			href="https://www.eventbrite.ca/e/660636390227">
-			<img alt="" src="/assets/graphics/promos/003.webp"/>
-			<div>
-				<p>Suzie's 3-Day Workshop</p>
-				<p>Sept 30 to Oct 2 '23, Victoria BC Canada</p>
-				<p>Choose Your Education &amp; Price</p>
-				<button>Reserve Your Seat</button>
-			</div>
-		</a>
-	</aside>
-
 	<main>
 		${mainHtml}
 	</main>
@@ -118,6 +103,21 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 </body>
 </html>
 `
+
+// <aside class=promo4>
+// 	<a
+// 		class=card
+// 		target="_blank"
+// 		href="https://www.eventbrite.ca/e/660636390227">
+// 		<img alt="" src="/assets/graphics/promos/003.webp"/>
+// 		<div>
+// 			<p>Suzie's 3-Day Workshop</p>
+// 			<p>Sept 30 to Oct 2 '23, Victoria BC Canada</p>
+// 			<p>Choose Your Education &amp; Price</p>
+// 			<button>Reserve Your Seat</button>
+// 		</div>
+// 	</a>
+// </aside>
 
 // <ul class=infoboxes>
 // 	<li data-vibe=black-friday>
