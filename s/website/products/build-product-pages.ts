@@ -22,29 +22,37 @@ export async function buildProductPages({mode, catalog}: NceWebsiteInputs) {
 
 	const pages = await Promise.all(
 		productList.map(async([pageName, product]) => {
+
 			const context = getWebsiteContext({
 				sourcePath: `x/store/products/${pageName}`,
 				inputDirectory: "x",
 				outputDirectory: "x",
 			})
-			const html = await productPageHtml({
-				...context,
-				imagesDirectory: "/assets/images-large",
-				mode,
-				catalog,
-				product,
-			}).render()
-			const htmlMini = await minify(html, {
-				collapseBooleanAttributes: true,
-				minifyCSS: true,
-				minifyJS: true,
-				removeComments: true,
-				removeScriptTypeAttributes: true,
-				removeStyleLinkTypeAttributes: true,
-			})
+
 			return {
 				name: pageName,
-				html: htmlMini,
+				html: (product.relocated
+					? `<meta http-equiv="refresh" content="0;URL='${product.relocated}'" />`
+					: await minify(
+
+						await productPageHtml({
+							...context,
+							mode,
+							catalog,
+							product,
+							imagesDirectory: "/assets/images-large",
+						}).render(),
+
+						{
+							collapseBooleanAttributes: true,
+							minifyCSS: true,
+							minifyJS: true,
+							removeComments: true,
+							removeScriptTypeAttributes: true,
+							removeStyleLinkTypeAttributes: true,
+						},
+					)
+				),
 				redirects: product.redirects ?? [],
 			}
 		})

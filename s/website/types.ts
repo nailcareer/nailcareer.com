@@ -24,6 +24,7 @@ export interface Uncategorized {
 export interface Product {
 	hideFromIndex?: boolean
 	title: string
+	relocated?: string
 	redirects?: string[]
 	product: {
 		shopify?: string
