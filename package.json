@@ -61,7 +61,7 @@
 		"install": "^0.13.0",
 		"lit": "^2.8.0",
 		"markdown-it": "^13.0.2",
-		"sheep-cart": "^0.2.0-dev.1",
+		"sheep-cart": "^0.2.0",
 		"shopify-shepherd": "^0.2.1",
 		"shopper": "^0.2.9",
 		"sorry-not-sorry": "0.0.3",

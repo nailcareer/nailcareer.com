@@ -5,6 +5,22 @@ body {
 	--sheep-frame-background: transparent;
 }
 
+sheep-cart {
+	[slot="terms"] {
+		* + :is(p, ol, ul, h1, h2, h3, h4, h5, h6, details) {
+			margin-top: 0.7em;
+		}
+
+		details > div {
+			text-align: left;
+
+			ul, ol {
+				padding-left: 1.5em;
+			}
+		}
+	}
+}
+
 :is(sheep-catalog, sheep-cart) {
 	&::part(checkout-button) {
 		background: #84b884;
