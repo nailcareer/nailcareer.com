@@ -94,6 +94,10 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 		</div>
 	</nce-header>
 
+	<a class=promopic href="/store/#/collection/featured/273763270692">
+		<img alt="" src="/assets/graphics/promos/005.webp"/>
+	</a>
+
 	<main>
 		${mainHtml}
 	</main>

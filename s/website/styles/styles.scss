@@ -427,6 +427,18 @@ html {
 	}
 }
 
+.promopic {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+
+	img {
+		display: block;
+		width: max-content;
+		max-width: 90%;
+	}
+}
+
 a, *::part(link) {
 	color: #007eff;
 	&:hover, &:focus {
