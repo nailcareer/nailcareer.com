@@ -437,6 +437,10 @@ html {
 		width: max-content;
 		max-width: 90%;
 	}
+
+	&:hover img {
+		outline: 4px solid cyan;
+	}
 }
 
 a, *::part(link) {
