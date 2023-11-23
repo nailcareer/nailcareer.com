@@ -427,19 +427,27 @@ html {
 	}
 }
 
-.promopic {
+.promobox {
 	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
 	justify-content: center;
-	width: 100%;
+	width: 90%;
+	margin: auto;
+	gap: 0.5em;
 
-	img {
-		display: block;
-		width: max-content;
-		max-width: 90%;
-	}
+	> a {
+		flex-basis: 1 1 auto;
+		width: 30em;
 
-	&:hover img {
-		outline: 4px solid cyan;
+		img {
+			display: block;
+			width: 100%;
+		}
+
+		&:is(:hover, :focus) img {
+			outline: 4px solid cyan;
+		}
 	}
 }
 
