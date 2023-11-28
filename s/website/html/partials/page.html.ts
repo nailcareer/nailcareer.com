@@ -95,10 +95,6 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 	</nce-header>
 
 	<div class=promobox>
-		<a href="/store/#/collection/featured/273763270692">
-			<img alt="Black Friday Sale" src="/assets/graphics/promos/008.webp"/>
-		</a>
-
 		<a target=_blank href="https://www.eventbrite.ca/e/suzies-3-day-nail-workshop-tickets-753527580277?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl">
 			<img alt="Suzie's Nail Workshop" src="/assets/graphics/promos/007.webp"/>
 		</a>
@@ -113,6 +109,11 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 </body>
 </html>
 `
+
+// // belogns in a <div class=promobox>
+// <a href="/store/#/collection/featured/273763270692">
+// 	<img alt="Black Friday Sale" src="/assets/graphics/promos/008.webp"/>
+// </a>
 
 // <aside class=promo4>
 // 	<a
