@@ -52,21 +52,27 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 										<li>Austria</li>
 										<li>Belgium</li>
 										<li>Canada</li>
+										<li>Croatia</li>
+										<li>Cyprus</li>
 										<li>Denmark</li>
 										<li>Finland</li>
 										<li>France</li>
 										<li>Germany</li>
+										<li>Greece</li>
 										<li>Iceland</li>
 										<li>Ireland</li>
 										<li>Isle of Man</li>
+										<li>Israel</li>
 										<li>Italy</li>
 										<li>Latvia</li>
 										<li>Mexico</li>
+										<li>Namibia</li>
 										<li>Netherlands</li>
 										<li>New Zealand</li>
 										<li>Poland</li>
 										<li>Portugal</li>
 										<li>Slovenia</li>
+										<li>South Africa</li>
 										<li>Spain</li>
 										<li>Sweden</li>
 										<li>Switzerland</li>
