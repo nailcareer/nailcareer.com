@@ -14,8 +14,19 @@ sheep-cart {
 		details > div {
 			text-align: left;
 
-			ul, ol {
-				padding-left: 1.5em;
+			.countries {
+				display: flex;
+				flex-wrap: wrap;
+				padding: 0.5em;
+				gap: 0.2em;
+
+				> li {
+					flex: 0 0 auto;
+					border: 1px solid;
+					border-radius: 1em;
+					padding: 0.1em 0.3em;
+					list-style: none;
+				}
 			}
 		}
 	}
