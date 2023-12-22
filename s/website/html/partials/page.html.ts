@@ -45,7 +45,8 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 								<summary>Click to see shipping details.</summary>
 								<div>
 									<p>Duty fees may apply.</p>
-									<p>Orders are usually processed within five business days.</p>
+									<!-- <p>Orders are usually processed within five business days.</p> -->
+									<p>Our shipping team is now on holiday until January 3rd 2024, so your order will ship after that date.</p>
 									<p>International shipping is available to the following countries:</p>
 									<ul class=countries>
 										<li>Australia</li>
