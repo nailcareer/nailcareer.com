@@ -39,14 +39,14 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 					<sheep-cart slot=panel require-checkout-terms>
 						<div slot=terms>
 							<h4>Terms</h4>
-							<p>Prices on the next checkout page are shown in US Dollars.</p>
 							<p>Products are for professional use only.</p>
+							<p><strong>Duty Fees may apply (outside Canada).</strong></p>
 							<details>
 								<summary>Click to see shipping details.</summary>
 								<div>
-									<p>Duty fees may apply.</p>
 									<p>Orders are usually processed within five business days.</p>
 									<p>International shipping is available to the following countries:</p>
+									<p>When you receive your order, you may be charged duty fees if you are outside Canada, depending on your local tax laws.</p>
 									<ul class=countries>
 										<li>Australia</li>
 										<li>Austria</li>
