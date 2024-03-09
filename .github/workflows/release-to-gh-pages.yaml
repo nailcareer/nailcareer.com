@@ -32,6 +32,10 @@ jobs:
         touch .nojekyll
         echo "nailcareer.com" > CNAME
 
+    - name: write robots.txt
+      run: |
+        echo "User-agent: *\nDisallow:" > x/robots.txt
+
     - name: 🚀 deploy to gh-pages
       uses: JamesIves/github-pages-deploy-action@v4.3.0
       with:
