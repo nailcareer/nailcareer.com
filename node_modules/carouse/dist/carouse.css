@@ -1,0 +1,27 @@
+
+@charset "utf-8";
+
+carouse-carousel figure {
+	position: relative;
+}
+
+carouse-carousel figure > img {
+	width: 100%;
+	display: block;
+}
+
+carouse-carousel figure > figcaption {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	padding: 0.5em;
+	text-align: center;
+	color: white;
+	text-shadow: 0.5px 1px 1px rgba(0,0,0, 1);
+	background: rgba(0,0,0, 0.2);
+}
+
+carouse-carousel figure > figcaption a {
+	color: inherit;
+}

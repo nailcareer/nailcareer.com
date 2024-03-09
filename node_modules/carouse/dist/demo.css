@@ -1,0 +1,48 @@
+
+@charset "utf-8";
+@import url("carouse.css");
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	--focus-outline: 2px solid #0ef;
+}
+
+*:focus {
+	outline: var(--focus-outline);
+}
+
+html, body {
+	color: #aaa;
+	background: #222;
+	font-size: 16px;
+}
+
+body > header {
+	padding: 1em;
+	background: #444;
+}
+
+main {
+	padding: 1em;
+	max-width: 800px;
+}
+
+main > * + * {
+	margin-top: 1em;
+}
+
+main a {
+	color: #5af;
+}
+
+carouse-carousel {
+	--focus-outline: 2px solid #0ef;
+	--carouse-slate-bg: rgba(255,255,255, 0.1);
+	--carouse-arrow-size: 4em;
+	--carouse-arrow-bg: rgba(60,60,60, 0.8);
+	--carouse-dotbar-bg: rgba(0,0,0, 0.3);
+	--carouse-dot-size: 0.8em;
+	--carouse-dot-bg: white;
+}

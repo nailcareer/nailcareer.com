@@ -1,0 +1,295 @@
+
+[data-page="academy"] {
+
+	.text {
+		max-width: 28em;
+		> * + * {
+			margin-top: 0.7em;
+		}
+	}
+
+	.sidebyside {
+		display: flex;
+		flex-wrap: wrap-reverse;
+		gap: 1em;
+		> * {
+			flex: 1 1 12em;
+		}
+		.image {
+			img {
+				display: block;
+				width: 100%;
+				object-fit: cover;
+				border: 0.5em white solid;
+				box-shadow: 2px 5px 8px #0002;
+			}
+		}
+		.text {
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+		}
+	}
+
+	.feature {
+		margin-top: 2em;
+	}
+
+	.twosided {
+		width: 100%;
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		gap: 1em;
+		flex-wrap: wrap;
+
+		> * {
+			flex: 1 1 16em;
+		}
+
+		ul {
+			font-size: 1.2em;
+			li {
+				margin-top: 0.5em;
+			}
+		}
+	}
+
+	.welcomeimage {
+		display: block;
+		width: 100%;
+		max-width: 24em;
+		margin: auto;
+		margin-top: 4em;
+		border: 0.5em white solid;
+		box-shadow: 2px 5px 8px #002;
+	}
+
+	.note_coming_soon {
+		font-weight: bold;
+		background: deepskyblue;
+		color: white;
+		text-shadow: 1px 2px 3px #0004;
+		padding: 0 0.5em;
+		border-radius: 0.5em;
+	}
+
+	xiome-store-subscription-catalog {
+		[data-plan-label] {
+			text-align: center;
+		}
+		[data-tiers] {
+			justify-content: center;
+		}
+	}
+
+	xiome-store-subscription-tier {
+		font-size: 1.2em;
+	}
+
+	::part(tier_button_buy) {
+		font-size: 1.2em;
+		background: lime;
+		background: linear-gradient(
+			to bottom,
+			lime,
+			green,
+		);
+		border-color: lime;
+		padding: 0.2em 1em;
+		font-weight: bold;
+		color: white;
+		text-transform: uppercase;
+		font-family: "sans-serif";
+		text-shadow: 1px 2px 1px #0008;
+	}
+
+	[data-academy-page="academy"] {
+		h1 {
+			text-align: center;
+		}
+		xiome-login-panel {
+			max-width: 28em;
+		}
+		xiome-login-panel::part(buttonbar) {
+			text-align: right;
+		}
+		xiome-my-account {
+			display: block;
+			margin: 1em 0;
+		}
+		.nextstep {
+			margin-top: 3em;
+		}
+	}
+
+	[data-academy-page="qa"] {
+		xiome-login-panel {
+			max-width: 28em;
+			margin-bottom: 2em;
+		}
+		xiome-questions {
+			max-width: 100%;
+			--xiome-questions-like-color: #006cff;
+			--xiome-questions-report-color: red;
+			[data-nightlight] & {
+				--xiome-questions-like-color: #67fff8;
+				--xiome-questions-report-color: #f90;
+			}
+			&::part(question-editor) {
+				border-bottom: 0;
+				padding-bottom: 0;
+				margin-bottom: 1em;
+			}
+			&::part(questions-list) {
+				background: #fff8;
+				padding: 1em 0.5em;
+				border-radius: 1em;
+				[data-nightlight] & {
+					background: #27506059;
+				}
+			}
+			&::part(answer) {
+				padding: 1em 0.5em;
+				background: #fff8;
+				border: 3px solid white;
+				box-shadow: 1px 2px 7px #0002;
+				border-radius: 1em;
+				[data-nightlight] & {
+					background: #27506059;
+				}
+			}
+			&::part(bubble) {
+				border: 1px solid #2c675e40;
+				[data-nightlight] & {
+					border-color: #fff4;
+				}
+			}
+		}
+	}
+
+	[data-academy-page="livestream-chat"] {
+		xiome-chat {
+			--xiome-chat-history-height: calc(90vh - 12em);
+		}
+	}
+
+	[data-academy-page="livestream"] {
+		.plate { max-width: unset; }
+		.subnav,
+		.helpboxes {
+			max-width: 48em;
+			margin: auto;
+		}
+		xiome-chat {
+			font-size: 0.7em;
+			--xiome-chat-history-height: 25em;
+		}
+		.live {
+			padding: 0 1em;
+			max-width: 1600px;
+			margin: auto;
+			text-align: left;
+		}
+		.live .boxes {
+			margin-top: 0.5em;
+			width: 100%;
+			display: flex;
+			flex-direction: row;
+			flex-wrap: wrap;
+		}
+		.live .boxes > * {
+			flex: 1 1 16em;
+			padding: 0.5em;
+		}
+		.live .boxes .videobox {
+			flex-grow: 3;
+			flex-basis: 32em;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+		}
+		.live .boxes .videobox img {
+			width: 100%;
+			aspect-ratio: 16 / 9;
+		}
+		.live .boxes .chatbox {
+			display: flex;
+			flex-direction: column;
+			background: #0281;
+			border-radius: 0.5em;
+		}
+		.live .boxes .chatbox > xiome-video-companion {
+			height: 100%;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			xiome-chat {
+				height: 100%;
+			}
+		}
+		.live .boxes .chatbox > xiome-video-companion > * {
+			flex: 1 1 auto;
+		}
+		.live[data-chat="false"] .boxes .chatbox {
+			display: none;
+		}
+		.live .boxes .chatbox iframe {
+			height: 100% !important;
+			width: 100% !important;
+			min-height: 16em;
+		}
+
+		.live .controls {
+			padding: 1em;
+			text-align: center;
+		}
+		.live .controls button {
+			font: inherit;
+			color: currentColor;
+			padding: 0.2em 0.6em;
+			background: transparent;
+			border: 2px solid;
+			border-radius: 5px;
+			cursor: pointer;
+		}
+		.live .controls button:hover {
+			background: #0282;
+		}
+		.helpboxes {
+			display: flex;
+			flex-direction: row;
+			flex: 1 1 16em;
+			flex-wrap: wrap;
+			gap: 1em;
+		}
+		.helpboxes > * {
+			padding: 1em;
+			max-width: 24em;
+		}
+		.helpboxes > * > * + * {
+			margin-top: 0.6em;
+		}
+		.live[data-chat="true"] .help-chat .toggle {
+			display: none;
+		}
+		.help-chat ul {
+			padding-left: 1.5em;
+		}
+		.help-chat ul > li + li {
+			margin-top: 0.5em;
+		}
+	}
+
+	[data-academy-page="admin"] {
+		.feature xiome-login-panel > * {
+			display: block;
+			margin-top: 1em;
+		}
+	}
+}
+
+xiome-video-display::part(iframe) {
+	aspect-ratio: 16 / 9;
+}
