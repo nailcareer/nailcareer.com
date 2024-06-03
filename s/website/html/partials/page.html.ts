@@ -73,6 +73,7 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 										<li>Poland</li>
 										<li>Portugal</li>
 										<li>Romania</li>
+										<li>Seychelles</li>
 										<li>Slovenia</li>
 										<li>South Africa</li>
 										<li>Spain</li>
