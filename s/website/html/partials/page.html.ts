@@ -54,6 +54,7 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 										<li>Canada</li>
 										<li>Croatia</li>
 										<li>Cyprus</li>
+										<li>Czechia</li>
 										<li>Denmark</li>
 										<li>Finland</li>
 										<li>France</li>
