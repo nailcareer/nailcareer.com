@@ -106,6 +106,12 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 		</div>
 	</nce-header>
 
+	<div class=promobox>
+		<a target=_blank href="https://www.eventbrite.ca/e/suzies-3-day-nail-workshop-tickets-950049853687">
+			<img alt="Suzie's Nail Workshop" src="/assets/graphics/promos/009.jpg"/>
+		</a>
+	</div>
+
 	<main>
 		${mainHtml}
 	</main>
