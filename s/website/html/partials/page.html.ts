@@ -39,6 +39,7 @@ export default ({v, mode, pageName, pageSubtitle, headHtml, mainHtml}: NceWebsit
 					<sheep-cart slot=panel require-checkout-terms>
 						<div slot=terms>
 							<h4>Terms</h4>
+							<p>⚠ Shipping is temporarily on hold from September 9th to 24th (2024).</p>
 							<p>Products are for professional use only.</p>
 							<p><strong>Duty Fees may apply (outside Canada).</strong></p>
 							<details>
