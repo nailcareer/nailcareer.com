@@ -1,0 +1,141 @@
+
+body {
+	--sheep-border-radius: 0.2em;
+	--sheep-frame-padding: 0;
+	--sheep-frame-background: transparent;
+}
+
+sheep-cart {
+	[slot="terms"] {
+		* + :is(p, ol, ul, h1, h2, h3, h4, h5, h6, details) {
+			margin-top: 0.7em;
+		}
+
+		details > div {
+			text-align: left;
+
+			.countries {
+				display: flex;
+				flex-wrap: wrap;
+				padding: 0.5em;
+				gap: 0.2em;
+
+				> li {
+					flex: 0 0 auto;
+					border: 1px solid;
+					border-radius: 1em;
+					padding: 0.1em 0.3em;
+					list-style: none;
+				}
+			}
+		}
+	}
+}
+
+:is(sheep-catalog, sheep-cart) {
+	&::part(checkout-button) {
+		background: #84b884;
+	}
+
+	&::part(sale) {
+		color: white;
+		background: #fdaeae;
+		text-shadow: 1px 2px 2px #0004;
+		border-radius: 0.2em;
+	}
+
+	&::part(line-item) {
+		border: 1px solid;
+		border-radius: 0.5em;
+		[data-nightlight] & {
+			border: none;
+			border-radius: 0.1em;
+		}
+	}
+}
+
+sheep-nav {
+	margin-left: auto;
+	padding: 1em;
+}
+
+sheep-search {
+	--highlight: #f45eff;
+
+	&::part(input) {
+		max-width: unset;
+	}
+
+	&::part(tag) {
+		opacity: 0.4;
+	}
+
+	&::part(tag x-active) {
+		opacity: 1;
+		box-shadow: 0 0 1.5em #fff8;
+	}
+}
+
+sheep-catalog {
+	border-radius: 0 0 0.5em 0.5em;
+	padding: 1em;
+	padding-bottom: 5em;
+	text-align: left;
+
+	&::part(card) {
+		background: #fff;
+		padding: 0.5rem;
+		border-radius: 0.2rem;
+		box-shadow: 0.3em 0.4em 1em #0002;
+	}
+
+	&::part(card-img) {
+		border-radius: 0.1rem;
+	}
+
+	&::part(addbutton-button) {
+		background: #77e4ff;
+		color: white;
+		border-radius: 0.2em;
+	}
+
+	&::part(x-select-from-variants-button) {
+		background: #9cbaff;
+		color: white;
+	}
+
+	&::part(x-in-cart) {
+		background: #71c67b;
+		color: white;
+	}
+
+	&::part(x-sold-out-button) {
+		background: #4d5484;
+		color: white;
+	}
+
+	&::part(pills-collection) {
+		display: none;
+	}
+
+	&::part(collection-list-bar) {
+		border-radius: 0.1rem;
+		text-shadow: 0.05em 0.1em 0.01em #0004;
+	}
+
+	&::part(collection-tab-list) {
+		font-size: 0.7em;
+	}
+
+	[data-nightlight] & {
+		&::part(card) {
+			color: white;
+			background: #fff2;
+		}
+
+		&::part(card-title) {
+			color: white;
+		}
+	}
+}
+

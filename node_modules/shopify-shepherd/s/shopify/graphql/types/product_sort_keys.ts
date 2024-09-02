@@ -1,0 +1,13 @@
+
+export type ProductSortKeys = (
+	| "TITLE"
+	| "PRODUCT_TYPE"
+	| "VENDOR"
+	| "UPDATED_AT"
+	| "CREATED_AT"
+	| "BEST_SELLING"
+	| "PRICE"
+	| "ID"
+	| "RELEVANCE"
+)
+
